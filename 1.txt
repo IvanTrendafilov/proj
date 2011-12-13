@@ -1,0 +1,41 @@
+Return-Path: <yusufahmad002@gmail.com> 
+Received: from nm28-vm1.access.bullet.mail.sp2.yahoo.com (nm28-vm1.access.bullet.mail.sp2.yahoo.com [98.139.44.191]) 
+(envelope-from yusufahmad002@gmail.com) 
+Received: from [98.139.44.101] by nm28.access.bullet.mail.sp2.yahoo.com with NNFMP; 22 Nov 2011 10:07:23 -0000 
+Received: from [98.139.44.86] by tm6.access.bullet.mail.sp2.yahoo.com with NNFMP; 22 Nov 2011 10:07:23 -0000 
+Received: from [127.0.0.1] by omp1023.access.mail.sp2.yahoo.com with NNFMP; 22 Nov 2011 10:07:23 -0000 
+X-Yahoo-Newman-Property: ymail-5 
+X-Yahoo-Newman-Id: 296921.28364.bm@omp1023.access.mail.sp2.yahoo.com 
+Received: (qmail 39273 invoked by uid 60001); 22 Nov 2011 10:07:22 -0000 
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1321956442; bh=rEZON5nS0kaV8BNLAyrH3o2F8jiFl4nhO5ATNUXVmrM=; h=X-YMail-OSG:Received:X-RocketYMMF:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=zfkFqaXoqsEjLkJlwdQJKq+BSACBgUa7VZ4IxdfHPCpplpVXb2ACkz1jcOs6TfxKoDIJB+SIJYYNhc5M1ybe/YpTGla 
+Received: from [41.135.213.157] by web181019.mail.ne1.yahoo.com via HTTP; Tue, 22 Nov 2011 02:07:22 PST 
+X-RocketYMMF: web.hyhy44@att.net 
+X-Mailer: YahooMailRC/589 YahooMailWebService/0.8.115.325013 
+Message-ID: <1321956442.21023.YahooMailRC@web181019.mail.ne1.yahoo.com> 
+Date: Tue, 22 Nov 2011 02:07:22 -0800 (PST) 
+From: yusuf ahmad <yusufahmad002@gmail.com> 
+Reply-To: yusuf ahmad <yusufahmad002@gmail.com> 
+Subject: I need your help , Please read the attachment. 
+To: undisclosed recipients: ; 
+MIME-Version: 1.0 
+Content-Type: multipart/mixed; boundary="748302963-280437260-1321956442=:21023" 
+X-Greylist: Default is to whitelist mail, not delayed by milter-greylist-4.2.3 
+
+
+Dear Friend, 
+
+You may be surprise to receive this mail since you don't know me personally, but with due respect, trust and humility, I write to you this proposal. I am Mr. Yusuf Ahmad, the son of Musa Ahmad of Dafur Sudan. It is indeed my pleasure to contact you for assistance of a business venture which I intend to establish in your country. 
+
+I got your contact while I was doing a private research on the Internet for a reliable and capable foreign partner that will assist me and my family to transfer fund to his personal or private account for investment purpose Though I have not met with you before, but considering the recent political instabilities in my country, I believe one has to risk confiding in success sometimes in life. 
+
+There is this huge amount of money (Ten Million U.S dollars) ($10,000,000.00) which my late Father deposited in South African in a private security company and they content was not disclosed, awaiting claim before he was assassinated by unknown persons during this war in Dafur Sudan. Now I have decided to invest this money in your country or anywhere safe for security and political reasons. I want you to help me retrieve this money for onward transfer to any designated bank account of your choice for investment purposes. 
+
+We have to negotiate on what will be offered to you for assisting me to handle this project, I and my family have agreed to offer you 25% of the total sum and 5% will be used to cover all the expenses made both here and in your country while 70% is for my family .Please, read more on the news. www.savedarfur.org 
+
+All I require is your honest & kind co-operation. I will give you further details as soon as you show interest in helping me. You can contact me on ( yusufahmad002@gmail.com ). Phone +27 83 986 8262 
+
+I wait for your kind consideration to my proposal. 
+
+Best Regards, 
+
+Mr. Yusuf Ahmad
