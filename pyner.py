@@ -5,7 +5,6 @@ class pyner(object):
 		self.cmd = 'java -mx700m -cp ../stanford-ner/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ../stanford-ner/classifiers/all.3class.distsim.crf.ser.gz -textFile '
 	def getNames(self, filename):
 		self.currentcmd = self.cmd + filename
-		self.commit = False
 		output = os.popen(self.currentcmd, 'r')
 		out = ""
 		for line in output:
