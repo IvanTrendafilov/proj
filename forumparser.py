@@ -1,3 +1,4 @@
+# remove this junk, use SQLAlchemy and Elixir
 from BeautifulSoup import BeautifulSoup
 import urllib2, sqlite3, time
 class forumparser(object):
