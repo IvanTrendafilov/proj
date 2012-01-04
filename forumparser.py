@@ -17,19 +17,22 @@ class forumparser(object):
 		self.links = []
 
 	def crawl(self):
-		main_page = urllib2.urlopen(self.core_url + self.forum_id)
+		try:
+			main_page = urllib2.urlopen(self.core_url + self.forum_id)
+		except:
+			print self.core_url + self.forum_id
+			print "The hell?"
 		self.cur.execute("SELECT id FROM forum")
 		tmp = self.cur.fetchall()
 		result = []
 		for elem in tmp:
 			result.append(elem[0])
-		print result
 		soup = BeautifulSoup(main_page) 
 		for link in soup.findAll('a', href=True):
 			if 'viewtopic.php' in link['href']:
 				link_short = link['href'].split('&')[0]
 				link_id = link_short.split('=')[1]
-				if not(link_id in result or self.exceptions):
+				if (link_id not in result) and (result not in self.exceptions):
 					self.links.append(link_short)
 		return self.links
 
@@ -48,7 +51,10 @@ class forumparser(object):
 		all_links = set(self.crawl())
 		print "To browse"
 		print all_links
+		count = 0
 		for link in all_links:
+			count += 1
+			print count
 			self.extract(link)
 		self.conn.commit()
 		self.cur.close()
