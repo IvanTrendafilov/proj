@@ -39,13 +39,17 @@ class forumparser(object):
 
 	def extract(self, link):
 		link_id = link.split('=')[1]
-		response = urllib2.urlopen(self.core_url + link)
-		soup = BeautifulSoup(response)
 		try:
-			response = soup.findAll("td", { "class" : "postbody" })[1] # always the 2nd occurance
-			response = ''.join(response.findAll(text=True))
-			self.cur.execute("INSERT INTO forum VALUES (?, ?, ?)", (int(link_id), response, str(time.ctime())))			
-		except IndexError:
+			response = urllib2.urlopen(self.core_url + link)
+			soup = BeautifulSoup(response)
+			try:
+				response = soup.findAll("td", { "class" : "postbody" })[1] # always the 2nd occurance
+				response = ''.join(response.findAll(text=True))
+				self.cur.execute("INSERT INTO forum VALUES (?, ?, ?)", (int(link_id), response, str(time.ctime())))			
+			except IndexError:
+				pass
+		except urllib2.URLError:
+			print "Passing on " + self.core_url + link
 			pass
 
 	def go(self):
@@ -59,3 +63,8 @@ class forumparser(object):
 			self.extract(link)
 		self.conn.commit()
 		self.cur.close()
+
+
+if __name__ == '__main__':
+	parser = forumparser()
+	parser.go()
