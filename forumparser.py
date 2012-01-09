@@ -9,7 +9,7 @@ class forumparser(object):
 		self.cur.close()
 
 	def __init__(self):
-		self.conn = sqlite3.connect('db')
+		self.conn = sqlite3.connect('forum.db')
 		self.cur = self.conn.cursor()
 		self.cur.execute("CREATE TABLE IF NOT EXISTS forum (id INTEGER, email TEXT, date TEXT)")
 		self.core_url = "http://forum.419eater.com/forum/"
@@ -28,12 +28,13 @@ class forumparser(object):
 		result = []
 		for elem in tmp:
 			result.append(elem[0])
+		print result
 		soup = BeautifulSoup(main_page) 
 		for link in soup.findAll('a', href=True):
 			if 'viewtopic.php' in link['href']:
 				link_short = link['href'].split('&')[0]
 				link_id = link_short.split('=')[1]
-				if (link_id not in result) and (result not in self.exceptions):
+				if (int(link_id) not in result) and (int(link_id) not in self.exceptions):
 					self.links.append(link_short)
 		return self.links
 
