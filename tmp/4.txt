@@ -1,0 +1,68 @@
+Received: by 10.220.186.200 with SMTP id ct8cs138147vcb; 
+Tue, 22 Nov 2011 05:58:07 -0800 (PST) 
+Received: by 10.236.181.164 with SMTP id l24mr27796778yhm.22.1321970274799; 
+Tue, 22 Nov 2011 05:57:54 -0800 (PST) 
+Return-Path: <steveloz@optusnet.com.au> 
+Received: from mail01.syd.optusnet.com.au (mail01.syd.optusnet.com.au. [211.29.132.182]) 
+by mx.google.com with ESMTPS id h46si10137652yhk.83.2011.11.22.05.57.23 
+(version=TLSv1/SSLv3 cipher=OTHER); 
+Tue, 22 Nov 2011 05:57:54 -0800 (PST) 
+Received-SPF: pass (google.com: domain of steveloz@optusnet.com.au designates 211.29.132.182 as permitted sender) client-ip=211.29.132.182; 
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of steveloz@optusnet.com.au designates 211.29.132.182 as permitted sender) smtp.mail=steveloz@optusnet.com.au 
+Received: from localhost.localdomain (webmail08.syd.optusnet.com.au [211.29.133.113]) 
+by mail01.syd.optusnet.com.au (8.13.1/8.13.1) with ESMTP id pAMDvLNr023855; 
+Wed, 23 Nov 2011 00:57:21 +1100 
+Message-Id: <201111221357.pAMDvLNr023855@mail01.syd.optusnet.com.au> 
+Content-Type: text/plain 
+Content-Disposition: inline 
+Content-Transfer-Encoding: binary 
+Mime-Version: 1.0 
+X-Mailer: MIME-tools 5.420 (Entity 5.420) 
+Received: from ([41.203.64.130]) by webmail08.syd.optusnet.com.au with 
+http (user=steveloz@optusnet.com.au); Wed, 23 Nov 2011 00:57:21 +1100 
+From: EURO MILLIONS LOTTERY BOARD <steveloz@optusnet.com.au> 
+Date: Wed, 23 Nov 2011 00:57:21 +1100 
+Subject: "End Of Year Promotion Award"
+
+
+
+Quote:
+Ref Number: UK 200-26937 
+Attention: Email Owner, 
+
+We are pleased to notify you once again that your email address 
+won the EuroMillions International Lottery Promotion held for the 
+Month of November 2011, You have therefore been approved to 
+claim 
+the sum of ?1,000,000.00.GBP (One Million Great British Pounds) 
+We are yet to receive your file for Claims.For Due remittance of 
+funds Contact Claims Agent for your claims with Ticket 
+No:8603775966738 
+. 
+Claims Officer contact information listed below: 
+
+*************************************** 
+Claims Agent Name: Mr.James Richard 
+Contact Email: releaseresultsdept06@hotmail.co.uk 
+*************************************** 
+Claims Requirements: 
+
+1.Full Name: 
+2.Residential Address: 
+3.Age: 
+4.Sex: 
+5.Mobil Tel: 
+6.Occupation: 
+7.Country Of Residence: 
+8.Nationality: 
+9.Amount Won: 
+10.Alternative Email : 
+
+Sorry if you received this letter in your spam,Due to recent 
+connection error here in england.sorry for the inconvenience. 
+Congratulations on behalf of British Government Financial 
+Department.Note:Do not click on the reply botton,your response 
+must be sent to: releaseresultsdept06@hotmail.co.uk 
+
+Congratulations!! 
+Mrs.Elizabeth James
