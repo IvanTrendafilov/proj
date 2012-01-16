@@ -2,7 +2,7 @@
 import os, re
 class pyner(object):
 	def __init__(self):
-		self.cmd = 'java -mx700m -cp ../stanford-ner/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ../stanford-ner/classifiers/all.3class.distsim.crf.ser.gz -textFile '
+		self.cmd = 'java -mx700m -cp ../../stanford-ner/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ../stanford-ner/classifiers/all.3class.distsim.crf.ser.gz -textFile '
 	def getNames(self, filename):
 		self.currentcmd = self.cmd + filename
 		output = os.popen(self.currentcmd, 'r')
@@ -29,3 +29,5 @@ class pyner(object):
 					names.append(current_name)
 					current_name = ""
 		return names
+
+
