@@ -5,7 +5,7 @@ class dbconn(object):
 	__metaclass__ = Singleton
 	engine, metadata, classes, identities, statuses, origins, messages, conversations = 0,0,0,0,0,0,0,0
 	
-	def __init__(self, db_location = 'sqlite:////home/fusion/dev/proj/db/main.memory'):
+	def __init__(self, db_location = 'sqlite:////home/fusion/dev/proj/data/main.memory'):
 		self.engine = create_engine(db_location, echo=True) 
 		self.create_schema(self.engine)
 		return

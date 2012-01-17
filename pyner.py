@@ -1,14 +1,15 @@
 # Simple Python wrapper for Stanford NER
 import os, re
-class pyner(object):
+class Pyner(object):
 	def __init__(self):
-		self.cmd = 'java -mx700m -cp ../../stanford-ner/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ../stanford-ner/classifiers/all.3class.distsim.crf.ser.gz -textFile '
+		self.cmd = 'java -mx700m -cp ../stanford-ner/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ../stanford-ner/classifiers/all.3class.distsim.crf.ser.gz -textFile '
 	def getNames(self, filename):
 		self.currentcmd = self.cmd + filename
 		output = os.popen(self.currentcmd, 'r')
 		out = ""
 		for line in output:
 			out += line.strip()
+		output.close()
 		out = out.split()
 		names, count, current_name = [], 0, ""
 		title = re.compile(r"^\s*(mr|mrs|dr|ms|miss)[\.\s]+", flags=re.IGNORECASE)
