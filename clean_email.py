@@ -1,49 +1,134 @@
 import os, re, time
 from pyner import Pyner
-# STEP 1 - Clean up the headers. (Takes the message as a string)
-def stripHeaders(email): 
+# STEP 1 - Clean up useless headers (Takes the message as a string)
+def cleanHeaders(text, full=False): 
 	f = open('clean.tmp','w')
-	f.write(email)
+	f.write(text)
 	f.close()
 	time.sleep(1)
-	pmsg = os.popen('perl -ne \'if (/^\s*$/) {$b=1;} print if (/^(Subject|Date|Reply-To|To|From):/||$b);\' clean.tmp')
+	if not full:
+		pmsg = os.popen('perl -ne \'if (/^\s*$/) {$b=1;} print if (/^(Subject|Reply-To|To|From):/||$b);\' clean.tmp')
+	else:
+		pmsg = os.popen('perl -ne \'if (/^\s*$/) {$b=1;} print if (/^(qwertyu12):/||$b);\' clean.tmp')
 	message = pmsg.read()
 	pmsg.close()
 	os.remove('clean.tmp')
 	return message
 
-# STEP 2 - Named Entity Recognition (Takes the message as a string)
-def recognize(email):
+# STEP 2 - Extract useful headers. (Takes the message as a string)
+def extractHeaders(text):
+	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}')
+	msg_lines = text.split('\r\n')
+	headers = {'Reply-To': None, 'From': None, 'To': None, 'Subject': None}
+	for line in msg_lines:
+		for header in headers:
+			if header in line and headers[header] == None:
+				if header == 'Subject':
+					headers[header] = line.replace('Subject: ','')
+				else:
+					regexp = mailsrch.findall(line)
+					if regexp:
+						headers[header] = regexp[0]
+#	return headers
+	return [(k, v) for k, v in headers.iteritems()]
+
+# STEP 3 - Remove all headers. (Takes the message as a string)
+def removeHeaders(text):
+	return cleanHeaders(text, full=True)
+
+# STEP 4 - Named Entity Recognition (Takes the message as a string)
+def extractNames(text):
 	f = open('ner.tmp','w')
-	f.write(email)
+	f.write(text)
 	f.close()
 	ner = Pyner()
 	result = ner.getNames('ner.tmp')
 	os.remove('ner.tmp')
 	return result
 
-# STEP 3 - Email extraction 
-def getEmails(email, names):
-	result = []
+# STEP 5 - Get all email addresses from the body of the text
+def extractEmails(text):
 	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}') # extract all email addresses
-	email_addr = mailsrch.findall(email)
-	msg_lines = email.split('\r\n')
-	field_replyto, field_from = 0, 0
-	for line in msg_lines:
-		if 'Reply-To' in line:
-			field_replyto = mailsrch.findall(line)[0]
-		if 'From:' in line:
-			field_from = mailsrch.findall(line)[0]
-	if field_replyto == None and field_from != None:
-		result.append(names[-1], field_from, 'Reply-To')
-	if field_replyto != None:
-		result.append(names[-1], field_replyto, 'Reply-To')
-	email_addr = filter (lambda x: x != field_replyto and x != field_from, email_addr)
-	del names[-1]
-		
-	return email_addr
+	return mailsrch.findall(text)
 
-# NEEDS TO BE RETHINKED
+# STEP 6 - Relate email addresses from body to people - does NOT work properly
+#def coupleEntities(email_addr, name, email):
+#	email_addr, name, email = email_addr.lower(), name.lower(), email.lower()
+#	email_addr_index = [x.start() for x in re.finditer(email_addr, email)] # (e.g. 5, 10, 550)
+#	name_index = [x.start() for x in re.finditer(name, text)] # (e.g. 2, 50, 50)
+#	findClose=lambda a,l:min(l,key=lambda x:abs(x-a))
+#	distance = []
+#	for addr in email_addr_index:
+#		distance.append(abs(addr - findClose(addr, name_index)))
+#	return (email_addr, name, min(distance)) 
+
+def getBigrams(string):
+	s = string.lower()
+	return [s[i:i+2] for i in xrange(len(s) - 1)]
+
+def stringSim(str1, str2):
+	pairs1 = getBigrams(str1)
+	pairs2 = getBigrams(str2)
+	union  = len(pairs1) + len(pairs2)
+	hit_count = 0
+	for x in pairs1:
+		for y in pairs2:
+			if x == y: hit_count += 1
+	return (2.0 * hit_count) / union
+
+def rankSim(email_addr, name):
+	name_var = [''.join(name.split())]
+	name_var.extend(name.split())
+	name_var = filter(lambda x: len(x) > 1, name_var)
+	email_var = email_addr.split('@')[0]
+	email_var = filter(lambda x: x.isalpha(), email_var)
+	return max([stringSim(n, email_var) for n in name_var]) 
+
+def computeRanking(email_addrs, names):
+	ranking = {}
+	for email_addr in email_addrs:
+		for name in names:
+			score = rankSim(email_addr, name)
+			if email_addr in ranking:
+				if score > ranking[email_addr][1]:
+					ranking[email_addr] = (name, score)
+			else:
+				ranking[email_addr] = (name, score)						
+	return ranking
+
+def proximitySearch(name, text):
+	text = text.split('\r\n')
+	text = filter(None, text)
+	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}')
+	for i in range(0, len(text)):
+		line = text[i]
+		if name in text[i]:
+			if mailsrch.findall(text[i]):
+				return mailsrch.findall(text[i])[0]
+			if i - 1 < len(text):
+				if mailsrch.findall(text[i+1])
+					return mailsrch.findall(text[i+1])[0]
+			if i > 0:
+				if mailsrch.findall(text[i-1])
+					return mailsrch.findall(text[i-1])[0]
+			if i - 2 < len(text):
+				if mailsrch.findall(text[i+2])
+					return mailsrch.findall(text[i+2])[0]
+			if i > 1:
+				if mailsrch.findall(text[i-2])
+					return mailsrch.findall(text[i-2])[0]
+	return None
+
+def relateEntities(names, emails, text):
+	
+'''
+def closestMatch(email_addr, name, text):
+	text = text.lower()
+	name = name.lower()
+	email_addr = email_addr.lower()
+	email_occur_index = [x.start() for x in re.finditer(email_addr, text)]
+	name_occur_index = [x.start() for x in re.finditer(name, text)]
+
 def closestMatch(email_addr, name, text):
 	text = text.lower()
 	name = name.lower()
@@ -51,8 +136,10 @@ def closestMatch(email_addr, name, text):
 	email_occur_index = [x.start() for x in re.finditer(email_addr, text)]
 	name_occur_index = [x.start() for x in re.finditer(name, text)]
 	findClose=lambda a,l:min(l,key=lambda x:abs(x-a))
+	tmp_max = []
 	for email_occur in email_occur_index:
-		print findClose(email_occur, name_occur_index)
+		tmp_max.append(findClose(email_occur, name_occur_index))
+	print (email_addr, name, max(tmp_max))
 	
 	
 def getEmails(email_as_a_list, names):
@@ -99,9 +186,6 @@ def getEmails(text, ): # takes a list of strings - STEP 3.
 				field_replyto = res
 	return (field_from, field_replyto, all_emails)
 
-# STEP 4 - Remove remaining headers
-# TODO
-
 if __name__ == "__main__":
 	t1 = time.time()
 	text1 = open('../data/1.txt').read()
@@ -109,4 +193,4 @@ if __name__ == "__main__":
 	emails1 = getEmails(text1.split('\r\n'))
 	print text1
 	print emails1
-
+'''
