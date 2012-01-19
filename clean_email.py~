@@ -5,7 +5,7 @@ def cleanHeaders(text, full=False):
 	f = open('clean.tmp','w')
 	f.write(text)
 	f.close()
-	time.sleep(1)
+#	time.sleep(1)
 	if not full:
 		pmsg = os.popen('perl -ne \'if (/^\s*$/) {$b=1;} print if (/^(Subject|Reply-To|To|From):/||$b);\' clean.tmp')
 	else:
@@ -49,7 +49,7 @@ def extractNames(text):
 # STEP 5 - Get all email addresses from the body of the text
 def extractEmails(text):
 	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}') # extract all email addresses
-	return mailsrch.findall(text)
+	return list(set(mailsrch.findall(text)))
 
 # STEP 6 - Relate email addresses from body to people - does NOT work properly
 #def coupleEntities(email_addr, name, email):
@@ -84,8 +84,9 @@ def rankSim(email_addr, name):
 	email_var = filter(lambda x: x.isalpha(), email_var)
 	return max([stringSim(n, email_var) for n in name_var]) 
 
-def computeRanking(email_addrs, names):
+def computeRanking(names, email_addrs):
 	ranking = {}
+	email_addrs = [x.lower() for x in email_addrs]
 	for email_addr in email_addrs:
 		for name in names:
 			score = rankSim(email_addr, name)
@@ -104,22 +105,52 @@ def proximitySearch(name, text):
 		line = text[i]
 		if name in text[i]:
 			if mailsrch.findall(text[i]):
-				return mailsrch.findall(text[i])[0]
-			if i - 1 < len(text):
-				if mailsrch.findall(text[i+1])
-					return mailsrch.findall(text[i+1])[0]
+				return (mailsrch.findall(text[i])[0].lower(), 0)
+			if i + 1 < len(text):
+				if mailsrch.findall(text[i+1]):
+					return (mailsrch.findall(text[i+1])[0].lower(), 1)
 			if i > 0:
-				if mailsrch.findall(text[i-1])
-					return mailsrch.findall(text[i-1])[0]
-			if i - 2 < len(text):
-				if mailsrch.findall(text[i+2])
-					return mailsrch.findall(text[i+2])[0]
+				if mailsrch.findall(text[i-1]):
+					return (mailsrch.findall(text[i-1])[0].lower(), 1)
+			if i + 2 < len(text):
+				if mailsrch.findall(text[i+2]):
+					return (mailsrch.findall(text[i+2])[0].lower(), 2)
 			if i > 1:
-				if mailsrch.findall(text[i-2])
-					return mailsrch.findall(text[i-2])[0]
+				if mailsrch.findall(text[i-2]):
+					return (mailsrch.findall(text[i-2])[0].lower(), 2)
 	return None
 
 def relateEntities(names, emails, text):
+	emails = [x.lower() for x in emails]
+	relations = {}
+	rankings = computeRanking(names, emails)
+	for entity in rankings:
+		if rankings[entity][1] > 0.4:
+			relations[entity] = rankings[entity][0]
+	if relations.values():
+		rels_values = [x[0].lower() for x in relations.values()]
+	else:
+		rels_values = []
+	rels_keys = [x.lower() for x in relations.keys()]
+	names = filter(lambda x: x.lower() not in rels_values, names)
+	emails = filter(lambda x: x.lower() not in rels_keys, emails)
+	proximity_scores = {}
+	if emails:
+		for name in names:
+			email_score = proximitySearch(name, text)
+			if email_score and email_score[0].lower() not in rels_keys:
+				email_addr, score = email_score[0], email_score[1]
+				if email_addr in proximity_scores:
+					if score < proximity_scores[email_addr][1]: #looking for minimal score
+						print name, score
+						proximity_scores[email_addr] = (name, score)
+				else:
+					proximity_scores[email_addr] = (name, score)
+	for email_addr in proximity_scores:
+		relations[email_addr] = proximity_scores[email_addr][0]
+	return relations
+	
+
 '''
 def closestMatch(email_addr, name, text):
 	text = text.lower()
