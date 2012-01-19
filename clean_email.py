@@ -5,7 +5,6 @@ def cleanHeaders(text, full=False):
 	f = open('clean.tmp','w')
 	f.write(text)
 	f.close()
-#	time.sleep(1)
 	if not full:
 		pmsg = os.popen('perl -ne \'if (/^\s*$/) {$b=1;} print if (/^(Subject|Reply-To|To|From):/||$b);\' clean.tmp')
 	else:
@@ -51,17 +50,7 @@ def extractEmails(text):
 	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}') # extract all email addresses
 	return list(set(mailsrch.findall(text)))
 
-# STEP 6 - Relate email addresses from body to people - does NOT work properly
-#def coupleEntities(email_addr, name, email):
-#	email_addr, name, email = email_addr.lower(), name.lower(), email.lower()
-#	email_addr_index = [x.start() for x in re.finditer(email_addr, email)] # (e.g. 5, 10, 550)
-#	name_index = [x.start() for x in re.finditer(name, text)] # (e.g. 2, 50, 50)
-#	findClose=lambda a,l:min(l,key=lambda x:abs(x-a))
-#	distance = []
-#	for addr in email_addr_index:
-#		distance.append(abs(addr - findClose(addr, name_index)))
-#	return (email_addr, name, min(distance)) 
-
+# STEP 6 - Relate email addresses from body to people
 def getBigrams(string):
 	s = string.lower()
 	return [s[i:i+2] for i in xrange(len(s) - 1)]
@@ -150,7 +139,7 @@ def relateEntities(names, emails, text):
 		relations[email_addr] = proximity_scores[email_addr][0]
 	return relations
 	
-# Something to piece it all together....
+# STEP 7 Something to piece the puzzle all together....
 
 
 '''
