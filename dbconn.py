@@ -1,4 +1,3 @@
-from sqlalchemy import create_engine
 from singleton import Singleton	
 from sqlalchemy import create_engine, Table, Column, Integer, String, MetaData, ForeignKey
 class dbconn(object):
@@ -41,11 +40,14 @@ class dbconn(object):
 		)
 		self.messages = Table('messages', self.metadata,
 			Column('msg_id', Integer, primary_key=True), # message ID
-			Column('timestamp', String), # when the MSG was received
+			Column('date', String), # when the MSG was received
 			Column('reply_addr', String), # Reply-To Addr
 			Column('rcpt_addr', String), # Recepient Addr
 			Column('msg_body', String), # Message Body
 			Column('subject', String), # Email subject (if any)
+			Column('reply_first_name', String),
+			Column('reply_last_name', String),
+
 		)
 		self.conversations = Table('conversations', self.metadata,
 			Column('conv_id', Integer, primary_key=True),

@@ -11,6 +11,7 @@ def cleanHeaders(text, full=False):
 		pmsg = os.popen('perl -ne \'if (/^\s*$/) {$b=1;} print if (/^(qwertyu12):/||$b);\' clean.tmp')
 	message = pmsg.read()
 	pmsg.close()
+	os.r
 	os.remove('clean.tmp')
 	return message
 
@@ -91,7 +92,6 @@ def proximitySearch(name, text):
 	text = filter(None, text)
 	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}')
 	for i in range(0, len(text)):
-		line = text[i]
 		if name in text[i]:
 			if mailsrch.findall(text[i]):
 				return (mailsrch.findall(text[i])[0].lower(), 0)
@@ -140,7 +140,17 @@ def relateEntities(names, emails, text):
 	return relations
 	
 # STEP 7 Something to piece the puzzle all together....
-
+# purvo sa relations, koito sme extractnali, sled tova sa reply-to neshtata.
+def extractInfo(orig_text):
+	text = orig_text
+	text = cleanHeaders(text) # this is cleaned from garbage
+	headers = extractHeaders(text)
+	text = removeHeaders(text) # this is stripped from all headers
+	names = extractNames(text) # NER 
+	emails = extractNames(text) # regexp for emails
+	relations = relateEntities(names, emails, text)
+	# produce a list of emails format - (date, reply_addr, rcpt_addr, msg_body, subject, reply_first_name, reply_last_name)
+	return
 
 '''
 def closestMatch(email_addr, name, text):
