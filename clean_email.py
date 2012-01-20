@@ -29,8 +29,8 @@ def extractHeaders(text):
 					regexp = mailsrch.findall(line)
 					if regexp:
 						headers[header] = regexp[0]
-#	return headers
-	return [(k, v) for k, v in headers.iteritems()]
+	return headers
+#	return [(k, v) for k, v in headers.iteritems()]
 
 # STEP 3 - Remove all headers. (Takes the message as a string)
 def removeHeaders(text):
@@ -142,13 +142,26 @@ def relateEntities(names, emails, text):
 # STEP 7 Something to piece the puzzle all together....
 # purvo sa relations, koito sme extractnali, sled tova sa reply-to neshtata.
 def extractInfo(orig_text):
+	# this is broken, needs to be thought out
+	date = time.ctime()
+	generated = []
 	text = orig_text
 	text = cleanHeaders(text) # this is cleaned from garbage
 	headers = extractHeaders(text)
 	text = removeHeaders(text) # this is stripped from all headers
 	names = extractNames(text) # NER 
-	emails = extractNames(text) # regexp for emails
+	emails = extractEmails(text) # regexp for emails
 	relations = relateEntities(names, emails, text)
+	for email in relations:
+		emails = filter(lambda x: x != email, emails)
+		names = filter(lambda x: x != relations[email], names)
+		generated.append((date, email, headers['To'], text, headers['Subject'], " ".join(relations[email].split()[:-1]), relations[email].split()[-1]))
+	for email in emails:
+		if email in headers['Reply-To']:
+			addr = email
+		elif email in headers['From']
+
+
 	# produce a list of emails format - (date, reply_addr, rcpt_addr, msg_body, subject, reply_first_name, reply_last_name)
 	return
 
