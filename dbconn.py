@@ -43,8 +43,8 @@ class dbconn(object):
 			Column('date', String), # when the MSG was received
 			Column('reply_addr', String), # Reply-To Addr
 			Column('rcpt_addr', String), # Recepient Addr
-			Column('msg_body', String), # Message Body
 			Column('subject', String), # Email subject (if any)
+			Column('msg_body', String), # Message Body
 			Column('reply_first_name', String),
 			Column('reply_last_name', String),
 

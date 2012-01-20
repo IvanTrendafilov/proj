@@ -11,7 +11,6 @@ def cleanHeaders(text, full=False):
 		pmsg = os.popen('perl -ne \'if (/^\s*$/) {$b=1;} print if (/^(qwertyu12):/||$b);\' clean.tmp')
 	message = pmsg.read()
 	pmsg.close()
-	os.r
 	os.remove('clean.tmp')
 	return message
 
@@ -23,12 +22,14 @@ def extractHeaders(text):
 	for line in msg_lines:
 		for header in headers:
 			if header in line and headers[header] == None:
-				if header == 'Subject':
-					headers[header] = line.replace('Subject: ','')
-				else:
-					regexp = mailsrch.findall(line)
-					if regexp:
-						headers[header] = regexp[0]
+				if line.strip().index(header) < 2:
+					if header == 'Subject':
+						headers[header] = line.replace('Subject','')
+						headers[header] = headers[header].replace(': ','')
+					else:
+						regexp = mailsrch.findall(line)
+						if regexp:
+							headers[header] = regexp[0]
 	return headers
 #	return [(k, v) for k, v in headers.iteritems()]
 
@@ -131,7 +132,6 @@ def relateEntities(names, emails, text):
 				email_addr, score = email_score[0], email_score[1]
 				if email_addr in proximity_scores:
 					if score < proximity_scores[email_addr][1]: #looking for minimal score
-						print name, score
 						proximity_scores[email_addr] = (name, score)
 				else:
 					proximity_scores[email_addr] = (name, score)
@@ -140,101 +140,48 @@ def relateEntities(names, emails, text):
 	return relations
 	
 # STEP 7 Something to piece the puzzle all together....
-# purvo sa relations, koito sme extractnali, sled tova sa reply-to neshtata.
-def extractInfo(orig_text):
-	# this is broken, needs to be thought out
+def extractInfo(text):
+	messages = []
 	date = time.ctime()
-	generated = []
-	text = orig_text
-	text = cleanHeaders(text) # this is cleaned from garbage
+	text = cleanHeaders(text)
 	headers = extractHeaders(text)
-	text = removeHeaders(text) # this is stripped from all headers
-	names = extractNames(text) # NER 
-	emails = extractEmails(text) # regexp for emails
+	text = removeHeaders(text)
+	names = extractNames(text)
+	unassoc_names = names
+	emails = extractEmails(text)
 	relations = relateEntities(names, emails, text)
 	for email in relations:
 		emails = filter(lambda x: x != email, emails)
-		names = filter(lambda x: x != relations[email], names)
-		generated.append((date, email, headers['To'], text, headers['Subject'], " ".join(relations[email].split()[:-1]), relations[email].split()[-1]))
+		unassoc_names = filter(lambda x: x != relations[email], unassoc_names)
+		msg = dict()
+		msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = date, email, headers['To'], headers['Subject'], text, " ".join(relations[email].split()[:-1]), relations[email].split()[-1]
+		messages.append(msg)
+	email_addr = None
 	for email in emails:
 		if email in headers['Reply-To']:
-			addr = email
-		elif email in headers['From']
-
-
-	# produce a list of emails format - (date, reply_addr, rcpt_addr, msg_body, subject, reply_first_name, reply_last_name)
-	return
-
-'''
-def closestMatch(email_addr, name, text):
-	text = text.lower()
-	name = name.lower()
-	email_addr = email_addr.lower()
-	email_occur_index = [x.start() for x in re.finditer(email_addr, text)]
-	name_occur_index = [x.start() for x in re.finditer(name, text)]
-
-def closestMatch(email_addr, name, text):
-	text = text.lower()
-	name = name.lower()
-	email_addr = email_addr.lower()
-	email_occur_index = [x.start() for x in re.finditer(email_addr, text)]
-	name_occur_index = [x.start() for x in re.finditer(name, text)]
-	findClose=lambda a,l:min(l,key=lambda x:abs(x-a))
-	tmp_max = []
-	for email_occur in email_occur_index:
-		tmp_max.append(findClose(email_occur, name_occur_index))
-	print (email_addr, name, max(tmp_max))
-	
-	
-def getEmails(email_as_a_list, names):
-	result = []
-	email_as_a_list = text
-	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}') # extract all email addresses
-	other_emails, field_from, field_replyto = [], None, None
-	for line in text:
-		res = mailsrch.findall(line)
-#		if res and res[0].split('@')[0].islower():
-		if res:
-			if 'From:' in line:
-				field_from = res
-			elif 'Reply-To' in line:
-				field_replyto = res
+			email_addr = email
+		if email in headers['From'] and not email_addr:
+			email_addr = email
+	if email_addr:
+		if unassoc_names and names:
+			if unassoc_names[-1] == names[-1]:
+				msg = dict()
+				msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = date, email, headers['To'], headers['Subject'], text, " ".join(names[-1].split()[:-1]), names[-1].split()[-1]
+				messages.append(msg)
 			else:
-				other_emails.append(res)
-	for line in text:
-		for name in names:
-			if name in line:
-				for email_addr in other_emails:
-					if email_addr in line:
-						result.append(name, email_addr, 'Other')
+				msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = date, email, headers['To'], headers['Subject'], text, None, None
+				messages.append(msg)
+	return messages
 
-	return result
-			
-
-# relate them to entities -> The generic email finder should be in a class.
-# TODO 
-# Suberi reply-to adresa (ako sushtestvuva, ako ne - FROM) sus from
-# Mahni gi ot bucket-a s NER results. Sled tva, asociirai ostanalite entities s nai-blizkiq rezultat.
-def getEmails(text, ): # takes a list of strings - STEP 3. 
-	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}')
-	all_emails = []
-	field_from = None
-	field_replyto = None
-	for line in text:
-		res = mailsrch.findall(line)
-		if res and res[0].split('@')[0].islower():			
-			all_emails.append(res)
-			if 'from' in line.lower() and len(line.split()) < 10:
-				field_from = res
-			if 'reply-to' in line.lower():
-				field_replyto = res
-	return (field_from, field_replyto, all_emails)
-
-if __name__ == "__main__":
-	t1 = time.time()
-	text1 = open('../data/1.txt').read()
-	text1 = stripHeaders(text1)
-	emails1 = getEmails(text1.split('\r\n'))
-	print text1
-	print emails1
-'''
+def prettyPrint(text):
+	messages = extractInfo(text)
+	for msg in messages:
+		print "\r\n"
+		print "Date:", msg['Date']
+		print "Reply-To:", msg['Reply-To']
+		print "To:", msg['To']
+		print "Subject:", msg['Subject']
+		print "Name:", " ".join([msg['First_name'], msg['Last_name']])
+		print "Body:"
+		print msg['Body']
+	return
