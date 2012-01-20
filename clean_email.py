@@ -17,7 +17,10 @@ def cleanHeaders(text, full=False):
 # STEP 2 - Extract useful headers. (Takes the message as a string)
 def extractHeaders(text):
 	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}')
-	msg_lines = text.split('\r\n')
+	if text.count('\r\n') > 1: # this is Windows 
+		msg_lines = text.split('\r\n')
+	else:
+		msg_lines = text.split('\n') # this is Linux 
 	headers = {'Reply-To': None, 'From': None, 'To': None, 'Subject': None}
 	for line in msg_lines:
 		for header in headers:
@@ -143,30 +146,41 @@ def relateEntities(names, emails, text):
 def extractInfo(text):
 	messages = []
 	date = time.ctime()
-	text = cleanHeaders(text)
-	headers = extractHeaders(text)
-	text = removeHeaders(text)
+	text_with_headers = cleanHeaders(text)
+	headers = extractHeaders(text_with_headers)
+	text = removeHeaders(text_with_headers)
 	names = extractNames(text)
-	unassoc_names = names
 	emails = extractEmails(text)
+	if not emails:
+		if headers['Reply-To']:
+			email_addr = headers['Reply-To']
+		elif headers['From']:
+			email_addr = headers['From']
+		if email_addr:
+			msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'] = {}, date, email_addr, headers['To'], headers['Subject'], text
+			if names:
+				msg['First_name'], msg['Last_name'] = names[-1].split()[:-1], names[-1].split()[-1]
+			else:
+				msg['First_name'], msg['Last_name'] = None, None
+			messages.append(msg)
+		return messages
+	unassoc_names = names
 	relations = relateEntities(names, emails, text)
 	for email in relations:
 		emails = filter(lambda x: x != email, emails)
 		unassoc_names = filter(lambda x: x != relations[email], unassoc_names)
-		msg = dict()
-		msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = date, email, headers['To'], headers['Subject'], text, " ".join(relations[email].split()[:-1]), relations[email].split()[-1]
+		msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = {}, date, email, headers['To'], headers['Subject'], text, " ".join(relations[email].split()[:-1]), relations[email].split()[-1]
 		messages.append(msg)
 	email_addr = None
 	for email in emails:
-		if email in headers['Reply-To']:
+		if email == headers['Reply-To']:
 			email_addr = email
-		if email in headers['From'] and not email_addr:
+		if email == headers['From'] and not email_addr:
 			email_addr = email
 	if email_addr:
 		if unassoc_names and names:
 			if unassoc_names[-1] == names[-1]:
-				msg = dict()
-				msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = date, email, headers['To'], headers['Subject'], text, " ".join(names[-1].split()[:-1]), names[-1].split()[-1]
+				msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = {}, date, email, headers['To'], headers['Subject'], text, " ".join(names[-1].split()[:-1]), names[-1].split()[-1]
 				messages.append(msg)
 			else:
 				msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = date, email, headers['To'], headers['Subject'], text, None, None
@@ -181,7 +195,10 @@ def prettyPrint(text):
 		print "Reply-To:", msg['Reply-To']
 		print "To:", msg['To']
 		print "Subject:", msg['Subject']
-		print "Name:", " ".join([msg['First_name'], msg['Last_name']])
+		try:
+			print "Name:", " ".join([msg['First_name'], msg['Last_name']])
+		except:
+			pass
 		print "Body:"
 		print msg['Body']
 	return
