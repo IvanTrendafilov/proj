@@ -1,17 +1,26 @@
 # remove this junk, use SQLAlchemy and Elixir
 from BeautifulSoup import BeautifulSoup
-import urllib2, sqlite3, time
+import urllib2, time
+def crawl():
+	core_url = "http://forum.419eater.com/forum/"
+	forum_id = "viewforum.php?f=18"
+	page_increment = 0
+	arg_forum =
+	arg_
+	try:
+		current_page = urllib2.urlopen()
+
+
+
+from BeautifulSoup import BeautifulSoup
+import urllib2, time
 class forum(object):
 	def __enter__(self):
 		return self
 
 	def __exit__(self):
-		self.cur.close()
 
 	def __init__(self):
-		self.conn = sqlite3.connect('forum.db')
-		self.cur = self.conn.cursor()
-		self.cur.execute("CREATE TABLE IF NOT EXISTS forum (id INTEGER, email TEXT, date TEXT, class_id INTEGER, class_desc TEXT)")
 		self.core_url = "http://forum.419eater.com/forum/"
 		self.forum_id = "viewforum.php?f=18"
 		self.exceptions = [188427, 105921, 190170] # admin topics
