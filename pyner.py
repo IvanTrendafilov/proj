@@ -1,8 +1,12 @@
 # Simple Python wrapper for Stanford NER
-import os, re
+import os
+import re
+
+
 class Pyner(object):
 	def __init__(self):
 		self.cmd = 'java -mx700m -cp ../stanford-ner/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ../stanford-ner/classifiers/all.3class.distsim.crf.ser.gz -textFile '
+
 	def getNames(self, filename):
 		self.currentcmd = self.cmd + filename
 		output = os.popen(self.currentcmd, 'r')
@@ -15,7 +19,7 @@ class Pyner(object):
 		title = re.compile(r"^\s*(mr|mrs|dr|ms|miss)[\.\s]+", flags=re.IGNORECASE)
 		for element in out:
 			count += 1
-			if element.count('/') == 1:	
+			if element.count('/') == 1:
 				word, tag = element.split('/')
 				if tag == "PERSON" and not current_name:
 					if title.match(word + "."):
@@ -30,5 +34,3 @@ class Pyner(object):
 					names.append(current_name)
 					current_name = ""
 		return names
-
-
