@@ -1,6 +1,6 @@
-# remove this junk, use SQLAlchemy and Elixir
 from BeautifulSoup import BeautifulSoup
 import urllib2
+import os
 
 
 def findLimit():
@@ -86,7 +86,7 @@ def crawlAndWrite(links):
 	for link_id in links:
 		response = crawlPost(link_id)
 		if response:
-			filename = 'data/test/' + link_id + '.txt'
+			filename = os.environ['HOME'] + 'dev/proj/data/test/' + link_id + '.txt'
 			fileh = open(filename, 'w')
 			fileh.write(response)
 	return

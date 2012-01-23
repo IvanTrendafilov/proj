@@ -4,10 +4,17 @@ from clean_email import cleanHeader_heuristic
 
 
 def buildHeaderDB():
-	path = '~/dev/proj/data/test/'
+	path = os.environ['HOME'] + '/dev/proj/data/test/'
 	valid = []
 	invalid = []
-	dictionary = open('headers.txt', 'a')
+	try:
+		dict_read = open(os.environ['HOME'] + '/dev/proj/data/headers.txt', 'r')
+		for line in dict_read:
+			if line not in valid:
+				valid.append(line)
+	except IOError:
+		pass
+	dictionary = open(os.environ['HOME'] + '/dev/proj/data/headers.txt', 'a')
 	count = 0
 	for filename in glob.glob(os.path.join(path, '*.txt')):
 		count += 1

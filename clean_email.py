@@ -272,22 +272,3 @@ def prettyPrint(text):
 		print "Body:"
 		print msg['Body']
 	return
-
-
-def prettyString(text):
-	messages = extractInfo(text)
-	outputList = []
-	for msg in messages:
-		output = ""
-		output += msg['Date'] + os.linesep
-		output += msg['Reply-To'] + os.linesep
-		output += msg['To'] + os.linesep
-		output += msg['Subject'] + os.linesep
-		try:
-			output += "Name:", " ".join([msg['First_name'], msg['Last_name']]) + os.linesep
-		except:
-			pass
-		output += "Body:" + os.linesep
-		output += msg['Body']
-		outputList.append(output)
-	return outputList
