@@ -1,0 +1,29 @@
+Received: by 10.220.168.71 with SMTP id t7cs15791vcy;
+       Sat, 21 Jan 2012 12:18:07 -0800 (PST)
+Received: by 10.68.72.69 with SMTP id b5mr7143851pbv.120.1327177085731;
+       Sat, 21 Jan 2012 12:18:05 -0800 (PST)
+Return-Path: 
+Received: from mail.cirruscomms.com.au (smtp.cirruscomms.com.au. [125.254.64.201])
+       by mx.google.com with ESMTPS id l9si10059982pbi.90.2012.01.21.12.18.04
+       (version=TLSv1/SSLv3 cipher=OTHER);
+       Sat, 21 Jan 2012 12:18:05 -0800 (PST)
+Received-SPF: neutral (google.com: 125.254.64.201 is neither permitted nor denied by best guess record for domain of info@iccpromo.com) client-ip=125.254.64.201;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 125.254.64.201 is neither permitted nor denied by best guess record for domain of info@iccpromo.com) smtp.mail=info@iccpromo.com
+Received: from mail.cirruscomms.com.au (localhost [127.0.0.1] (may be forged))
+	by mail.cirruscomms.com.au (8.13.8/8.13. with ESMTP id q0LKHaJ6005042;
+	Sun, 22 Jan 2012 07:18:02 +1100
+Received: (from apache@localhost)
+	by mail.cirruscomms.com.au (8.13.8/8.13.8/Submit) id q0LJAFDq026860;
+	Sun, 22 Jan 2012 06:10:15 +1100
+X-Authentication-Warning: mail.cirruscomms.com.au: apache set sender to info@iccpromo.com using -f
+Received: from 69.22.172.34
+       (SquirrelMail authenticated user twalk)
+       by webmail.cirruscomms.com.au with HTTP;
+       Sun, 22 Jan 2012 06:10:15 +1100
+Message-ID: <77a55de9b2bb5519a675a1d957177582.squirrel@webmail.cirruscomms.com.au>
+Date: Sun, 22 Jan 2012 06:10:15 +1100
+Subject: 
+From: "ICC CRICKET" 
+Reply-To: iccrketproawd2012@hotmail.co.uk  YOU HAVE WON 1,000,000GBP FROM CRICKET MOBILE 2012 DRAW UK,FOR CLAIMS
+PROVIDE THE FOLLOWING:NAME,ADDRESS,COUNTRY,MOBILE NO,OCCUPATION,AGE,SEND
+YOUR DETAIL TO: iccrketproawd2012@hotmail.co.uk  

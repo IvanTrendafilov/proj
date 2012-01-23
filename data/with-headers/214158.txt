@@ -1,0 +1,65 @@
+
+
+Received: by 10.68.48.39 with SMTP id i7cs21928pbn;
+       Wed, 18 Jan 2012 05:49:12 -0800 (PST)
+Received: by 10.180.109.77 with SMTP id hq13mr31345302wib.7.1326894550631;
+       Wed, 18 Jan 2012 05:49:10 -0800 (PST)
+Return-Path: 
+Received: from nm24-vm7.bullet.mail.ukl.yahoo.com (nm24-vm7.bullet.mail.ukl.yahoo.com. [217.146.176.223])
+       by mx.google.com with SMTP id cx6si15783930wib.15.2012.01.18.05.49.09;
+       Wed, 18 Jan 2012 05:49:10 -0800 (PST)
+Received-SPF: fail (google.com: domain of josehdza@intercable.net does not designate 217.146.176.223 as permitted sender) client-ip=217.146.176.223;
+Authentication-Results: mx.google.com; spf=hardfail (google.com: domain of josehdza@intercable.net does not designate 217.146.176.223 as permitted sender) smtp.mail=josehdza@intercable.net; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [217.146.183.211] by nm24.bullet.mail.ukl.yahoo.com with NNFMP; 18 Jan 2012 13:49:09 -0000
+Received: from [217.146.182.86] by tm4.bullet.mail.ukl.yahoo.com with NNFMP; 18 Jan 2012 13:49:09 -0000
+Received: from [127.0.0.1] by omp1036.mail.ukl.yahoo.com with NNFMP; 18 Jan 2012 13:49:09 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 268427.87607.bm@omp1036.mail.ukl.yahoo.com
+Received: (qmail 64286 invoked by uid 6007); 18 Jan 2012 13:49:09 -0000
+DKIM-Signature: v=1; a=r
+X-Originating-IP: [207.248.54.231]
+Authentication-Results: mta1040.mail.ukl.yahoo.com  from=intercable.net; domainkeys=neutral (no sig);  from=intercable.net; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO apollos02.telumasp.net) (207.248.54.231)
+ by mta1040.mail.ukl.yahoo.com with SMTP; Wed, 18 Jan 2012 13:49:02 +0000
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by apollos02.telumasp.net (Postfix) with ESMTP id 210AD1990B81;
+	Wed, 18 Jan 2012 07:27:50 -0600 (CST)
+Received: from apollos02.telumasp.net ([127.0.0.1])
+by localhost (apollos02.telumasp.net [127.0.0.1]) (amavisd-maia, port 10024)
+with ESMTP id 21388-10; Wed, 18 Jan 2012 07:27:49 -0600 (CST)
+Received: from stor02 (msgstore.telumasp.com [192.168.1.71])
+	by apollos02.telumasp.net (Postfix) with ESMTP id 6CA881990B6F;
+	Wed, 18 Jan 2012 07:27:49 -0600 (CST)
+MIME-version: 1.0
+Content-type: multipart/mixed; boundary="Boundary_(ID_Ls1CZY6Nl9DPa60WWAwzZg)"
+Received: from mmredes.com ([192.168.100.7])
+by msgstore.telumasp.com (Oracle Communications Messaging Exchange Server
+7u4-18.01 64bit (built Jul 15 2010))
+with ESMTP id <0LXZ00KSTXEDO170@msgstore.telumasp.com>; Wed,
+18 Jan 2012 07:27:49 -0600 (CST)
+Received: from [192.168.1.9] (Forwarded-For: 41.138.178.151)
+by manager02.telumasp.com (mshttpd); Wed, 18 Jan 2012 14:27:49 +0100
+From: "josehdza@intercable.net" 
+Reply-to: lewiscampbell2011uk14@hotmail.co.uk
+Message-id: 
+Date: Wed, 18 Jan 2012 14:27:49 +0100
+X-Mailer: Sun Java(tm) System Messenger Express 6.3-5.02 (built Oct 12 2007;
+32bit)
+Content-language: en
+Subject: =?utf-8?Q?BRITISH_NATIONAL_OIL_CORPORATION_GRANT=E2=80=8F?=
+X-Accept-Language: en
+Priority: normal
+To: undisclosed-recipients:;
+
+This is to inform you that your Email ID has just
+been Awarded the sum of Nine Hundred and
+fifty thousand great british pounds in this new
+year grant by the BRITISH NATIONAL OIL
+CORPORATION GRANT.Please verify your
+
+Names....
+Country...
+Contact Number...
+
+BNOC GRANT TEAM
+LEWIS CAMPBELL.

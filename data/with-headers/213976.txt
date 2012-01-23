@@ -1,0 +1,50 @@
+
+
+Viewing Full Header - View message
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on mc3.midcoast.com
+X-Spam-Level: *
+X-Spam-Status: No, score=1.2 required=5.0 tests=FREEMAIL_FROM,FREEMAIL_REPLYTO,
+    FREEMAIL_REPLYTO_END_DIGIT,HTML_MESSAGE,RCVD_IN_DNSWL_NONE,T_RP_MATCHES_RCVD
+    shortcircuit=no autolearn=disabled version=3.3.2
+X-Original-To: 
+Received: from localhost (localhost [127.0.0.1])
+    by mc3.midcoast.com (Postfix) with ESMTP id BE110F455B
+    for ; Sun, 15 Jan 2012 10:48:33 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at midcoast.com
+Received: from mc3.midcoast.com ([127.0.0.1])
+    by localhost (mc3.midcoast.com [127.0.0.1]) (amavisd-new, port 10024)
+    with ESMTP id 2u8gIvWdAwnF for ;
+    Sun, 15 Jan 2012 10:48:33 -0500 (EST)
+Received: from nm7-vm4.bullet.mail.ne1.yahoo.com (nm7-vm4.bullet.mail.ne1.yahoo.com [98.138.91.167])
+    by mc3.midcoast.com (Postfix) with SMTP id 71D81F3862
+    for ; Sun, 15 Jan 2012 10:48:29 -0500 (EST)
+Received: from [98.138.90.51] by nm7.bullet.mail.ne1.yahoo.com with NNFMP; 15 Jan 2012 15:48:28 -0000
+Received: from [98.138.87.8] by tm4.bullet.mail.ne1.yahoo.com with NNFMP; 15 Jan 2012 15:48:28 -0000
+Received: from [127.0.0.1] by omp1008.mail.ne1.yahoo.com with NNFMP; 15 Jan 2012 15:48:28 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 697626.80418.bm@omp1008.mail.ne1.yahoo.com
+Received: (qmail 78644 invoked by uid 60001); 15 Jan 2012 15:48:28 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1326642508; bh=zX4VWRSbxu/3YWFVQMjXDSSiwu1ieMg6HUpZ4fimVoU=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; /vgdlDOUvvsvY46fcT8m+UQE2Edk4+Xd64Z7g=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+    s=s1024; d=yahoo.com;
+    h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+    b=l/hXc7XPtF35qU+3yvr2jZxTlSxxLh2ORCqU/
+Received: from [41.82.133.245] by web120906.mail.ne1.yahoo.com via HTTP; Sun, 15 Jan 2012 07:48:28 PST
+X-Mailer: YahooMailClassic/15.0.4 YahooMailWebService/0.8.116.331537
+Message-ID: <1326642508.76271.YahooMailClassic@web120906.mail.ne1.yahoo.com>
+Date: Sun, 15 Jan 2012 07:48:28 -0800 (PST)
+From: Jenifer Khalifa 
+Reply-To: monicaoneil55@yahoo.com
+Subject: HI
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1260837014-290283751-1326642508=:76271"
+Hello Dear,
+My name is monica. I got your contact today at and i become interested to knowing
+you and be your friend please i will like you to contact me back through my email so
+that we can know each other better i will also tell you more about my self in my
+mail box i hope to hear from you
+monica
+
+  

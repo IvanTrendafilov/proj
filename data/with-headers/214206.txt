@@ -1,0 +1,41 @@
+
+
+Return-Path: 
+Received: from mail-tul01m020-f177.google.com (mail-tul01m020-f177.google.com [209.85.214.177])
+       (envelope-from ayo.bungo@gmail.com)
+Received: by obcuz6 with SMTP id uz6so891692obc.22
+       for ; Fri, 20 Jan 2012 02:54:36 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=gmail.com; s=gamma;
+       h=mime-version:reply-to:sender:date:x-google-sender-auth:message-id
+        :subject:from:to:content-type;
+       bh=Nj0RuaHq1Y+8T/41dFOK7rqYIg27jpjZ3qJxmmfwcgk=;
+       b=I+AIFGMYg3unZBVp2PmtKqPbZunh5o3t83nXEon1YRnAy3Z8C1SxFxXfLgnQGTheQW
+        a33pG9xLb81mEQ14qQ9AWVVAVYXlPr3vjUQdV6eU2AI2YlK415lwgPjO0GV28/JS23It
+        0AwGvx3HREdLz42XjCpGzvOv7Ecd4wUqn4y1Y=
+MIME-Version: 1.0
+Received: by 10.50.180.138 with SMTP id do10mr32562947igc.20.1327056865739;
+Fri, 20 Jan 2012 02:54:25 -0800 (PST)
+Reply-To: aliyah.wahidd@yahoo.com
+Sender: ayo.bungo@gmail.com
+Received: by 10.231.55.102 with HTTP; Fri, 20 Jan 2012 02:54:25 -0800 (PST)
+Date: Fri, 20 Jan 2012 10:54:25 +0000
+X-Google-Sender-Auth: PtSFXntaWYmBFQiru3N3ymBDWIE
+Message-ID: 
+Subject: MISS ALIYAH
+From: MISS ALIYAH WAHID 
+To: undisclosed-recipients:;
+Content-Type: multipart/mixed; boundary=14dae934060b14473104b6f38172
+X-Greylist: Default is to whitelist mail, not delayed by milter-greylist-4.2.3 
+
+--14dae934060b14473104b6f38172
+Content-Type: multipart/alternative; boundary=14dae934060b14472504b6f38170
+
+--14dae934060b14472504b6f38170
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi am Aliyah, hope to be friends.
+
+Aliyah
+
+[she inclosed a photo, its not included]

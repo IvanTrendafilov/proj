@@ -1,0 +1,44 @@
+
+
+RE Please i need your help from Miss Rose Guei.
+Monday, January 2, 2012 8:19 AM
+From Rose Guei Mon Jan 2 06:19:29 2012
+X-Apparently-To: 		 via 67.195.15.110; Mon, 02 Jan 2012 06:19:32 -0800
+Return-Path: 		
+Received-SPF: 		softfail (transitioning domain of live.fr does not designate 77.238.189.197 as permitted sender) R3VlaS4KCk15IERlYXJlc3QgT25lLEkgYW0gTWlzcyBSb3NlIEd1ZWksIGkg bmVlZCB5b3UgdG8gc3RhbmQgYXMgbXkgZ3VhcmRpYW4gdG8gcmV0cmlldmUg bXkgaW5oZXJpdGFuY2UgKFVTICQ4IE1pbGxpb25zIERvbGxhcnMpIHdoaWNo IEkgaW5oZXJpdGVkIGZyb20gbXkgZmF0aGVyIGhlcmUgaW4gQ290ZSBEJ0l2 b2lyZSBiZWZvcmUgaGlzIGFzc2FzaW5hdGlvbiBmb3IgcmVhc29ucwEwAQEB AQ--
+X-YMailISG: 		q5fv.7EWLDuH7ITKgAYg30LSrosAWs3a_MYDzLLrrlfzphnC jBIShx_dHr6kKRcBIqPnhr2lkwqxhCtfEePKypNbTWhkDQSR_xaWICbu0yL8 T_g90AXwXhgACrTEdK74OWObhu.ocrQ8jOG57.8u0BhuSbQiOMg9sshBMjpl RxPgqb.KPxfzmj158IprWNyKdVkR00BQnCTpSNJgJhO6Jcv6ofAvfyKqVg3B IUywDBgMK1A1cXsOgo9KMoI0whKXc3f.ii3svhQDLZ0l7yvM3qcOrDYLLgfZ cdnUqOSSsvj3IbDvwWIs2rFFwUSG1b0W913SmOjW8dCcsdFsk1ynPx3Rp1Dj PCRqauHK8eIHMAzm27SImJPaDjlK
+X-Originating-IP: 		[77.238.189.197]
+Authentication-Results: 		mta1015.sbc.mail.mud.yahoo.com from=live.fr; domainkeys=neutral (no sig); from=yahoo.com; dkim=pass (ok)
+Received: 		from 66.181.24.117 (EHLO fgateway14.isp.att.net) (207.115.11.44) by mta1015.sbc.mail.mud.yahoo.com with SMTP; Mon, 02 Jan 2012 06:19:31 -0800
+Received: 		from nm9-vm0.bullet.mail.ird.yahoo.com ([77.238.189.197]) by att.net (frfwmxc14) with SMTP id <20120102141930f1400cgpoee>; Mon, 2 Jan 2012 14:19:30 +0000
+X-Originating-IP: 		[77.238.189.197]
+Received: 		from [77.238.189.54] by nm9.bullet.mail.ird.yahoo.com with NNFMP; 02 Jan 2012 14:19:29 -0000
+Received: 		from [212.82.108.245] by tm7.bullet.mail.ird.yahoo.com with NNFMP; 02 Jan 2012 14:19:29 -0000
+Received: 		from [127.0.0.1] by omp1010.mail.ird.yahoo.com with NNFMP; 02 Jan 2012 14:19:29 -0000
+X-Yahoo-Newman-Property: 		ymail-3
+X-Yahoo-Newman-Id: 		596185.81539.bm@omp1010.mail.ird.yahoo.com
+Received: 		(qmail 89219 invoked by uid 60001); 2 Jan 2012 14:19:29 -0000
+DKIM-Signature: 		v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1325513969; bh=/Z7xjXWBNAIJwnQxpQhMPF4kWIslw/Hc7TIWI4fAdKo=; h=X-YMail-OSG:Received:X-RocketYMMF:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=c7Gzd5ubCQ6DhdX9LPcm8x0b5x9mniss+Hr6qABbfKnTcw93heWzClu9syb/LriGLTmUrxomGMfe7Nqxw32RlEjXWV++59N6QJU37qVlN/biwrQs0gXjAWUbrZGezL4MnQ5twA33UQx2hXs7zdbaN7au/4LVGnfoLRiE/gjQoNI=
+X-YMail-OSG: 		jZj1YwMVM1nqanPNiB9CvTIySICHSnHlVxTKHrmJNGu8_wU J0suBmIX_FKKawF52M0ErLzNjhxaLE4ZavKCSeNgobGe.a0kNIc6tXlnjylw 9ImXu1DhFBvXMBQet9GaQSG6aC_oQN5OGZS7UsGL0JcmlBrG.dnyprb639ok MmTNrtsQtl2QwHx8FUQtYDPHX8Yyt9GcAOb9kYA0rwBlHZBhLjZx1alpT_vy t2nSYrGipxQExukfyraKixEvyyC_sNGhJd1rIdWwFFlrRtuLNL5qtzrc4f8P wCX2jZ6dkbqA629EjEIuirXec_EKJRUa0S2PqJrqmyFr__lYT_CwFAMjonk7 _WonKxXT7qVO7t7yo1Cprln1B.SHK_YdB0WuKSyoAl.czE3eBSdMzAIyoj1i rf65FLJRY6iClGFxWUpUE._hC1tS8hJfeWJNwdiD9Mr9ePm52TwYaD3bYhye fRNjwJGGcqDFDYv02Eo8UgyPJk.n5tsGh7wXazjuNcGfsrKIB7yM-
+Received: 		from [41.207.209.73] by web24701.mail.ird.yahoo.com via HTTP; Mon, 02 Jan 2012 14:19:29 GMT
+X-Mailer: 		YahooMailClassic/15.0.4 YahooMailWebService/0.8.115.331698
+Message-ID: 		<1325513969.87895.YahooMailClassic@web24701.mail.ird.yahoo.com>
+Date: 		Mon, 2 Jan 2012 14:19:29 +0000 (GMT)
+From: 		
+Rose Guei   
+Add sender to Contacts
+Reply-To: 		roseguei_ci@hotmail.fr
+Subject: 		RE Please i need your help from Miss Rose Guei.
+To: 		undisclosed recipients: ;
+MIME-Version: 		1.0
+Content-Type: 		multipart/alternative; boundary="-1029030849-1357358024-1325513969=:87895"
+Content-Length: 		1277
+Compact Headers
+
+Please i need your help from Miss Rose Guei.
+My Dearest One,I am Miss Rose Guei, i need you to stand as my guardian to retrieve my inheritance (US $8 Millions Dollars) which I inherited from my father here in Cote D'Ivoire before his assasination for reasons which I will let you know as soon as I hear from you.
+
+Waiting to hear from you my dear one.
+
+Yours Sincerely
+Miss Rose Guei.

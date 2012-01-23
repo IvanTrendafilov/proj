@@ -1,0 +1,51 @@
+
+
+Alluvial gold dust/bar.
+Friday, January 13, 2012 9:34 AM
+From Peter Addo Fri Jan 13 15:34:39 2012
+X-Apparently-To: 		 via 67.195.15.108; Fri, 13 Jan 2012 07:35:54 -0800
+Return-Path: 		
+Received-SPF: 		pass (domain of gmail.com designates 209.85.215.67 as permitted sender) aXRpbmcgdG8gaW5xdWlyZSBpZiB5b3UgYnV5IGFsbHV2aWFsIEdvbGQgZHVz dC5JIGFtIGZyb20gR2hhbmEgYW5kIHdlIGhhdmUgR29sZCBmYXJtIHdlIGFy ZSBmYXJtaW5nIHdpdGggbXkgd29ya2VycyBpbiB0aGUgbWluaW5nLEkgd2Fu dCB0byBrbm93IGlmIHlvdSBjYW4gb3IgZ2V0IG1lIGEgYnV5ZXIgdGhhdCBi dXlzIGluIGxhcmdlIHF1YW50aXRpZXMsCgpERVNDUklQVElPTgEwAQEBAQ--
+X-YMailISG: 		Z3njNwQWLDsU_MFR20MnOAZs2Q1GZpjjdwdYczAIY_GzTgAa 5_QtrltzEZ0uRI4iJqohdN8rwGLk1Ux5wOB_BOVgk_tRRkFHqfOS7_ccRHwc smpMuJCOHpdfQk7BeAoIGFNGv6mIjSsjvAJ2Gy2Z186MDOwi7Hjnkpv9NBsr AKyaDgRYBeRSDWGeBZ5qAYYAFoe.vynjgu.m9y_DBbX0RvJtOuQEXHZY_7wK P1VI0ys_XXCrC_M0tiXaj7Q6qW.VRNXjv_TkIgYDgttVRVe4q3acupbKUznQ zFcnAxYSfPjieCokyIuKWNtc_JAOYaIM7wdBXtsThg3h.kRq3T6y_EkxRGma XJWIF1r2TChTSdJIdCATxIXmw4w8K8pGNWi0JYGSIWgQyK.c.asgNO3UB129 PGkg
+X-Originating-IP: 		[209.85.215.67]
+Authentication-Results: 		mta1007.sbc.mail.sp1.yahoo.com from=gmail.com; domainkeys=neutral (no sig); from=gmail.com; dkim=pass (ok)
+Received: 		from 204.127.208.81 (EHLO sccwmxc01.att.net) (204.127.208.81) by mta1007.sbc.mail.sp1.yahoo.com with SMTP; Fri, 13 Jan 2012 07:35:54 -0800
+Received: 		from mail-lpp01m010-f67.google.com ([209.85.215.67]) by att.net (sccwmxc01) with SMTP id <20120113153553s01004l2gge>; Fri, 13 Jan 2012 15:35:53 +0000
+X-Originating-IP: 		[209.85.215.67]
+Received: 		by lagu2 with SMTP id u2so84159lag.6 for ; Fri, 13 Jan 2012 07:35:52 -0800 (PST)
+DKIM-Signature: 		v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma; h=mime-version:reply-to:date:message-id:subject:from:to:content-type; bh=lViBYShJFuIdcXhqp6B5aJN2EIeG9ByHaDwLj5rC1LU=; b=TVXWFvl5q0/kdr4bKIk5eCx3uFf60zV+Z5TXEtI0nuq4mXW/HUOI3UP59R5ASnWOPx MvTq3rxA62GNL7OYFJBbIWnw66PvxyeVR23Ihj46CVqiIMU0vJCvmCI8CRASmqSZdzSf NathqtQCxCV22PFONeKQqrVC8Ep7RXCjm1Wr0=
+MIME-Version: 		1.0
+Received: 		by 10.112.83.133 with SMTP id q5mr374680lby.27.1326468879514; Fri, 13 Jan 2012 07:34:39 -0800 (PST)
+Received: 		by 10.152.128.196 with HTTP; Fri, 13 Jan 2012 07:34:39 -0800 (PST)
+Reply-To: 		mrpeteraddo1@gmail.com
+Date: 		Fri, 13 Jan 2012 15:34:39 +0000
+Message-ID: 		
+Subject: 		Alluvial gold dust/bar.
+From: 		
+Peter Addo   
+Add sender to Contacts
+To: 		ralphopara1@gmail.com
+Bcc: 		carcar@worldnet.att.net
+Content-Type: 		multipart/alternative; boundary=f46d04016c2d5e976204b66a9a0a
+Content-Length: 		1628
+Compact Headers
+
+-- 
+
+Attn Sir,
+
+How are you sir,i am writing to inquire if you buy alluvial Gold dust.I am from Ghana and we have Gold farm we are farming with my workers in the mining,I want to know if you can or get me a buyer that buys in large quantities,
+
+DESCRIPTION OF OUR PRODUCT:
+Alluvial gold dust/bar.
+QUALITY: 22. + Carats
+PRICE: US$33,000 per kilo.
+ORIGIN: Ghana West Africa
+PURITY: 93%.
+FINENESS: 99.99%.
+PAYMENT IS NEGOTIABLE BETWEEN BOTH PARTIES.
+
+If you are interested kindly respond so that we can proceed with our F.C.O.
+
+Best Regard,
+Mr. Peter Addo.

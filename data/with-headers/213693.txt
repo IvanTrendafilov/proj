@@ -1,0 +1,48 @@
+
+
+Received: by 10.68.48.39 with SMTP id i7cs9839pbn;
+       Sat, 7 Jan 2012 04:20:18 -0800 (PST)
+Received: by 10.216.139.140 with SMTP id c12mr4363053wej.26.1325938816579;
+       Sat, 07 Jan 2012 04:20:16 -0800 (PST)
+Return-Path: 
+Received: from nm5.bullet.mail.ukl.yahoo.com (nm5.bullet.mail.ukl.yahoo.com. [217.146.182.226])
+       by mx.google.com with SMTP id k4si30190234weq.22.2012.01.07.04.20.15;
+       Sat, 07 Jan 2012 04:20:16 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning mr.davi_-010@msn.com does not designate 217.146.182.226 as permitted sender) client-ip=217.146.182.226;
+Authentication-Results: mx.google.com; spf=softfail (google.com: domain of transitioning mr.davi_-010@msn.com does not designate 217.146.182.226 as permitted sender) smtp.mail=mr.davi_-010@msn.com; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [217.146.183.210] by nm5.bullet.mail.ukl.yahoo.com with NNFMP; 07 Jan 2012 12:20:15 -0000
+Received: from [217.146.183.178] by tm3.bullet.mail.ukl.yahoo.com with NNFMP; 07 Jan 2012 12:20:15 -0000
+Received: from [127.0.0.1] by omp1019.mail.ukl.yahoo.com with NNFMP; 07 Jan 2012 12:20:15 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 345605.89513.bm@omp1019.mail.ukl.yahoo.com
+Received: (qmail 19595 invoked by uid 6007); 7 Jan 2012 12:20:15 -0000
+DKIM-Signature: v=1; a=rsa-sha256; 
+X-Originating-IP: [65.55.111.110]
+Authentication-Results: mta1008.mail.ukl.yahoo.com  from=msn.com; domainkeys=neutral (no sig);  from=msn.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO blu0-omc2-s35.blu0.hotmail.com) (65.55.111.110)
+ by mta1008.mail.ukl.yahoo.com with SMTP; Sat, 07 Jan 2012 12:20:08 +0000
+Received: from BLU0-SMTP143 ([65.55.111.73]) by blu0-omc2-s35.blu0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Sat, 7 Jan 2012 04:20:07 -0800
+X-Originating-IP: [212.52.153.120]
+X-Originating-Email: [mr.davi_-010@msn.com]
+Message-ID: 
+Return-Path: mr.davi_-010@msn.com
+Received: from user-3d8334097b ([212.52.153.120]) by BLU0-SMTP143.phx.gbl over TLS secured channel with Microsoft SMTPSVC(6.0.3790.4675);
+	 Sat, 7 Jan 2012 04:20:06 -0800
+From: mr davi 
+To: "." <.>
+X-Mailer: Barca Pro 2.8 (4400) - EXPIRED EVALUATION VERSION
+X-URL: http://www.pocomail.com/
+Reply-To: mr.davi0001@gmail.com
+Date: Sat, 7 Jan 2012 12:17:44 +0000
+Subject: Confidential Respond.
+
+Good day!
+
+I am Mr Davi director auditing and accounting department" bank of Africa (boa) Ouagadougou, Burkina Faso .I discovered the sum of seven million, two hundred thousand dollars (usd7.2) belonging to a deceased customer of this bank the fund has been lying in a suspense account without anybody coming to put claim over the money since the account owner late, Mr Salla khat from Lebanese who was involved in the December 28th 2006 Benin car crash.
+
+it is therefore, upon this discovery that i decided to take this ultimatum and make this business proposal to you as the fund will be release to you as the next of kin or relation to the deceased for safety and subsequent disbursement since nobody is coming for it and i don't want this money to go into the bank treasury as unclaimed bill the banking rules here stipulates that if such money remained unclaimed after five years, the money will be transferred into the bank treasury as unclaimed fund. The request of foreigner as next of kin in this business is occasioned by the fact that the deceased customer was a foreigner and a Burkina be cannot stand as next of kin to a foreigner.
+
+Therefore, I am soliciting for your assistance to come forward as the next of kin. I have agreed that 40% of this money will be for you as the beneficiary respect of the provision of your account and service rendered, 60% will be for me. Then immediately the money transferred to your account from this bank, I will proceed to your country for the sharing of the fund. Call me through my telephone number: +226 75376152.
+
+Yours faithful,

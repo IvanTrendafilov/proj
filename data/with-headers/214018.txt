@@ -1,0 +1,64 @@
+
+
+Received: by 10.68.48.39 with SMTP id i7cs321790pbn;
+       Fri, 13 Jan 2012 12:09:22 -0800 (PST)
+Received: by 10.68.122.198 with SMTP id lu6mr4196206pbb.92.1326485360883;
+       Fri, 13 Jan 2012 12:09:20 -0800 (PST)
+Return-Path: 
+Received: from nm14-vm0.bullet.mail.ird.yahoo.com (nm14-vm0.bullet.mail.ird.yahoo.com. [77.238.189.193])
+       by mx.google.com with SMTP id e9si13438167pbt.166.2012.01.13.12.09.19;
+       Fri, 13 Jan 2012 12:09:20 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning mahmood.ibrahim4@sify.com does not designate 77.238.189.193 as permitted sender) client-ip=77.238.189.193;
+Authentication-Results: mx.google.com; spf=softfail (google.com: domain of transitioning mahmood.ibrahim4@sify.com does not designate 77.238.189.193 as permitted sender) smtp.mail=mahmood.ibrahim4@sify.com; dkim=hardfail (test mode) header.i=@yahoo.com
+Received: from [77.238.189.51] by nm14.bullet.mail.ird.yahoo.com with NNFMP; 13 Jan 2012 20:09:19 -0000
+Received: from [212.82.108.119] by tm4.bullet.mail.ird.yahoo.com with NNFMP; 13 Jan 2012 20:09:19 -0000
+Received: from [127.0.0.1] by omp1028.mail.ird.yahoo.com with NNFMP; 13 Jan 2012 20:09:18 -0000
+Received: (qmail 38965 invoked by uid 6007);
+Return-Path: 
+X-YahooFilteredBulk: 98.139.52.200
+X-Originating-IP: [98.139.52.200]
+Authentication-Results: mta1055.mail.ird.yahoo.com  from=sify.com; domainkeys=neutral (no sig);  from=yahoo.com; dkim=pass (ok)
+Received: from 127.0.0.1  (HELO nm3.bullet.mail.ac4.yahoo.com) (98.139.52.200)
+ by mta1055.mail.ird.yahoo.com with SMTP; Fri, 13 Jan 2012 20:09:18 +0000
+Received: from [98.139.52.188] by nm3.bullet.mail.ac4.yahoo.com with NNFMP; 13 Jan 2012 20:09:18 -0000
+Received: from [98.139.52.133] by tm1.bullet.mail.ac4.yahoo.com with NNFMP; 13 Jan 2012 20:09:17 -0000
+Received: from [127.0.0.1] by omp1016.mail.ac4.yahoo.com with NNFMP; 13 Jan 2012 20:09:17 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 857420.15367.bm@omp1016.mail.ac4.yahoo.com
+Received: (qmail 18509 invoked by uid 60001); 13 Jan 2012 20:09:17 -0000
+DKIM-Signature: v=1; a=rsa-sha256;
+Received: from [41.203.230.251] by web161702.mail.bf1.yahoo.com via HTTP; Fri, 13 Jan 2012 12:09:17 PST
+X-Mailer: YahooMailClassic/15.0.4 YahooMailWebService/0.8.115.331698
+Message-ID: <1326485357.12922.YahooMailClassic@web161702.mail.bf1.yahoo.com>
+Date: Fri, 13 Jan 2012 12:09:17 -0800 (PST)
+From: mahmood ibrahim 
+Reply-To: mahmoodibrahim45@gmail.com
+Subject: From Mr Mahmood IBRAHIM
+To: undisclosed recipients: ;
+
+From Mr Mahmood IBRAHIM
+PLEASE REPLY ME IMMEDIATELY.
+Dear Good Friend,
+
+How are you together with your family members? I think all is well. Despite the fact that I did not know you in person or have i seen you before but due to the reliable revelation,I decided to share this lucrative opportunity with you, I have no other choice, so kindly consider this message as vital, believing that sooner or later we will be multi millonaires,
+
+First and formost, I have to introduce myself to you. I am Mr Mahmood IBRAHIM, THE FOREIGN OPERATIONS MANAGER OF OUR BANK here in my country, BURKINA FASO WEST AFRICA. I am married with two children.
+
+I want you to assist me in other to transfer the sum of TWENTYT  FIVE,MILLION AND  FIVE  HUNDRED THOUSAND UNITED STATE DOLLARS CURRENCY ($25.500,000.00) into your reliable account as the Next of Kin to our Foreign Business partner , the original owner of the fund. He was a foreigner and a company holder who died in a plane crash with his family years ago, he deposited the fund in our bank for his business expansion in Africa unfortunately he met this sudden and untimely death and the worst thing that happened was the wife who suppose to be the successor of the account died along with him.
+
+Since the deceased left no body behind to claim the fund, as a foreigner, you are in better position for that, and no body have come for the claim, after you have applied.If you are ready to assist me, set up a new bank account or forward to me any one available so that the process will commence .
+
+I will guide you on how you should apply for the claim so that everything will be smooth and correct. After the transfer, I will resign and come over to your country for the sharing of the fund 50/50 base on the fact that it is two man business.
+
+Finally, note that you are not taking any risk because there will be a legal back up as we commence.
+Further information will be given to you as soon as I receive your reply.
+
+Fill this information
+
+Your Full Names........................
+Mailing Address ........................
+Phone Number .........................
+Age...........................................
+Occupation................................
+Sincerely,
+Mr Mahmood IBRAHIM

@@ -1,0 +1,97 @@
+
+
+Return-path: 
+Envelope-to: 
+Delivery-date: Tue, 17 Jan 2012 08:32:58 -0800
+Received: from redtide.pasco.k12.fl.us ([199.164.64.70])
+	by  with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.69)
+	(envelope-from )
+	id 1RnBxx-0005WE-QZ
+	for ; Tue, 17 Jan 2012 08:32:58 -0800
+Received: from grouper.pasco.k12.fl.us (grouper.pasco.k12.fl.us [199.164.64.10])
+	by redtide.pasco.k12.fl.us (8.13.8/8.13. with ESMTP id q0HGVrl7008495
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO);
+	Tue, 17 Jan 2012 11:31:54 -0500
+Received: from Debug (medfly.pasco.k12.fl.us [199.164.64.6])
+	by grouper.pasco.k12.fl.us (8.14.4/8.14.4) with SMTP id q0HGVlF0074364;
+	Tue, 17 Jan 2012 11:31:47 -0500
+Message-Id: <201201171631.q0HGVlF0074364@grouper.pasco.k12.fl.us>
+To: 
+From: co-operative@live.com
+Subject:   LOAN OFFER 3% RATE
+Date: Tue, 17 Jan 2012 16:31:53 GMT
+X-Posting-IP: 196.46.245.42
+X-Mailer: Endymion MailMan Standard Edition v3.2.18
+X-Virus-Scanned: clamav-milter 0.97 at redtide.pasco.k12.fl.us
+X-Virus-Status: Clean
+X-Spam-Subject: ***SPAM*** LOAN OFFER 3% RATE
+X-Spam-Status: Yes, score=11.8
+X-Spam-Score: 118
+X-Spam-Bar: +++++++++++
+X-Spam-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Welcome to CO-OPERATIVES FINANCIAL INVESTMENTS as part of
+	its welfare package is offering a floating loan at 3% interest rate without
+	any collateral security.This is to help individuals and companies reach their
+	financial objectives. [...] 
+	Content analysis details:   (11.8 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.6 SINGLE_HEADER_3K       A single header contains 3K-4K characters
+	0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+	(co-operative[at]live.com)
+	-0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, no
+	trust
+	[199.164.64.70 listed in list.dnswl.org]
+	0.7 SPF_SOFTFAIL           SPF: sender does not match SPF record (softfail)
+	1.5 SUBJ_ALL_CAPS          Subject is all capitals
+	0.8 BAYES_50               BODY: Bayes spam probability is 40 to 60%
+	[score: 0.4812]
+	0.0 TO_NO_BRKTS_PCNT       To: misformatted + percentage
+	0.0 FILL_THIS_FORM         Fill in a form with personal information
+	3.4 FILL_THIS_FORM_LONG    Fill in a form with personal information
+	2.9 FILL_THIS_FORM_LOAN    Answer loan question(s)
+	0.0 T_TO_NO_BRKTS_FREEMAIL To: misformatted and free email service
+X-Spam-Flag: YES
+
+Welcome to CO-OPERATIVES FINANCIAL INVESTMENTS as part of its welfare
+package is offering a floating loan at 3% interest rate without any
+collateral security.This is to help individuals and companies reach
+their financial objectives.
+
+Notice all replies should be forwarded To Via: co-operative@live.com
+
+* Personal Loan (Unsecured)
+* Business Loan (Unsecured)
+* Debt Consolidation Loan
+* Improve your home
+
+LOAN APPLICATION FORM
+
+Full Name.......
+Home Address....
+Phone:.............
+Cell:................
+Country...........
+State...............
+Marital Status........
+Occupation:........
+Sex:...............
+Age:..............
+Amount Needed......
+Loan Duration:...........
+Purpose for loan..........
+Monthly income.......
+Do you apply for a loan before...?
+Do you speak English...?
+
+Contact Via E-mail: co-operative@live.com
+
+Kind Regards,
+jerry williams
+
+---------------------------------------------

@@ -1,0 +1,61 @@
+
+
+1. Who currently has the promised money?
+
+Auditor & Accountant
+
+2. Why is the money being offered to you?
+
+... no reason
+
+3. Is there anything you need to do in return?
+
+Stand in as Beneficiary & Administrator
+
+Subject: 	Re:ur reply
+From: 	JFO (roberta@nead.ufmt.br)
+To: 	
+Date: 	Wednesday, January 18, 2012 11:54 PM
+
+We have $19.8million in a bank. I can name you as Beneficiary & Administrator.  Reply with your name address telephone. I make legal papers & show bank. Bank makes transfer to you. We share 50 - 50.
+
+JFO.
+Auditor & Accountant.
+
+
+< headers >
+
+From JFO Wed Jan 18 21:54:43 2012
+X-Apparently-To:< snipped > via 98.137.27.197; Thu, 19 Jan 2012 21:38:54 -0800
+Return-Path: 
+X-YahooFilteredBulk: 222.122.163.117
+Received-SPF: none (domain of nead.ufmt.br does not designate permitted sender hosts)
+X-YMailISG: < snipped >
+X-Originating-IP: [222.122.163.117]
+Authentication-Results: mta1257.mail.sk1.yahoo.com  from=nead.ufmt.br; domainkeys=neutral (no sig);  from=nead.ufmt.br; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO ns.goganaan.co.kr) (222.122.163.117)
+ by mta1257.mail.sk1.yahoo.com with SMTP; Thu, 19 Jan 2012 21:38:50 -0800
+Received: from User ([222.122.142.81])
+	(authenticated bits=0)
+	by ns.goganaan.co.kr (8.13.8/8.13. with ESMTP id q0ILrtKJ030280;
+	Thu, 19 Jan 2012 06:53:57 +0900
+Message-Id: <201201182153.q0ILrtKJ030280@ns.goganaan.co.kr>
+Reply-To: 
+From: "JFO"
+Subject: Re:ur reply
+Date: Wed, 18 Jan 2012 21:54:43 -0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Length: 227
+
+< end headers >
+
+hope i correctly edited/copied the information needed from the headers, im not certain. anyway, a rare one, all IP addresses seem to point to korea!
+
+have fun!

@@ -1,0 +1,65 @@
+
+
+Received: by 10.68.48.39 with SMTP id i7cs115958pbn;
+       Mon, 2 Jan 2012 16:37:41 -0800 (PST)
+Received: by 10.216.136.12 with SMTP id v12mr9765502wei.21.1325551059026;
+       Mon, 02 Jan 2012 16:37:39 -0800 (PST)
+Return-Path: 
+Received: from nm20.bullet.mail.ird.yahoo.com (nm20.bullet.mail.ird.yahoo.com. [77.238.189.77])
+       by mx.google.com with SMTP id r60si21443808weq.91.2012.01.02.16.37.37;
+       Mon, 02 Jan 2012 16:37:38 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning fg1th41@msn.com does not designate 77.238.189.77 as permitted sender) client-ip=77.238.189.77;
+Authentication-Results: mx.google.com; spf=softfail (google.com: domain of transitioning fg1th41@msn.com does not designate 77.238.189.77 as permitted sender) smtp.mail=fg1th41@msn.com; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [77.238.189.56] by nm20.bullet.mail.ird.yahoo.com with NNFMP; 03 Jan 2012 00:37:37 -0000
+Received: from [212.82.108.243] by tm9.bullet.mail.ird.yahoo.com with NNFMP; 03 Jan 2012 00:37:37 -0000
+Received: from [127.0.0.1] by omp1008.mail.ird.yahoo.com with NNFMP; 03 Jan 2012 00:37:37 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 273561.89853.bm@omp1008.mail.ird.yahoo.com
+Received: (qmail 30127 invoked by uid 6007); 3 Jan 2012 00:37:37 -0000
+DKIM-Signature: v=1; a=rsa-sha256;
+X-Originating-IP: [65.55.111.164]
+Authentication-Results: mta1008.mail.ird.yahoo.com  from=msn.com; domainkeys=neutral (no sig);  from=msn.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO blu0-omc4-s25.blu0.hotmail.com) (65.55.111.164)
+ by mta1008.mail.ird.yahoo.com with SMTP; Tue, 03 Jan 2012 00:37:36 +0000
+Received: from BLU0-SMTP134 ([65.55.111.136]) by blu0-omc4-s25.blu0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Mon, 2 Jan 2012 16:37:35 -0800
+X-Originating-IP: [212.52.152.113]
+X-Originating-Email: [fg1th41@msn.com]
+Message-ID: 
+Return-Path: fg1th41@msn.com
+Received: from computer ([212.52.152.113]) by BLU0-SMTP134.phx.gbl over TLS secured channel with Microsoft SMTPSVC(6.0.3790.4675);
+	 Mon, 2 Jan 2012 16:37:33 -0800
+From: "Mrs. Lora Nazar" 
+To: "." <.>
+X-Mailer: Pocomail 4.8 (4400) - EXPIRED EVALUATION VERSION
+X-URL: http://www.pocomail.com/
+Reply-To: mrslora1@voila.fr
+Date: Tue, 3 Jan 2012 00:33:56 +0100
+Subject: MY HEART CHOOSE TO BLESS YOU.
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-OriginalArrivalTime: 03 Jan 2012 00:37:34.0416 (UTC) FILETIME=[E28B9500:01CCC9AF]
+
+MY HEART CHOOSE TO BLESS YOU. 
+
+Dear Beloved, 
+i am Mrs. Lora Nazar and i have been suffering from ovarian cancer disease=
+and the doctor ays that i have just two days to leave. i am from (eastern=
+Province) Russian but base in Africa Burkina Faso since eight years ago as=
+a business woman dealing with gold exportation. Now that i am about to end=
+the race like this, without any family members and no child. i have $3=
+Million US Dollars in Africa Development Bank (ADB) Burkina Faso which i=
+instructed the bank to give St Andrews Missionary Home in Burkina Faso . 
+
+But my mind is not at rest because i am writing this letter now through the=
+help of my computer beside my sick bed. i also have $4.5Million US Dollars=
+at Ecobank here in Burkina Faso and I instructed the bank to transfer the=
+money to the foreigner that will apply to the bank after i have gone that=
+they should release the fund to you, but you will assure me that you will=
+take 50% of the money and give 50% to the motherless baby homes, charity=
+homes. In your country for my heart to rest. You are to contact the bank=
+through this email address: (eco.b-bf@blumail.org) yours fairly friend 
+
+Thanks from 
+Madam Lora Nazar.

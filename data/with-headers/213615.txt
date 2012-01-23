@@ -1,0 +1,33 @@
+
+
+Return-Path: 
+Received: from mail46.atl.registeredsite.com (mail46.atl.registeredsite.com [209.237.134.236])
+       (envelope-from srethomas@saint-dennis.org)
+Received: from mymail.myregisteredsite.com (wmailnode3c.webmail.web.com [209.237.135.45])
+       by mail46.atl.registeredsite.com (8.12.11.20060308/8.12.11) with SMTP id q07Amf1m009183
+       for ; Sat, 7 Jan 2012 05:48:41 -0500
+Received: (qmail 17039 invoked by uid 80); 7 Jan 2012 09:35:57 -0000
+Received: from unknown (HELO mymail3.myregisteredsite.com) (127.0.0.1)
+ by localhost with SMTP; 7 Jan 2012 09:35:57 -0000
+Received: from 41.220.69.71
+       (SquirrelMail authenticated user srethomas@saint-dennis.org)
+       by mymail3.myregisteredsite.com with HTTP;
+       Sat, 7 Jan 2012 04:35:57 -0500
+Message-ID: 
+Date: Sat, 7 Jan 2012 04:35:57 -0500
+Subject: 
+From: "Patrick Chan" 
+Reply-To: wingcheung366@yahoo.com.hk
+User-Agent: SquirrelMail/1.4.19
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+To: 
+X-Greylist: Default is to whitelist mail, not delayed by milter-greylist-4.2.3 
+
+
+I am Mr Patrick Chan executive manager of Hang Seng Bank based in Hong
+Kong. I have business deal worth $16.7M contact me via email
+pchanik@yahoo.com.hk for details

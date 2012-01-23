@@ -1,0 +1,43 @@
+197.255.167.7 Dynamically Allocated To Wimax Customers Nigeria  Received: by 10.220.168.71 with SMTP id t7cs14592vcy;
+       Sat, 21 Jan 2012 11:13:15 -0800 (PST)
+Received: by 10.68.135.1 with SMTP id po1mr7148012pbb.16.1327173187535;
+       Sat, 21 Jan 2012 11:13:07 -0800 (PST)
+Return-Path: 
+Received: from wrea.gov.la (mail.wrea.gov.la. [202.62.103.117])
+       by mx.google.com with ESMTP id d6si9769424pbk.214.2012.01.21.10.50.43;
+       Sat, 21 Jan 2012 11:13:07 -0800 (PST)
+Received-SPF: neutral (google.com: 202.62.103.117 is neither permitted nor denied by best guess record for domain of info@co.uk) client-ip=202.62.103.117;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 202.62.103.117 is neither permitted nor denied by best guess record for domain of info@co.uk) smtp.mail=info@co.uk
+Received: from localhost (unknown [127.0.0.1])
+	by wrea.gov.la (Postfix) with ESMTP id B307A18FC37;
+	Sat, 21 Jan 2012 16:14:32 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at linuxsis.intranet
+Received: from wrea.gov.la ([127.0.0.1])
+	by localhost (linuxsis.intranet [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id miO4kHmBS8Fl; Sat, 21 Jan 2012 23:14:21 +0700 (ICT)
+Received: from www.wrea.gov.la (linuxsis.intranet [127.0.0.1])
+	by wrea.gov.la (Postfix) with ESMTP id 017B918FBA2;
+	Sat, 21 Jan 2012 23:14:21 +0700 (ICT)
+Received: from 197.255.167.7
+       (SquirrelMail authenticated user noulinh)
+       by www.wrea.gov.la with HTTP;
+       Sat, 21 Jan 2012 23:14:21 +0700 (ICT)
+Message-ID: <3194.197.255.167.7.1327162461.squirrel@www.wrea.gov.la>
+Date: Sat, 21 Jan 2012 23:14:21 +0700 (ICT)
+Subject: SCRAP bronze and stone  COPPER, HMS 1&2
+From: "London City Metals Limited" 
+Reply-To: scrapsupply@rocketmail.com
+To: undisclosed-recipients:;  SCRAP bronze and stone  COPPER, HMS 1&2 ORE COPPER,METAL SCRAP ,USED RAIL
+,COMPUTER SCRAP,PLASTIC ,AVAILABLE,
+We do deal with all kind of scrap, and we have it in stock,s  as i  said
+today.
+let me know if you are interested to buy from us.
+reply to the following E-mail address:scrapsupply@rocketmail.com
+Contact the Marketing department Mr Bob Johnson
+
+Accreditation
+London City Metals Limited
+LCM House, Unit 6 Standard industrial Estate,
+Factory Road, London E16 2EJ
+Registered NO:020 7511 7294
++447035963078  

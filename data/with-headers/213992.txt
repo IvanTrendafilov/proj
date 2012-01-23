@@ -1,0 +1,139 @@
+
+
+Return-path: 
+Envelope-to: 
+Delivery-date: Sun, 15 Jan 2012 08:43:41 -0800
+Received: from svyazconnect-gw.ulcomnet.ru ([77.73.104.18] helo=mail.svyazconnect.ru)
+	by  with esmtp (Exim 4.69)
+	(envelope-from )
+	id 1RmTBD-0003AC-4u
+	for ; Sun, 15 Jan 2012 08:43:41 -0800
+Received: by mail.svyazconnect.ru (Postfix, from userid 126)
+	id F317D1AF060; Sun, 15 Jan 2012 17:24:03 +0300 (MSK)
+Received: from localhost by mail.svyazconnect.ru
+	with SpamAssassin (version 3.2.5);
+	Sun, 15 Jan 2012 17:24:03 +0300
+From: "Miss Gladys Dia"
+To: undisclosed-recipients:;
+Subject: HI From Miss Gladys Dia
+Date: Sun, 15 Jan 2012 14:23:52 -0000
+Message-Id: <20120115142259.2CD47114CB81@mail.svyazconnect.ru>
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on mail.svyazconnect.ru
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.1 required=7.0 tests=ADVANCE_FEE_2,ADVANCE_FEE_3,
+	ADVANCE_FEE_4,ALL_TRUSTED,AWL,FH_DATE_PAST_20XX,FORGED_MUA_OUTLOOK,
+	MILLION_USD,MSOE_MID_WRONG_CASE autolearn=failed version=3.2.5
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_4F12E183.0D7C8CAC"
+X-Spam-Subject: ***SPAM*** HI From Miss Gladys Dia
+X-Spam-Status: Yes, score=18.8
+X-Spam-Score: 188
+X-Spam-Bar: ++++++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Content analysis details on host mail.svyazconnect.ru: 13.1
+	points, 7.0 required -1.4 ALL_TRUSTED Passed through trusted hosts only via
+	SMTP 2.1 FH_DATE_PAST_20XX The date is grossly in the future. 2.4 MILLION_USD
+	BODY: Talks about millions of dollars 0.8 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+	2.6 ADVANCE_FEE_2 Appears to be advance fee fraud (Nigerian 419) 2.4 ADVANCE_FEE_3
+	Appears to be advance fee fraud (Nigerian 419) 0.0 ADVANCE_FEE_4 Appears
+	to be advance fee fraud (Nigerian 419) 4.2 FORGED_MUA_OUTLOOK Forged mail
+	pretending to be from MS Outlook -0.0 AWL AWL: From: address is in the auto
+	white-list [...] 
+	Content analysis details:   (18.8 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	3.2 MILLION_USD            BODY: Talks about millions of dollars
+	3.1 HK_SCAM_N2             BODY: HK_SCAM_N2
+	0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+	(gladydia2011[at]gmail.com)
+	1.3 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	[Blocked - see ]
+	2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+	[77.73.104.18 listed in psbl.surriel.com]
+	1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+	[77.73.104.18 listed in bb.barracudacentral.org]
+	0.8 SPF_NEUTRAL            SPF: sender does not match SPF record (neutral)
+	0.1 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+	digit (gladydia2011[at]gmail.com)
+	0.8 BAYES_50               BODY: Bayes spam probability is 40 to 60%
+	[score: 0.5000]
+	0.0 LOTS_OF_MONEY          Huge... sums of money
+	0.0 T_HK_NAME_FM_MR_MRS    T_HK_NAME_FM_MR_MRS
+	1.9 FROM_MISSP_TO_UNDISC   From misspaced, To undisclosed
+	0.0 TO_NO_BRKTS_PCNT       To: misformatted + percentage
+	0.0 ADVANCE_FEE_4_NEW      Appears to be advance fee fraud (Nigerian 419)
+	0.1 ADVANCE_FEE_5_NEW      Appears to be advance fee fraud (Nigerian 419)
+	0.0 T_MONEY_PERCENT        X% of a lot of money for you
+	0.8 ADVANCE_FEE_3_NEW      Appears to be advance fee fraud (Nigerian 419)
+	0.0 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+	0.0 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+	0.0 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+	1.0 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+	0.0 T_TO_NO_BRKTS_FREEMAIL To: misformatted and free email service
+	0.4 MONEY_FRAUD_5          Lots of money and many fraud phrases
+	0.0 FROM_MISSP_FREEMAIL    From misspaced + freemail provider
+	0.5 MONEY_FRAUD_8          Lots of money and very many fraud phrases
+	0.0 MONEY_FRAUD_3          Lots of money and several fraud phrases
+	0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal information
+	0.5 FORM_FRAUD_5           Fill a form and many fraud phrases
+X-Spam-Flag: YES
+
+This is a multi-part message in MIME format.
+
+------------=_4F12E183.0D7C8CAC
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Content analysis details on host mail.svyazconnect.ru: 13.1 points, 7.0 r=
+equired
+-1.4 ALL_TRUSTED            Passed through trusted hosts only via SMTP
+2.1 FH_DATE_PAST_20XX      The date is grossly in the future.
+2.4 MILLION_USD            BODY: Talks about millions of dollars
+0.8 MSOE_MID_WRONG_CASE    MSOE_MID_WRONG_CASE
+2.6 ADVANCE_FEE_2          Appears to be advance fee fraud (Nigerian 419=
+)
+2.4 ADVANCE_FEE_3          Appears to be advance fee fraud (Nigerian 419=
+)
+0.0 ADVANCE_FEE_4          Appears to be advance fee fraud (Nigerian 419=
+)
+4.2 FORGED_MUA_OUTLOOK     Forged mail pretending to be from MS Outlook
+-0.0 AWL                    AWL: From: address is in the auto white-list
+
+
+From: Miss Gladys Dia 
+To: 
+Reply-To: missgladysdia44@e-mail.ua
+Subject: HI From Miss Gladys Dia 
+2.1 unnamed 3 KB 
+
+From:Miss Gladys Dia
+01 bp 25687 Cnabobo 22370
+abidjan,ivory coast.
+
+Hello, 
+
+My name is Gladys Dia from Abidjan Ivory Coast and I will be 18 years old on the 22nd of Novermber.My father Engineer Wilson Dia died in july 17 2010 after being involved in a motor accident. Before my father died, my mother had earlier died as a result of Diabetes.Before my father died in the hospital while taking treatment, he told me that there is Five million one hundred thousand united states dollars(US5,100,000.00) he has in a bank here in Abidjan Cote D'Ivoire. 
+
+He said that the money was meant for establishing his business in Abidjan - Ivory Coast. Though, according to my father he deposited the money in his own name and mentioned me in the documents as the next of kin .Before his death he advised me to seek for a trust worthy person abroad who will help me invest and manage this money for me until i am capable to handle it. Now I have succeeded in locating the bank in Abidjan and also confirmed the money is in there confidentiality. 
+
+But the bank said from the agreement my father has with them that i can only claim the money when i am upto 25 years. And if i am not upto that age, i should present a guardian who will help me in recieving the money and for investment purposes in his or her country. Now I am seeking for your assistance to help me transfer out this money from this bank he deposited it to your account so that you can be able to manage and invest it in any good business in your country and also help me to move out from here so that I can continue my education which stopped since my parents death. 
+
+I am Waiting anxiously to hear from you so that we can discuss how you can assist me on this as my guardian since it is the only condition that the bank said this my inheritance can be release to me at this my present age or i can wait until i am upto 25 years and above. Thanks for your kind attention and i will appreciate to receive your reply to know if you will be able to help me stand as my guardian for my inheritance be release to me through your kind help.Please i am willing to give you 15% from the inheritance for standing as my guardian and also know that you are going to manage it for me .Please i am on my kneels begging you to accept standing as my guardian so that my inheritance be transfer out from here.Please i will like you to send this information to me which will be what i will be presenting to the bank when i hear from you. 
+
+1.Your name and your address. 
+
+2.Your Telephone 
+
+3.Occupation 
+
+4.Age/Marital Status 
+
+Thanks and God Bless 
+
+Miss Gladys Dia

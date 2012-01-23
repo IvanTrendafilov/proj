@@ -21,11 +21,15 @@ def cleanHeaders_legacy(text, full=False):  # this is a legacy method
 
 def cleanHeaders(text, full=False):
 	headers_file, headers = open('data/headers.txt', 'r'), []
+	regexp = '(X)' + '(-)' + '((?:[a-z][a-z0-9_]*))' + '(-)' + '((?:[a-z][a-z0-9_]*))' + '(:)'
+	regexp = re.compile(regexp, re.IGNORECASE | re.DOTALL)
 	msg_lines = text.splitlines()
 	maxh, output = 0, ""
 	for h in headers_file:
 		headers.append(h.strip())
 	for i in range(0, len(msg_lines)):
+		if regexp.findall(msg_lines[i]):
+			maxh = i
 		for h in headers:
 			if h in msg_lines[i]:
 				maxh = i
