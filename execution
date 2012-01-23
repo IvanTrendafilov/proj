@@ -1,4 +1,4 @@
-text = cleanHeaders(open('data/5.txt').read())
+text = cleanHeaders(open('data/test/'+filename).read())
 headers = extractHeaders(text)
 text2 = removeHeaders(text)
 names = extractNames(text2)

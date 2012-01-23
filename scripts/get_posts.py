@@ -25,7 +25,7 @@ def findLimit():
 
 def crawlIndex(limit=270):
 	links = []
-	exceptions = [188427, 105921, 190170, 176248] # administrative topics
+	exceptions = ['188427', '105921', '190170', '176248'] # administrative topics
 	core_url = "http://forum.419eater.com/forum/"
 	page_name = "viewforum.php"
 	forum_args ="?f=18&start="
@@ -40,7 +40,7 @@ def crawlIndex(limit=270):
 			if 'viewtopic.php' in link['href']:
 				try:
 					link_id = link['href'].split('&')[0].split('=')[1]
-					if link_id not in links:
+					if link_id not in links and str(link_id) not in exceptions:
 						links.append(str(link_id))
 				except:
 					print "Problem in link separation"

@@ -1,7 +1,7 @@
 import os, re, time
 from pyner import Pyner
 # STEP 1 - Clean up useless headers (Takes the message as a string)
-def cleanHeaders(text, full=False): 
+def cleanHeaders_legacy(text, full=False): 
 	f = open('clean.tmp','w')
 	f.write(text)
 	f.close()
@@ -14,7 +14,34 @@ def cleanHeaders(text, full=False):
 	os.remove('clean.tmp')
 	return message
 
-def cleanHeaders2(text, full=False):
+def cleanHeaders(text, full=False):
+	headers_file, headers = open('data/headers.txt','r'), []
+	msg_lines = text.splitlines()
+	maxh, output = 0, ""
+	for h in headers_file:
+		headers.append(h.strip())
+	for i in range(0, len(msg_lines)):
+		for h in headers:
+			if h in msg_lines[i]:
+				maxh = i
+				break
+	if full:
+		for i in range(maxh+1, len(msg_lines)):
+			output += msg_lines[i] + os.linesep
+	else:
+		exceptions = ['Reply-To:', 'Reply-to:', ' Reply-To:' ,'In-Reply-To:', 'Subject:', 'To:', ' To:', 'From:']
+		for i in range(0, len(msg_lines)):
+			if i <= maxh:
+				for h in exceptions:
+					if h in msg_lines[i]:
+						output += msg_lines[i] + os.linesep
+						break
+			else:
+				output += msg_lines[i] + os.linesep
+	return output
+
+
+def cleanHeader_heuristic(text, full=False):
 	msg_lines = text.splitlines()
 	headers = []
 	for line in msg_lines:
@@ -34,7 +61,6 @@ def cleanHeaders2(text, full=False):
 								if line[i + count + 1] == " ":
 									headers.append(line)
 									break
-									# this is def.
 							else:
 								break
 						except:
@@ -51,12 +77,12 @@ def extractHeaders(text):
 			if header in line and headers[header] == None:
 				if line.strip().index(header) < 2:
 					if header == 'Subject':
-						headers[header] = line.replace('Subject','')
-						headers[header] = headers[header].replace(': ','')
+						headers[header] = line.replace('Subject','').strip()
+						headers[header] = headers[header].replace(': ','').strip()
 					else:
 						regexp = mailsrch.findall(line)
 						if regexp:
-							headers[header] = regexp[0]
+							headers[header] = regexp[0].strip()
 	return headers
 #	return [(k, v) for k, v in headers.iteritems()]
 
@@ -180,6 +206,8 @@ def extractInfo(text):
 			email_addr = headers['Reply-To']
 		elif headers['From']:
 			email_addr = headers['From']
+		else:
+			email_addr = None
 		if email_addr:
 			msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'] = {}, date, email_addr, headers['To'], headers['Subject'], text
 			if names:
@@ -226,3 +254,21 @@ def prettyPrint(text):
 		print "Body:"
 		print msg['Body']
 	return
+
+def prettyString(text):
+	messages = extractInfo(text)
+	outputList = []
+	for msg in messages:
+		output = ""
+		output += msg['Date'] + os.linesep
+		output += msg['Reply-To'] + os.linesep
+		output += msg['To'] + os.linesep
+		output += msg['Subject'] + os.linesep
+		try:
+			output += "Name:", " ".join([msg['First_name'], msg['Last_name']]) + os.linesep
+		except:
+			pass
+		output += "Body:" + os.linesep
+		output += msg['Body']
+		outputList.append(output)
+	return outputList
