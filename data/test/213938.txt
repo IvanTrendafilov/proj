@@ -1,0 +1,142 @@
+
+
+Delivered-To: XXXXXXXXXXXXX@gmail.com
+Received: by x with SMTP id fk4cs1441lbb;
+       Thu, 12 Jan 2012 01:42:42 -0800 (PST)
+Received: by x with SMTP id z5mr2696192icx.48.1326361360316;
+       Thu, 12 Jan 2012 01:42:40 -0800 (PST)
+Return-Path: 
+Received: from nm31-vm0.bullet.mail.ne1.yahoo.com (nm31-vm0.bullet.mail.ne1.yahoo.com. [98.138.229.40])
+       by mx.google.com with SMTP id os2si4437622igc.16.2012.01.12.01.42.39;
+       Thu, 12 Jan 2012 01:42:40 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of mr.fredgamba14@yahoo.com designates 98.138.229.40 as permitted sender) client-ip=98.138.229.40;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of mr.fredgamba14@yahoo.com designates 98.138.229.40 as permitted sender) smtp.mail=mr.fredgamba14@yahoo.com; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [98.138.90.57] by nm31.bullet.mail.ne1.yahoo.com with NNFMP; 12 Jan 2012 09:42:39 -0000
+Received: from [98.138.89.192] by tm10.bullet.mail.ne1.yahoo.com with NNFMP; 12 Jan 2012 09:42:39 -0000
+Received: from [127.0.0.1] by omp1050.mail.ne1.yahoo.com with NNFMP; 12 Jan 2012 09:42:39 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 349398.16895.bm@omp1050.mail.ne1.yahoo.com
+Received: (qmail 39756 invoked by uid 60001); 12 Jan 2012 09:42:39 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1326361359; bh=oS8Q9sYW3KEAnQmb0PZIyYFvRpw6YJ4ggA2VjWmZKIM=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=zUcflc9/kMi9yHhBtHaVTyuIZiHVmFuUU3K8bZkd2p0dbuS3XzdpirzQowLVZjj+lg1XOAhStkNsIpuXWdDfrefZQfEECqIEaR2lHKG1bL7PHCrqREOoc4bDlQoFSjm+akkFgtcKOXQC41em05BBaqUT85p/OfQbRuZYd06kLno=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+ s=s1024; d=yahoo.com;
+ h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+ b=DUQVt9SJ+q21r5kdxEKTE5BRniFRzTUGN+u1vXH2hyjdARTd6/mA2Vr53S3DRihEx51bLbL9MlkopKB6KmwFux42g02F+SEb6Hq/g796140ubseKTdSbYLPAaNq9M/2+mKsCdfWiyDRXkLSD2Kf0s75b8DgBD/CcyyGwqKdraI8=;
+X-YMail-OSG: wqfJxawVM1lic7qHOKy7Np7g1zPIVDo8wpgipJZK.vabtin
+whJTQZgKB2ST2asQtAAd1vLQpLD8vj5pAOY5tHnKbUroV.caVlMXXqocLquN
+rPhwZYXFtXbZ1DcvyfD1w0eetgTdYvpiy6XbZwxadIXtyAe7wIcA2DN7eb9U
+N41KzSLq7qb2lhzkQOddxS3Y_Ru993yz3muxWG3KUROasn75iHVFODsa_2bB
+M2Jp5so79QtcYq21nT8lKjF39LYcoICx34Jl9ouv_2Q_mkJaV2YXSoyEXgp7
+7flQvOt.JMSa3SNipoFcbupivyowpzDu1iNZcYsAAOxnVmW8hZ_gw4.LoW23
+itdvgr3kNYExP3aIpb7tao1nPRBHAI1pX.EXbg.Zy6laDgg6EsFZEOdIL7KB
+Tu7YEVxj21MI-
+Received: from [41.218.251.233] by web121906.mail.ne1.yahoo.com via HTTP; Thu, 12 Jan 2012 01:42:39 PST
+X-Mailer: YahooMailWebService/0.8.115.331698
+Message-ID: <1326361359.33991.YahooMailNeo@web121906.mail.ne1.yahoo.com>
+Date: Thu, 12 Jan 2012 01:42:39 -0800 (PST)
+From: Mr Fred Gamba 
+Reply-To: Mr Fred Gamba 
+Subject: Get In Touch Immediately
+To: "x" 
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="603548461-17370506-1326361359=:33991"
+
+--603548461-17370506-1326361359=:33991
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Sir,=0A=C2=A0=0AI thank you very much for your mail. Firstly, I will l=
+ike to introduce myself briefly to you. I am 53 years old, married with thr=
+ee children. I have been working with my Bank for over 10 good years now an=
+d I strongly believe that with my banking experience, nothing can stop us f=
+rom achieving a desired end immediately we proceed.=0A=0AI am also assuring=
+you that this transaction is 100% safety and guarantees because I am sure =
+of any information I am giving to you concerning the deceased.=0A=C2=A0=0AH=
+owever; this total fund (US$17.5million) is in one account here in my bank.=
+And no body is coming for the claim because the deceased customer did not =
+mention any next of kin when the account was open,Please never you see this=
+subject as a joke because I am bringing this great opportunity to you beli=
+eving that it will favour both of us at the end,I was mandated by the bank =
+board of directors to locate any of the deceased next of kin or relation so=
+that this (US$17.5million) will be transferred to him or her, and I have t=
+ried my best but all to no success and if this fund should stays here in ou=
+r bank after so many years till this time of the year! It will be transferr=
+ed into the bank treasury as un-claimed fund and the Top ones here in our b=
+ank will share it among themselves.=0A=C2=A0=0AI think it's better we claim=
+this fund and share it by our selves than to allow the bank officials shar=
+e it among them selves because they are already rich.=0A=C2=A0=0AOnce again=
+, there is no risk involved; the transaction will be executed under a legit=
+imate arrangement that will protect you from any breach of law.=0A=C2=A0=0A=
+All the vital information=E2=80=99s of the bank deceased customer which wil=
+l perfect you as the next of kin or relation is intact with me, and I will =
+be here in the bank as an insider in giving you information=E2=80=99s on an=
+ything discussed and as well advice you on what to do until this fund gets =
+to your account.=0A=C2=A0=0APlease I will highly appreciate your positive r=
+espond with the following information to enable me direct you to the bank f=
+or the claim to start.=0A=C2=A0=0AYOUR FULL NAME=0AYOUR FULL RESIDENTIAL AD=
+DRESS=0AYOUR AGE AND OCCUPATION=0AYOUR MARITAL STATUS=0AYOUR TELEPHONE NUMB=
+ER=0ASCAN COPY OF YOUR IDENTIFICATION=0A=C2=A0=0AIn receipt of the above-me=
+ntioned information=E2=80=99s, I will draft an application letter to you wh=
+ich you will use to apply direct to our Bank for the transfer of the total =
+fund into your account. and also send to you the deposit certificate of the=
+fund as a proof, But most Importantly, I will like you to assure me that y=
+ou will not betray this trust and confidence that am about to repose on you=
+. =C2=A0I have worked very hard in my life and I have always maintained hig=
+h level of discipline and integrity. This is an opportunity, which I must s=
+trive relentlessly to accomplish. Besides, in a no distant time, I will be =
+leaving for retirement.=0A=C2=A0=0AFinally, I am hoping to meet you and you=
+r family as soon as we get the fund transferred into your account, for disb=
+ursement and investment in your country.=0A=C2=A0=0AAm waiting for your rep=
+ly and call immediately.=0A=C2=A0=0AMr. Fred Gamba
+--603548461-17370506-1326361359=:33991
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Sir,&nbsp;I thank=
+you very much for your mail. Firstly, I will like to introduce myself brie=
+fly to you. I am 53 years old, married with three children. I have been wor=
+king with my Bank for over 10 good years now and I strongly believe that wi=
+th my banking experience, nothing can stop us from achieving a desired end =
+immediately we proceed.I am also assuring you that this transaction=
+is 100% safety and guarantees because I am sure of any information I am gi=
+ving
+to you concerning the deceased.&nbsp;However; this total fund (US$17.5=
+million) is in one account here in my bank. And no body is coming for the c=
+laim because the deceased customer did not mention any next of kin when the=
+account was open,Please never you see this subject as a joke because I am =
+bringing this great opportunity to you believing that it will favour both o=
+f us at the end,I was mandated by the bank board of directors to locate any=
+of the deceased next of kin or relation so that this (US$17.5million) will=
+be transferred to him or her, and I have tried my best but all to no succe=
+ss and if this fund should stays here in our bank after so many years till =
+this time of the year! It will be transferred into the bank treasury as un-=
+claimed fund and the Top ones here in our bank will share it among
+themselves.&nbsp;I think it's better we claim this fund and share it b=
+y our selves than to allow the bank officials share it among them selves be=
+cause they are already rich.&nbsp;Once again, there is no risk involved=
+; the transaction will be executed under a legitimate arrangement that will=
+protect you from any breach of law.&nbsp;All the vital information=E2=
+=80=99s of the bank deceased customer which will perfect you as the next of=
+kin or relation is intact with me, and I will be here in the bank as an in=
+sider in
+giving you information=E2=80=99s on anything discussed and as well advice =
+you on what to do until this fund gets to your account.&nbsp;Please I w=
+ill highly appreciate your positive respond with the following information =
+to enable me direct you to the bank for the claim to start.&nbsp;<=
+/div>YOUR F=
+ULL NAMEYOUR FULL RESIDENTIAL ADDRESSYOUR AGE AND OCCUPATIONYOUR MARI=
+TAL STATUSYOUR TELEPHONE NUMBERSCAN COPY OF YOUR IDENTIFICATION&nbsp;In=
+receipt of the above-mentioned information=E2=80=99s, I will draft an appl=
+ication letter to you which you will use to apply direct to our Bank for th=
+e transfer of the total fund into your account. and also send to you the de=
+posit certificate of the fund as a proof, But most Importantly, I will like=
+you to assure me that you will not betray this trust and confidence that a=
+m about to repose on you. &nbsp;I have worked very hard in my life and I ha=
+ve always maintained high level of discipline and integrity. This is an opp=
+ortunity, which I must strive relentlessly to accomplish. Besides, in a no =
+distant time, I will be leaving for retirement.&nbsp;Finally, I am=
+hoping to meet you and your family as soon as we get the fund transferred =
+into your account, for disbursement and investment in your country.<=
+/div>&nbsp;=
+Am waiting for your reply and call immediately.&nbsp;=
+Mr. Fred Gamba

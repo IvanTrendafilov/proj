@@ -1,0 +1,109 @@
+
+
+Viewing Full Header - View message
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on mc3.midcoast.com
+X-Spam-Flag: YES
+X-Spam-Level: ********************
+X-Spam-Status: Yes, score=20.1 required=5.0 tests=ADVANCE_FEE_2_NEW_MONEY,
+    ADVANCE_FEE_3_NEW,ADVANCE_FEE_3_NEW_MONEY,DATE_IN_FUTURE_12_24,
+    FORGED_MUA_OUTLOOK,FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,FREEMAIL_REPLYTO,
+    FROM_MISSPACED,FROM_MISSP_EH_MATCH,FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,
+    FROM_MISSP_REPLYTO,FROM_MISSP_TO_UNDISC,FSL_CTYPE_WIN1251,FSL_NEW_HELO_USER,
+    FSL_UA,FSL_XM_419,KHOP_DYNAMIC,LOTS_OF_MONEY,MONEY_FRAUD_3,MONEY_FRAUD_5,
+    MONEY_FROM_MISSP,MSOE_MID_WRONG_CASE,NSL_RCVD_HELO_USER,RCVD_IN_BRBL_LASTEXT,
+    T_HK_NAME_FM_MR_MRS,T_MONEY_PERCENT shortcircuit=no autolearn=disabled
+    version=3.3.2
+X-Spam-Report:
+    * 1.6 RCVD_IN_BRBL_LASTEXT RBL: RCVD_IN_BRBL_LASTEXT
+    * [50.23.20.4 listed in bb.barracudacentral.org]
+    * 0.0 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+    * 1.0 FSL_XM_419 Old OE version in X-Mailer only seen in 419 spam
+    * 2.9 NSL_RCVD_HELO_USER Received from HELO User
+    * 0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+    * (mensahkmensah11[at]rediffmail.com)
+    * 2.5 DATE_IN_FUTURE_12_24 Date: is 12 to 24 hours after Received: date
+    * 0.1 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+    * digit (mensahkmensah11[at]rediffmail.com)
+    * 0.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+    * 0.0 T_HK_NAME_FM_MR_MRS T_HK_NAME_FM_MR_MRS
+    * 0.0 FSL_NEW_HELO_USER FSL_NEW_HELO_USER
+    * 0.7 KHOP_DYNAMIC Relay looks like a dynamic address
+    * 3.4 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+    * 0.1 FSL_UA FSL_UA
+    * 0.0 LOTS_OF_MONEY Huge... sums of money
+    * 0.0 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+    * 0.0 FROM_MISSPACED From: missing whitespace
+    * 0.0 MONEY_FROM_MISSP Lots of money and misspaced From
+    * 2.8 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+    * freemails
+    * 0.0 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+    * 0.0 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+    * 0.0 T_MONEY_PERCENT X% of a lot of money for you
+    * 2.8 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+    * 0.4 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 1.2 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.0 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.0 MONEY_FRAUD_3 Lots of money and several fraud phrases
+    * 0.0 MONEY_FRAUD_5 Lots of money and many fraud phrases
+    * 0.5 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+X-Original-To: 
+Received: from localhost (localhost [127.0.0.1])
+    by mc3.midcoast.com (Postfix) with ESMTP id 491BDF37FB
+    for ; Fri, 6 Jan 2012 01:07:20 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at midcoast.com
+Received: from mc3.midcoast.com ([127.0.0.1])
+    by localhost (mc3.midcoast.com [127.0.0.1]) (amavisd-new, port 10024)
+    with ESMTP id RUN+IrcqDM3W for <;
+    Fri, 6 Jan 2012 01:07:20 -0500 (EST)
+Received: from mx1.midcoast.com (mx1.midcoast.com [69.39.100.26])
+    by mc3.midcoast.com (Postfix) with ESMTP id 1E234F37C1
+    for >; Fri, 6 Jan 2012 01:07:20 -0500 (EST)
+Received: from ballhockey.ballhockey.net (50.23.20.4-static.reverse.softlayer.com [50.23.20.4])
+    by mx1.midcoast.com (Postfix) with ESMTP id 096B1E1176
+    for <; Fri, 6 Jan 2012 01:07:19 -0500 (EST)
+Received: from localhost ([127.0.0.1]:50051 helo=User)
+    by ballhockey.ballhockey.net with smtp (Exim 4.69)
+    (envelope-from )
+    id 1Rj2lE-0002Zp-76; Fri, 06 Jan 2012 00:54:40 -0500
+Reply-To: 
+From: "Mr.Mensah Kofi Mensah"
+Subject: PJM-> Good Day!
+Date: Sat, 7 Jan 2012 05:47:43 -0000
+MIME-Version: 1.0
+Content-Type: text/plain;
+    charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ballhockey.ballhockey.net
+X-AntiAbuse: Original Domain - midcoast.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - rediffmail.com
+X-Source:
+X-Source-Args:
+X-Source-Dir:
+Message-Id: <20120106060719.096B1E1176@mx1.midcoast.com>
+To: undisclosed-recipients:;
+X-Spam-Prev-Subject: Good Day!Dear Future Partner,
+
+The sum of US$100million in "cash" was concealed in an Eight ( Trunk Boxes and was
+deposited with a Private Security Company based in the Republic of Ghana by a Top
+Serving Government Official/2012 Presidential Aspirant (Name Withheld).
+
+Base on the Authority confide on me by my Boss, I am contacting you with an offer to
+stand as the Owner cum Beneficiary of the aforementioned Cash Funds in order to
+facilitate and expedite the evacuation of the Funds out of the Country without
+delay. In addition, you will retain 35% of the $100million as part of your benefits
+for your kind gesture and finally; you are hereby advised to send me your Direct
+Telephone Numbers for discussion of this Business Deal in full detail. I look
+forward to hearing from you shortly.
+
+Thank you.
+
+Yours Respectfully,
+
+Mr.Mensah Kofi Mensah  

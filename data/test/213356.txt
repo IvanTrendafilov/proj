@@ -1,0 +1,66 @@
+
+
+Received: by 10.223.159.2 with SMTP id h2cs245566fax;
+       Tue, 27 Dec 2011 06:14:01 -0800 (PST)
+Received: by 10.216.135.162 with SMTP id u34mr15691482wei.1.1324995239275;
+       Tue, 27 Dec 2011 06:13:59 -0800 (PST)
+Return-Path: 
+Received: from nm9-vm0.bullet.mail.ukl.yahoo.com (nm9-vm0.bullet.mail.ukl.yahoo.com. [217.146.183.240])
+       by mx.google.com with SMTP id r36si12139528weq.58.2011.12.27.06.13.59;
+       Tue, 27 Dec 2011 06:13:59 -0800 (PST)
+Received-SPF: neutral (google.com: 217.146.183.240 is neither permitted nor denied by best guess record for domain of hfc232@kimo.com) client-ip=217.146.183.240;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 217.146.183.240 is neither permitted nor denied by best guess record for domain of hfc232@kimo.com) smtp.mail=hfc232@kimo.com; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [217.146.183.214] by nm9.bullet.mail.ukl.yahoo.com with NNFMP; 27 Dec 2011 14:13:59 -0000
+Received: from [217.146.183.43] by tm7.bullet.mail.ukl.yahoo.com with NNFMP; 27 Dec 2011 14:13:58 -0000
+Received: from [127.0.0.1] by omp1028.mail.ukl.yahoo.com with NNFMP; 27 Dec 2011 14:13:58 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 984918.39434.bm@omp1028.mail.ukl.yahoo.com
+Received: (qmail 6341 invoked by uid 6007); 27 Dec 2011 14:13:58 -0000
+DKIM-Signature: v=1; a=rsa-sha256;
+X-Originating-IP: [154.15.203.142]
+Authentication-Results: mta1001.mail.ukl.yahoo.com  from=kimo.com; domainkeys=neutral (no sig);  from=kimo.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO relay1.mail.interoute.cz) (154.15.203.142)
+ by mta1001.mail.ukl.yahoo.com with SMTP; Tue, 27 Dec 2011 14:13:58 +0000
+Received: from [195.81.137.150] (helo=rg700-1.mail.interoute.com)
+	by relay2a.mail.interoute.com with esmtp (Exim 4.71)
+	(envelope-from )
+	id 1RfXmb-0003Iu-Dw; Tue, 27 Dec 2011 14:13:37 +0000
+Received: from 41.203.64.130 (EHLO User) ([41.203.64.130])
+	by rg700-1.mail.interoute.com (MOS 4.2.4-GA FastPath queued)
+	with ESMTP id ABP15151 (AUTH service);
+	Tue, 27 Dec 2011 15:13:35 +0100 (CET)
+Reply-To: 
+From: "Dr. Ernest Okorie"
+Subject:  Urgent/Confidential
+Date: Tue, 27 Dec 2011 15:13:28 +0100
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <201112271413.ABP15151@rg700-1.mail.interoute.com>
+
+Dr. Ernest Okorie
+Central Bank of Nigeria
+Assistant Manager
+Payment Section.
+
+Good day,                     
+
+                            Urgent/Confidential
+
+This Is Very Urgent. I Have Seen Why You Have Not Been Paid. You Made The Mistake By Giving Them Money At First And They Will Keep Demanding Money From You On The Pretext Of One Documents Or The Other.
+
+You Know How This Business Started And That Is The Way It Will End. Please Do Not Call Me On The Bank Telephone Line Except This Number I Have Given To You Above. If We Start, It Will Last For 4 Bank Working Days But Make Sure You Will Pull Out The Funds As Soon As It Hits Your Account.
+
+This Is the Only Way Out, So let us Do It without Their Knowing and I Will Resign As Soon As You Confirm the Funds and Run Away.
+
+Call me on receipt of this mail 234 802 899 1021.
+
+Dr. Ernest Okorie
+Central Bank of Nigeria
+Assistant Manager
+Payment Section.

@@ -1,0 +1,67 @@
+
+
+Received: by 10.142.166.8 with SMTP id o8cs340209wfe;
+       Mon, 16 Jan 2012 14:43:44 -0800 (PST)
+Received: by 10.236.189.68 with SMTP id b44mr19349982yhn.125.1326753820271;
+       Mon, 16 Jan 2012 14:43:40 -0800 (PST)
+Return-Path: 
+Received: from mail.abc.gov.ar (mail2.abc.gov.ar. [170.155.21.5])
+       by mx.google.com with ESMTP id i66si8499140yhn.79.2012.01.16.14.42.59;
+       Mon, 16 Jan 2012 14:43:40 -0800 (PST)
+Received-SPF: pass (google.com: domain of si00801@ed.gba.gov.ar designates 170.155.21.5 as permitted sender) client-ip=170.155.21.5;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of si00801@ed.gba.gov.ar designates 170.155.21.5 as permitted sender) smtp.mail=si00801@ed.gba.gov.ar
+Received: from mail.abc.gov.ar (localhost.localdomain [127.0.0.1])
+	by localhost.abc.gov.ar (Postfix) with ESMTP id 64DCA6B8592;
+	Mon, 16 Jan 2012 19:41:03 -0300 (ART)
+Received: from mail.abc.gov.ar (loopback.ed.gba.gov.ar [127.0.0.1])by 
+	mail.abc.gov.ar (Postfix) with ESMTP id 21EFF6B8279;Mon, 16 Jan 2012 
+	19:41:03 -0300 (ART)
+Received: (from apache@localhost)by mail.abc.gov.ar (8.12.8/8.12.8/Submit) 
+	id q0GH2KtB008077;Mon, 16 Jan 2012 14:02:20 -0300
+X-Authentication-Warning: mail.abc.gov.ar: apache set sender to 
+	si00801@ed.gba.gov.ar using -f
+Received: from host-41-206-77-5.afnet.net (host-41-206-77-5.afnet.net 
+	[41.206.77.5]) by webmail.abc.gov.ar (IMP) with HTTP for 
+	; Mon, 16 Jan 2012 14:02:19 -0300
+Message-ID: <1326733339.4f14581ba3452@webmail.abc.gov.ar>
+Date: Mon, 16 Jan 2012 14:02:19 -0300
+From: stanley kon 
+Reply-to: stanlykone@ok.net
+Subject: Dear respectful one
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+User-Agent: Internet Messaging Program (IMP) 3.2.1
+X-Originating-IP: 41.206.77.5
+To: "undisclosed-recipients:"@abc.gov.ar
+X-imss-version: 2.054
+X-imss-result: Passed
+X-imss-approveListMatch: *@ed.gba.gov.ar
+ Quote:   Dear respectful one
+
+My name is stanley kone i am 22 years old from Liberia. Please go through below
+my mail to see if you can assist for our mutual benefit.My late father was a
+cocoa and gold business man.
+
+He died in a motor accident with my mother one week after his trip to Abidjan
+Cote d' Ivoire to negotiate on a cocoa business he wanted to invest in. My
+mother died instantly and my father followed up five days after in the hospital.
+May there soul rest in perfect peace.
+
+Before the death of my father, he disclosed to me about sum of $7.5,000,000USD)
+seven Million Five Hundred Thousands United States Dollars he deposited in a
+bank in Cote d' Ivoire for the investment with my name as next of kin.
+I am a novice in terms of business and can not be able to handle investment of
+the money by my self and do not want to involve my relatives as instructed by my
+late father.
+
+I solicit for your assistance to guard me invest the money as partners under
+your care.If we happen to do this together, before any thing is done with the
+money,I will give you 10% of the total money as compensation for your
+assistance.I look forward to hearing from you for more details if you are
+willing are able to handle this.
+
+Best regards.
+
+stanley kon  

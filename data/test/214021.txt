@@ -1,0 +1,57 @@
+
+
+Received: by 10.68.48.39 with SMTP id i7cs360828pbn;
+       Sat, 14 Jan 2012 15:25:56 -0800 (PST)
+Received: by 10.216.132.81 with SMTP id n59mr2648816wei.28.1326583553829;
+       Sat, 14 Jan 2012 15:25:53 -0800 (PST)
+Return-Path: 
+Received: from nm12.bullet.mail.ukl.yahoo.com (nm12.bullet.mail.ukl.yahoo.com. [217.146.183.186])
+       by mx.google.com with SMTP id a62si775319wed.10.2012.01.14.15.25.52;
+       Sat, 14 Jan 2012 15:25:53 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning amedadama00123@msn.com does not designate 217.146.183.186 as permitted sender) client-ip=217.146.183.186;
+Authentication-Results: mx.google.com; spf=softfail (google.com: domain of transitioning amedadama00123@msn.com does not designate 217.146.183.186 as permitted sender) smtp.mail=amedadama00123@msn.com; dkim=hardfail (test mode) header.i=@yahoo.com
+Received: from [217.146.183.180] by nm12.bullet.mail.ukl.yahoo.com with NNFMP; 14 Jan 2012 23:25:52 -0000
+Received: from [217.146.183.171] by tm11.bullet.mail.ukl.yahoo.com with NNFMP; 14 Jan 2012 23:25:52 -0000
+Received: from [127.0.0.1] by omp1012.mail.ukl.yahoo.com with NNFMP; 14 Jan 2012 23:25:52 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 772388.36923.bm@omp1012.mail.ukl.yahoo.com
+Received: (qmail 62836 invoked by uid 6007); 14 Jan 2012 23:25:52 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c
+X-Originating-IP: [65.55.90.81]
+Authentication-Results: mta1068.mail.ukl.yahoo.com  from=msn.com; domainkeys=neutral (no sig);  from=msn.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO snt0-omc2-s6.snt0.hotmail.com) (65.55.90.81)
+ by mta1068.mail.ukl.yahoo.com with SMTP; Sat, 14 Jan 2012 23:25:52 +0000
+Received: from SNT129-W20 ([65.55.90.71]) by snt0-omc2-s6.snt0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Sat, 14 Jan 2012 06:43:02 -0800
+Message-ID: 
+Return-Path: amedadama00123@msn.com
+Content-Type: multipart/alternative;
+	boundary="_f0484cd0-452e-40e4-8665-12295dd928d6_"
+X-Originating-IP: [41.203.231.202]
+Reply-To: 
+From: Amed Adama 
+Subject: I AWAIT YOUR URGENT REPLY....
+Date: Sat, 14 Jan 2012 14:43:02 +0000
+Importance: Normal
+
+FOR YOUR KIND ATTENTION.
+
+COULD YOU PLEASE CONSIDER TO HELP ME TO RELOCATE THIS SUM OF TEN MILLION,THREE HUNDRED THOUSAND DOLLARS(US$10.3m) TO YOUR COUNTRY FOR ESTABLISHING A MEDIUM SIZE INDUSTRY IN YOUR COUNTRY.
+
+THE SAID 10.3 MILLION DOLLARS WAS DEPOSITED IN OUR BANK BY MRS JOYCE LAKE AN AMERICA CITIZEN WHO DIED IN A PLANE CRASH IN 2000.WE HAVE TRIED TO CONTACT HER IMMEDIATE FAMILY TO COME FORWARD FOR CLAIMS BUT COULD NOT SUCCEED.
+
+WE DISCORVERED THAT THE LATE AMERICAN DIED ALONG SIDE WITH HER HUSBAND AND CHILDREN WHO ARE SUPPOSED TO BE HER NEXT OF KIN.
+
+I WILL GIVE YOU ALL VITAL INFORMATION CONCERNING THE AMERICAN AND THE 10.3MILLION DOLLARS IN OUR CUSTODY SO THAT YOU WILL CONTACT MY BANK
+FOR THEM TO RELEASE THE MONEY TO YOU.
+
+YOU CAN COME HERE IN PERSON OR YOU CAN REQUEST THE BANK TO GIVE YOU THE CONTACT OF THE BANK LAWYER'S WHO CAN REPRESENT YOUR INTREST IN THE TRANSFER PROCESS.
+
+I AM ONE OF THE BANK DIRECTORS, I WILL PLAY A ROLE TO MAKE SURE THAT THE 10.3 MILLION DOLLARS IS RELEASED TO YOU.
+
+AS SOON AS I RECIEVE YOUR REPLY, I WILL GIVE YOU AN INSTRUCTION ON WHAT YOU SHOULD DO.
+
+REPLY AND LET ME KNOW YOUR FULL NAME,AGE,ADDRESS,OCCUPATION,AND YOUR TELEPHONE NUMBERS IF AVALIABLE.
+
+BEST REGARD,
+MR. AMED ADAMA

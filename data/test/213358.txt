@@ -1,0 +1,44 @@
+
+
+Received: by 10.223.64.202 with SMTP id f10cs89834fai;
+       Mon, 12 Dec 2011 22:33:30 -0800 (PST)
+Received: by 10.68.191.196 with SMTP id ha4mr1803606pbc.100.1323758007273;
+       Mon, 12 Dec 2011 22:33:27 -0800 (PST)
+Return-Path: 
+Received: from nm19-vm0.bullet.mail.ird.yahoo.com (nm19-vm0.bullet.mail.ird.yahoo.com. [77.238.189.92])
+       by mx.google.com with SMTP id q7si1125892pbh.3.2011.12.12.22.33.24;
+       Mon, 12 Dec 2011 22:33:27 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning bruce.baley4@msn.com does not designate 77.238.189.92 as permitted sender) client-ip=77.238.189.92;
+Authentication-Results: mx.google.com; spf=softfail (google.com: domain of transitioning bruce.baley4@msn.com does not designate 77.238.189.92 as permitted sender) smtp.mail=bruce.baley4@msn.com; dkim=hardfail (test mode) header.i=@yahoo.com
+Received: from [77.238.189.56] by nm19.bullet.mail.ird.yahoo.com with NNFMP; 13 Dec 2011 06:33:23 -0000
+Received: from [212.82.108.236] by tm9.bullet.mail.ird.yahoo.com with NNFMP; 13 Dec 2011 06:33:23 -0000
+Received: from [127.0.0.1] by omp1001.mail.ird.yahoo.com with NNFMP; 13 Dec 2011 06:33:23 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 717182.82098.bm@omp1001.mail.ird.yahoo.com
+Received: (qmail 28049 invoked by uid 6007); 13 Dec 2011 06:33:23 -0000
+DKIM-Signature: v=1; a=rsa-sha256;
+X-Originating-IP: [65.55.90.32]
+Authentication-Results: mta1066.mail.ird.yahoo.com  from=msn.com; domainkeys=neutral (no sig);  from=msn.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO snt0-omc1-s21.snt0.hotmail.com) (65.55.90.32)
+ by mta1066.mail.ird.yahoo.com with SMTP; Tue, 13 Dec 2011 06:33:23 +0000
+Received: from SNT134-W39 ([65.55.90.9]) by snt0-omc1-s21.snt0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Mon, 12 Dec 2011 22:33:22 -0800
+Message-ID: 
+Return-Path: bruce.baley4@msn.com
+Content-Type: multipart/alternative;
+	boundary="_0f85325e-556c-418f-8f10-dca9846450d7_"
+X-Originating-IP: [41.71.174.197]
+Reply-To: 
+From: Bruce Baley 
+Subject: Good Morning, This is Bruce Baley.
+Date: Tue, 13 Dec 2011 06:33:21 +0000
+Importance: Normal
+I am Barrister Bruce Baley, a solicitor at law, a client of mine who bears the same last name with you, On the 21st of April 2008, my client, his wife and their only daughter were involved in a car accident along Airport Road here in Lome republic of Togo and all occupants of the vehicle unfortunately lost their lives. Since then I have made several inquiries to locate any of my client's extended relatives, this has also proved unsuccessful.
+
+After these several unsuccessful attempts, I decided to track his last name over the Internet, to locate any member of his family hence I contacted you. I have contacted you to assist in retrieving funds valued at US$5.4m (Five Million Four Hundred Thousand US Dollars) left behind by my client before it gets confiscated or declared unserviceable by the bank where this huge amount were deposited.
+
+Therefore, on receipt of your positive response, we shall then discuss the sharing ratio and modalities for transfer.
+
+Yours Sincerely
+Barr. Bruce B. Baley.
+Email:bb85547@gmail.com

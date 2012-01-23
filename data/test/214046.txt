@@ -1,0 +1,48 @@
+
+
+Flag this message
+Very urgent matter...
+Monday, January 16, 2012 8:32 AM
+From David Robinson A Mon Jan 16 14:32:40 2012
+X-Apparently-To: 		carcar@att.net via 67.195.15.108; Mon, 16 Jan 2012 06:32:42 -0800
+Return-Path: 		
+Received-SPF: 		none (domain of yahoo.com.tw does not designate permitted sender hosts) IHlvdSBhZ2FpbiB0aGF0IHlvdSB3ZXJlIGxpc3RlZCBhcyBhIGJlbmVmaWNp YXJ5IHRvIHRoZSB0b3RhbCBzdW0gb2YgVVMkMTUgbWlsbGlvbiAoRmlmdGVl biBtaWxsaW9uIFVuaXRlZCBTdGF0ZXMgRG9sbGFycyApIGluIHRoZSBpbnRl bnQgb2YgdGhlIGRlY2Vhc2VkIChuYW1lIG5vdyB3aXRoaGVsZCBzaW5jZSB0 aGlzIGlzIG15IHNlY29uZCBsZXR0ZXIgdG8geW91KS4KIApJIAEwAQEBAQ--
+X-YMailISG: 		slJ9UX4WLDtDBXAM4UGoyTKYdEQrzWfeelLSLbuxXOUoEQZd rKAsPtNAj_NrqNTX8Zv_DklUKrsQzvCZKRkVmxzVYe7T_TinIfNczYWxAwAz PLERkznibmTCQds1hScQtv.Mp7LOTrrvHXSYCMvs3GM9WDLNxxRyJtnELXm5 4SzL8oYuqqGvqxUlRwof3A1Bga_0sdzVDbq6fA_WMATKh_fbxk5tBzVlfeWr s5O.EnhJd1Uheaxq7Tu6Yudym8Y2lQqP09YzAeofZMGSN9cxXun0..9mEvUi rR9GvBnUvsHQgUCCTuaduWLh9Dafb1hjNrKKXs3tFhJ5.zEhrepVLo6uzq0J T68N7Hlm31zsdZST0V5fC97Iq_G6q2ZFzoOvtCWbv7blXQQR4CQ1tGh8RT.l 29TJA0UqVEhnD_84
+X-Originating-IP: 		[203.188.200.202]
+Authentication-Results: 		mta1010.sbc.mail.mud.yahoo.com from=yahoo.com.tw; domainkeys=pass (ok); from=yahoo.com.tw; dkim=pass (ok)
+Received: 		from 204.127.224.82 (EHLO alnwmxc02.att.net) (204.127.224.82) by mta1010.sbc.mail.mud.yahoo.com with SMTP; Mon, 16 Jan 2012 06:32:42 -0800
+Received: 		from nm4-vm0.bullet.mail.tp2.yahoo.com ([203.188.200.202]) by att.net (alnwmxc02) with SMTP id <20120116143241a0200c18sce>; Mon, 16 Jan 2012 14:32:42 +0000
+X-Originating-IP: 		[203.188.200.202]
+Received: 		from [203.188.200.81] by nm4.bullet.mail.tp2.yahoo.com with NNFMP; 16 Jan 2012 14:32:40 -0000
+Received: 		from [203.188.200.61] by tm2.bullet.mail.tp2.yahoo.com with NNFMP; 16 Jan 2012 14:32:40 -0000
+Received: 		from [127.0.0.1] by omp1002.mail.tp2.yahoo.com with NNFMP; 16 Jan 2012 14:32:40 -0000
+X-Yahoo-Newman-Property: 		ymail-3
+X-Yahoo-Newman-Id: 		891279.32504.bm@omp1002.mail.tp2.yahoo.com
+Received: 		(qmail 8083 invoked by uid 60001); 16 Jan 2012 14:32:40 -0000
+DKIM-Signature: 		v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com.tw; s=s1024; t=1326724360; bh=5Cns+cc4rRhzqTGtLDsmdG1sgPIsLyprVrjus+ICAF8=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=YPpRQrm+IN+R5Qu0KWNLKJ5bs+HOic4m0C8z4Ux/JLzmWBwOpcHO05EPCOQvIhv8eMKJpQWucyjp9KLaO2Np5/+8l9eqfvqze9v8zxVxFFIfnMIQ58KqXci7/iNGPPPdt5UT8cZdTC1gcy2KD8Vjez8DtGYR3HUOAD3NNgNaXew=
+DomainKey-Signature: 		a=rsa-sha1; q=dns; c=nofws; s=s1024; d=yahoo.com.tw; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=lk+j32QRxnyatZgLZEAaPTuWdYWqJkOx/oY+SlZ8zilS7C83OK5ItLV/utD7OVTTxHLSGaqdTIp3Mb+nVBtgVygMX+jTU4NtLq160I4x93Hvv3914MwuNNL5F9rWFM5djF8I1FraSu1cQP0IIDNk4mEVivx/bwgvaTB2QMueYVk=;
+X-YMail-OSG: 		0TurpIMVM1mf_o.zXR1iDK1JkZrPl4_LHBcaxKc8of2rUNg AzcEM_ZsJbrLI7L77xlOx4UKtscXx0XWCAOMM2grn03FYiDB3AQnCuqcxYyB 5q7wwRQxArEr4QYA44B4j3RqzsMR5hbiDNUSUPcf_TZnMgXrBGA18DSlhyqx mY0SHc1RfftnMFcYGllM4i2ZvGompY10B9KkzS.3G.M.tcFk9Qa0BhSnRqXD Kq4GdgotOPQYkXW0Ew6cHd0XPA0llsYDmxD13LPhcfVNCDJ1p2qzY72ee4Gk yp_05yF8Awk6p0jyaFTLpCy4LWsm_Ek5zXuPOhfGhkLe.s.qSjKixh3XyYAt Rko2_CkulTMCc9A90bLAK
+Received: 		from [41.58.1.110] by web74006.mail.tp2.yahoo.com via HTTP; Mon, 16 Jan 2012 22:32:40 CST
+X-Mailer: 		YahooMailClassic/15.0.4 YahooMailWebService/0.8.116.331537
+Message-ID: 		<1326724360.98740.YahooMailClassic@web74006.mail.tp2.yahoo.com>
+Date: 		Mon, 16 Jan 2012 22:32:40 +0800 (CST)
+From: 		This sender is DomainKeys verified
+David Robinson A   
+Add sender to Contacts
+Reply-To: 		davidrobinson53@yahoo.cn
+Subject: 		Very urgent matter...
+To: 		undisclosed recipients: ;
+MIME-Version: 		1.0
+Content-Type: 		multipart/alternative; boundary="-16218764-30768282-1326724360=:98740"
+Content-Length: 		2659
+Compact Headers
+Attention: Sir/Madam.
+
+I wish to notify you again that you were listed as a beneficiary to the total sum of US$15 million (Fifteen million United States Dollars ) in the intent of the deceased (name now withheld since this is my second letter to you).
+
+I contacted you because you bear the surname identity and therefore I can present you as the beneficiary to the inheritance since there is no written will. My aim is to present you to my Bank Management as the Next of Kin to our deceased client. I will guide you all through the Claim procedure by providing all relevant Information and guiding you in your decisions and response to the Bank Management. All the papers will be processed after your acceptance.
+
+In your acceptance of this deal, I request that you kindly forward to me your letter of acceptance; your current telephone and fax numbers, age, occupational status and a forwarding address to enable me submit to the Bank Management the details as the Next of Kin to the deceased Account owner.
+
+Yours faithfully,
+David Robinson A.

@@ -1,0 +1,54 @@
+
+
+Received: by 10.142.166.8 with SMTP id o8cs242903wfe;
+       Fri, 13 Jan 2012 10:28:25 -0800 (PST)
+Received: by 10.213.114.137 with SMTP id e9mr219692ebq.18.1326479303886;
+       Fri, 13 Jan 2012 10:28:23 -0800 (PST)
+Return-Path: 
+Received: from freeweb1.ic.cz ([88.86.100.175])
+       by mx.google.com with ESMTP id o11si6452044eeb.107.2012.01.13.10.28.23;
+       Fri, 13 Jan 2012 10:28:23 -0800 (PST)
+Received-SPF: neutral (google.com: 88.86.100.175 is neither permitted nor denied by best guess record for domain of www-data@freeweb2.ic.cz) client-ip=88.86.100.175;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 88.86.100.175 is neither permitted nor denied by best guess record for domain of www-data@freeweb2.ic.cz) smtp.mail=www-data@freeweb2.ic.cz
+Received: by freeweb1.ic.cz (Postfix, from userid 33)
+	id 07A59C644C0; Fri, 13 Jan 2012 19:28:22 +0100 (CET)
+ICXclient: /home/free/hu.cz/s/sender/root/www
+Subject: Dearest In Christ
+X-PHP-Script: sender.hu.cz/mailer.php for 41.58.84.162, 10.10.30.20
+From: Mrs. Marrian John 
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 8bit
+Message-Id: <20120113182823.07A59C644C0@freeweb1.ic.cz>
+Date: Fri, 13 Jan 2012 19:28:22 +0100 (CET)
+ Quote:   Dearest In Christ.
+
+Greetings to you in the Mighty name of our Lord Jesus Christ. I am Mrs. Marrian John from Gambia.
+
+I am married to Dr. John who worked with Gambia embassy in Ghana Ancra for nine years before he died in the year 2011.
+
+We were married for eleven years without a child.
+
+He died after a brief illness that lasted for only four days.
+
+Before his death we were both born again Christians.
+
+Since his death I decided not to remarry or get a child out side my matrimonial home which the Bible is against.
+
+When my late husband was alive he deposited a trunk box that contains US$2.5 million US dollars in a security company here in Ghana Ancra.
+
+Presently the trunk box is still in the security company  please i want you to bear in mind that the security company did not know the content of the trunk box because my late husband deposited it with there company as family valuables items i want you to keep it as a secret between both of us.
+
+Recently my Doctor told me that I would not last for the next Eight months due to cancer problem.
+
+The one that disturbs me most is my stroke sickness.
+
+Having known my condition I decided to donate this fund to a charity organization that will utilize this money the way I am going to instruct here .
+
+I want an organization that will use this fund for orphanages, schools, churches
+
+and widows, propagating the word of God and to endeavor that the house of God is maintained.
+
+The Bible made us to understand that "Blessed is the hand that giveth".
+
+I took this decision because I don   (sic)

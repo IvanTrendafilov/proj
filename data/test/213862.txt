@@ -1,0 +1,46 @@
+
+
+From Barrister George Whitte Tue Jan 10 15:16:44 2012
+X-Apparently-To:@yahoo.com via 66.94.239.163; Wed, 11 Jan 2012 11:38:22 -0800
+Return-Path: 
+X-YahooFilteredBulk: 79.123.228.12
+Received-SPF: permerror (encountered permanent error during SPF processing of domain of chamber.com)
+X-Originating-IP: [79.123.228.12]
+Authentication-Results: mta1349.mail.mud.yahoo.com  from=chamber.com; domainkeys=neutral (no sig);  from=chamber.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (HELO sinop.edu.tr) (79.123.228.12)
+ by mta1349.mail.mud.yahoo.com with SMTP; Wed, 11 Jan 2012 11:38:22 -0800
+Received: (qmail 30916 invoked by uid 453); 10 Jan 2012 23:16:49 -0000
+X-Virus-Checked: Checked by ClamAV on sinop.edu.tr
+Received: from localhost (HELO localhost) (127.0.0.1)
+   by sinop.edu.tr (qpsmtpd/0.83) with ESMTP; Wed, 11 Jan 2012 01:16:49 +0200
+Received: from 199-255-209-78.anchorfree.com (199-255-209-78.anchorfree.com
+[199.255.209.78]) by mail.sinop.edu.tr (Horde Framework) with HTTP; Wed, 11
+Jan 2012 01:16:44 +0200
+Message-ID: <20120111011644.12057i1slbv55h4w@mail.sinop.edu.tr>
+Date: Wed, 11 Jan 2012 01:16:44 +0200
+From: Barrister George Whitte 
+Reply-to: barr.georgewhitteesq@w.cn
+To: undisclosed-recipients:;
+Subject: 
+MIME-Version: 1.0
+Content-Type: text/plain;
+charset=ISO-8859-1;
+DelSp="Yes";
+format="flowed"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.6)
+Content-Length: 1420MANAGING PARTNER
+GEORGE WHITTE,ESQ.
+Berkshires House, 168-173 High Holborn, London WCIV 7AA
+United Kingdom.
+On behalf of the Trustees and Executor of the Estate of Late Engr.
+Fernando Sergio Morales I hereby attempt to reach you again. I wish to notify you that late Late Engr. Fernando Sergio Morales made you a beneficiary to his WILL. He left the sum of Six Million One Hundred Thousand Dollars (USD$6,100.000.00 ), to you in the codicil and last testament to his WILL. This may sound strange and unbelievable to you, but it is real and true. Late Fernando Sergio Morales  until his death was a very dedicated Christian who loved to give out. His great philanthropy earned him numerous awards during his lifetime, Late Fernando Sergio Morales died at the age of 71 years. According to him this money is to support your activities and to help the poor and the needy.
+Please you should send the information below for more directives and get back to us to enables us to proceed.
+1. Full Name 2. Telephone number 3. Contact Address/ Country 4, Occupation 5, Age 6, Your identity Card or National drivers licence
+Please respond back to me once you read the e-mail with the information to enable check on my file to know if you are the rightful for this Fund.
+Yours in Service,
+Barrister George Whitte.
+Email: barr.georgewhitteesq@w.cn
+
+GOD IS THE GREATEST ALL ACKNOWLEDGE HIS PRESENCE  

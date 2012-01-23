@@ -1,0 +1,51 @@
+
+
+Return-Path: 
+Delivered-To: GMX delivery to 
+Received: (qmail invoked by alias); 09 Jan 2012 15:13:29 -0000
+Received: from nm1-vm0.bullet.mail.sg1.yahoo.com (HELO nm1-vm0.bullet.mail.sg1.yahoo.com) [115.178.12.238]
+ by mx0.gmx.net (mx078) with SMTP; 09 Jan 2012 16:13:29 +0100
+Received: from [115.178.12.232] by nm1.bullet.mail.sg1.yahoo.com with NNFMP; 09 Jan 2012 15:13:27 -0000
+Received: from [115.178.12.250] by tm4.bullet.mail.sg1.yahoo.com with NNFMP; 09 Jan 2012 15:13:27 -0000
+Received: from [127.0.0.1] by omp1007.mail.sg1.yahoo.com with NNFMP; 09 Jan 2012 15:13:27 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 939068.9256.bm@omp1007.mail.sg1.yahoo.com
+Received: (qmail 16510 invoked by uid 60001); 9 Jan 2012 15:13:27 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.co.th; s=s1024; t=1326122007; bh=omTDtijbXksiBim8JX5zcWlK7PwGLeIgs606a8hzNn4=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=pqs+OamO2KJg5dE+iVNiVPk3Oew4GUh3seM+UqTRLIQ3IcVsbE+V5RIVuEBX7sLpX5JGz7FMq6wX5oweRBM4XlkV9CIV/7f9kwz+zLRW/aS3Lx6WDn1aLscGZ9OBz+gDhh2dAIcn0QCUfk8GJmGDyNFhTAhM0yxXnFcD/vrjASY=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+ s=s1024; d=yahoo.co.th;
+ h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+ b=38dfBJSw27W+juIsQBdZRzhGeEhsHVcCKaUlZm23Kcl1AR27Y6wd6Vt9KFHP/IMEMLKcPKua5ZuUsrSKSBbfLaBCVpYJQF8FDhz7XWzJ+A4M5DnaXj8u7WHiDEV/hWZIImvkL3akiLwH143HKn0gOPBO2zqorHl6OyL58FZapaA=;
+X-YMail-OSG: fpB9u1EVM1nEjIkzPGtO07F2ES7v5XNuwd1cYnWHfM59hD9
+_.GvAFfIQfBgKWOalFjyKClh2FA4Illc.17bpZ4d.K8.gP9RF4ZSvtOGyiam
+CcEOcplAej7pqRC3nR4bxjvrHVyGcM2LDbmSmXski7Hd.DQN05LNrquD98_5
+btCVvdKs7EoofrAqKHIYfkNgcgGbwc8EM4lnnZU9.miGUwLQFKowQVqM6E94
+pQoxFRx0yXN0jnJ_e2inhMEvtZoc70wAxls_MN3KQAqUpVTks3zphGcWmCoK
+xOXo0fvids1T7fi8YR6nPJJqCzP4vcy1thCIpynDH4ASr.K_LDSnm1ODO5Z3
+5jBdgScQKiWnLQH3QFJwK1YFy566bunY5.0b.D8.zHznxINMEEVEVQDRtk1d
+P3TEVHDxdvDMaLsHWj2srFeknkWuk5D9.fTDqBwK1xnmrTQlOCHb2iuXfza0
+3Q7azMrovvUJJU2s-
+Received: from [41.208.132.112] by web190002.mail.sg3.yahoo.com via HTTP; Mon, 09 Jan 2012 23:13:27 SGT
+X-Mailer: YahooMailClassic/15.0.4 YahooMailWebService/0.8.115.331698
+Message-ID: <1326122007.13716.YahooMailClassic@web190002.mail.sg3.yahoo.com>
+Date: Mon, 9 Jan 2012 23:13:27 +0800 (SGT)
+From: Katima Kadia 
+Reply-To: katima_kadia@hotmail.com
+Subject: Hello dear,
+To: 
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1175058318-936690648-1326122007=:13716"
+X-GMX-Antivirus: 0 (no virus found)
+X-GMX-Antispam: 0 (Mail was not recognized as spam);
+Detail=5D7Q89H36p67L+14x3nVCNw/fnA2/zRYtJDDuGn4rrh6eyx9NtiCsPsPwKvuAIrNSPaXR
+6LjJAKF4kF5X5dkmaOV36PK4RbT40Vh+91fkX0u+jRCyPe+d6g6GhpF1E4yOQ7TDD2ExSHSBJQDD
+l2xqIufFgTZkXhefyVTvp6MIrKriU5wWBSmvo5Xr53VXa2rV4imJy2PWYAHMA1Svt43/q4YDKaO/
+h0nu8wGgm4qmHQ=V1;
+X-GMX-UID: NjUyOFAhSzg3M/Rs4DIx1m8xMWXlN8lx
+X-Flags: 1401
+
+Hello dear,
+How are you today, I am Miss Katima Kadia, 27 years old from the repulic of libya writing from, Medina (Dakar Senegal) I am interested in visiting your country for plan about investment project and I will need your help and assist in direct my project plan, please if you interested help me, hope to read your mail soon.
+
+Faithfully,
+Miss Katima Kadia

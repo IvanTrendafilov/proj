@@ -1,0 +1,94 @@
+
+
+Return-Path: 
+Received: from ims-d11.mx.aol.com (ims-d11.mx.aol.com [205.188.249.148])
+       (envelope-from ellies83@aol.com)
+Received: from oms-mb04.r1000.mx.aol.com (oms-mb04.r1000.mx.aol.com [64.12.102.140])
+       by ims-d11.mx.aol.com (8.14.1/8.14.1) with ESMTP id q04Bk1Mc029919;
+       Wed, 4 Jan 2012 06:46:04 -0500
+Message-Id: <201201041146.q04Bk1Mc029919@ims-d11.mx.aol.com>
+Received: from mtaout-ma06.r1000.mx.aol.com (mtaout-ma06.r1000.mx.aol.com [172.29.41.6])
+       by oms-mb04.r1000.mx.aol.com (AOL Outbound OMS Interface) with ESMTP id 154E71C000081;
+       Wed,  4 Jan 2012 06:46:03 -0500 (EST)
+Received: from User (207-170-223-176.static.twtelecom.net [207.170.223.176])
+       by mtaout-ma06.r1000.mx.aol.com (MUA/Third Party Client Interface) with ESMTPA id 7FC2FE000095;
+       Wed,  4 Jan 2012 06:44:57 -0500 (EST)
+Reply-To: 
+From: "comfirm the receipt of this message"
+Subject: RE: Do not ignore this message!
+Date: Wed, 4 Jan 2012 03:46:16 -0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+       boundary="----=_NextPart_000_00D4_01C2A9A6.2F164EF0"
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+x-aol-global-disposition: S
+X-SPAM-FLAG:YES
+X-AOL-VSS-INFO: 5400.1158/77470
+X-AOL-VSS-CODE: clean
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+       s=20110426; t=1325677563;
+       bh=y6/R31j3OCGiPSeFjiDJ6uRTtLDn3P81j7153lGnltQ=;
+       h=From:Subject:Date:MIME-Version:Content-Type;
+       b=lQnktVq5gTe1lhoLAJsNH7w6/CGvSrx/wcgcPEwpwBGPXU9Y9zZSCeocI9wA2XfZu
+        pz0QN+A3NQA/4N9k1P72hoxt3WrBxvwhmD1s9PYhMy32F2PA5qcK7GMGLkDRyA6BYZ
+        hR0LjhE5r0NtYLMOAj5esnv0GAswJF7uLkNYuoKc=
+X-AOL-SCOLL-SCORE: 0:2:328855904:93952408  
+X-AOL-SCOLL-URL_COUNT: 0  
+X-AOL-REROUTE: YES 
+x-aol-sid: 3039ac1d29064f043bb97d04
+X-AOL-IP: 207.170.223.176
+To: undisclosed-recipients:;
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.3 
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_00D4_01C2A9A6.2F164EF0
+Content-Type: text/plain;
+       charset="utf-7"
+Content-Transfer-Encoding: 7bit
+
+I know you would be surprised to read from someone relatively unknown to you..please download and read the attached file for more clearification.
+
+Greetings,
+
+I know you would be surprised to read from someone relatively unknown to
+you. My name is Lt. Suzanne Bayer, a member of the U.S. ARMY USARPAC
+Medical Team, which was deployed to Iraq at the beginning of the war in
+Iraq.
+
+I would like to share some highly personal classified information about
+my personal experience and role which I played in the pursuit of my
+career serving under the U.S 1st Armored which was at the fore-front of
+the war in Iraq.
+
+Though, I would like to hold back certain information for security
+reasons for now until you have found the time to visit the BBC website
+stated below to enable you have an insight into what I intend sharing
+with you, believing that it would be of your desired interest one-way or
+the other.
+
+http://news.bbc.co.uk/2/hi/middle_east/2988455.stm\par
+
+http://www.jonathanforeman.com/military/nyp_iraq/04192003_chest.html
+
+Also, could you get back to me having visited the above websites to
+enable us discuss in a more clarifying manner, and to the best of your
+understanding. I must say that I'm very uncomfortable sending this
+message to you without knowing truly if you would misconstrue the
+importance and decide to go public. In this regard, I will not hold back
+to say that the essence of this message is strictly for the mutual
+benefit of you and I and nothing more.
+
+I will be vivid and coherent in my next message in this regard,
+meanwhile, could you send me an email confirming that you have visited
+the site and that you have understood my intentions? I will await your
+thoughts via my personal email: suzanne.bayer2@gmx.com
+
+Thanks,
+
+Best Regards,
+
+Lt. Suzanne Bayer.

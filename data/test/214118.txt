@@ -1,0 +1,97 @@
+
+
+Attn: Lucky Winner,
+Wednesday, January 18, 2012 2:13 AM
+From THE GREAT WEATHER Wed Jan 18 00:13:49 2012
+X-Apparently-To: 		 via 67.195.15.110; Wed, 18 Jan 2012 00:13:52 -0800
+Return-Path: 		
+Received-SPF: 		none (domain of yahoo.co.id does not designate permitted sender hosts) eW91IHRoYXQgeW91ciB3aW5uaW5nIHByaXplIG1vbmV5IGZyb20gIFRIRSBH UkVBVCBXRUFUSEVSIExPVFRFUlkgSU5URVJOQVRJT05BTCB3aWxsIGJlIGNh bmNlbGxlZCBzb29uZXN0IGR1ZSB0byB5b3VyIGZhaWx1cmUgdG8gY2xhaW0g eW91ciBtb25leSBhcyBkaXJlY3RlZCBieSB0aGUgbG90dGVyeSBjby1jb29y ZGluYXRvci4KCllvdSBhcmUgYWR2aXNlZCBieSB0aGlzIG1haWwBMAEBAQE-
+X-YMailISG: 		KPOUSwoWLDtGTMcJwknIY1WPwCOopsBO4.CF_GaP6L_7N5_S dX1NU7q7r.ATlMkxim4KJoEkeIlbCBTZ7fC_1HFlWGlQ0O66kzqw0FhM0KXA V7uWkiIfUa0xvbDf8IgZuRe1.4ktCVBvIoPJKT4auTDKiyUCiCCmzv9QhRHw rrvGOpT8_PSfNl1JUf3c9oJD9LY4TPI0JVQfI_Zqyr0uqbYRlZL4v07MVlXh FnmncEDNad1QPsFmTbeGQo1XJ0QwVfYfa4XnqtZQ.cgeV_4RZF2J3ivw443C VM5z7n9eD6jjzGBSToMzx3zid8vwt7KOiKEby.QKR60Q7EP.Ni4Q2n7KBHp7 EtZZRZax2LWV8lRU2B1ZHXFjSS_na_9VM9fnLnFrFeFOn39Lh1NeC.wMCehW caGum5CyMAMcS1g-
+X-Originating-IP: 		[115.178.12.224]
+Authentication-Results: 		mta1006.sbc.mail.sp1.yahoo.com from=yahoo.co.id; domainkeys=pass (ok); from=yahoo.co.id; dkim=pass (ok)
+Received: 		from 12.102.252.83 (EHLO alnwmxc03.att.net) (12.102.252.83) by mta1006.sbc.mail.sp1.yahoo.com with SMTP; Wed, 18 Jan 2012 00:13:52 -0800
+Received: 		from nm2.bullet.mail.sg1.yahoo.com ([115.178.12.224]) by att.net (alnwmxc03) with SMTP id <20120118081346a03008rnqne>; Wed, 18 Jan 2012 08:13:46 +0000
+X-Originating-IP: 		[115.178.12.224]
+Received: 		from [115.178.12.221] by nm2.bullet.mail.sg1.yahoo.com with NNFMP; 18 Jan 2012 08:13:49 -0000
+Received: 		from [115.178.12.216] by tm2.bullet.mail.sg1.yahoo.com with NNFMP; 18 Jan 2012 08:13:49 -0000
+Received: 		from [127.0.0.1] by omp1001.mail.sg1.yahoo.com with NNFMP; 18 Jan 2012 08:13:49 -0000
+X-Yahoo-Newman-Property: 		ymail-3
+X-Yahoo-Newman-Id: 		358795.14682.bm@omp1001.mail.sg1.yahoo.com
+Received: 		(qmail 80523 invoked by uid 60001); 18 Jan 2012 08:13:49 -0000
+DKIM-Signature: 		v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.co.id; s=s1024; t=1326874429; bh=3VhwqUpE5ecAfSXAlKas6OAyQqAdhwh8CnOp7+UXuCk=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=r+gZau1eiHOOvtdlrmTrhRaucKvsldlYe7r4qqhq2DOLBnq+vEm3Z1bi8nBUFvBDyD2zaOEJF3lfqnJASojouhecVvZOb7WAtr4Qbe7tYeA8IExJfkP3zqgC7rLOzwdnRQZEUd96obAb3n3L9VF0mfs9ctE9lWJ9eFCArzQvLPs=
+DomainKey-Signature: 		a=rsa-sha1; q=dns; c=nofws; s=s1024; d=yahoo.co.id; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=BH+/gvwjq/PbeTuH9PFFD7EjhC/XgQBByKkvzKS5IGTlmcdabCb5vPzwtNSLWUosYOTXNmt25ShHFIN9RrG0nvWa7THZdLEvMQMi+B5OE6fIdX998qcSDx6htgjVWkyGPwxFQj6H6zLR7qTICuS/XLQQ24qzQqyJGehVPQRYPN0=;
+X-YMail-OSG: 		H5_zEDMVM1lUocN4Lc0DnwjgJZSNKP9xvPmpxYMR5.7RCRY ctCK_CTHDyqp5HOB6ec_yoBLKSwEqPGNjsyFSSlgFPPFkhkMN4Ui.MyLHwRo CEAsavOK5NCm3AOOk8Ce4e6_Miq.KpkzlxXrCsCdN4bWeENoB1TQEzzJiGDM G9ZJBPxv4yBB43gBr4i2J6gq41a9uuNxNzajzN3NtuH6YRQaF8qnHY0Bpkzd meZCPkb9B4GcwFaCZZhl_rfTMWLnczJzXS3FUFnGgUuCgw8RBws0a5NQ5tdL VNNnx31FcXr8LOA6kNhg0PeJ7EOT5WMDvPObXEDwUiEKXkGOr7vxAWavV3eS 2JKxDJyqAkjxSx5Ul5IGObER_VAfBtV3FXcIPUIUcxoDq.5WqZxC3HiMmEM6 .n_cFYLKNgzCcHcOSmMNjo8Jhbye1NNT5O5KUrKTK2go8FlCdafpY
+Received: 		from [41.203.64.128] by web190004.mail.sg3.yahoo.com via HTTP; Wed, 18 Jan 2012 16:13:49 SGT
+X-Mailer: 		YahooMailClassic/15.0.4 YahooMailWebService/0.8.115.331698
+Message-ID: 		<1326874429.65438.YahooMailClassic@web190004.mail.sg3.yahoo.com>
+Date: 		Wed, 18 Jan 2012 16:13:49 +0800 (SGT)
+From: 		This sender is DomainKeys verified
+THE GREAT WEATHER   
+Add sender to Contacts
+Reply-To: 		dr.ahmedghali371@gmail.com
+Subject: 		Attn: Lucky Winner,
+To: 		undisclosed recipients: ;
+MIME-Version: 		1.0
+Content-Type: 		multipart/alternative; boundary="-657894450-1591401671-1326874429=:65438"
+Content-Length: 		5703
+Compact Headers
+
+Attn: Lucky Winner,
+
+This is to inform you that your winning prize money from  THE GREAT WEATHER LOTTERY INTERNATIONAL will be cancelled soonest due to your failure to claim your money as directed by the lottery co-coordinator.
+
+You are advised by this mail to contact the accredited claims agent today for your payment without further delay.
+
+All participants were selected randomly from World Wide Web site through computer draws system and extracted from over 10,000,00 companies and personal e-mails.
+
+For security reasons, you are advised to keep your winning information confidential till your claims is processed and your money remitted to you in whatever manner you deem fit to claim your prize.
+
+This is part of our precautionary measure to avoid double claiming and unwarranted abuse of this program by some unscrupulous elements.
+
+Note that your lucky winning number falls within our Afro booklet representative office in Africa. The claims agent will inform you on the best option for payment to winners from your part of the world.
+
+Note also the following:
+
+Your Ref number for the claim is: 007pwyz2006
+Winning Numbers Au0630677
+Batch Numbers 0075
+Bonus Numbers 5023783QL
+Winning Amount: $1.6million.
+
+You are therefore advised to provide the under listed Claim requirements information to the lottery payment handling officer.
+
+Claim Requirements:
+
+1. Names in Full
+
+2. Address:
+
+3. Phone/Fax:
+
+4. Age:
+
+5. Occupation:
+
+6. Nationality:
+
+===============================================================
+
+Failure to contact the claims agent { Dr. Ahmed Ghali} whose
+information is stated below within 7 working days of this
+notification, your winning will be revoked.
+
+Accredited Claims Agent.
+Name: Dr. Ahmed Ghali
+E-mail: drahmedghali371@yahoo.com.ph
+Phone Number: +234-809-312-9707
+
+Accept our heartily congratulations once again!
+
+Regards.
+Mr. Tony O. MiTchael
+Manager
+-----------------------------------------------------------------------------------------------------------------------------------
+Lottery Service Providers,
+FREEPOST NEA 12220,
+Leeds, LS6 2YY
+The Great Weather Lottery is approved and certified by the Gaming Board for Great Britain.

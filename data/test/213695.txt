@@ -1,0 +1,69 @@
+
+
+Received: by 10.68.48.39 with SMTP id i7cs25116pbn;
+       Sat, 7 Jan 2012 15:48:31 -0800 (PST)
+Received: by 10.216.137.232 with SMTP id y82mr1350373wei.0.1325980109374;
+       Sat, 07 Jan 2012 15:48:29 -0800 (PST)
+Return-Path: 
+Received: from nm24-vm1.bullet.mail.ukl.yahoo.com (nm24-vm1.bullet.mail.ukl.yahoo.com. [217.146.176.157])
+       by mx.google.com with SMTP id t65si30946265weq.5.2012.01.07.15.48.28;
+       Sat, 07 Jan 2012 15:48:29 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning kafoumevetlyn@indiatimes.com does not designate 217.146.176.157 as permitted sender) client-ip=217.146.176.157;
+Authentication-Results: mx.google.com; spf=softfail (google.com: domain of transitioning kafoumevetlyn@indiatimes.com does not designate 217.146.176.157 as permitted sender) smtp.mail=kafoumevetlyn@indiatimes.com; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [217.146.183.208] by nm24.bullet.mail.ukl.yahoo.com with NNFMP; 07 Jan 2012 23:48:28 -0000
+Received: from [217.146.183.176] by tm1.bullet.mail.ukl.yahoo.com with NNFMP; 07 Jan 2012 23:48:28 -0000
+Received: from [127.0.0.1] by omp1017.mail.ukl.yahoo.com with NNFMP; 07 Jan 2012 23:48:28 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 390590.34635.bm@omp1017.mail.ukl.yahoo.com
+Received: (qmail 13866 invoked by uid 6007); 7 Jan 2012 23:48:28 -0000
+DKIM-Signature: v=1; a=rsa-sha256;
+Return-Path: 
+X-YahooFilteredBulk: 223.165.24.78
+X-Originating-IP: [223.165.24.78]
+Authentication-Results: mta1088.mail.ukl.yahoo.com  from=indiatimes.com; domainkeys=pass (ok);  from=indiatimes.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (HELO vomta1.indiatimes.com) (223.165.24.7
+  by mta1088.mail.ukl.yahoo.com with SMTP; Sat, 07 Jan 2012 23:48:28 +0000
+Received: (qmail 19311 invoked by uid 508); 7 Jan 2012 23:42:47 -0000
+Comment: DomainKeys? See http://antispam.yahoo.com/domainkeys
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+ s=private; d=indiatimes.com;
+ b=tRKyLcCGxziRPrBjCib2jDQZDHY3IHCza0LToFGj/oM6hkiRr++ALu1KUSDwaGNj  ;
+Received: from 192.168.24.54 by vomta1.indiatimes.com (envelope-from , uid 502) with qmail-scanner-1.25st 
+(spamassassin: 3.3.1. perlscan: 1.25st.  
+Clear:RC:1(192.168.24.54):SA:0(3.5/4.9):. 
+Processed in 0.173474 secs); 07 Jan 2012 23:42:47 -0000
+X-Spam-Status: No, hits=3.5 required=4.9
+X-Spam-Level: +++
+X-Spam-Report: SA TESTS
+ 0.0 FREEMAIL_FROM          Sender email is freemail
+                            (kafoumevetlyn[at]indiatimes.com)
+ 0.1 RDNS_NONE              Delivered to internal network by a host with no rDNS
+ 0.0 HELO_NO_DOMAIN         Relay reports its domain incorrectly
+ 2.8 FREEMAIL_REPLYTO       Reply-To/From or Reply-To/body contain different
+                            freemails
+ 0.0 T_TO_NO_BRKTS_FREEMAIL T_TO_NO_BRKTS_FREEMAIL
+ 0.1 TO_NO_BRKTS_DIRECT     To: misformatted and direct-to-MX
+ 0.5 TO_NO_BRKTS_NOTLIST    To: misformatted and not a mailing list
+X-Indiatimes-Scanner-Mail-From: kafoumevetlyn@indiatimes.com via vomta1.indiatimes.com
+X-Indiatimes-Scanner: 1.25st (Clear:RC:1(192.168.24.54):SA:0(3.5/4.9):. Processed in 0.173474 secs Process 19290)
+Received: from irmta7.indiatimes.com (192.168.24.54)
+ by vomta1.indiatimes.com with SMTP; 7 Jan 2012 23:42:46 -0000
+Received: from tilmb13.indiatimes.com (unknown [192.168.23.10])
+	by irmta7.indiatimes.com (Postfix) with ESMTP id 54BA990005;
+	Sun,  8 Jan 2012 05:12:44 +0530 (IST)
+Date: Sun, 8 Jan 2012 05:12:44 +0530 (IST)
+From: kafoumba ehivetlyn 
+Reply-To: Ehivet kafoumba 
+Message-ID: <666549221.2257631325979764618.JavaMail.root@tilmb13.indiatimes.com>
+Subject: Hello
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [41.208.131.5]
+X-Mailer: Zimbra 5.0.6_GA_2313.RHEL4_64 (zclient/5.0.6_GA_2313.RHEL4_64)
+To: undisclosed-recipients:;
+
+Hello my dear
+I am mis Ehivet
+complement of the season
+How are you doing?

@@ -1,0 +1,49 @@
+
+
+Received: by 10.68.48.39 with SMTP id i7cs247959pbn;
+       Thu, 12 Jan 2012 06:02:27 -0800 (PST)
+Received: by 10.216.82.138 with SMTP id o10mr1577341wee.35.1326376945030;
+       Thu, 12 Jan 2012 06:02:25 -0800 (PST)
+Return-Path: 
+Received: from nm19-vm1.bullet.mail.ukl.yahoo.com (nm19-vm1.bullet.mail.ukl.yahoo.com. [217.146.183.114])
+       by mx.google.com with SMTP id a1si360752wie.34.2012.01.12.06.02.24;
+       Thu, 12 Jan 2012 06:02:25 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning rahem-zamany5047@msn.com does not designate 217.146.183.114 as permitted sender) client-ip=217.146.183.114;
+Authentication-Results: mx.google.com; spf=softfail (google.com: domain of transitioning rahem-zamany5047@msn.com does not designate 217.146.183.114 as permitted sender) smtp.mail=rahem-zamany5047@msn.com; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [217.146.183.209] by nm19.bullet.mail.ukl.yahoo.com with NNFMP; 12 Jan 2012 14:02:24 -0000
+Received: from [217.146.183.42] by tm2.bullet.mail.ukl.yahoo.com with NNFMP; 12 Jan 2012 14:02:24 -0000
+Received: from [127.0.0.1] by omp1027.mail.ukl.yahoo.com with NNFMP; 12 Jan 2012 14:02:24 -0000
+X-Yahoo-Newman-Property: ymail-5
+X-Yahoo-Newman-Id: 318000.11005.bm@omp1027.mail.ukl.yahoo.com
+Received: (qmail 89762 invoked by uid 6007); 12 Jan 2012 14:02:24 -0000
+DKIM-Signature: v=1; a=rsa-sha256;
+X-Originating-IP: [65.55.116.37]
+Authentication-Results: mta1057.mail.ukl.yahoo.com  from=msn.com; domainkeys=neutral (no sig);  from=msn.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO blu0-omc1-s26.blu0.hotmail.com) (65.55.116.37)
+ by mta1057.mail.ukl.yahoo.com with SMTP; Thu, 12 Jan 2012 14:02:23 +0000
+Received: from BLU0-SMTP165 ([65.55.116.7]) by blu0-omc1-s26.blu0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Thu, 12 Jan 2012 06:02:22 -0800
+X-Originating-IP: [212.52.153.120]
+X-Originating-Email: [rahem-zamany5047@msn.com]
+Message-ID: 
+Return-Path: rahem-zamany5047@msn.com
+Received: from user-82267e5160 ([212.52.153.120]) by BLU0-SMTP165.phx.gbl over TLS secured channel with Microsoft SMTPSVC(6.0.3790.4675);
+	 Thu, 12 Jan 2012 06:02:20 -0800
+From: rahem zamany 
+To: "." <.>
+X-Mailer: Pocomail 4.8 (4400) - EXPIRED EVALUATION VERSION
+X-URL: http://www.pocomail.com/
+Reply-To: rahemzamany100@gmail.com
+Date: Thu, 12 Jan 2012 13:59:43 +0000
+Subject: Confidential Respond.
+
+Good day!
+
+I am Mr Rahem Zamany director auditing and accounting department" bank of Africa (boa) Ouagadougou, Burkina Faso .I discovered the sum (usd7.2) belonging to a deceased customer of this bank the fund has been lying in a suspense account without anybody coming to put claim over the money since the account owner late, Mr Salla khat from Lebanese who was involved in the December 28th 2006 Benin car crash.
+
+it is therefore, upon this discovery that i decided to take this ultimatum and make this business proposal to you as the fund will be release to you as the next of kin or relation to the deceased for safety and subsequent disbursement since nobody is coming for it and i don't want this money to go into the bank treasury as unclaimed bill the banking rules here stipulates that if such money remained unclaimed after five years, the money will be transferred into the bank treasury as unclaimed fund. The request of foreigner as next of kin in this business is occasioned by the fact that the deceased customer was a foreigner and a Burkina be cannot stand as next of kin to a foreigner.
+
+Therefore, I am soliciting for your assistance to come forward as the next of kin. I have agreed that 40% of this money will be for you as the beneficiary respect of the provision of your account and service rendered, 60% will be for me. Then immediately the money transferred to your account from this bank, I will proceed to your country for the sharing of the fund.
+
+Yours faithful,
+Mr Rahem Zamany.

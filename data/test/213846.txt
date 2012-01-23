@@ -1,0 +1,62 @@
+
+
+Received: by 10.180.20.15 with SMTP id j15cs16174wie;
+       Thu, 12 Jan 2012 09:09:57 -0800 (PST)
+Received: by 10.220.153.134 with SMTP id k6mr2749585vcw.23.1326388195449;
+       Thu, 12 Jan 2012 09:09:55 -0800 (PST)
+Return-Path: 
+Received: from nm39-vm5.bullet.mail.ne1.yahoo.com (nm39-vm5.bullet.mail.ne1.yahoo.com. [98.138.229.165])
+       by mx.google.com with SMTP id r19si3100055anf.53.2012.01.12.09.09.54;
+       Thu, 12 Jan 2012 09:09:55 -0800 (PST)
+Received-SPF: neutral (google.com: 98.138.229.165 is neither permitted nor denied by best guess record for domain of headoffice.westernunion0@yahoo.com.au) client-ip=98.138.229.165;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 98.138.229.165 is neither permitted nor denied by best guess record for domain of headoffice.westernunion0@yahoo.com.au) smtp.mail=headoffice.westernunion0@yahoo.com.au; dkim=pass (test mode) header.i=@yahoo.com.au
+Received: from [98.138.90.54] by nm39.bullet.mail.ne1.yahoo.com with NNFMP; 12 Jan 2012 17:09:54 -0000
+Received: from [98.138.89.171] by tm7.bullet.mail.ne1.yahoo.com with NNFMP; 12 Jan 2012 17:09:54 -0000
+Received: from [127.0.0.1] by omp1027.mail.ne1.yahoo.com with NNFMP; 12 Jan 2012 17:09:54 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 379961.24562.bm@omp1027.mail.ne1.yahoo.com
+Received: (qmail 74624 invoked by uid 60001); 12 Jan 2012 17:09:54 -0000
+DKIM-Signature:
+Received: from [81.91.230.147] by web122513.mail.ne1.yahoo.com via HTTP; Thu, 12 Jan 2012 09:09:54 PST
+X-Mailer: YahooMailClassic/15.0.4 YahooMailWebService/0.8.115.331698
+Message-ID: <1326388194.74306.YahooMailClassic@web122513.mail.ne1.yahoo.com>
+Date: Thu, 12 Jan 2012 09:09:54 -0800 (PST)
+From: HEAD OFFICE WESTERN UNION HEAD OFFICE WESTERN UNION headoffice.westernunion0@yahoo.com.au
+
+show details 11:09 AM (40 minutes ago)
+
+Warning: This message may not be from whom it claims to be. Beware of following any links in it or of providing the sender with any personal information.  Learn more
+
+Send Money Worldwide
+FROM THE DESK OF MR.DR ERIC BELLA
+FINANCIAL MINISTER OF FEDERAL REPUBLIQUE DU BENIN .
+FOREIGN CONTRACTOR PAYMENT OFFICE.
+Call us TEL PHONE +229-999-230-37
+
+Attention Please;
+
+Happy New Year To You, Our Dear Beneficiary? 
+
+
+Its my pleasure written this mail to wish you Happy New Year as the secretary whom is in charge of your fund in this Western Union Office Republique Du Benin in West Africa Region and also to informed about a new development which the Management of this Bank brings out to enable all our beneficiary to start receiving their $5,000.00per-day as it was programmed in our scheme of transfer.
+
+
+Lastly the Fee/amount which this Bank required from you before you can receive your first payment is now been decrease as the Management of this Western Union stated that you will only pay the sum of $85us dollars to enable you receive your first payment in this new Month/Year 2012. 
+Use this information below to send the transfer charges to enable us start sending the money today.
+
+The sender's name should be your name
+Receiver Name: Azibuike Felix
+Country: Benin Republic .
+City: Cotonou .
+Text Question: How Long?
+Answer: Soon.
+Amount: $85 .00us dollars
+
+Thanks for using our best service,
+
+I wait for your response.            
+
+ PRIVACY NOTE
+This message for the Republic of Benin law 196/03 about Privacy may contain confidential and/or privileged information..... If you are not the addressee or authorized to receive this message you must not use copy, disclose or take any action based on this message. If you have received it in error please kindly advice we immediately by re-ply e-mail or fax and however we ask you to delete it. Thank you.
+
+Thanks and God bless you. Dr. Eric Bella.secretary Western Union Head Office Benin Republic.+22999923037   

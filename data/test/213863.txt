@@ -1,0 +1,60 @@
+
+
+From Jenny Adams (Hiring Supervisor) Sat Jan  7 16:35:56 2012
+X-Apparently-@yahoo.com via 66.94.239.40; Wed, 11 Jan 2012 06:51:36 -0800
+Return-Path: 
+X-YahooFilteredBulk: 31.14.22.217
+Received-SPF: pass (domain of doublethewin.com designates 31.14.22.217 as permitted sender)
+XiwcH7exK2Ktxwyghb.dMjdA
+X-Originating-IP: [31.14.22.217]
+Authentication-Results: mta1148.mail.mud.yahoo.com  from=doublethewin.com; domainkeys=permerror (no key);  from=doublethewin.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO doublethewin.com) (31.14.22.217)
+ by mta1148.mail.mud.yahoo.com with SMTP; Wed, 11 Jan 2012 06:51:36 -0800
+DomainKey-Signature: a=rsa-sha1;
+ c=simple; q=dns;
+d=doublethewin.com; s=default; h=To:Subject:Message-ID:Date:From:To;
+Received: from www.soundthegate.com (31.14.22.125) by axigen.mxserver.ro (Axigen)
+with ESMTPA id 189151; Sun, 8 Jan 2012 02:35:56 +0200
+To: ticklemetorgo@yahoo.com
+Subject: Get $25 for your first paid survey!
+Message-ID: 
+Return-Path: noreply@doublethewin.com
+Date: Sun, 08 Jan 2012 04:35:56 +0400
+From: "Jenny Adams (Hiring Supervisor)" 
+Reply-To: noreply@doublethewin.com
+MIME-Version: 1.0
+X-Mailer-LID: 9,7,3,13
+List-Unsubscribe: 
+X-Mailer-SID: 34
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8";
+boundary="b1_8fd13be3f765dcdb750b06cd653ab698"
+Content-Transfer-Encoding: 8bit
+Content-Length: 2321Hi,
+Recently, our website was featured in some major news networks.  After helping
+1000s of people get at home survey jobs from big companies worldwide, the media
+finally caught on.
+
+Big companies are willing to pay people just like you for your opinion
+on their products and services.  Usually, this is just in the form of a survey
+you fill out online... takes about 5-10 minutes and can pay up to $35.
+
+Click Here To Get Started Now! http://windouble4.spaid.hop.clickbank.net
+
+That's not bad for 5-10 minutes of work right?  Especially if you are doing
+10 surveys a day!
+
+Because of this news story, we have seen thousands of new members signing up... so many
+people that we almost cannot even handle the demand.
+
+We are on the verge of not accepting any new members for awhile.  So, if
+you are interested, you need to join RIGHT now because we will not be
+accepting any new members within a few days until the demand dies down.
+
+Don't delay, click the link below to start right away:
+http://windouble4.spaid.hop.clickbank.net
+
+Regards,
+Jenny Adams
+Hiring Supervisor
+Surveys Paid  

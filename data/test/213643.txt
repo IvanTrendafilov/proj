@@ -1,0 +1,109 @@
+
+
+Return-path: 
+Envelope-to: 
+Delivery-date: Sat, 07 Jan 2012 19:00:22 -0800
+Received: from mail20.sunh.com ([208.9.6.194])
+	by  with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.69)
+	(envelope-from )
+	id 1Rjize-00083u-4I
+	for ; Sat, 07 Jan 2012 19:00:22 -0800
+Received: from unknown (HELO EXCLUSTER2.sun.sunh.net) ([10.12.17.102])
+ by mail20.sunh.com with ESMTP; 07 Jan 2012 10:59:01 -0700
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CCCD65.BFE857FC"
+Subject: PCL Email Draw Lucky No:8/17/21/39/22/*5/*9
+Date: Sat, 7 Jan 2012 10:56:58 -0700
+Message-ID: <115DCADB5453864DB04CAD952EFD86280874F897@EXCLUSTER2.sun.sunh.net>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: PCL Email Draw Lucky No:8/17/21/39/22/*5/*9
+Thread-Index: AczNZb7PFk8mkzLGQ0e08ufzbFS/Lw==
+From: "Lynne O`Connor" 
+X-Spam-Subject: ***SPAM*** PCL Email Draw Lucky No:8/17/21/39/22/*5/*9
+X-Spam-Status: Yes, score=10.9
+X-Spam-Score: 109
+X-Spam-Bar: ++++++++++
+X-Spam-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  PCL Email Draw Lucky No:8/17/21/39/22/*5/*9 REPLY TO EMAIL:
+	postcode1820@aim.com DEAR WINNER [...] 
+	Content analysis details:   (10.9 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	3.1 DEAR_WINNER            BODY: DEAR_WINNER
+	2.9 LOTTO_AGENT            BODY: Claims Agent
+	-0.5 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+	1.0 MISSING_HEADERS        Missing To: header
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+	0.8 BAYES_50               BODY: Bayes spam probability is 40 to 60%
+	[score: 0.4776]
+	0.0 LOTS_OF_MONEY          Huge... sums of money
+	3.6 HK_LOTTO               HK_LOTTO
+	0.0 MONEY_LOTTERY          Lots of money from a lottery
+X-Spam-Flag: YES
+
+This is a multi-part message in MIME format.
+
+------_=_NextPart_001_01CCCD65.BFE857FC
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+PCL Email Draw Lucky No:8/17/21/39/22/*5/*9
+
+REPLY TO EMAIL: postcode1820@aim.com
+
+DEAR WINNER
+
+
+Following the official publication of results of the E-mail electronic On-line Sweepstakes organized by Postcode Lotterij BE in conjunction with the foundation promoting software products in Belgium, we are pleased to inform you that your electronic email address emerged as one of the on-line winning emails in the 1st category held on Wednesday 4th of January 2012: Your email address was attached to a cash award of EUR2,200.000.00Euro (Two Million Two Hundred Thousand Euro), you are advice to contact the processing officer immediately upon receipt of this message.
+
+
+Contact the claim agents: FOREIGN TRANSFER MANAGER
+
+CONTACT: Mr. West Van Nevelle
+
+CITY/ COUNTRY: Bruxelles Belgium.
+
+TEL:+32-489128873/+1132-489128873
+
+Reply to Email: postcode1820@aim.com
+
+
+It is important to note you that your award information was released today with the following particulars.
+
+
+WINNING INFORMATIONS
+
+(I)Reference No: 14/11/29/47/10/13
+
+(II)Batch No: JANPCL/18/4/50/16/20
+
+(III)Serial No:PCL2012/000/356621001
+
+(IV)Ticket No: 5/25/29/19/40
+
+(V)Lucky No: 8/17/21/39/22/*5/*9
+
+(VI)Your Full Name & Telephone Number
+
+
+Note: all winning must be claim not later than 31th of January 2012
+
+
+Sincerely
+
+Michelle Peterson
+
+Reply to Email: postcode1820@aim.com
+
+Postcode Lotterij Notification Team
+
+This e-mail and any attachments may be privileged, confidential, and/or proprietary. If you are not the intended recipient of this email, please delete it and do not read, distribute, or reproduce it. The unauthorized use of this e-mail is strictly prohibited. Thank you.

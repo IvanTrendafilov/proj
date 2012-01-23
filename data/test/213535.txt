@@ -1,0 +1,242 @@
+
+
+Viewing Full Header - View message
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on mc3.midcoast.com
+X-Spam-Flag: YES
+X-Spam-Level: ********************************
+X-Spam-Status: Yes, score=32.8 required=5.0 tests=ADVANCE_FEE_2_NEW_FORM,
+    ADVANCE_FEE_2_NEW_FRM_MNY,ADVANCE_FEE_2_NEW_MONEY,ADVANCE_FEE_3_NEW,
+    ADVANCE_FEE_3_NEW_FORM,ADVANCE_FEE_3_NEW_FRM_MNY,ADVANCE_FEE_3_NEW_MONEY,
+    FAKE_REPLY_C,FILL_THIS_FORM,FILL_THIS_FORM_FRAUD_PHISH,FILL_THIS_FORM_LOAN,
+    FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,FORM_FRAUD_3,
+    FORM_FRAUD_5,FREEMAIL_FORGED_REPLYTO,FROM_MISSPACED,FROM_MISSP_EH_MATCH,
+    FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,FROM_MISSP_TO_UNDISC,FROM_MISSP_URI,
+    FROM_MISSP_USER,FSL_CTYPE_WIN1251,FSL_NEW_HELO_USER,FSL_UA,FSL_XM_419,
+    HK_LOTTO,HTML_MESSAGE,JM_SOUGHT_FRAUD_3,LOTS_OF_MONEY,MIME_HTML_ONLY,
+    MONEY_ATM_CARD,MONEY_FRAUD_3,MONEY_FRAUD_5,MONEY_FROM_MISSP,
+    MSOE_MID_WRONG_CASE,NSL_RCVD_FROM_USER,RCVD_IN_PSBL,RDNS_NONE,US_DOLLARS_3
+    shortcircuit=no autolearn=disabled version=3.3.2
+X-Spam-Report:
+    * 2.7 RCVD_IN_PSBL RBL: Received via a relay in PSBL
+    * [58.211.138.144 listed in psbl.surriel.com]
+    * 0.0 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+    * 1.0 FSL_XM_419 Old OE version in X-Mailer only seen in 419 spam
+    * 0.0 NSL_RCVD_FROM_USER Received from User
+    * 2.5 US_DOLLARS_3 BODY: Mentions millions of $ ($NN,NNN,NNN.NN)
+    * 0.0 HTML_MESSAGE BODY: HTML included in message
+    * 1.1 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+    * 0.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+    * 3.0 JM_SOUGHT_FRAUD_3 Body contains frequently-spammed text patterns
+    * 1.3 RDNS_NONE Delivered to internal network by a host with no rDNS
+    * 2.8 HK_LOTTO HK_LOTTO
+    * 0.0 FSL_NEW_HELO_USER FSL_NEW_HELO_USER
+    * 3.4 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+    * 0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+    * 0.0 FROM_MISSP_USER From misspaced, from "User"
+    * 0.1 FSL_UA FSL_UA
+    * 0.6 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+    * 0.0 LOTS_OF_MONEY Huge... sums of money
+    * 0.0 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+    * 0.0 MONEY_ATM_CARD Lots of money on an ATM card
+    * 0.0 FROM_MISSPACED From: missing whitespace
+    * 0.0 MONEY_FROM_MISSP Lots of money and misspaced From
+    * 2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+    * 0.0 FAKE_REPLY_C FAKE_REPLY_C
+    * 0.0 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+    * 0.0 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+    * 0.0 FROM_MISSP_URI From misspaced, has URI
+    * 2.8 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+    * 0.4 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 0.0 FILL_THIS_FORM Fill in a form with personal information
+    * 0.9 ADVANCE_FEE_3_NEW_FORM Advance Fee fraud and a form
+    * 0.0 ADVANCE_FEE_2_NEW_FRM_MNY Advance Fee fraud form and lots of money
+    * 3.2 ADVANCE_FEE_3_NEW_FRM_MNY Advance Fee fraud form and lots of money
+    * 1.2 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+    * 2.2 FILL_THIS_FORM_LOAN Answer loan question(s)
+    * 0.0 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.0 MONEY_FRAUD_3 Lots of money and several fraud phrases
+    * 0.0 MONEY_FRAUD_5 Lots of money and many fraud phrases
+    * 0.0 ADVANCE_FEE_2_NEW_FORM Advance Fee fraud and a form
+    * 0.4 FILL_THIS_FORM_FRAUD_PHISH Answer suspicious question(s)
+    * 0.5 FORM_FRAUD_5 Fill a form and many fraud phrases
+    * 0.1 FORM_FRAUD_3 Fill a form and several fraud phrases
+X-Original-To:
+Received: from localhost (localhost [127.0.0.1])
+    by mc3.midcoast.com (Postfix) with ESMTP id 8A68BF44F3
+    for ; Wed, 4 Jan 2012 07:23:19 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at midcoast.com
+Received: from mc3.midcoast.com ([127.0.0.1])
+    by localhost (mc3.midcoast.com [127.0.0.1]) (amavisd-new, port 10024)
+    with ESMTP id LZWMTwOcBQuH for ;
+    Wed, 4 Jan 2012 07:23:19 -0500 (EST)
+Received: from mx1.midcoast.com (mx1.midcoast.com [69.39.100.26])
+    by mc3.midcoast.com (Postfix) with ESMTP id 56A61F3FEC
+    for <; Wed, 4 Jan 2012 07:23:19 -0500 (EST)
+Received: from mail.qeweb.com (unknown [58.211.138.144])
+    by mx1.midcoast.com (Postfix) with ESMTP id C7C87EB792
+    for <; Wed, 4 Jan 2012 07:23:18 -0500 (EST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+    by mail.qeweb.com (Postfix) with ESMTP id B79526D6A1D;
+    Wed, 4 Jan 2012 20:22:56 +0800 (CST)
+Received: from mail.qeweb.com ([127.0.0.1])
+    by localhost (mail.qeweb.com [127.0.0.1]) (amavisd-new, port 10024)
+    with ESMTP id l5q3X2sO9QyT; Wed, 4 Jan 2012 20:22:56 +0800 (CST)
+Received: from User (unknown [64.31.21.158])
+    by mail.qeweb.com (Postfix) with ESMTPA id 59BA56D6BE4;
+    Wed, 4 Jan 2012 20:22:49 +0800 (CST)
+Reply-To: 
+From: "(OFAC) U.S Treasury Department."
+Subject: PJM-> Re: (OFAC) U.S Treasury Department.
+Date: Wed, 4 Jan 2012 04:21:27 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+    charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20120104122249.59BA56D6BE4@mail.qeweb.com>
+To: undisclosed-recipients:;
+X-Spam-Prev-Subject: Re: (OFAC) U.S Treasury Department.
+U.S Treasury Department's Office of Foreign Assets Control
+
+(OFAC) U.S Treasury Department's
+
+1500 Pennsylvania Avenue, NW
+
+Washington, DC 20220.
+
+
+
+Attn:
+
+
+
+This email is to notify you about the release of your outstanding payment which is
+truly $15.500.000.00 USD. The New Prime Minister (UK) scheduled a time frame to
+settle all foreign debts which includes Contract/Inheritance/ Gambling/ Lottery
+(Sponsored by Microsoft and National Lottery) and other international loans. News
+heard it that over the past numerous individual (s) who happen to be impostors
+(claiming to be individuals, banks and organizations) are claiming to release
+numerous sums of fund via
+
+numerous ways.
+
+
+
+With the help of the (OFAC) U.S Treasury Department's and with the FBI we have
+noticed that people have being asked to pay outrageous amount of money by these
+impostors for the transfer of their funds to them. We want you to stop all
+communication that has to do with these fraudsters who have been requesting
+unreasonable sums of money from you to release your funds which they do not have
+access to. We have received
+
+a mandate and instructions from the (OFAC) U.S Treasury Department's to commence the
+immediate release of your funds through one of the following payment options stated
+below depending on your choice:
+
+
+
+1. Payment via Automatic Teller Machine (ATM card): This is where you will be sent
+an Automatic Teller Machine card with Pin also known as ATM card (A Master Card
+would be issued). Upon receipt of your custom ATM card you will be allowed to
+withdraw $10,000 per day by default and you are given the option to transfer funds
+from your ATM card to your bank account.
+
+
+
+2. Certified Cashiers Check or Bank Draft: In this case you will be sent a certified
+bank draft or check signed in your favor which you will deposit in any bank for it
+to be cleared within 3 to 5 working days at most depending on your bank.
+
+
+
+3. Online Banking (Bank To Bank Transfer) to enable you process this operation,
+$545.90 Usd Dollars isRequired for opening for an online banking operation, that
+will enable you get access to your account Online.
+
+
+Below are few list of tracking numbers you can track from FedEx and UPS website to
+confirm people like you whom have successfully received their payment safely.
+
+
+
+Name : Mrs. Jeannie Michael: FedEx Tracking Number: 794588016471
+(www.fedex.com/Tracking?cntry_code=us)%3cbr>
+
+Name : Mrs. Vista Rayne Arnold: FedEx Tracking Number: 796925954101
+(www.fedex.com/Tracking?cntry_code=us)%
+
+3cbr>
+
+
+
+You are advised to select one out of the three options on how you wish to receive
+your $15.500.000.00 USD, Your Online Banking Access or ATM card or Check/Bank Draft
+will be shipped via Courier Shipping Company and would get to you within 2 working
+days at most.
+
+For international shipping as stated by our company We had to sign contract with
+Courier for bulk shipping which makes the fees reduce from the actual $675.99 Usd to
+$325.99 Usd only nothing more and no hidden fees of any sort.
+
+
+
+You are advised to contact the Department's Officer responsible for the shipping of
+your Check or ATM card with the following information for shipping of your payment
+Check or ATM card.
+
+
+
+Department's Officer: Mr. Larry Jones
+
+Email: larry.jones@yahoo.cn
+
+
+
+Try and provide him with the following information:
+
+
+
+Your full Name:
+
+Your Address:
+
+Occupation:
+
+Home/Cell Phone:
+
+Age:
+
+Sex:
+
+Scan copy of your Driver License OR International Passport:
+
+
+
+The Department's Officer Mr. Larry Jones will provide you with instructions on how
+you are to make payment of the $325.99 Usd only for the shipping of your ATM card or
+Cashiers Check. You are to adhere strictly to the instructions above for more
+information contact the Department's Officer.
+
+
+
+Remember that you are not paying any fees extra no matter what. Once again note that
+the actual Courier Retail Price: $475.99 Usd.Your Price (Because of our contract
+signed): is now $325.99 Usd only.
+
+
+
+Thanks,
+
+Ms. Terri Bradson
+
+U.S Treasury Department's Office of Foreign Assets Control
+
+(OFAC) U.S Treasury Department's
+
+1500 Pennsylvania Avenue, NW
+
+Washington, DC 20220.  

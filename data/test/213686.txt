@@ -1,0 +1,72 @@
+
+
+I'm gonna work this guy, but everyone else here should too!! 
+
+Viewing Full Header - View message
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on mc3.midcoast.com
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.4 required=5.0 tests=FORGED_MUA_OUTLOOK,
+    FREEMAIL_FORGED_REPLYTO,FROM_MISSPACED,FROM_MISSP_EH_MATCH,FROM_MISSP_MSFT,
+    FROM_MISSP_REPLYTO,FROM_MISSP_TO_UNDISC,FROM_MISSP_URI,FROM_MISSP_USER,
+    FSL_CTYPE_WIN1251,FSL_NEW_HELO_USER,FSL_UA,FSL_XM_419,NSL_RCVD_FROM_USER,
+    RCVD_IN_BRBL_LASTEXT,RDNS_NONE shortcircuit=no autolearn=disabled
+    version=3.3.2
+X-Spam-Report:
+    * 0.0 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+    * 1.0 FSL_XM_419 Old OE version in X-Mailer only seen in 419 spam
+    * 0.0 NSL_RCVD_FROM_USER Received from User
+    * 1.6 RCVD_IN_BRBL_LASTEXT RBL: RCVD_IN_BRBL_LASTEXT
+    * [195.28.181.50 listed in bb.barracudacentral.org]
+    * 0.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+    * 1.3 RDNS_NONE Delivered to internal network by a host with no rDNS
+    * 0.0 FSL_NEW_HELO_USER FSL_NEW_HELO_USER
+    * 0.0 FROM_MISSP_USER From misspaced, from "User"
+    * 0.1 FSL_UA FSL_UA
+    * 0.0 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+    * 0.0 FROM_MISSPACED From: missing whitespace
+    * 2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+    * 0.0 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+    * 0.0 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+    * 0.0 FROM_MISSP_URI From misspaced, has URI
+    * 2.8 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+X-Original-To: m
+Received: from localhost (localhost [127.0.0.1])
+    by mc3.midcoast.com (Postfix) with ESMTP id 9B95FF41CC
+    for <; Sun, 8 Jan 2012 14:43:20 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at midcoast.com
+Received: from mc3.midcoast.com ([127.0.0.1])
+    by localhost (mc3.midcoast.com [127.0.0.1]) (amavisd-new, port 10024)
+    with ESMTP id MpD2aOWgZ8OD for ;
+    Sun, 8 Jan 2012 14:43:19 -0500 (EST)
+Received: from mx1.midcoast.com (mx1.midcoast.com [69.39.100.26])
+    by mc3.midcoast.com (Postfix) with ESMTP id 69B5537C810
+    for ; Sun, 8 Jan 2012 14:43:14 -0500 (EST)
+Received: from DYADASBS.dyada.local (unknown [195.28.181.50])
+    by mx1.midcoast.com (Postfix) with ESMTP id 14AEFEB7C0
+    for ; Sun, 8 Jan 2012 14:43:13 -0500 (EST)
+Received: from User ([192.168.18.253]) by DYADASBS.dyada.local with Microsoft SMTPSVC(6.0.3790.4675);
+    Sun, 8 Jan 2012 21:43:08 +0200
+Reply-To: 
+From: "Michael Newport"
+Subject: PJM-> God bless you
+Date: Sun, 8 Jan 2012 11:43:06 -0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+    charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: 
+X-OriginalArrivalTime: 08 Jan 2012 19:43:10.0828 (UTC) FILETIME=[C0B472C0:01CCCE3D]
+To: undisclosed-recipients:;
+X-Spam-Prev-Subject: God bless you
+My dear
+
+Pardon me if my request met you sad.My name is Michael Newport and i practice Law in
+England.Please i need your hand in a legal deal that will benefit the both of us.I
+will explain more when you respond.
+ 

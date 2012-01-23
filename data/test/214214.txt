@@ -1,0 +1,41 @@
+
+
+Dear Sir/Madam
+Thursday, January 19, 2012 11:33 PM
+From mathewmalika1987 Thu Jan 19 21:33:16 2012
+X-Apparently-To: 		t via 67.195.15.107; Thu, 19 Jan 2012 21:57:02 -0800
+Return-Path: 		
+Received-SPF: 		pass (domain of gmail.com designates 209.85.160.195 as permitted sender) cmUgdG8gbWFpbCB5b3UsIGZpcnN0IG9mIGFsbCBpIGhhdmUgdG8gCmludHJv ZHVjZSBteSBodW1ibGUgc2VsZiB0byB5b3UsIG15IG5hbWUgaXMgTWF0aGV3 IE1hbGlrYSBmcm9tIApDb25nby4KCk15IEZhdGhlcsKgIG5hbWUgaXMgQ2hp ZWYgSnVtYSBNYWxpa2EgCmFuZCBoZSBvd25zIHRoZSBiaWdnZXN0wqAgZ29s ZCBhbmQgZGlhbW9uZCBjb21wYW55IAppbsKgIENvbmdvLCBkdXJpbmcBMAEB AQE-
+X-YMailISG: 		pwSaUwsWLDs1pccblFxkAmwgBXyGAnlGhikDb7qGaV9AVSY7 LB_aHgvKj4j1zJ98kpgit.fcm8BS4_pc4FTglP4wTo8M17NGZDvQ6OTT.wRL oPG0pLshTyhv7UC8jBJDHtQKrKgL88gkKE3HLxQddbY7JmwvXRZOuEyrjW8M flZPf.yf2zuFiKwNWCodTfI4.ze6g_EWjtDaNUbBVmWNoqb9NEiOEUi3NuCu CPz2Y5RY8.YA3Xsge14B0BZCrQoX.PErwoaDDHjajb.AmiRnfQRe_sYq9Dca aW2H.OJkjtIJJC6ttGKoN.PDhwLy9pWU.w1eIXVFua9a5aTa.Ja3TfjWO735 C1Iba3F9mD1cfjX9RHUgIQb6BBpEBcSjE91l0HFXPwjxiMkobCEu0M31C2Ci EdjTrKg-
+X-Originating-IP: 		[209.85.160.195]
+Authentication-Results: 		mta1005.sbc.mail.sp1.yahoo.com from=gmail.com; domainkeys=neutral (no sig); from=gmail.com; dkim=pass (ok)
+Received: 		from 204.127.208.84 (EHLO sccwmxc04.att.net) (204.127.208.84) by mta1005.sbc.mail.sp1.yahoo.com with SMTP; Thu, 19 Jan 2012 21:57:02 -0800
+Received: 		from mail-gy0-f195.google.com ([209.85.160.195]) by att.net (sccwmxc04) with SMTP id <20120120055702s04000fktte>; Fri, 20 Jan 2012 05:57:02 +0000
+X-Originating-IP: 		[209.85.160.195]
+Received: 		by ghbg15 with SMTP id g15so23231ghb.6 for ; Thu, 19 Jan 2012 21:57:01 -0800 (PST)
+DKIM-Signature: 		v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma; h=mime-version:date:message-id:subject:from:to:content-type; bh=PPA5d9BiJ2C1bZ88zVntdEEKWGkagh66axWVQIZ+5E0=; b=FYaXq8Au8ZxW7VbLogmOvU4rrmJ1aAt0qBKI6NeCadcnR2Y6xis8mMYcJjqBw3LtIE USBuoMznimu1HU3UqNZ9I7LvK1F4TvkjrbPq2k1DSCcSQijQdU5E2epFrN4BBrwHmMPn Hkp//6wH9IM3mGdcmDOUZAaB5llkSZLexN7xs=
+MIME-Version: 		1.0
+Received: 		by 10.236.187.97 with SMTP id x61mr42043844yhm.97.1327037596910; Thu, 19 Jan 2012 21:33:16 -0800 (PST)
+Received: 		by 10.101.127.1 with HTTP; Thu, 19 Jan 2012 21:33:16 -0800 (PST)
+Date: 		Fri, 20 Jan 2012 16:33:16 +1100
+Message-ID: 		
+Subject: 		Dear Sir/Madam
+From: 		
+mathewmalika1987   
+Add sender to Contacts
+To: 		mathew malika 
+Bcc: 		carcar@worldnet.att.net
+Content-Type: 		multipart/alternative; boundary=20cf30563995914e8404b6ef0486
+Content-Length: 		5265
+Compact Headers
+
+Dear Sir/Madam
+
+It is my pleasure to mail you, first of all i have to introduce my humble self to you, my name is Mathew Malika from Congo.
+
+My Father  name is Chief Juma Malika and he owns the biggest  gold and diamond company in  Congo, during the time of the war, i was in the warehouse with my  dad  calculating the sales of  half  of the year when the Rebels, bursting in side  the company of my late father, my elderly brother was been killed, and my father two hands and two legs was been cut off immediately, but God so kind  I managed  to hide myself, so when  the Rebels left I have to escape with all the money which amount is $13 Million US Dollars, which I escaped to the nearby village ,them through there  I met a Captain of a ship who assisted me to Ghana for safe keeping, so I needed a foreign  investor  who can invest  this money for me wisely in his or her country, and then  give me invitation  to his or her country to further my education and also help me to invest  this money  because I am a still a boy, I will attach the necessary documents thats covering  my fund, but you can get in touch with me. please keep any thing between me and you very secret for good security reason send me your cell phone number as you receive my message  my consignment in Ghana right now  39% will be given to you as my foreign partner while 1% will be  for any expense made in this transaction for you to claim the consignment , while 60% will be for better investment in your country, while the capital will be with you that is what me and you will be sharing   
+
+Wait for your immediate response,
+
+Matthew Malika
+Private Mail: mathewmalika@yahoo.com

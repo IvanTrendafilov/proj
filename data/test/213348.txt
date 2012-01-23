@@ -1,0 +1,90 @@
+
+
+Viewing Full Header - View message
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on mc3.midcoast.com
+X-Spam-Flag: YES
+X-Spam-Level: ***************
+X-Spam-Status: Yes, score=15.1 required=5.0 tests=ADVANCE_FEE_2_NEW_MONEY,
+    FAKE_REPLY_C,FORGED_MUA_OUTLOOK,FREEMAIL_FROM,FREEMAIL_REPLYTO,FROM_MISSPACED,
+    FROM_MISSP_EH_MATCH,FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,
+    FROM_MISSP_TO_UNDISC,FROM_MISSP_URI,FSL_CTYPE_WIN1251,FSL_NEW_HELO_USER,
+    FSL_UA,FSL_XM_419,LOTS_OF_MONEY,MONEY_FROM_MISSP,MSOE_MID_WRONG_CASE,
+    NSL_RCVD_HELO_USER,RCVD_IN_BRBL_LASTEXT,SPF_HELO_PASS shortcircuit=no
+    autolearn=disabled version=3.3.2
+X-Spam-Report:
+    * 1.6 RCVD_IN_BRBL_LASTEXT RBL: RCVD_IN_BRBL_LASTEXT
+    * [64.57.224.90 listed in bb.barracudacentral.org]
+    * 0.0 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+    * 1.0 FSL_XM_419 Old OE version in X-Mailer only seen in 419 spam
+    * 2.9 NSL_RCVD_HELO_USER Received from HELO User
+    * 0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+    * (kabul[at]att.net)
+    * -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+    * 0.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+    * 0.0 FSL_NEW_HELO_USER FSL_NEW_HELO_USER
+    * 3.4 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+    * 0.1 FSL_UA FSL_UA
+    * 0.0 LOTS_OF_MONEY Huge... sums of money
+    * 0.0 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+    * 0.0 FROM_MISSPACED From: missing whitespace
+    * 0.0 MONEY_FROM_MISSP Lots of money and misspaced From
+    * 0.0 FAKE_REPLY_C FAKE_REPLY_C
+    * 2.8 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+    * freemails
+    * 0.0 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+    * 0.0 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+    * 0.0 FROM_MISSP_URI From misspaced, has URI
+    * 2.8 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+    * 0.0 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.5 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+X-Original-To: 
+Received: from localhost (localhost [127.0.0.1])
+    by mc3.midcoast.com (Postfix) with ESMTP id 4148DF386C
+    fom>; Sun, 1 Jan 2012 22:37:02 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at midcoast.com
+Received: from mc3.midcoast.com ([127.0.0.1])
+    by localhost (mc3.midcoast.com [127.0.0.1]) (amavisd-new, port 10024)
+    with ESMTP id 1h7q0E68uwbK for ;
+    Sun, 1 Jan 2012 22:37:02 -0500 (EST)
+Received: from mx1.midcoast.com (mx1.midcoast.com [69.39.100.26])
+    by mc3.midcoast.com (Postfix) with ESMTP id 12684F3746
+    for ; Sun, 1 Jan 2012 22:37:02 -0500 (EST)
+Received: from pimail.wf.net (pimail.wf.net [64.57.224.90])
+    by mx1.midcoast.com (Postfix) with ESMTP id D346CD8F70
+    for <; Sun, 1 Jan 2012 22:37:01 -0500 (EST)
+Received: (qmail 8440 invoked by uid 89); 2 Jan 2012 03:35:46 -0000
+Received: by simscan 1.4.0 ppid: 7908, pid: 8436, t: 0.2474s
+    scanners: attach: 1.4.0 clamav: 0.96.3
+/m:51/d:9874
+Received: from unknown (HELO User) (duncan@184.74.205.110)
+    by pimail.wf.net with ESMTPA; 2 Jan 2012 03:35:46 -0000
+Reply-To: 
+From: "Abul Kalam Azad"
+Subject: PJM-> Re: My Last Appeal.
+Date: Sun, 1 Jan 2012 22:36:25 -0500
+MIME-Version: 1.0
+Content-Type: text/plain;
+    charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20120102033701.D346CD8F70@mx1.midcoast.com>
+To: undisclosed-recipients:;
+X-Spam-Prev-Subject: Re: My Last Appeal. 
+Dearest One,
+My name is Abul Kalam Azad.
+I am a dying man who have decided to Donate the sum of
+$18million dollars. to you for the good work of the Humanity.
+Please contact me via. Email: kabul@yahoo.cn for
+detailed information on this noble project of mine.
+Please note that I have WILLED $18m to you by quoting my
+personal reference number De/Jds/533/0068/HtrI/33ln/eg.
+So that i can confirm that you actually received my email
+notice to you.
+Wassalam and Regards,
+Abul Kalam Azad,
+kabul@yahoo.cn
+  

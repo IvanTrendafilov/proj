@@ -1,0 +1,36 @@
+
+
+Received: by 10.142.166.8 with SMTP id o8cs240169wfe;
+       Fri, 13 Jan 2012 08:45:17 -0800 (PST)
+Return-Path: 
+Received-SPF: pass (google.com: domain of verifymailler112@gmail.com designates 10.220.152.78 as permitted sender) client-ip=10.220.152.78;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of verifymailler112@gmail.com designates 10.220.152.78 as permitted sender) smtp.mail=verifymailler112@gmail.com; dkim=pass header.i=verifymailler112@gmail.com
+Received: from mr.google.com ([10.220.152.78])
+       by 10.220.152.78 with SMTP id f14mr1599113vcw.30.1326473115683 (num_hops = 1);
+       Fri, 13 Jan 2012 08:45:15 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=gmail.com; s=gamma;
+       h=mime-version:date:message-id:subject:from:to:content-type;
+       bh=Xou2fBeUq3Cn4gzcWZyeHzFIUf62NACfB2mfHj8Tbtk=;
+       b=GDkOUF3jeeu6pVUAhH2xzgl8/DGIGN0UYaN+ZM4GDjRoWRwombRso+6lAO6y2DaZI+
+        OzGZplW8u0dDpvcYk6Sm1253/qw1M2Bw8UL/PJ1dXVF6PeHkhGg0SFS2OeTd0h33YNTi
+        3zGUo3maP1xjr9ZgGMCg26GqUDFQ2gyY/2N2o=
+MIME-Version: 1.0
+Received: by 10.220.152.78 with SMTP id f14mr1190805vcw.30.1326473104419; Fri,
+13 Jan 2012 08:45:04 -0800 (PST)
+Received: by 10.220.190.71 with HTTP; Fri, 13 Jan 2012 08:45:04 -0800 (PST)
+Date: Fri, 13 Jan 2012 16:45:04 +0000
+Message-ID: 
+Subject: I SAW YOUR NAME ON TX LOTTERY XMAS REFUND
+From: richard musaa 
+To: undisclosed-recipients:;
+Content-Type: text/plain; charset=ISO-8859-1
+ Quote:   hi am deaf,Are you Aware of the TX lottery xmas refunds is using to
+help all people ?I just won a substantial amount of $50,000.00 from
+them through the lottery commission Agent, Do you get the money too?
+Because i saw your name on the list of people that are yet to get
+their money.
+
+TX lottery
+lottery commission Agent....James Murray
+email...Jamesmurray24@live.com  

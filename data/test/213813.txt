@@ -1,0 +1,49 @@
+
+
+Return-Path: 
+Received: from zixdmz01.seton.org (zixvpm01.seton.org [24.155.185.248])
+       (envelope-from sdscoggin@seton.org)
+Received: from zixdmz01.seton.org (ZixVPM [127.0.0.1])
+       by Outbound.seton.org (Proprietary) with ESMTP id DD67F1F571A
+       for ; Wed, 11 Jan 2012 13:29:58 -0600 (CST)
+Received: from mx2-out.seton.org (unknown [10.21.254.50])
+       by zixdmz01.seton.org (Proprietary) with ESMTP id 2EC2F5D003C;
+       Wed, 11 Jan 2012 13:12:34 -0600 (CST)
+Received: from localhost (unknown [127.0.0.1])
+       by mx2-out.seton.org (Postfix) with ESMTP id 175A9367F1;
+       Wed, 11 Jan 2012 19:12:34 +0000 (UTC)
+Received: from mx2-out.seton.org ([10.21.254.241])
+by localhost (mx1.seton.org [127.0.0.1]) (amavisd-new, port 10026) with ESMTP
+id 14938-25; Wed, 11 Jan 2012 13:12:33 -0600 (CST)
+Received: from ausexfe02.seton.org (mail.seton.org [10.20.10.181])
+       by mx2-out.seton.org (Postfix) with ESMTP id 645C16634;
+       Wed, 11 Jan 2012 13:12:33 -0600 (CST)
+Received: from AUSEX2VS1.seton.org ([10.20.10.143]) by ausexfe02.seton.org with Microsoft SMTPSVC(6.0.3790.4675);
+        Wed, 11 Jan 2012 13:11:17 -0600
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+       boundary="----_=_NextPart_001_01CCD094.CA3AE0BF"
+Subject: LOAN
+Date: Wed, 11 Jan 2012 13:11:15 -0600
+Message-ID: <21C9F102CD2CF24E9ADF5D5B337A473A04508F2B@AUSEX2VS1.seton.org>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: LOAN
+Thread-Index: AczQlMmPzBqCFN4VQy6tY63XcbZFhw==
+From: "Scoggin, Stephen D." 
+To: 
+X-OriginalArrivalTime: 11 Jan 2012 19:11:17.0024 (UTC) FILETIME=[CB3A6200:01CCD094]
+X-Virus-Scanned: by amavisd-new at seton.org
+X-CFilter-Loop: Reflected
+X-Greylist: Default is to whitelist mail, not delayed by milter-greylist-4.2.3 
+
+This is a multi-part message in MIME format.
+
+------_=_NextPart_001_01CCD094.CA3AE0BF
+Content-Type: text/plain;
+       charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+We Offer Private, Commercial and Personal Loans with Minimal annual Interest Rates of 3% within a 1year to 50years to any part of the world. Contact us via email at loan.dept@shqiptar.eu

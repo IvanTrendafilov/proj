@@ -1,0 +1,92 @@
+
+
+Return-Path: 
+Received: from compute1.internal (compute1.nyi.mail.srv.osa [10.202.2.41])
+	 by sloti14d5p3 (Cyrus git2.5+0-git-fastmail-7634) with LMTPA;
+	 Thu, 12 Jan 2012 10:33:20 -0500
+X-Sieve: CMU Sieve 2.4
+X-Spam-charsets: plain='windows-1252'
+X-Mail-from: godsent.joshua@gmail.com
+Received: from mx4.nyi.mail.srv.osa ([10.202.2.203])
+ by compute1.internal (LMTPProxy); Thu, 12 Jan 2012 10:33:20 -0500
+Received: from mail-we0-f173.google.com (mail-we0-f173.google.com [74.125.82.173])
+	(using TLSv1 with cipher RC4-SHA (128/128 bits))
+	(No client certificate requested)
+	by mx4.nyi.mail.srv.osa (Postfix) with ESMTPS id 14F1F180E20
+Thu, 12 Jan 2012 10:33:19 -0500 (EST)
+Received: by werb10 with SMTP id b10so1919955wer.32
+Thu, 12 Jan 2012 07:33:18 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=gmail.com; s=gamma;
+       h=mime-version:date:message-id:subject:from:to:content-type
+        :content-transfer-encoding;
+       bh=ZbA362tle2LN8VKalQOpJojovabPfWjhJ9lVMVRzXQs=;
+       b=cPdmONE2639htVfz+EZmYVwWm5RnMrMJ3OeIpN0Y6TMz+RQMyt5Rtb9IU5JN8mR1i8
+        A8TyTnBpysBrFJi/9L+IDGM1mtkmsDiBFMf19skk71kJeTq9gxkxcm96cUYTLzij1B/O
+        gCVDcw69g7P54blKzPTJofSp5ckJc25aIOjvw=
+MIME-Version: 1.0
+Received: by 10.216.131.106 with SMTP id l84mr1728412wei.29.1326382394581;
+Thu, 12 Jan 2012 07:33:14 -0800 (PST)
+Received: by 10.180.96.164 with HTTP; Thu, 12 Jan 2012 07:33:14 -0800 (PST)
+Date: Thu, 12 Jan 2012 07:33:14 -0800
+Message-ID: 
+Subject: You can RUN but can never HIDE
+From: Clement Joshua 
+To: undisclosed-recipients:;
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+X-Truedomain-Domain: gmail.com
+X-Truedomain-SPF: Pass
+X-Truedomain-DKIM: Pass
+X-Truedomain-ID: 8DBF94B30A518E7C954F8BE1DA8649C6
+X-Truedomain: Neutral
+
+   Hello am  i am a professional hired killer
+  You don't know me but I know you
+  Because i am paid to kill you, your daughters and your boys
+
+   Everything about you I have been told this is
+  What I do for a living
+
+   There is only one way you can help yourself if you want to live again  That
+  is why am WRITING you
+
+   Note: this do not involve the police
+  or let any one know about this, If you do I have no choice but kill you
+  Dont be surprise why am letting you know
+  I want to help you if you will co-operate with me
+  Contact my email if you want to live
+
+   But if you don't have respect 4 life, be prepare to dance to the music
+  of the dead. I am very sorry for you , It is a pity that this is how
+  your life is going to end as soon as you don't comply. As you can see
+  there is no need for me introducing myself to you because I don't have
+  any business with you, my duty as I am mailing you now is just to
+  (KILL YOU ) and I have to do it as I have already been paid for that.
+
+   Someone you call a Friend wants you Dead by all means, and the person
+  have spent a lot of money on this, the person also came to me
+  and told me that he wanted you dead and he provided us with
+  your name , picture and other necessary information we needed about
+  you.  So I have sent my men to track you down in Location and they
+  have carried out the necessary investigation needed for the operation
+  on you, and they have done that but I told them not to kill you that I
+  will like to contact you and see if your life is Important to you or
+  not. Since we have find out that you are innocent.
+
+   I called my client back and ask him of your email address which I
+  didn't tell him what I wanted to do with it and he gave it to me and I
+  am using it to contact you now.  As I am writing to you now my men are
+  monitoring you and they are telling me everything about you.
+
+   Now do you want to LIVE OR DIE? As someone has paid us to kill you.
+  Get back to me immediately when you get this mail.
+
+   WARNING: DO NOT THINK OF CONTACTING THE POLICE OR EVEN TELLING ANYONE,
+
+    OR ELSE  I WILL EXTEND IT TO YOUR FAMILY, IN CASE I NOTICE SOMETHING
+  FUNNY.  GOOD LUCK AS I AWAIT YOUR REPLY
+
+   Lucky You
+
+   You can RUN but can never HIDE

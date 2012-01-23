@@ -1,0 +1,51 @@
+
+
+Received: by 10.142.166.8 with SMTP id o8cs262977wfe;
+       Sat, 14 Jan 2012 00:50:06 -0800 (PST)
+Received: by 10.68.134.42 with SMTP id ph10mr8869601pbb.48.1326531005214;
+       Sat, 14 Jan 2012 00:50:05 -0800 (PST)
+Return-Path: 
+Received: from nm1-vm0.bullet.mail.sp2.yahoo.com (nm1-vm0.bullet.mail.sp2.yahoo.com. [98.139.91.202])
+       by mx.google.com with SMTP id e10si15670666pbv.217.2012.01.14.00.50.05;
+       Sat, 14 Jan 2012 00:50:05 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of dennisugo1@yahoo.com designates 98.139.91.202 as permitted sender) client-ip=98.139.91.202;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of dennisugo1@yahoo.com designates 98.139.91.202 as permitted sender) smtp.mail=dennisugo1@yahoo.com; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [98.139.91.64] by nm1.bullet.mail.sp2.yahoo.com with NNFMP; 14 Jan 2012 08:50:05 -0000
+Received: from [98.139.91.31] by tm4.bullet.mail.sp2.yahoo.com with NNFMP; 14 Jan 2012 08:50:04 -0000
+Received: from [127.0.0.1] by omp1031.mail.sp2.yahoo.com with NNFMP; 14 Jan 2012 08:50:04 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 970720.10359.bm@omp1031.mail.sp2.yahoo.com
+Received: (qmail 20080 invoked by uid 60001); 14 Jan 2012 08:50:04 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1326531004; bh=oP4nL5MxOc7WbG6WTO7pJSO/vM7GmSUg2bmcQF2qJ5s=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=MvsQC31vl3gIrU2RL5rqv4DsYjTOAqq8S1Uz6gb9bFLEufU3AZ7OJ3YwUTKjWOB62+UGH+ConI82FON8cor3aJkh0QPz9NxdhuOte/Is8hM2buqyQRohgZmLXcBPoz4wzYCTITQCWip+JCNlA95Xc3yyhbDBxbozFNYnXBMrIsk=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+ s=s1024; d=yahoo.com;
+ h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+ b=P9aFS5+Hm0AgYFx1AdHXaIEvkI1mfRreu4fzje8naD8a8AyuI7ohFp7nIUKqr8XB8JPVu0RpqM+3ZONuJCDRS2LYGjy9PKRgsBcYFAezwDEotf3I7WCfjIxfgQfS53/GDvQ3C7nZFB5xyVaamcgFhyswE4ksujVmZy6QV/b34bo=;
+X-YMail-OSG: S8xApi4VM1nZMptISeJDchp5WF_2p.5w3lSJoiL23tAqfHW
+BMBSMfJcywlLJu5Sc1OvIGz8WJl8mknbjxEAe1NPbcqzMzFIthoJUi4mIfhe
+gde1HnfBZIE3R2U5GVjxllSbSoiGjntKnaQYVUVXRuC1j1keJtMiKL0V.x89
+KwgNghfqwWF.ElDhQbnx2ZMCZ38N9LqWMlHANYIhht4F29FFP3XyFi26yhMC
+yuCaopOuwAiaOZjlApaVOF3HR7XN7QKbwnKrrCH_OXziPP8jUjuk59R936Po
+uJ3bEQu966PC56biPlOPk8sPwhnhQriui6VwQKMGWHObe4rhcashs7ERGOSn
+8g8Ml1WBustJou0tIkGx320hOcRS1.nVAuDAgXiT10r2JZduFEn_itlXU8AI
+_F1gro4Nd4I.8.ESjSRu8LizZeUXmNs7uE6jxHaUPZ1AObYCcKrmvMZDApXX
+m6AY19PB9iCBYPl9niXzcXiQau846Cuio
+Received: from [41.139.114.151] by web114501.mail.gq1.yahoo.com via HTTP; Sat, 14 Jan 2012 00:50:04 PST
+X-Mailer: YahooMailWebService/0.8.115.331698
+Message-ID: <1326531004.18028.YahooMailNeo@web114501.mail.gq1.yahoo.com>
+Date: Sat, 14 Jan 2012 00:50:04 -0800 (PST)
+From: Dennis Ugo 
+Reply-To: Dennis Ugo 
+Subject: PRIVATE MAIL TO YOU PLEASE.
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1254985925-65911699-1326531004=:18028"
+ Quote:   Dear,
+
+Representing the 50%
+
+I considered your position before I made this consultation. My name is Mr. Denni Harry ,I am attorney to chief Douglas Martin, an industrialist, Oil and Gas merchant until his death last month. I have represented his investment interest for over 25yrs now. On June 13th, 2008, he summoned me to his office to commence his WILL process. That was when his health condition became worse. He eventually died on 27th November, 2011, leaving the WILL uncompleted.
+
+The burial arrangement is in progress now, and according to his instruction, the WILL will be announced one month after his burial. Chief was a successful business man, I want to include your name in the WILL as his foreign business partner who according to him, should inherit 50% of his account in the UK Bank. I want to do this before presenting the WILL to his family. The family does not know about the UK account. I will get the letter of administration for you to represent the 50% of the UK account.I have the WILL with me and no member of his family has seen the WILL and the UK account is not yet known to them..Can we work together?
+
+Respectfully yours  

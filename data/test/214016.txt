@@ -1,0 +1,50 @@
+
+
+Received: by 10.68.48.39 with SMTP id i7cs281690pbn;
+       Thu, 12 Jan 2012 19:35:49 -0800 (PST)
+Received: by 10.68.208.196 with SMTP id mg4mr1809377pbc.108.1326425747727;
+       Thu, 12 Jan 2012 19:35:47 -0800 (PST)
+Return-Path: 
+Received: from nm5-vm0.bullet.mail.ird.yahoo.com (nm5-vm0.bullet.mail.ird.yahoo.com. [77.238.189.207])
+       by mx.google.com with SMTP id c10si10167573pbm.211.2012.01.12.19.35.46;
+       Thu, 12 Jan 2012 19:35:47 -0800 (PST)
+Received-SPF: neutral (google.com: 77.238.189.207 is neither permitted nor denied by best guess record for domain of unitednation66@ymail.com) client-ip=77.238.189.207;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 77.238.189.207 is neither permitted nor denied by best guess record for domain of unitednation66@ymail.com) smtp.mail=unitednation66@ymail.com; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [77.238.189.56] by nm5.bullet.mail.ird.yahoo.com with NNFMP; 13 Jan 2012 03:35:46 -0000
+Received: from [212.82.108.132] by tm9.bullet.mail.ird.yahoo.com with NNFMP; 13 Jan 2012 03:35:46 -0000
+Received: from [127.0.0.1] by omp1037.mail.ird.yahoo.com with NNFMP; 13 Jan 2012 03:35:46 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 344711.80346.bm@omp1037.mail.ird.yahoo.com
+Message-ID: <344711.80346.bm@omp1037.mail.ird.yahoo.com>
+Received: (qmail 72330 invoked by uid 6007); 13 Jan 2012 03:35:46 -0000
+DKIM-Signature: v=1; a=rsa-sha256;
+X-Originating-IP: [41.76.105.12]
+Authentication-Results: mta1050.mail.ird.yahoo.com  from=ymail.com; domainkeys=neutral (no sig);  from=ymail.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO geeksquad.co.za) (41.76.105.12)
+ by mta1050.mail.ird.yahoo.com with SMTP; Fri, 13 Jan 2012 03:35:42 +0000
+Received: from User (unknown [208.115.248.203])
+	by geeksquad.co.za (Postfix) with ESMTPA id B9FB0AAE38;
+	Thu, 12 Jan 2012 21:36:49 +0000 (UTC)
+Reply-To: 
+From: "Mrs Kathleen Micheals"
+Subject: Dear Funds Beneficiary
+Date: Thu, 12 Jan 2012 13:36:48 -0800
+
+Dear Funds Beneficiary
+
+I'm Mrs Kathleen Micheals by name, a united nations senior investigation officer. The UN Director has instructed me to investigate on your inheritance contract sum of $2.5 million united states dollars that you were supposed to receive on the 15th of Nov, 2011.
+The affiliated paying bank is HSBC London, and from my findings, i was convinced that your wire transfer did not get to you due to the corrupt officer at the paying bank.
+In fact, it was revealed that you were frustrated by the top officials of the bank, at the end you gave up, and considered the funds not been REAL.
+Am here today to inform you that your funds is 100% legitimate. what you faced was trying to claim your funds from the wrong channel.
+You must get back to me immediately by completing the requested information Below:
+
+Full Name:.........  
+Direct Mobile Number: ....
+Residence Address: ...
+Age/ sex/ occupation: ..
+A copy of your Driver's License
+
+I assure you that your transfer will be done within the next 48 hours once you show maximum co operation with this investigation office.You can reach me through my email address:kathleenmichaels@globomail.com
+
+Mrs Kathleen Micheals
+United Nations Investigation Office

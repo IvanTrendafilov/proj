@@ -1,0 +1,102 @@
+
+
+Return-path: 
+Envelope-to: 
+Delivery-date: Sat, 07 Jan 2012 02:57:34 -0800
+Received: from kmail02.koshigaya.bunkyo.ac.jp ([124.215.251.195])
+	by  with esmtp (Exim 4.69)
+	(envelope-from )
+	id 1RjTxq-0006hv-9M
+	for ; Sat, 07 Jan 2012 02:57:34 -0800
+Received: from kmail01.koshigaya.bunkyo.ac.jp (unknown [172.28.1.101])
+	by kmail02.koshigaya.bunkyo.ac.jp (Postfix) with ESMTP id 127FD5CC0E;
+	Sat,  7 Jan 2012 18:38:18 +0900 (JST)
+Received: from koshigaya.bunkyo.ac.jp (webmail.koshigaya.bunkyo.ac.jp [210.198.113.7])
+	by kmail01.koshigaya.bunkyo.ac.jp (Postfix) with SMTP id 87D7330137;
+	Sat,  7 Jan 2012 18:38:17 +0900 (JST)
+MIME-Version: 1.0
+Message-ID: <20120107093817.0000561C.0537@koshigaya.bunkyo.ac.jp>
+Date: Sat, 07 Jan 2012 18:38:17 +0900
+From: "Mrs. Christy Walton " 
+To: 
+Reply-To: 
+Subject: 
+Content-Type: Text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+ORGANIZATION: christywaltonproject@hotmail.com
+X-MAILER: Active! mail
+X-Spam-Subject: ***SPAM*** 
+X-Spam-Status: Yes, score=11.0
+X-Spam-Score: 110
+X-Spam-Bar: +++++++++++
+X-Spam-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  My Dearest, Greeting to you my dear Brothers and Sisters the
+	good people of this plain-net earth i am writing you this e-mail not to disturb
+	you but to ask for your assistant based on my personality and my present
+	condition in life and in particular what i intend doing for CHARITY. [...]
+	Content analysis details:   (11.0 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+	[124.215.251.195 listed in psbl.surriel.com]
+	1.3 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	[Blocked - see ]
+	-0.0 SPF_PASS               SPF: sender matches SPF record
+	1.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+	(
+	)
+	-0.5 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+	1.8 US_DOLLARS_3           BODY: Mentions millions of $ ($NN,NNN,NNN.NN)
+	-1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+	[score: 0.0015]
+	1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+	[124.215.251.195 listed in bb.barracudacentral.org]
+	0.0 LOTS_OF_MONEY          Huge... sums of money
+	0.0 T_HK_NAME_MR_MRS       T_HK_NAME_MR_MRS
+	2.1 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+	0.0 FILL_THIS_FORM         Fill in a form with personal information
+	2.9 FILL_THIS_FORM_LOAN    Answer loan question(s)
+X-Spam-Flag: YES
+
+My Dearest,
+
+Greeting to you my dear Brothers and Sisters the good people of this plain-net earth i am writing you this e-mail not to disturb you but to ask for your assistant based on my personality and my present condition in life and in particular what i intend doing for CHARITY.
+
+I am Mrs. Christy Walton the 2nd Richest Woman in the world am a great citizen of United State of America, am bring to you a proposal which i want you to assist me with, i worth $ 22.5 billion Dollars which rated me as the 2nd Richest Woman in the World.
+
+As the going says Money is not everything on earth, is painful now to let the world now know my present condition as a cry for help I have been suffering from a Heart disease for the passed 22 years, now just few weeks ago my Doctors in America just told me now that is time for me to die, and my Will been with my Lawyer which my Family is are where about. but no body is are where about the 40% of my Bank Worth which is $9,000,000,000 (Nine Billion United State Dollars).
+
+I intend to give to CHARITY because have not seen anybody from my Family, Relations and Friends which i trust can help me out, because i always have this DREAM to help CHARITY and i have always promise my self that i most do this very big at my end time to CHARITY, can i please trust you to help me give to CHARITY this heave amount of Money because i have just 2 Months left to die, as I write to you now am full of Tears as I await my death.
+
+Please reply me back with your below details to enable us proceed further and please keep this confidential.
+
+1. Full Name:...........
+
+2. Telephone Numbers:......
+
+3. Your Age:....
+
+4. Your Sex:............
+
+5. Your Occupation:..........
+
+6. Your Country:...........
+
+7. City: ...........
+
+8. Your Home Address: .........
+
+9. Marital Status: ............
+
+
+God Bless You.
+
+Mrs. Christy Walton
+christywalton44@hotmail.com
+http://www.theoriginof.com/christy-walton.html
+Walton-family_N9CY.html

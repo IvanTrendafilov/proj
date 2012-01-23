@@ -1,0 +1,71 @@
+
+
+Received: by 10.223.159.2 with SMTP id h2cs351012fax;
+       Sat, 31 Dec 2011 00:13:38 -0800 (PST)
+Received: by 10.68.122.202 with SMTP id lu10mr88460615pbb.98.1325319216889;
+       Sat, 31 Dec 2011 00:13:36 -0800 (PST)
+Return-Path: 
+Received: from nm4.bullet.mail.ird.yahoo.com (nm4.bullet.mail.ird.yahoo.com. [77.238.189.61])
+       by mx.google.com with SMTP id l10si31029925pbj.72.2011.12.31.00.13.35;
+       Sat, 31 Dec 2011 00:13:36 -0800 (PST)
+Received-SPF: neutral (google.com: 77.238.189.61 is neither permitted nor denied by best guess record for domain of georgekaka@kimo.com) client-ip=77.238.189.61;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 77.238.189.61 is neither permitted nor denied by best guess record for domain of georgekaka@kimo.com) smtp.mail=georgekaka@kimo.com; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [77.238.189.231] by nm4.bullet.mail.ird.yahoo.com with NNFMP; 31 Dec 2011 08:13:35 -0000
+Received: from [212.82.108.116] by tm12.bullet.mail.ird.yahoo.com with NNFMP; 31 Dec 2011 08:13:35 -0000
+Received: from [127.0.0.1] by omp1025.mail.ird.yahoo.com with NNFMP; 31 Dec 2011 08:13:35 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 54667.49149.bm@omp1025.mail.ird.yahoo.com
+Received: (qmail 70736 invoked by uid 6007); 31 Dec 2011 08:13:34 -0000
+DKIM-Signature: v=1; a=rsa-sha256;
+X-Originating-IP: [154.15.203.142]
+Authentication-Results: mta1057.mail.ird.yahoo.com  from=kimo.com; domainkeys=neutral (no sig);  from=kimo.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO relay1.mail.interoute.cz) (154.15.203.142)
+ by mta1057.mail.ird.yahoo.com with SMTP; Sat, 31 Dec 2011 08:13:34 +0000
+Received: from [195.81.137.150] (helo=rg700-1.mail.interoute.com)
+	by relay2a.mail.interoute.com with esmtp (Exim 4.71)
+	(envelope-from )
+	id 1Rgu43-00051X-Oq; Sat, 31 Dec 2011 08:13:15 +0000
+Received: from 41.203.64.130 (EHLO User) ([41.203.64.130])
+	by rg700-1.mail.interoute.com (MOS 4.2.4-GA FastPath queued)
+	with ESMTP id ABS93934 (AUTH service);
+	Sat, 31 Dec 2011 09:13:14 +0100 (CET)
+Reply-To: 
+From: "Dr. George Kaka"
+Subject: Re: Your payment of US$10,500,000.00
+Date: Sat, 31 Dec 2011 09:13:05 +0100
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <201112310813.ABS93934@rg700-1.mail.interoute.com>
+
+Form:  Dr. George Kaka
+
+Good day.
+
+We need to inform you that Chase Bank, New York have instructed credited your account with the approved amount of US$10,500,000.00 Million United States Dollars only as instructed by Central Bank of Nigeria.
+
+Further more the bank has demanded for Currency Transaction Report (CTR) as been requested by Holland security, IRS and FBI proving that fund has nothing to do with money laundry, drug, terrorist or other related offenses. On this point I have communicated with the insuring Authorities and they made me to understand that the requested documents will cost you the Sum of $199.00 hence it will pave way for the transmission of your fund to your account. 
+
+Be informed that  Chase Bank cannot contact you based on the fact that you have not provided them with the transfer Currency Transaction Report as been requested by Holland security, and IRS proving that fund has nothing to do with money anti drugs/anti terrorist, certificate of ownership.
+
+Base on the urgency we urge you to send the fee as you were been directed to get the requested information done in your favor. Direct the fees via western union through the under mentioned named person: 
+
+Receiver's Name: Soile Oluwatosin 
+Address: Lagos, Nigeria.
+Amount: $199.00
+
+Forward the payment receipt with the receiving bank account information of yours to us for immediate transfer of your fund.
+
+The fund will confirm in your account within two days.
+
+Regards,
+
+Dr. George Kaka
+Escrow Account Officer
+Central Bank of Nigeria
+Annex office, New York

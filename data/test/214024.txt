@@ -1,0 +1,70 @@
+
+
+Return-path: 
+Envelope-to: 
+Delivery-date: Mon, 16 Jan 2012 00:27:11 -0800
+Received: from [180.168.44.53] (helo=exchange.yonho.com)
+	by  with esmtps (TLSv1:AES128-SHA:128)
+	(Exim 4.69)
+	(envelope-from )
+	id 1RmhuF-0004Gk-LR
+	for ; Mon, 16 Jan 2012 00:27:11 -0800
+Received: from User (120.141.178.200) by exchange.yonho.com (180.168.44.60)
+with Microsoft SMTP Server id 14.0.639.21; Mon, 16 Jan 2012 16:31:12 +0800
+Reply-To: 
+From: HFS 
+To: 
+Subject: loan offer!!!
+Date: Mon, 16 Jan 2012 16:27:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain; charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: 
+X-Spam-Subject: ***SPAM*** loan offer!!!
+X-Spam-Status: Yes, score=15.7
+X-Spam-Score: 157
+X-Spam-Bar: +++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  This is to inform you that Private company is Granting loan
+	facilities to its old and new customers at two percent interest rate Within
+	minimum range of $5,000 to Maximum of $200,000,000. Please provide the following
+	if interested as shown below: Name---- Amount---- Duration---- Phone number---
+	Regards Tim Friend [...] 
+	Content analysis details:   (15.7 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.0 FSL_CTYPE_WIN1251      Content-Type only seen in 419 spam
+	0.6 FSL_XM_419             Old OE version in X-Mailer only seen in 419 spam
+	0.0 NSL_RCVD_FROM_USER     Received from User
+	2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+	[180.168.44.53 listed in psbl.surriel.com]
+	1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+	[180.168.44.53 listed in bb.barracudacentral.org]
+	1.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+	(
+	)
+	1.8 US_DOLLARS_3           BODY: Mentions millions of $ ($NN,NNN,NNN.NN)
+	3.0 BAYES_95               BODY: Bayes spam probability is 95 to 99%
+	[score: 0.9859]
+	0.2 FSL_UA                 FSL_UA
+	0.0 LOTS_OF_MONEY          Huge... sums of money
+	0.8 RDNS_NONE              Delivered to internal network by a host with no rDNS
+	2.1 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+	1.9 FORGED_MUA_OUTLOOK     Forged mail pretending to be from MS Outlook
+	0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal information
+X-Spam-Flag: YES
+
+This is to inform you that Private company is Granting loan facilities to its old and new customers at two percent interest rate Within minimum range of $5,000 to Maximum of $200,000,000. Please provide the following if interested as shown below:
+Name----
+Amount----
+Duration----
+Phone number---
+Regards Tim Friend

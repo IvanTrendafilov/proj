@@ -1,79 +1,91 @@
 # remove this junk, use SQLAlchemy and Elixir
 from BeautifulSoup import BeautifulSoup
-import urllib2, time
-def crawl():
+import urllib2
+def findLimit():
 	core_url = "http://forum.419eater.com/forum/"
-	forum_id = "viewforum.php?f=18"
+	page_name = "viewforum.php"
+	forum_args ="?f=18&start="
 	page_increment = 0
-	arg_forum =
-	arg_
-	try:
-		current_page = urllib2.urlopen()
-
-
-
-from BeautifulSoup import BeautifulSoup
-import urllib2, time
-class forum(object):
-	def __enter__(self):
-		return self
-
-	def __exit__(self):
-
-	def __init__(self):
-		self.core_url = "http://forum.419eater.com/forum/"
-		self.forum_id = "viewforum.php?f=18"
-		self.exceptions = [188427, 105921, 190170] # admin topics
-		self.links = []
-
-	def crawl(self):
+	while True:
 		try:
-			main_page = urllib2.urlopen(self.core_url + self.forum_id)
+			current_page = urllib2.urlopen(core_url + page_name + forum_args + str(page_increment))
 		except:
-			print "Passing", self.core_url + self.forum_id
-		self.cur.execute("SELECT id FROM forum")
-		tmp = self.cur.fetchall()
-		result = []
-		for elem in tmp:
-			result.append(elem[0])
-		print result
-		soup = BeautifulSoup(main_page) 
+			pass # fail silently
+		soup = BeautifulSoup(current_page)
+		count = 0
 		for link in soup.findAll('a', href=True):
 			if 'viewtopic.php' in link['href']:
-				link_short = link['href'].split('&')[0]
-				link_id = link_short.split('=')[1]
-				if (int(link_id) not in result) and (int(link_id) not in self.exceptions):
-					self.links.append(link_short)
-		return self.links
+				if count > 7:
+					break
+				count += 1
+		if count == 7:
+			break
+		page_increment += 30
+	return page_increment - 30 # adjust for final, empty page
 
-	def extract(self, link):
-		link_id = link.split('=')[1]
+def crawlIndex(limit=270):
+	links = []
+	exceptions = [188427, 105921, 190170, 176248] # administrative topics
+	core_url = "http://forum.419eater.com/forum/"
+	page_name = "viewforum.php"
+	forum_args ="?f=18&start="
+	page_increment = 0
+	while page_increment <= limit:
 		try:
-			response = urllib2.urlopen(self.core_url + link)
-			soup = BeautifulSoup(response)
-			try:
-				response = soup.findAll("td", { "class" : "postbody" })[1] # always the 2nd occurance
-				response = ''.join(response.findAll(text=True))
-				self.cur.execute("INSERT INTO forum VALUES (?, ?, ?, ?, ?)", (int(link_id), response, str(time.ctime()),-1,'n/a'))			
-			except IndexError:
-				pass
-		except urllib2.URLError:
-			print "Passing on " + self.core_url + link
-			pass
+			current_page = urllib2.urlopen(core_url + page_name + forum_args + str(page_increment))
+		except:
+			print "Failing on:", core_url + page_name + forum_args + str(page_increment)
+		soup = BeautifulSoup(current_page)
+		for link in soup.findAll('a', href=True):
+			if 'viewtopic.php' in link['href']:
+				try:
+					link_id = link['href'].split('&')[0].split('=')[1]
+					if link_id not in links:
+						links.append(str(link_id))
+				except:
+					print "Problem in link separation"
+		page_increment += 30
+	return list(set(links) - set(exceptions))
 
-	def go(self):
-		all_links = set(self.crawl())
-		print "To browse"
-		print all_links
-		count = 0
-		for link in all_links:
-			count += 1
-			print count
-			self.extract(link)
-		self.conn.commit()
-		self.cur.close()
+def crawlPost(link_id):
+	exceptions = ['ipTRACKERonline.com']
+	core_url = "http://forum.419eater.com/forum/"
+	page_name = "viewtopic.php"
+	forum_args = "?t="
+	response = None
+	try: 
+		post = urllib2.urlopen(core_url + page_name + forum_args + link_id)
+		soup = BeautifulSoup(post, convertEntities=BeautifulSoup.HTML_ENTITIES)
+		try: #hating BeautifulSoup
+			response = soup.findAll("td", { "class" : "postbody" })[1]
+			response = response.renderContents()
+			for elem in exceptions:
+				if elem in response:
+					return None
+			response = response.replace('<br />\n<br />\n','<magic>\n')
+			response = response.replace('<br />\n','')
+			response = response.replace('<magic>\n','<br />\n')
+			response = BeautifulSoup(response)
+			response = response.findAll(text=True)
+			response = ''.join(response)
+			response = response.encode('ascii', 'ignore')
+			response = response.replace('\r\n ','\r\n')
+			response = response.replace('\n\n  Quote:   ', '')
+		except:
+			return None
+	except:
+		print "Failing on:", core_url + page_name + forum_args + link_id
+	return response # WARNING: Unicode
 
+def crawlAndWrite(links):
+	for link_id in links:
+		response = crawlPost(link_id)
+		if response:
+			filename = 'data/test/' + link_id + '.txt'
+			fileh = open(filename,'w')
+			fileh.write(response)
+	return
 
-if __name__ == '__main__':
-	parser = forum()
-	parser.go()
+def go():
+	crawlAndWrite(crawlIndex(findLimit()))
+	return 

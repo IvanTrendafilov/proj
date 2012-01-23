@@ -1,0 +1,77 @@
+
+
+WHY YOU HAVE NOT SUCCEEDED IN YOUR FUND PAYMENT.Thursday, January 19, 2012 10:37 AM
+From DR TUNDE LEMO Thu Jan 19 16:37:26 2012
+X-Apparently-To:   via 67.195.15.108; Thu, 19 Jan 2012 08:37:29 -0800 
+Return-Path:    
+Received-SPF:   softfail (transitioning domain of live.co.uk does not designate 98.139.212.185 as permitted sender) aW9uIERlcHQgKENCTikKCiAgICAgIAoKICAgICAgCgogICAgICAKCldIWSBZ T1UgSEFWRSBOT1QgU1VDQ0VFREVEIElOIFlPVVIgRlVORCBQQVlNRU5ULgog CiBBVFROOiAKIAogQWZ0ZXIgd2FpdGluZyB0byBoZWFyIGZyb20geW91IG9y IHlvdXIgTmlnZXJpYQogYW5kIEZvcmVpZ24gcGFydG5lcnMgZm9yIHNvbWV0 aW1lIG5vdy4gSSBkZWNpZGVkIHRvIG1ha2UgdGhpcyBkaXJlY3QBMAEBAQE- 
+X-YMailISG:   M7GbhWIWLDtYB82Y87u25VtAAvnaIcA7GapGobOaB09PoYpy VIGMOr0RSVbHkLZ5a3od1xlGY7TolEn2Ow6MQEeJl2d6Kkgq95HXKHh4xWOb 3cNbdBg.ug9QvagyNuMf3kK_ClTpn9QVIKwGVyfDGHMMDrIZhXJwrGr18Esw Cu4UNWMcOljSA_9BHCGb93EGEiHj868VPY_UD52C4SZ0L6W5Y9dL8PcJEMag PEaD2yU7s6OgiQQ5xXLTZoPeKs2NCfqsdUxW481reEvkT475.bc54spd25UF QCYZFIofaPijbr8IB8EWcEOUMW1LBDyyiSk5utU0.nh2oMlDXhUZO1dO3xRP T4tf1cVjumi2HkxrGWon5T7ydUCvdfF.8aAwzvrPzb40o6bmvZJ.eoRI 
+X-Originating-IP:   [98.139.212.185] 
+Authentication-Results:   mta1021.sbc.mail.sp1.yahoo.com from=live.co.uk; domainkeys=neutral (no sig); from=yahoo.com; dkim=pass (ok) 
+Received:   from 204.127.224.83 (EHLO alnwmxc03.att.net) (204.127.224.83) by mta1021.sbc.mail.sp1.yahoo.com with SMTP; Thu, 19 Jan 2012 08:37:28 -0800 
+Received:   from nm26.bullet.mail.bf1.yahoo.com ([98.139.212.185]) by att.net (alnwmxc03) with SMTP id <20120119163723a03008r0mne>; Thu, 19 Jan 2012 16:37:23 +0000 
+X-Originating-IP:   [98.139.212.185] 
+Received:   from [98.139.215.142] by nm26.bullet.mail.bf1.yahoo.com with NNFMP; 19 Jan 2012 16:37:27 -0000 
+Received:   from [98.139.212.219] by tm13.bullet.mail.bf1.yahoo.com with NNFMP; 19 Jan 2012 16:37:27 -0000 
+Received:   from [127.0.0.1] by omp1028.mail.bf1.yahoo.com with NNFMP; 19 Jan 2012 16:37:27 -0000 
+X-Yahoo-Newman-Property:   ymail-3 
+X-Yahoo-Newman-Id:   162239.65404.bm@omp1028.mail.bf1.yahoo.com
+Received:   (qmail 42837 invoked by uid 60001); 19 Jan 2012 16:37:27 -0000 
+DKIM-Signature:   v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1326991047; bh=+26nrCxWbKv9zmZmTwt2pd8FI7KL8EJq9PjlaKXZ2yw=; h=X-YMail-OSG:Received:X-RocketYMMF:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=bIHexOv/GMOEs8CVQSurCLNjOACI5wGrJqDK+Y6/uEw9MF46cJ0ZA9XTpWFX08wOLt/kZwZx0UnkMGoDY2Dh0/hRaljDylAsRHdDBUQ4sZMJjRBZdcK3jzSx7G5bQs6kSpiIn/TUiSbt3CcI3hv49HV7oLpte4rMH/LoysJx7yE= 
+X-YMail-OSG:   Kj_NvLQVM1l_hxtE8oOLU8FbILi12lPoOnDSu5Edg09HAH4 87WiLVYtFpiaLimG6hus4EJEAroENpfDxbnCW2a_PNAfDOJRlAiJMffXlWV5 vMTaEq5Zbp55KTJPak3pjZeOan2D.FwRraZGxsSEwkiYxnaxNOmLj0oyJZV2 j1a5GyVHhMk6rV14JHriROTNQY1SpAmQCnpxvu0ZmS2CiS5khjgcGDkKsl.j zxkIXn1dN7yTZHEa1BTm5jUNPOYEiDn96H42cEygj0zDPNPBp09QrbKz.ENs etH50jsvgNXk6uFqzbqGHCu06YsI1oni3ST.tKhtwq6Lji2VR2tof4SyeJ_a UP06MtlvdFxCub6UYWSv0UPL3.qqOLxijJFYx1o9EFeM5VGX2tUbPYqu5GUY JpGZgCVbvchbxmw9gJUx6XKSSBNOeLjw4.aS_pTEJjz4T628XykIHpRUW4T7 1KEtvlYPXddKAMSiZBS.uos9gmHsztoOFP4zryt8_MEb8LWjQscOFMrXzNw- - 
+Received:   from [41.139.118.224] by web160506.mail.bf1.yahoo.com via HTTP; Thu, 19 Jan 2012 08:37:26 PST 
+X-Mailer:   YahooMailClassic/15.0.4 YahooMailWebService/0.8.116.331537 
+Message-ID:   <1326991046.42113.YahooMailClassic@web160506.mail.bf1.yahoo.com> 
+Date:   Thu, 19 Jan 2012 08:37:26 -0800 (PST) 
+From:   DR TUNDE LEMO   Add sender to Contacts 
+Reply-To:   drtundelemo_cbn12@ymail.com
+Subject:   WHY YOU HAVE NOT SUCCEEDED IN YOUR FUND PAYMENT. 
+To:   undisclosed recipients: ; 
+MIME-Version:   1.0 
+Content-Type:   multipart/alternative; boundary="1803139914-1854948624-1326991046=:42113" 
+Content-Length:   16075 
+
+Compact Headers
+
+
+Dr Tunde Lemo
+Director Foreign
+Operation Dept (CBN)
+
+
+
+
+
+
+WHY YOU HAVE NOT SUCCEEDED IN YOUR FUND PAYMENT.
+
+ATTN: 
+
+After waiting to hear from you or your Nigeria and Foreign partners for sometime now. I decided to make this direct approach to you in other not to let it be as if I have anything in mind against you. I do not know if you have asked yourself why each time the release of this fund is approved, all of sudden, the payment will be stopped or one problem or the other will come up. If you have not asked this question or you do not know, this is an opportunity for me to tell you.
+
+Some time ago, your Nigerian and Foreign partners, I mean the people that introduced you to the project approached me through my dear wife who works with the Federal Ministry of Finance and requested me to assist them conclude a money transfer deal they had with you, they requested me to assist them by removing the original Next of- Kin name and bank particulars from Central Bank of Nigeria (CBN) Vetting and replacing them with your name and your bank details in order to make you appear as the rightful Next of- Kin and the true beneficiary of this funds. I agreed on conditions that they would pay me US$100,000.00 as soon as your name appears as the Next of- Kin and the true beneficiary. I did as agreed and demanded to be paid but your partners started telling me stories.
+
+They even told me that you promised to send money to me, do you know that up till now, I have not received a single cent from them and have not set my eyes on any of them and I was reliable informed that they have moved the fund to London, so that they will cash it over there. This is why I decided to hear from you since your name has been enlisted.
+
+But based on their attitude, I decided to stop the funds release movement to London, because I cannot be denied of my right in my own office considering the risk as it might affect my job. Secondly, I know the source of the funds that you are not the rightful Next of- Kin and the true beneficiary, although I am the only person privileged to know this information and it is a fact. Why I am making this clear to you is that I can see that you are still making efforts in order to conclude this transaction.
+
+Now I am ready to forget the past. I do not need the US$100,000 any longer from you but a good compensation from your mind. I need your assurance that your colleagues will be totally kept out of this transaction. I know that none of them is aware of my new approach to you Stop spending your money unnecessarily to them both here and overseas because you will not receive this money without my hand in it. I personally did the work at the work at the beginning and only I can perform it. The secret is that your partners failed to STAMP DUTY YOUR NEXT-OF-KIN PAYMENT DOCUMENTS and it is the true fact.
+
+Finally, I need your promise that no official of the Central Bank of Nigeria or your partners will be aware of my involvement in this regard because of my position. Now re-assure that you will be willing to compensate me. That you will assist my wife to establish a foreign account in your country where my compensation will be lodged. Also a KTT FUND RELEASE APPROVALS DOCUMENTS will be sent to you for endorsement after which I will remit the money within 72 hours. I am a man of my words, if you are ready to conclude this business with me, kindly contact me so that we can have a chat over this issue once and for all N/B: I will like to inform you again based on the fact that you are not the rightful Next of- Kin and the true beneficiary, which am the only one privileged to know this I will transfer this fund to fulfill my words, So what you are expected is to follow my directives and instructions.
+
+Firstly you will assure me of 100% confidentiality, secondly write a promissory note that once I make this transfer you will as well return my agreed percentage, thirdly you will assist me secure a nice school for my son over there
+
+I stand to assure you that, you have my word on this. I shall help you by making sure that this fund is transferred into your account. You know the truth and if you keep dealing with wrong people that are deceiving you, you will only have yourself to blame. I have told you sincerely that nobody can get this fund for you because I have block every loop holes that no one can get it for you without my consent, which I refer to the bad behavior from those criminals throughout the time we were processing this payment, I therefore urge you to forget about them and forge ahead for better without remembering the past.
+
+And as you have assured me that you will come out with sincere mind and be plain to me I will help and make this possible under five (5) banking days and it will not cost us much but a little because I am in charge.
+
+As you  have  promise not to disappoint me, keep it secret, do away with those your Nigeria and London, I will assist in every necessary way and transfer this fund to you within four banking days. I am telling you again for the second time you will today apply for legalization of your account in the Federal Court of Justice here so as to enable us transfer without further delay.
+
+You are lucky that you came in when we are about finishing the compilation of this payment batch for the second quarter. Now you have to be careful to avoid dent and irregularities on your file that is a fact. Lastly, If I hear or discover that you disclose this information's to anyone of your Local and Foreign partners, I promise you that this fund will never get to your Bank Account as long as I am alive.
+
+I wait to hear from you immediately, so that we will discuss at length and I will give more light in respect to this transaction.
+
+Best Regard,
+Dr Tunde Lemo
+Director Foreign
+Operation Dept (CBN)

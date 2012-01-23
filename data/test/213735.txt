@@ -1,0 +1,78 @@
+
+
+Darowizna Od pani Rose Torres
+Monday, January 9, 2012 5:42 PM
+From Rose Torres Mon Jan 9 23:42:23 2012
+X-Apparently-To: 		 via 67.195.15.107; Mon, 09 Jan 2012 15:42:26 -0800
+Return-Path: 		
+Received-SPF: 		softfail (transitioning domain of yahoo.co.jp does not designate 77.238.189.221 as permitted sender) bmllIHcgaW1pZSBQYW5hIG5hc3plZ28gSmV6dXNhIENocnlzdHVzYSwgbmFz emVnbyBQYW5hIGplc3RlbSBwYW5pIHBhbmkgUm9zZSBUb3JyZXMgeiBSZXB1 Ymxpa2kgS3V3ZWp0LCBqZXN0ZW0gem9uYXR5IHBhbiBKb2huIFRvcnJlcywg a3Qgcnp5IHByYWNvd2FsaSB6IEt1d2VqdCBhbWJhc2FkeSB3IFd5YnJ6ZXpl IEtvc2NpIFNsb25pb3dlaiBuYSBkemlld2llYyBsYXQgcHJ6ZWQBMAEBAQE-
+X-YMailISG: 		8WeaEtIWLDtGb2RSSLJo_HSJZTfxb4HmF8BF2OJDI49KloNY xt1XiZgWZxA7cffV2_lX01oOyFMm32qyXAxLs3avEqAX2QaQsEZJwsoFG2IJ wm1lGuJSngacUD5gxXlL1XhNcOvYtSczgyzRkJ0ctQWB8PoSHJrSu22u64Z7 fkw.88Fp3W54fn9I3pPoMUBMgESWap2yoJH9hPXsxtpeyjO6Eqs.et357aQQ Gb0gu_4S5KNMZXaAtDX44KaP9W3x07g0kZc4NDNwBb7XXPY_Qaguk2ty0XMd HyMacE1YiT8xqARoYdyXpQ.0lEPpGrsHP3auY2RDHMTKKF15yZ7d0z7n6Ulg w_mEcsmZLea_mI2SMfqTfeiZ5Y22
+X-Originating-IP: 		[77.238.189.221]
+Authentication-Results: 		mta1058.sbc.mail.sp1.yahoo.com from=yahoo.co.jp; domainkeys=neutral (no sig); from=yahoo.com; dkim=pass (ok)
+Received: 		from 204.127.208.82 (EHLO sccwmxc02.att.net) (204.127.208.82) by mta1058.sbc.mail.sp1.yahoo.com with SMTP; Mon, 09 Jan 2012 15:42:25 -0800
+Received: 		from nm20-vm0.bullet.mail.ird.yahoo.com ([77.238.189.221]) by att.net (sccwmxc02) with SMTP id <20120109234224s02006u6uce>; Mon, 9 Jan 2012 23:42:25 +0000
+X-Originating-IP: 		[77.238.189.221]
+Received: 		from [77.238.189.55] by nm20.bullet.mail.ird.yahoo.com with NNFMP; 09 Jan 2012 23:42:24 -0000
+Received: 		from [212.82.108.252] by tm8.bullet.mail.ird.yahoo.com with NNFMP; 09 Jan 2012 23:42:24 -0000
+Received: 		from [127.0.0.1] by omp1017.mail.ird.yahoo.com with NNFMP; 09 Jan 2012 23:42:24 -0000
+X-Yahoo-Newman-Property: 		ymail-3
+X-Yahoo-Newman-Id: 		146327.82969.bm@omp1017.mail.ird.yahoo.com
+Received: 		(qmail 96967 invoked by uid 60001); 9 Jan 2012 23:42:24 -0000
+DKIM-Signature: 		v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1326152544; bh=XHpUYCZnMT0WXGO9S0/nVPGw8defdz3eWZdqliVd710=; h=X-YMail-OSG:Received:X-RocketYMMF:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=PpxEzr+s0i3DHRlBlVTILh/cueiaLNYONwd9HUbeJH8Ln726reDhUekO9ikohTPqJmR6fW+eSkYE8VGeFnGw0OjDpy4VSSgY/T6URsjKq58NMkld6VbdZof8T53ZlhUFT1EyPgSQi44zVffD7wqcqz5bu21OcljYwqsH6ZS3IkQ=
+X-YMail-OSG: 		hmcTNigVM1l3hEsO_y25uP2rPbY8OyyzJfxELSuYIyzxbT. eo29NxoAlWSw_dFa9j1rB8nShnn5HJbmEaz7SHuGkIqk0EafqtA2Z_F.ev6k qYzmdX1x1aH14CapOdabxs_f7QqADGqFnBF2jL9nO4lC5Ez7apTQb973A6cN JSxvRTs.VwnPmsmu4pnmf2cOVqg1BVhxqkV9Awiwe330w5YqeJJsub2oovT0 YCKdLyNlLfjk_UhHykK6RhIOCqtV7WnI1wWABdOIuSYAJ8YYuP.H5ARb82Kt lgkI9LQgUbRC2HjIL_t581znO.D4X6fd2pgzsjfj8_OMisL42IPpGbnR.cLn OS2I0jM90k5xn2PkFRGlh8M9z_d5vfr.3ern7aSM7UpsKtT.429U-
+Received: 		from [41.189.33.100] by web29701.mail.ird.yahoo.com via HTTP; Mon, 09 Jan 2012 23:42:23 GMT
+X-Mailer: 		YahooMailClassic/15.0.4 YahooMailWebService/0.8.115.331698
+Message-ID: 		<1326152543.96767.YahooMailClassic@web29701.mail.ird.yahoo.com>
+Date: 		Mon, 9 Jan 2012 23:42:23 +0000 (GMT)
+From: 		
+Rose Torres   
+Add sender to Contacts
+Reply-To: 		rosetorres01@yahoo.co.jp
+Subject: 		Darowizna Od pani Rose Torres
+To: 		undisclosed recipients: ;
+MIME-Version: 		1.0
+Content-Type: 		multipart/alternative; boundary="-122013977-1366102076-1326152543=:96767"
+Content-Length: 		7171
+Compact Headers
+
+Drodzy w Panu,
+
+Pozdrawiam was szczeg lnie w imie Pana naszego Jezusa Chrystusa, naszego Pana jestem pani pani Rose Torres z Republiki Kuwejt, jestem zonaty pan John Torres, kt rzy pracowali z Kuwejt ambasady w Wybrzeze Kosci Sloniowej na dziewiec lat przed smiercia w 2006 roku , Bylismy malzenstwem od jedenastu lat bez dziecka. Zmarl po kr tkiej chorobie, ze trwal tylko cztery dni. Przed smiercia oboje narodzic sie ponownie Christian. Po jego smierci postanowilem nie ozenic lub dostac dziecko poza moim domu malzenskich, kt re w Biblii jest przeciw,
+
+
+Kiedy m j maz zyje on zlozony suma (2.500 dolar w mln dolar w) w banku w Sloniowej Abidzanie Cote d 'zachodniej Afryce. Obecnie, to pieniadze sa w banku, Ostatnio m j lekarz powiedzial mi, ze nie bedzie trwal przez nastepne osiem miesiecy z powodu problemu raka, kt ry mnie niepokoi najbardziej, to m j skok choroby, Znajac moje warunkiem postanowilem oddanie tego funduszu na organizacji charytatywnej, kt ra bedzie korzystac z tych pieniedzy spos b bede polecic tutaj
+
+
+Chce organizacji, kt ra bedzie korzystac z tego funduszu na sierocince, szkoly, koscioly, wdowy, propagowanie slowa Bozego i starac, ze dom Bozy jest utrzymywany Biblia sie nam zrozumiec, ze "Blogoslawiony strony, kt ry daje" Wzialem tej decyzji, poniewaz nie mam dziecka, ze ??bedzie dziedziczyc te pieniadze i moja rodzina meza nie sa chrzescijanami i nie chce meza staran, aby byc uzywane przez niewierzacych.
+
+
+Nie chce sytuacji, gdy te pieniadze zostana wykorzystane w spos b bezbozny Dlatego jestem podjecia takiej decyzji. Nie boje sie smierci, wiec wiem, gdzie mam zamiar Wiem, ze mam zamiar byc w lonie Pana Exodus 14 vs 14 m wi, ze "Pan bedzie walczyl moim przypadku i trzymam mojego pokoju" I don ' t potrzeba zadnego telefonu w tej kwestii z powodu mojego zdrowia stad obecnosc mojego meza krewnych wok l mnie zawsze nie chce, by wiedzieli o tym rozwoju Z Bogiem wszystkie rzeczy sa mozliwe. Jak tylko otrzymamy odpowiedz dam ci kontakt z bankiem w Sloniowej Abidzanie Cote d 'zachodniej Afryce,
+
+
+Bede r wniez wystawic list organ, kt ry bedzie udowodnic, ze obecnie beneficjentem tego funduszu z Ministerstwa Sprawiedliwosci tutaj na Wybrzezu Kosci Sloniowej "I want you i Kosci l zawsze modlic sie za mnie, bo pan jest moim pasterzem. Moje szczescie jest to, ze zycie bylo godne Christian Kto, ze chce sluzyc Panu musi sluzyc Mu w duchu i prawdzie. Prosze zawsze modlitwa przez cale swoje zycie Skontaktuj sie ze mna na ten e-mail wszelkie op znienia w odpowiedzi da mi pok j w zaopatrywaniu innego kosciola, w tym samym celu,
+
+
+Prosze mnie zapewnic, ze beda dzialac odpowiednio jak i zawarte w niniejszym dokumencie Majac nadzieje, ze wkr tce otrzymamy odpowiedz,
+
+
+
+Wyslij mi nastepujace informacje, takie jak na ponizej.
+
+Twoje imie i nazwiska .............................
+
+Adres ....................................
+
+Wiek ........................................
+
+Zaw d .................................
+
+kraj  ....................................
+
+Zdjecie .......................................
+
+
+Pozostanie blogoslawiony w Panu.
+
+Pozdrawiam siostry w Chrystusie
+
+Pani Rose Torres

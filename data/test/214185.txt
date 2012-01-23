@@ -1,0 +1,43 @@
+
+
+CompensationThursday, January 19, 2012 10:31 AM
+From Compensation Unit Thu Jan 19 16:31:23 2012
+X-Apparently-To:    via 67.195.15.99; Thu, 19 Jan 2012 08:33:00 -0800 
+Return-Path:    
+Received-SPF:   fail (domain of un.org does not designate 173.200.1.232 as permitted sender) 
+X-YMailISG:   YZYd514WLDsw9u6f4zOeBAegjkbNIXBfTvJlk.Mc3XCKuPGE SZyOqVxVs..cfUV20IFI63axUyz9QI3pOfml4XNnQYDj7U71sbJmxLvkkk9N ea_1cg7nLgiH3N8vz5eIn3ACPXf2rENNTCet6adHvAz2IpfFkf0nZ8Wylljy l7vA1kvcA4eEponmp3mSrmceGCm_XJTt_FmgLJV.ZtX_EY7c5oDGpSelLRz7 A0w9pUGji.BiHUijofeKigTKcRxm8qizTngzam.xHzx6F9Ugf.XWkktdtXIA npLIC5Lp8DKU_Ox.nlioZkKhkXd.FRC7QU4AIZRfWAYJJ5uWR3XWmkUdhY2m hT_ErV2TqvqGVtWT1qz3zbLl8TnyQKJnVWR_I72ZfO2Ifz3omLkpJSoY2K7A cE0tp6er6bVB3OWLW12BMCqLjlFtytuT9x1POr0frl0uvmn2uQ-- 
+X-Originating-IP:   [173.200.1.232] 
+Authentication-Results:   mta1008.sbc.mail.mud.yahoo.com from=un.org; domainkeys=neutral (no sig); from=un.org; dkim=neutral (no sig) 
+Received:   from 65.50.240.240 (EHLO sccwmxc04.att.net) (12.102.248.84) by mta1008.sbc.mail.mud.yahoo.com with SMTP; Thu, 19 Jan 2012 08:33:00 -0800 
+Received:   from universe.designpkg.com (mail.designpkginc.com[173.200.1.232](untrusted sender)) by att.net (sccwmxc04) with ESMTP id <20120119163259s04000rd6ge>; Thu, 19 Jan 2012 16:32:59 +0000 
+X-Originating-IP:   [173.200.1.232] 
+Received:   from User ([216.230.102.8]) by universe.DESIGNPKG.COM with Microsoft SMTPSVC(6.0.3790.3959); Thu, 19 Jan 2012 11:31:23 -0500 
+Reply-To:    
+From:   "Compensation Unit"  Add sender to Contacts 
+Subject:   Compensation 
+Date:   Fri, 20 Jan 2012 00:31:23 +0800 
+MIME-Version:   1.0 
+Content-Type:   text/plain; charset="Windows-1251" 
+Content-Transfer-Encoding:   7bit 
+X-Priority:   3 
+X-MSMail-Priority:   Normal 
+X-Mailer:   Microsoft Outlook Express 6.00.2600.0000 
+X-MimeOLE:   Produced By Microsoft MimeOLE V6.00.2600.0000 
+Bcc:    
+Return-Path:   info@un.org
+Message-ID:    
+X-OriginalArrivalTime:   19 Jan 2012 16:31:24.0237 (UTC) FILETIME=[C8C93FD0:01CCD6C7] 
+Content-Length:   379 
+
+Compact Headers
+Attention:
+Contact  Mr. Abdul Faraj immediately for your Cheque of $500,000usd from the United Nation to people that have been scammed or have unfinished transaction that failed due to Government problems:
+Person to Contact Mr. Abdul Faraj
+Email:abdulfaraj2@ibibo.com
+ OR abdulfaraj20@sify.com
+Tel:+60-166007517
+Fax: +60-104323054
+
+Regards,
+Mr.Ban Ki-Moon
+UN Secretary General

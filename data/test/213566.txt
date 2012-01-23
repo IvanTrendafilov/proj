@@ -1,0 +1,46 @@
+
+
+COMPENSATION PAYMENT.
+Thursday, January 5, 2012 7:36 AM
+From Revedward Ken Thu Jan 5 13:36:58 2012
+X-Apparently-To: 		t via 67.195.15.108; Thu, 05 Jan 2012 05:37:01 -0800
+Return-Path: 		
+Received-SPF: 		none (domain of yahoo.com does not designate permitted sender hosts) ZWQgYnkgdGhlIFByZXNpZGVudCByZWdhcmRpbmcgeW91ciBvdXQgc3RhbmRp bmcgY29udHJhY3QgcGF5bWVudCwgdGhlIHByZXNpZGVudCBoYXMgaXNzdWVk IG9yZGVyIHRoYXQgYWxsIGNvbnRyYWN0b3JzIHdobyBoYXZlCm5vdCB5ZXQg cmVjZWl2ZWQgaGlzL2hlciBjb250cmFjdCBwYXltZW50IGhhcyB0byBiZWVu IGNvbXBlbnNhdGUgVXNkJDIsNjIwLDU1MC4wMCB0aHJvdWdoIAEwAQEBAQ--
+X-YMailISG: 		2BJiOdEWLDvTTVS3Ufpu1IkSR4OEYx8pQqkYfJTcTfVtiq0Z i5t_Zwf9ddtNSjntO6TCnWYHPuefXtSaQ2dsRhBWj3_NV.nQPpJEd7i0rZBz .Xvg8Ng30BOpVhzvr5RQFRsog8AsBsZ8veplwfIxGhOaogoZa5p.R32lpnyK EzL4gBpV00woNNB6.4hmdR33PCjsFvjonTz1NDDMM8wzZENOus4s4QuYQInu rGLMMA3EE2AoZuRgz2GQEvycVDCJK1hZOxN6KIfDvBhUJ_PnlGDNZRCD4S5t ebEWIbFWUyEae2laQ9OBrkEqPr4EwU4BQR5sUkFvuXen8vdKYMgAC8y2ZFgL aL7DvnClDDCuBiFLY6AGM0NcYmiAgaZ66O39b8nkmpI3J1uWNMxjLCC_Z5ng aNdKOmN7UalrZQ--
+X-Originating-IP: 		[106.10.151.190]
+Authentication-Results: 		mta1071.sbc.mail.mud.yahoo.com from=yahoo.com; domainkeys=pass (ok); from=yahoo.com; dkim=pass (ok)
+Received: 		from 207.115.11.44 (EHLO fgateway14.isp.att.net) (207.115.11.44) by mta1071.sbc.mail.mud.yahoo.com with SMTP; Thu, 05 Jan 2012 05:37:00 -0800
+Received: 		from nm39-vm7.bullet.mail.sg3.yahoo.com ([106.10.151.190]) by att.net (frfwmxc14) with SMTP id <20120105133659f14009hasre>; Thu, 5 Jan 2012 13:37:00 +0000
+X-Originating-IP: 		[106.10.151.190]
+Received: 		from [106.10.166.124] by nm39.bullet.mail.sg3.yahoo.com with NNFMP; 05 Jan 2012 13:36:59 -0000
+Received: 		from [106.10.151.171] by tm13.bullet.mail.sg3.yahoo.com with NNFMP; 05 Jan 2012 13:36:59 -0000
+Received: 		from [127.0.0.1] by omp1011.mail.sg3.yahoo.com with NNFMP; 05 Jan 2012 13:36:59 -0000
+X-Yahoo-Newman-Property: 		ymail-3
+X-Yahoo-Newman-Id: 		89195.60484.bm@omp1011.mail.sg3.yahoo.com
+Received: 		(qmail 3952 invoked by uid 60001); 5 Jan 2012 13:36:59 -0000
+DKIM-Signature: 		v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1325770619; bh=pkJMG8uGLj7UFvKG92lta7NtHqk4HHdvKyfDbVaYFU8=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Subject:To:MIME-Version:Content-Type; b=dIOnI8GMVw9mrdJvX9ycfywR6xuF2GcfAiX0iKndCjwGL0Zp6eOqdwlragWFF/f4aowJFF08V2ax/2YhW6p/K7GWPq+OaomfiTXTt2AEvP6XYpIcEDaEh0VJxYYdN+9Pglf2GRJA/Sz23TE7fqkpmbDQ3fP/Ck2gq2I8hWoywk4=
+DomainKey-Signature: 		a=rsa-sha1; q=dns; c=nofws; s=s1024; d=yahoo.com; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Subject:To:MIME-Version:Content-Type; b=o0XmmYRd3X3rcIrOfzVo5hFa1vS7kLFtqpNFD1TVfHka63EvAzPfKiR2ewe5TGoCSeppzHxYE35PtaiJKSU6AOxx3Lce6+Z1QPRzymRjilcIZx2jm8X62oO67cT883g+XR1Zga00po4sZoa7zPGH1UKyqJpBwg/0ip1qwpJYgKA=;
+X-YMail-OSG: 		rFhCrlYVM1kiJIzdxrX2_sPWwQqIKXcO3jWPAbJq0SyEbtA nDh6yTgSLj9jlfBz2heLyP31tQ0Kip4Z7fdpvbTrq4WFZNTURO6QyUiv4izI .Zc1eelR8fphkIEN85QM7TcNp.ZnLzG.rDfkq53V8RdHGUfsP0gAsxe3vi7g aTDA2cJN1vbxQB69nKTuuxAeIMPVm2iTaxkNIbGsyyYD9MkDLdCgW2blEUTk f2dbonE1ucVSX.T5yFGl7ugV5T_zqLnOF.Wp6Sl842TCR0VPsiqyylxuo4KI YdCjZ803m40kOTVxmeCQ7oyVI476KNqW0JstectU3X9YXrkqtFbtYRe6YhWx PDq87DjwMeneFZ9KAtpHpYl4s41iYYEnZqSa0FwQ-
+Received: 		from [196.29.210.63] by web190804.mail.sg3.yahoo.com via HTTP; Thu, 05 Jan 2012 21:36:58 SGT
+X-Mailer: 		YahooMailClassic/15.0.4 YahooMailWebService/0.8.115.331698
+Message-ID: 		<1325770618.82160.YahooMailClassic@web190804.mail.sg3.yahoo.com>
+Date: 		Thu, 5 Jan 2012 21:36:58 +0800 (SGT)
+From: 		This sender is DomainKeys verified
+Revedward Ken   
+Add sender to Contacts
+Subject: 		COMPENSATION PAYMENT.
+To: 		undisclosed recipients: ;
+MIME-Version: 		1.0
+Content-Type: 		multipart/alternative; boundary="1490027246-867901616-1325770618=:82160"
+Content-Length: 		2005
+Compact Headers
+Attn: Sir
+Based on the instruction passed by the President regarding your out standing contract payment, the president has issued order that all contractors who have
+not yet received his/her contract payment has to been compensate Usd$2,620,550.00 through the DEBT CARD (ATM).you are hereby advice to forward
+The following data YOUR FULL NAME...................................................
+2.YOUR ADDRESS............................................................
+3.YOUR CELL PHONE.............................................
+NUMBER.CONTACT AND YOUR INTERNATIONAL PASSPORT special adviser on foreign contract payment
+Reply to Email: edwardken6732@yahoo.co.jp
+Thanks,
+Dr.  Ken  Edward

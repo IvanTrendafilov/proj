@@ -1,0 +1,55 @@
+
+
+Return-Path: 
+Delivered-To: GMX delivery to 
+Received: (qmail invoked by alias); 10 Jan 2012 09:52:55 -0000
+Received: from mail-pz0-f67.google.com (EHLO mail-pz0-f67.google.com) [209.85.210.67]
+ by mx0.gmx.com (mx-us014) with SMTP; 10 Jan 2012 04:52:55 -0500
+Received: by dafa1 with SMTP id a1so1763075daf.2
+       for ; Tue, 10 Jan 2012 01:52:53 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=gmail.com; s=gamma;
+       h=mime-version:date:message-id:subject:from:to:content-type;
+       bh=/rUEmzeeJ/Vh1TOvFDaR66LZlyZ6Vq6U071A9sois2U=;
+       b=iab3VeR4yR4ZNbIo1SQ7LVlYVCTVUPi98rQ+bhxQuV5TJxpyIQ5Hqsquh3i3Hs2m0x
+        oY89xCJEbqlZIdsqxle1lGAHUjPdsSOr8A49OWvTc4tWhM0WFSgWkcmOSuwUn3wU8bsB
+        28Ag+tHDAdKOMYJCVXkZGs8O11vPoDQfAgoYU=
+MIME-Version: 1.0
+Received: by 10.68.75.199 with SMTP id e7mr49743923pbw.128.1326189141191; Tue,
+10 Jan 2012 01:52:21 -0800 (PST)
+Received: by 10.142.127.10 with HTTP; Tue, 10 Jan 2012 01:52:21 -0800 (PST)
+Date: Tue, 10 Jan 2012 09:52:21 +0000
+Message-ID: 
+Subject: Dear ,
+From: mike willimas 
+To: undisclosed-recipients:;
+Bcc: 
+Content-Type: text/plain; charset=ISO-8859-1
+X-GMX-Antivirus: 0 (no virus found)
+X-GMX-Antispam: 0 (Mail was not recognized as spam);
+Detail=5D7Q89H36p4lYp+xdG3El6I9euDMUMk2W/lFuL9XaxGGRlC/i8FhJ68CIAKLEo1zh2B/d
+OD7tZMjHzHpRAx2mAcWD1wRnyRg4mkh+qSOhzu6iczPDCfQJF/dXP0sEYshi/vwX8vpT2hiaNGSU
+RI4lvV300O6pvPylaRwZ5PogB/gMhcue8WPip7Nt4iG75hSd5PcQIPFom8tfbcDn1BLu7QaLgldm
+x2JGp4nNVN7XAc=V1;
+X-GMX-UID: NDI3Nw5rGWNuebguu2NgTkZlcvYOidxb
+X-Flags: 1401
+
+
+MailID: NDI3Nw5rGWNuebguu2NgTkZlcvYOidxb
+Dear ,
+
+I am Barrister Mike Williams,a solicitor at law.I have an important
+message for you concerning the death of your relative who died on 26th
+December 2003,and the funds valued at US$8.5million he left behind in
+bank here in my country (Togo),I want you to help me put claims to
+this fund so that you will stand for me as the next of kin to enable
+the bank release this money to us,Contact me for the full details.on
+my private email  ( pygmikewilliams@gmail.com )
+
+Best Regards ,
+Barr.Mike Williams (Esq)
+Call me 00228 90 91 89 05
+Email me on my private email ( pygmikewilliams@gmail.com )
+ 
+
+I've been getting more lads who use Gmail instead of providers like Yahoo! and Hotmail. Are they wising up perhaps?

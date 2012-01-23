@@ -1,0 +1,70 @@
+
+
+Return-path: 
+Envelope-to: 
+Delivery-date: Wed, 04 Jan 2012 08:10:11 -0800
+Received: from [212.112.110.152] (helo=mail.imageland.kg)
+	by  with esmtp (Exim 4.69)
+	(envelope-from )
+	id 1RiTPm-0006C2-JJ
+	for ; Wed, 04 Jan 2012 08:10:11 -0800
+Received: from [212.112.110.152] (localhost [127.0.0.1])
+	by mail.imageland.kg (Postfix) with ESMTP id EEE28286A8;
+	Wed,  4 Jan 2012 22:01:19 +0600 (KGT)
+Received: from 41.71.175.31
+       (SquirrelMail authenticated user director)
+       by imageland.kg with HTTP;
+       Wed, 4 Jan 2012 22:01:20 +0600
+Message-ID: 
+Date: Wed, 4 Jan 2012 22:01:20 +0600
+Subject: 
+From: "Sir. Mervyn  King" 
+Reply-To: mervynkingmervyn@w.cn
+User-Agent: SquirrelMail/1.4.20
+MIME-Version: 1.0
+Content-Type: text/plain;charset=koi8-r
+X-Priority: 3 (Normal)
+Importance: Normal
+To: undisclosed-recipients:;
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=4.1
+X-Spam-Score: 41
+X-Spam-Bar: ++++
+X-Ham-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Hello, I' am Sir. Mervyn King. From Bank of England, london,
+	United Kingdom. Have a transaction of mutual benefits, which involves the
+	sum of (13,200,000.00) Thirteen million and two hundred thousand British
+	pounds sterling. There is no risk involved. This transaction is highly confidential,
+	Indicate your interest by formally writing me via email. [...] 
+	Content analysis details:   (4.1 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+	[212.112.110.152 listed in bb.barracudacentral.org]
+	0.8 BAYES_50               BODY: Bayes spam probability is 40 to 60%
+	[score: 0.5030]
+	0.0 LOTS_OF_MONEY          Huge... sums of money
+	0.8 RDNS_NONE              Delivered to internal network by a host with no rDNS
+	0.0 RISK_FREE              No risk!
+	1.0 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+	0.0 MONEY_FRAUD_3          Lots of money and several fraud phrases
+X-Spam-Flag: NO
+
+Hello,
+I' am Sir. Mervyn  King. From Bank of England, london, United Kingdom.
+Have a transaction of mutual benefits, which involves the sum of
+(=A313,200,000.00) Thirteen million and two hundred thousand British poun=
+ds
+sterling. There is no risk involved.
+This transaction is highly confidential, Indicate your interest by
+formally writing me via email.
+
+Kindest Regards,
+Sir. Mervyn King.
+
+Bank of England,
+london, United Kingdom.

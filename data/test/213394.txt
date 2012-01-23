@@ -1,0 +1,39 @@
+
+
+Business Offer
+Monday, January 2, 2012 8:22 AM
+From Mr Struss Afiss Mon Jan 2 14:22:47 2012
+X-Apparently-To: 		 via 67.195.15.102; Mon, 02 Jan 2012 06:23:18 -0800
+Return-Path: 		
+Received-SPF: 		pass (domain of libero.it designates 212.52.84.101 as permitted sender) byBjb250YWN0IG1lIG9uIG15IGVtYWlsIGZvciBtb3JlIApkZXRhaWwgYWJv dXQgdGhlIGJ1c2luZXNzOwoKc3RydXNzMTk2MEBsaXZlLmNvbQoKU2luY2Vy ZWx5CgpTdHJ1c3MgQWZpc3MBMAEBAQE-
+X-YMailISG: 		XRgtyH8WLDtWYTD9T0y2fS31MV_C9mhJV5eJp_7kyyoPIhQ1 q2c4gDbS8MhlLAAhsFvmkhngC84fl517_F8cLG3nTLkWRz95ibuNyEOrYitI I9GLizM8WIicsITtzvgU.PXv39OgFewqqcY2puGGT3SZNio7Xl6CWiYvMWDu iPDDu3UYXtzfv7MFEYfCHTQOkeolvaIMrVeA53VrimnKPkQCQJHjsCaD4QeG SaFixsFXzjmeCGxOmSarBZTvkUocWxwqISjjwcoF13pgoJA9BL7e99ZgB6cU 5c128aFRxrFFMfvHjxNBuD.vUD_Ge9iypQ9pP1YE1.wQTZ8NR7fTHvyUZEDY ZZvE0QIyZ4UOu7SmTkkHFEg5WBbjCNcs7YFAk4.LI1ov40urk8.10uIw0dqd
+X-Originating-IP: 		[212.52.84.101]
+Authentication-Results: 		mta1050.sbc.mail.mud.yahoo.com from=libero.it; domainkeys=neutral (no sig); from=libero.it; dkim=neutral (no sig)
+Received: 		from 38.101.108.178 (EHLO sccwmxc04.att.net) (12.102.248.84) by mta1050.sbc.mail.mud.yahoo.com with SMTP; Mon, 02 Jan 2012 06:23:18 -0800
+Received: 		from outrelay01.libero.it ([212.52.84.101]) by att.net (sccwmxc04) with ESMTP id <20120102142316s04001a4t0e>; Mon, 2 Jan 2012 14:23:16 +0000
+X-Originating-IP: 		[212.52.84.101]
+X-CTCH-Spam: 		Suspect
+X-CTCH-RefID: 		str=0001.0A0B020D.4F01BDB8.0007,ss=2,re=0.000,fgs=0
+X-libjamoibt: 		1821
+Received: 		from wmail31 (172.31.0.100) by outrelay01.libero.it (8.5.140) (authenticated as strussafiss1@libero.it) id 4EFDDB21002B1CB7; Mon, 2 Jan 2012 15:22:47 +0100
+Message-ID: 		<30081765.9409851325514167944.JavaMail.defaultUser@defaultHost>
+Date: 		Mon, 2 Jan 2012 15:22:47 +0100 (CET)
+From: 		
+Mr Struss Afiss   
+Add sender to Contacts
+Reply-To: 		Mr Struss Afiss 
+Subject: 		Business Offer
+MIME-Version: 		1.0
+Content-Type: 		text/plain;charset="UTF-8"
+Content-Transfer-Encoding: 		7bit
+X-SenderIP: 		172.130.45.123
+Content-Length: 		148
+Compact Headers
+
+I Have a new business for you. Please do contact me on my email for more detail about the business;
+
+struss1960@live.com
+
+Sincerely
+
+Struss Afiss

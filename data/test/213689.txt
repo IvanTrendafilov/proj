@@ -1,0 +1,49 @@
+
+
+Received: by 10.68.48.39 with SMTP id i7cs184412pbn;
+       Wed, 4 Jan 2012 00:27:22 -0800 (PST)
+Received: by 10.227.202.142 with SMTP id fe14mr31041282wbb.10.1325665639969;
+       Wed, 04 Jan 2012 00:27:19 -0800 (PST)
+Return-Path: 
+Received: from nm25-vm7.bullet.mail.ird.yahoo.com (nm25-vm7.bullet.mail.ird.yahoo.com. [212.82.109.208])
+       by mx.google.com with SMTP id k42si24198409weq.115.2012.01.04.00.27.19;
+       Wed, 04 Jan 2012 00:27:19 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning karim_ali_20@msn.com does not designate 212.82.109.208 as permitted sender) client-ip=212.82.109.208;
+Authentication-Results: mx.google.com; spf=softfail (google.com: domain of transitioning karim_ali_20@msn.com does not designate 212.82.109.208 as permitted sender) smtp.mail=karim_ali_20@msn.com; dkim=hardfail (test mode) header.i=@yahoo.com
+Received: from [77.238.189.51] by nm25.bullet.mail.ird.yahoo.com with NNFMP; 04 Jan 2012 08:27:19 -0000
+Received: from [212.82.108.116] by tm4.bullet.mail.ird.yahoo.com with NNFMP; 04 Jan 2012 08:27:19 -0000
+Received: from [127.0.0.1] by omp1025.mail.ird.yahoo.com with NNFMP; 04 Jan 2012 08:27:19 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 206440.36920.bm@omp1025.mail.ird.yahoo.com
+Received: (qmail 26317 invoked by uid 6007); 4 Jan 2012 08:27:19 -0000
+DKIM-Signature: v=1; a=rsa-sha256;
+X-Originating-IP: [65.55.34.14]
+Authentication-Results: mta1097.mail.ird.yahoo.com  from=msn.com; domainkeys=neutral (no sig);  from=msn.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO col0-omc1-s4.col0.hotmail.com) (65.55.34.14)
+ by mta1097.mail.ird.yahoo.com with SMTP; Wed, 04 Jan 2012 08:27:19 +0000
+Received: from COL120-W23 ([65.55.34.7]) by col0-omc1-s4.col0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Wed, 4 Jan 2012 00:27:18 -0800
+Message-ID: 
+Return-Path: karim_ali_20@msn.com
+Content-Type: multipart/alternative;
+	boundary="_e6caf0c1-7171-4d04-902e-0ce732e39b5a_"
+X-Originating-IP: [41.203.236.54]
+Reply-To: 
+From: kari ali 
+Subject: Greating; From Dr Karim Ali
+Date: Wed, 4 Jan 2012 08:27:17 +0000
+Importance: Normal
+MIME-Version: 1.0
+X-OriginalArrivalTime: 04 Jan 2012 08:27:18.0062 (UTC) FILETIME=[ABB86CE0:01CCCABA]
+
+Dear Friend,
+With due respect to your person and great sincerity of purpose in which I decide to contact you as I believe you will be of great assistance to me. Meanwhile, it's just my urgent need for foreign partner that made me to contact you for this transaction. I am a banker by profession from Burkina Faso in West Africa and currently holding the post of Director Auditing and Accounting unit of the bank. I have the opportunity of transferring the left over funds ($11.5 million) of one of my bank clients who died along with his entire family on 31 July 2000 in a plane crash. You can confirm the genuiness of the deceased death by clicking on this web site. http://news.bbc.co.uk/1/hi/world/europe/859479.stm
+
+Hence, I am inviting you for a business deal where this money can be shared between us in the ratio of 60/40. If you agree to my business proposal. further details of the transfer will be forwarded to you as soon as i receive your return mail.
+Have a great day.Yours 
+
+Dr Karim  Ali
+
+Reply to my new email address.   
+
+Email: karim19845@voila.fr

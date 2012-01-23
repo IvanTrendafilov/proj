@@ -1,0 +1,78 @@
+
+
+Summary (1, 2, 3):
+1) http://whatismyipaddress.com/ip/196.11.146.165
+Country:	South Africa
+State/Region:	Gauteng
+
+2) http://my-addr.com/ip/196.11.146.165
+domain:	relay3.vodamail.co.za
+ISP: AS29975 VODACOM-ZA
+
+3) 
++++
+From: 27725525914@vodamail.co.za (fake)
+To: aiahsya@yahoo.com (fake?)
+E-mail address for reply, in message: aishayakoub30@yahoo.com.ph
++++
+
+--- source ---
+From 27725525914@vodamail.co.za Sun Jan 08 09:01:44 2012
+Return-path: <27725525914@vodamail.co.za>
+X-ACL-Warn: 
+Received: from [196.11.146.165] (port=45054 helo=vodamail.co.za)
+       by mx30.mail.ru with esmtp (envelope-from <27725525914@vodamail.co.za>)
+       id 1Rjkt6-0005St-Ir
+       for ___me___; Sun, 08 Jan 2012 09:01:44 +0400
+X-Mru-BL: 0
+X-Mru-PTR: relay3.vodamail.co.za
+X-Mru-NR: 1
+X-Mru-OF: unknown (GPRS, T1, FreeS/WAN)
+X-Mru-RC: ZA
+Received: from vodamail.co.za (smtp7 [10.113.154.86])
+       by mtafscbe0607relay3.vodamail.co.za (Postfix) with ESMTP id 0D79CC000047;
+       Sun,  8 Jan 2012 07:01:43 +0200 (SAST)
+Received: from localhost (localhost [127.0.0.1])
+       by mtafscbe0606smtp7.vodamail.co.za (Postfix) with ESMTP id 7DAD9805F12C;
+       Sun,  8 Jan 2012 07:01:42 +0200 (SAST)
+X-Virus-Scanned: amavisd-new at vodamail.co.za
+Received: from vodamail.co.za ([127.0.0.1])
+       by localhost (smtp7.vodamail.internal [127.0.0.1]) (amavisd-new, port 10024)
+       with ESMTP id zzvNoQe7PU8a; Sun,  8 Jan 2012 07:01:42 +0200 (SAST)
+Received: from mtafscbe0305v4me.vas.vodacom.corp (unknown [10.113.153.25])
+       by mtafscbe0606smtp7.vodamail.co.za (Postfix) with ESMTP id 020F3805F127;
+       Sun,  8 Jan 2012 07:01:41 +0200 (SAST)
+From: 27725525914@vodamail.co.za
+To: aiahsya@yahoo.com
+Message-ID: <361143314.1921.1325998902303.JavaMail.root@mtafscbe0305v4me>
+Subject: Dear
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+Date: Sun,  8 Jan 2012 07:01:41 +0200 (SAST)
+X-Spam: Not detected
+X-Mras: Ok
+
+DearI am Mrs. Aisha Yakoub, the ex-wife of Abdul Razzaq Yakoub from=
+U.A.E. Myex-husband Mr Yakoub is a prominent Pakistani expatriate busi=
+nessman basedin Dubai. Read about my ex husband on no. 7 of the link:(http://teeth.com.pk/blog/2007/12/08/pakistans-rich-list-of-2008)Sinc=
+e the beginning of last year, I have been in the hospital in Londonsuff=
+ering from cancer and recently my Doctor told me that I may die anytime=
+any day because of my cancer sickness.Having known my condition I deci=
+ded to donate the $27 Million (Twentyseven Million U.S Dollars, which I=
+got from My ex husband after ourseparation to help needy.I hav=
+e decided to do this as to alleviate the suffering of many families .I =
+have sent over 5 million dollars to various charity oganizations butthe=
+y used the funds wrongly.Now I need a faithful Person who will help uti=
+lize the money very well. Iknow you are a good person and you can do th=
+is purpose for me and forAllah. As you do this work, God Shall definite=
+ly reward you. Also, it ismy desire to map out part of the more as a re=
+ward to you for youfaithfulness.This is the directive I got fro=
+m Allah after my Salaat Prayers.It will be my pleasure to receive your =
+good response and I will direct youto my Lawyer who will help you to le=
+gally secure this $27 Million (TwentySeven Million U.S Dollars).I want you to always pray for me as I have no much life again says myd=
+octor. I am waiting for your respond.Please your responding to this=
+mail, email me at ;aishayakoub30@yahoo.com.phGod bless you and your go=
+od familyAisha Yakoub
+--- end of source ---

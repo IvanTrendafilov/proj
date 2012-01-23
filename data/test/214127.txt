@@ -1,0 +1,88 @@
+
+
+Viewing Full Header - View message
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on mc3.midcoast.com
+X-Spam-Flag: YES
+X-Spam-Level: *******************
+X-Spam-Status: Yes, score=19.8 required=5.0 tests=ADVANCE_FEE_3_NEW,
+    ADVANCE_FEE_4_NEW,FORGED_MUA_OUTLOOK,FROM_MISSPACED,FROM_MISSP_EH_MATCH,
+    FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,FROM_MISSP_TO_UNDISC,FROM_MISSP_URI,
+    FROM_MISSP_USER,FSL_CTYPE_WIN1251,FSL_MISSP_REPLYTO,FSL_NEW_HELO_USER,FSL_UA,
+    FSL_XM_419,MSOE_MID_WRONG_CASE,NSL_RCVD_FROM_USER,RCVD_IN_DNSWL_NONE,
+    T_HK_NAME_DR shortcircuit=no autolearn=disabled version=3.3.2
+X-Spam-Report:
+    * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+    * trust
+    * [212.27.42.3 listed in list.dnswl.org]
+    * 2.0 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+    * 0.0 FSL_XM_419 Old OE version in X-Mailer only seen in 419 spam
+    * 0.8 NSL_RCVD_FROM_USER Received from User
+    * 1.9 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+    * 0.1 FSL_NEW_HELO_USER FSL_NEW_HELO_USER
+    * 3.4 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+    * 1.7 FSL_MISSP_REPLYTO Mis-spaced from and Reply-to
+    * 1.2 FROM_MISSP_USER From misspaced, from "User"
+    * 0.3 FSL_UA FSL_UA
+    * 0.0 T_HK_NAME_DR T_HK_NAME_DR
+    * 0.9 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+    * 3.1 FROM_MISSPACED From: missing whitespace
+    * 0.3 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+    * 0.0 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+    * 0.0 FROM_MISSP_URI From misspaced, has URI
+    * 0.6 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 2.8 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+    * 0.5 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+X-Original-To: 
+Received: from localhost (localhost [127.0.0.1])
+    by mc3.midcoast.com (Postfix) with ESMTP id 1F9F1F4851
+    for ; Wed, 18 Jan 2012 11:27:08 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at midcoast.com
+Received: from mc3.midcoast.com ([127.0.0.1])
+    by localhost (mc3.midcoast.com [127.0.0.1]) (amavisd-new, port 10024)
+    with ESMTP id B8TsijNNrpil for ;
+    Wed, 18 Jan 2012 11:27:07 -0500 (EST)
+Received: from mx1.midcoast.com (mx1.midcoast.com [69.39.100.26])
+    by mc3.midcoast.com (Postfix) with ESMTP id A355EF4A89
+    for <@m.mail.midcoast.com>; Wed, 18 Jan 2012 11:15:53 -0500 (EST)
+Received: from smtp3-g21.free.fr (smtp3-g21.free.fr [212.27.42.3])
+    by mx1.midcoast.com (Postfix) with ESMTP id 9DE2FECEFA
+    for ; Wed, 18 Jan 2012 11:15:52 -0500 (EST)
+Received: from User (cpe-74-73-239-92.nyc.res.rr.com [74.73.239.92])
+    (Authenticated sender: annepascale)
+    by smtp3-g21.free.fr (Postfix) with ESMTPA id BC0AEA635E;
+    Wed, 18 Jan 2012 17:15:02 +0100 (CET)
+Reply-To: 
+From: "Dr. Kingsley Moghalu"
+Subject: PJM-> Confirm this information
+Date: Wed, 18 Jan 2012 17:15:39 +0100
+MIME-Version: 1.0
+Content-Type: text/plain;
+    charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20120118161502.BC0AEA635E@smtp3-g21.free.fr>
+To: undisclosed-recipients:;
+X-Spam-Prev-Subject: Confirm this information
+Attn: Sir
+
+I am Kingsley Moghalu Deputy Governor of the Central Bank of Nigeria. Please visit
+the website below to read my profile/biodata as the Deputy Governor of the Central
+Bank of Nigeria in charge of the Financial Sector Surveillance (FSS) Directorate
+
+http://www.cenbank.org/AboutCBN/TheBoard.asp?Name=Dr%2E+Kingsley+Moghalu&Biodata;=moghalu
+
+Following the CBN re-engineering and re-structuring payment processes in 2011, we
+can now complete your transfer without further delay. Please kindly respond with
+your full details to enable us complete your transfer.
+
+Yours faithfully.
+
+Dr. Kingsley Moghalu
+Deputy Governor, Financial Sector Stability
+Central Bank of Nigeria
+Tel: +234-1-840-1378, Fax +234-1-227-0128.
+ 

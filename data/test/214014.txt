@@ -1,0 +1,62 @@
+
+
+Received: by 10.68.48.39 with SMTP id i7cs218829pbn;
+       Wed, 11 Jan 2012 16:12:01 -0800 (PST)
+Received: by 10.68.116.144 with SMTP id jw16mr3558725pbb.28.1326327119481;
+       Wed, 11 Jan 2012 16:11:59 -0800 (PST)
+Return-Path: 
+Received: from nm13-vm0.bullet.mail.ird.yahoo.com (nm13-vm0.bullet.mail.ird.yahoo.com. [77.238.189.195])
+       by mx.google.com with SMTP id l10si4784812pbj.72.2012.01.11.16.11.58;
+       Wed, 11 Jan 2012 16:11:59 -0800 (PST)
+Received-SPF: neutral (google.com: 77.238.189.195 is neither permitted nor denied by best guess record for domain of kh-vdc1@vdc.com.vn) client-ip=77.238.189.195;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 77.238.189.195 is neither permitted nor denied by best guess record for domain of kh-vdc1@vdc.com.vn) smtp.mail=kh-vdc1@vdc.com.vn; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [77.238.189.56] by nm13.bullet.mail.ird.yahoo.com with NNFMP; 12 Jan 2012 00:08:02 -0000
+Received: from [212.82.108.252] by tm9.bullet.mail.ird.yahoo.com with NNFMP; 12 Jan 2012 00:08:02 -0000
+Received: from [127.0.0.1] by omp1017.mail.ird.yahoo.com with NNFMP; 12 Jan 2012 00:08:02 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 494684.95101.bm@omp1017.mail.ird.yahoo.com
+Received: (qmail 7049 invoked by uid 6007); 12 Jan 2012 00:08:02 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+X-Originating-IP: [203.162.0.79]
+Authentication-Results: mta1008.mail.ird.yahoo.com  from=vdc.com.vn; domainkeys=neutral (no sig);  from=vdc.com.vn; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO m79.vnn.vn) (203.162.0.79)
+ by mta1008.mail.ird.yahoo.com with SMTP; Thu, 12 Jan 2012 00:08:02 +0000
+Received: from User ([41.31.67.206])
+by m79.vnn.vn (Sun Java System Messaging Server 6.2-3.04 (built Jul 15 2005))
+with ESMTPA id <0LXN009ZBOWGDVB0@m79.vnn.vn> for lucy.baulsak@yahoo.co.uk;
+Thu, 12 Jan 2012 05:53:42 +0700 (ICT)
+Date: Thu, 12 Jan 2012 00:53:37 +0200
+From: "Mrs. Grace Anderson" 
+Subject: CONGRATULATIONS??
+To: Undisclosed recipients: ;
+Reply-to: centerpayment63@yahoo.com.hk
+Message-id: <0LXN009ZEOWJDVB0@m79.vnn.vn>
+MIME-version: 1.0
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+Content-type: text/plain; charset=Windows-1251
+Content-transfer-encoding: 7BIT
+X-Priority: 3
+X-MSMail-priority: Norma
+Congratulations you have won US$2,000.000.00 (Two Million Dollars) on Spanish compensation
+charity program, your email address was selected from a computer ballot draw that was held by FIFA
+committee in conjunction with Spanish football association.
+
+You are advised to contact our local agent who is your claims agent for more
+details and pay out of your won prize.
+
+Claims agent contact details below:
+
+Mrs. Grace Anderson
+Tel:+44-7924585990
+Email: centerpayment63@yahoo.com.hk
+
+You are to contact the above claim agent as soon as you receive this email
+with claim reference number; CFA233 otherwise your prize will be cancelled.
+
+Congratulations once again from members and staffs of this organization.
+
+Yours,
+
+Martina Elguera,
+Lottery Coordinator.

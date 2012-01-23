@@ -1,0 +1,43 @@
+
+
+ARE YOU AWARE?Monday, January 2, 2012 10:25 PM
+From Michail Karakostas chamber Tue Jan 3 04:25:51 2012
+X-Apparently-To:   via 67.195.15.114; Mon, 02 Jan 2012 20:25:52 -0800 
+Return-Path:    
+Received-SPF:   pass (domain of msn.com designates 65.54.190.148 as permitted sender) CjM2LCBWb3Vrb3VyZXN0aW91IFN0cmVldCwgQXRoZW5zLEdyZWVjZS4KVGVs OiArMzAgNjk5IDUyMzUxNTguCgpHb29kIERheSwKCkkgYW0gTWljaGFpbCBL YXJha29zdGFzLCBhIHNlbmlvciBBdHRvcm5leSB3aXRoIE1pY2hhaWwgJiBD by5BdGhlbi1HcmVlY2UuCgpJIGFtIHdyaXRpbmcgeW91IHRvIGludGltYXRl IHlvdSBhYm91dCB0aGUgc3VtIG9mIDI4LjUgTWlsbGlvbiABMAEBAQE- 
+X-YMailISG:   T47RT1gWLDvsy5Ho_ubjuhYT4DBvqg6SHDfaLSJOB7rMzChw _lhO1x4MySiQJH0Qma9Yr4Q7D6YjNvcMcDHJ_a_aZrU1hDf.t0tsEX4mMi9Q gOTD_Ywq76_gC7yEtsPN00h6R5g8EqPWnY5eZB_N8OVpZvlv3.4Dfa8_MH7a xbWt1A9RQ0aCM0Bc918d8WwNksHXlaNUb3pSz77.F4s14EMi_GiMezWYsm6u 7Ytt9h0qzbU8H7I4Mo5aGoLSpVVUkWoMe5AEHpkywyAj0RgoTQltUYtG0qwo ecqWSLxZaz374GQ2caDldF448E7qjRoQDKkX_wEbzUGPyttrzVLVv0hxXrgK JGNuZvkFllZUaDLeMHWtbZYthvPS8kZpsiJZIwkN3mBlQfcFq8WeTvbK7tiJ sg-- 
+X-Originating-IP:   [65.54.190.148] 
+Authentication-Results:   mta1037.sbc.mail.mud.yahoo.com from=msn.com; domainkeys=neutral (no sig); from=msn.com; dkim=neutral (no sig) 
+Received:   from 204.127.224.82 (EHLO alnwmxc02.att.net) (204.127.224.82) by mta1037.sbc.mail.mud.yahoo.com with SMTP; Mon, 02 Jan 2012 20:25:52 -0800 
+Received:   from bay0-omc3-s10.bay0.hotmail.com ([65.54.190.148]) by att.net (alnwmxc02) with ESMTP id <20120103042552a020090efhe>; Tue, 3 Jan 2012 04:25:52 +0000 
+X-Originating-IP:   [65.54.190.148] 
+Received:   from BAY160-W49 ([65.54.190.189]) by bay0-omc3-s10.bay0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675); Mon, 2 Jan 2012 20:25:52 -0800 
+Message-ID:    
+Return-Path:   michailkarakostas002@msn.com
+Content-Type:   multipart/alternative; boundary="_3a3bb1b2-2101-4867-9341-507c739beeee_" 
+X-Originating-IP:   [41.203.64.129] 
+Reply-To:    
+From:   Michail Karakostas chamber   Add sender to Contacts 
+Subject:   ARE YOU AWARE? 
+Date:   Tue, 3 Jan 2012 04:25:51 +0000 
+Importance:   Normal 
+MIME-Version:   1.0 
+Bcc:    
+X-OriginalArrivalTime:   03 Jan 2012 04:25:52.0382 (UTC) FILETIME=[C72B51E0:01CCC9CF] 
+Content-Length:   1461 
+
+Compact Headers
+Michail Karakostas Chamber & Associates
+36, Voukourestiou Street, Athens,Greece.
+Tel: +30 699 5235158.
+
+Good Day,
+
+I am Michail Karakostas, a senior Attorney with Michail & Co.Athen-Greece.
+
+I am writing you to intimate you about the sum of 28.5 Million Euro left behind by Late father.
+
+Please get back to me urgently for details as this could be of mutual benefit to us.
+
+Best Regards,
+Michail Karakostas.

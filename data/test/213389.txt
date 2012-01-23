@@ -1,0 +1,95 @@
+
+
+Return-Path: 
+Received: from mail-qy0-f193.google.com (mail-qy0-f193.google.com [209.85.216.193])
+       (envelope-from haguanatte@gmail.com)
+Received: by qcse16 with SMTP id e16so1980282qcs.4
+       for ; Mon, 02 Jan 2012 02:54:06 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=gmail.com; s=gamma;
+       h=mime-version:date:message-id:subject:from:to:content-type;
+       bh=QVADB5I0TE7oa9AC5i/l2KjL2POWbZJ5gYlOYu02ljY=;
+       b=pH1ZQW5HtYBJCz+yuzd79EO1p5swHUhQRVGr4DttC6MySLmUGPEQCW4ov9QJXUDhv4
+        TC0qZwuVkj2VSd1MQNLdhfWeZc1+Fk/a5U4pgy5NsxWePEYLrdsv3inW4WdRV2E8Tbgs
+        5mLEW8H9CSXO9JTmkeLYKpsdxQZ07F5B3pEdI=
+MIME-Version: 1.0
+Received: by 10.229.76.217 with SMTP id d25mr17886669qck.146.1325501635044;
+Mon, 02 Jan 2012 02:53:55 -0800 (PST)
+Received: by 10.229.136.13 with HTTP; Mon, 2 Jan 2012 02:53:54 -0800 (PST)
+Date: Mon, 2 Jan 2012 18:53:54 +0800
+Message-ID: 
+Subject: WORK FROM HOME.
+From: haguanatte 
+To: haguanatte@gmail.com
+Content-Type: multipart/alternative; boundary=0023544718d81b2c8e04b58966a1
+X-Greylist: Default is to whitelist mail, not delayed by milter-greylist-4.2.3 (
+
+--0023544718d81b2c8e04b58966a1
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+I write to introduce a lovely mystery dining opportunity in form of a part
+time job that you'ld run at your own comfort.
+
+MAJOR REQUIREMENT: ABOVE 20YRS OLD. You get paid ($150) for every job done
+and you can do multiple jobs a day.
+
+Our Mystery Dining Organisation (OMDO) is a hospitality mystery shopping
+specialist that delivers valuable customer insights and knowledge to drive
+service quality and performance for dining and hospitality-based businesses.
+
+We invented the term Mystery Dining as part of our drive to serve the
+hospitality and dining industry with quality customer feedback, and we have
+established ourselves as the leading specialized Mystery Dining provider
+around the globe. We talk every day with real customers about real
+experiences in this sector.
+
+Above all, it really matters to us that you can trust and depend on our
+advice and the quality, depth and speed of the information we produce and
+give you to work with. This is what marks us out from our competitors.
+
+We focus on the dining and hospitality industry, and know more about what
+really happens in the environment than anyone else.
+
+Mystery dining visitors are required to visit restaurants, hotels, bars,
+leisure & retail units within their local area, act as normal customers and
+check that the service criteria are inline with company standards. It is
+vital that after the evaluation, you accurately complete a report in a
+descriptive and constructive manner, detailing what happened during the
+visit. The ability to be discreet, observant and have a good eye for detail
+is essential. Having access to your own transport can be an advantage as
+you may be required to travel up to 20 miles to carry out assignments. Most
+assignments carry an appropriate budget to cover purchases made during your
+visit, in return for completing the report.
+
+What is required of you...
+
+Mystery dining visits.
+Trending analysis.
+Recommendations and business action planning.
+Food menu and spec analysis/compliance/comparisons.
+Full menu reviews.
+
+We need Mystery diners/visitors in the U.S and Canada: We use this process
+to help the current economical situation and also give people lovely dining
+time.
+
+No upfront cash commitment is made by you, and you would have flexible
+hours as it suits you. If you are interested, send in your:
+
+FULL NAME:
+CONTACT ADDRESS:
+CITY:
+STATE:
+ZIP-CODE:
+MOBILE NUMBER: { You require a working telephone number to be qualified for
+the job }
+OCCUPATION (If Any):
+EMAIL:
+
+Do send your reply to my personal email address { donhagua@yahoo.com } for
+a quicker response as i do not check this email always.
+
+Thanks.

@@ -1,0 +1,52 @@
+
+
+From N555ed@aol.com Sun Jan 8 17: 41:20 2012
+Return-Path: 
+X-Original-To: me
+Delivered-To: me
+Received: from ims-m12.mx.aol.com (ims-m12.mx.aol.com [64.12.207.145]) by
+my box (Postfix) with ESMTP id 0E91B2164C for ;
+Sun, 8 Jan 2012 17:41:14 -0500 (EST)
+Received: from oms-db01.r1000.mx.aol.com (oms-db01.r1000.mx.aol.com
+[205.188.58.1]) by ims-m12.mx.aol.com (8.14.1/8.14.1) with ESMTP id
+q08Me6VF020726; Sun, 8 Jan 2012 17:40:06 -0500
+Message-ID: <201201082240.q08Me6VF020726@ims-m12.mx.aol.com>
+Received: from mtaout-db05.r1000.mx.aol.com (mtaout-db05.r1000.mx.aol.com
+[172.29.51.197]) by oms-db01.r1000.mx.aol.com (AOL Outbound OMS
+Interface) with ESMTP id 29F511C000082; Sun, 8 Jan 2012 17:40:05 -0500
+(EST)
+Received: from aol.de (207-170-223-176.static.twtelecom.net
+[207.170.223.176]) by mtaout-db05.r1000.mx.aol.com (MUA/Third Party
+Client Interface) with ESMTPA id 422E4E000121; Sun, 8 Jan 2012 17:39:35
+-0500 (EST)
+Reply-To: 
+From: "Dagoo Lasis"
+Subject: DO I HAVE CONFIDENCE IN YOU?
+Date: Sun, 8 Jan 2012 23:40:10 -0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Aol-Global-Disposition: S
+X-Spam-Flag: YES
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com; 
+s=20110426; t=1326062405; bh=boYq0GdGgTRR3sh9t+MJYnaV/iGLSCvLeLmBcK7PWGA=;
+h=From:Subject:Date:MIME-Version:Content-Type; b=HmIAwXH1hdTcFbqim3BV7T+MbjOg74xN3vHXpMBNCOqRAJHg1vk9ax1NG0OzQxLfn
+W+PgZoOD3veiNhI9EUiwUOwu4QbaZdkXUBOtVq/w+wBuF0ay7T4KKDoMom3Gly4UXa  
+gWCctuDTexOQrQmKTSDcLnWm2zkq2DnEna0PupkE=
+X-Aol-Scoll-Score: 0:2:110898280:93952408
+X-Aol-Scoll-Url_count: 0
+X-Aol-Reroute: YES
+X-Aol-Sid: 3039ac1d33c54f0a1b27548f
+X-Aol-Ip: 207.170.223.176
+To: undisclosed-recipients:;
+X-Length: 2468
+X-UID: 70287
+
+ My name is Dagoo Lasis direct KTT Wire transfer. I believe you dont know me before but for information kindly go through attachment to enable you know the reason why your payment has been long delayed. I decided to reach you personally this YEAR because I do not have anything against you.
+
+Best Regards.
+Dagoo Lasis

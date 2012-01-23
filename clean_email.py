@@ -14,13 +14,37 @@ def cleanHeaders(text, full=False):
 	os.remove('clean.tmp')
 	return message
 
+def cleanHeaders2(text, full=False):
+	msg_lines = text.splitlines()
+	headers = []
+	for line in msg_lines:
+		foundAlpha = False
+		for i in range(0, len(line)):
+			char = line[i]
+			if char.isalpha() and not foundAlpha:
+				foundAlpha = True
+				if char.isupper():
+					count = 0
+					while True:
+						count += 1
+						try:
+							if line[i + count].isalpha() or line[i + count] == '-':
+								pass
+							elif line[i + count] == ':':
+								if line[i + count + 1] == " ":
+									headers.append(line)
+									break
+									# this is def.
+							else:
+								break
+						except:
+							break
+	return headers
+
 # STEP 2 - Extract useful headers. (Takes the message as a string)
 def extractHeaders(text):
 	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}')
-	if text.count('\r\n') > 1: # this is Windows 
-		msg_lines = text.split('\r\n')
-	else:
-		msg_lines = text.split('\n') # this is Linux 
+	msg_lines = text.splitlines()
 	headers = {'Reply-To': None, 'From': None, 'To': None, 'Subject': None}
 	for line in msg_lines:
 		for header in headers:
@@ -92,7 +116,7 @@ def computeRanking(names, email_addrs):
 	return ranking
 
 def proximitySearch(name, text):
-	text = text.split('\r\n')
+	text = text.splitlines()
 	text = filter(None, text)
 	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}')
 	for i in range(0, len(text)):
@@ -190,7 +214,7 @@ def extractInfo(text):
 def prettyPrint(text):
 	messages = extractInfo(text)
 	for msg in messages:
-		print "\r\n"
+		print os.linesep
 		print "Date:", msg['Date']
 		print "Reply-To:", msg['Reply-To']
 		print "To:", msg['To']

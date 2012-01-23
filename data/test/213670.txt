@@ -1,0 +1,224 @@
+
+
+Return-path: 
+Envelope-to: 
+Delivery-date: Sun, 08 Jan 2012 05:28:17 -0800
+Received: from 114-34-117-207.hinet-ip.hinet.net ([114.34.117.207] helo=etech.idv.tw)
+	by  with esmtp (Exim 4.69)
+	(envelope-from )
+	id 1RjsnG-0004JN-Nl
+	for ; Sun, 08 Jan 2012 05:28:17 -0800
+Received: by etech.idv.tw (Postfix, from userid 783)
+	id 49C1F1069F84; Sun,  8 Jan 2012 20:27:33 +0800 (CST)
+Received: from localhost by DS1511
+	with SpamAssassin (version 3.2.5);
+	Sun, 08 Jan 2012 20:27:32 +0800
+From: "Mrs Anna Joy"
+To: undisclosed-recipients:;
+Subject: *****SPAM***** Letter From Mrs Anna Joy.................
+Date: Sun, 8 Jan 2012 14:24:52 +0200
+Message-Id: <20120108122707.F34651069F07@etech.idv.tw>
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on DS1511
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.2 required=5.0 tests=ALL_TRUSTED,
+	FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,HTML_MESSAGE,
+	HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,MSOE_MID_WRONG_CASE autolearn=no
+	version=3.2.5
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_4F098BB4.29458802"
+X-Spam-Subject: ***SPAM*** *****SPAM***** Letter From Mrs Anna Joy.................
+X-Spam-Status: Yes, score=13.5
+X-Spam-Score: 135
+X-Spam-Bar: +++++++++++++
+X-Spam-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Spam detection software, running on the system "DS1511", has
+	identified this incoming email as possible spam. The original message has
+	been attached to this so you can view it (if it isn't spam) or label similar
+	future email. If you have any questions, see admin for details. [...] 
+	Content analysis details:   (13.5 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+	[114.34.117.207 listed in psbl.surriel.com]
+	1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+	[114.34.117.207 listed in bb.barracudacentral.org]
+	0.0 T_LOTTO_DEPT           BODY: Claims Department
+	0.0 TVD_RCVD_IP            TVD_RCVD_IP
+	0.7 SPF_SOFTFAIL           SPF: sender does not match SPF record (softfail)
+	3.1 DEAR_BENEFICIARY       BODY: Dear Beneficiary:
+	-1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+	[score: 0.0000]
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+	1.0 RDNS_DYNAMIC           Delivered to internal network by host with
+	dynamic-looking rDNS
+	0.0 LOTS_OF_MONEY          Huge... sums of money
+	0.0 T_HK_NAME_MR_MRS       T_HK_NAME_MR_MRS
+	1.9 FROM_MISSP_TO_UNDISC   From misspaced, To undisclosed
+	1.2 FROM_MISSP_DYNIP       From misspaced + dynamic rDNS
+	0.0 ADVANCE_FEE_4_NEW      Appears to be advance fee fraud (Nigerian 419)
+	0.1 ADVANCE_FEE_5_NEW      Appears to be advance fee fraud (Nigerian 419)
+	0.8 ADVANCE_FEE_3_NEW      Appears to be advance fee fraud (Nigerian 419)
+	0.0 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+	0.0 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+	0.0 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+	1.0 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+	0.4 MONEY_FRAUD_5          Lots of money and many fraud phrases
+	0.5 MONEY_FRAUD_8          Lots of money and very many fraud phrases
+	0.0 MONEY_FRAUD_3          Lots of money and several fraud phrases
+	0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal information
+	0.5 FORM_FRAUD_5           Fill a form and many fraud phrases
+X-Spam-Flag: YES
+
+This is a multi-part message in MIME format.
+
+------------=_4F098BB4.29458802
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Spam detection software, running on the system "DS1511", has
+identified this incoming email as possible spam.  The original message
+has been attached to this so you can view it (if it isn't spam) or label
+similar future email.  If you have any questions, see
+admin for details.
+
+Content preview:  Attn:Beneficiary, I am Mrs. Anna Joy, I am a US citizen=
+, 48
+  years Old. I reside here in New Braunfels Texas. My residential addres=
+s is
+  as follows.108 Crockett Court.Apt 303, New Braunfels Texas, United Sta=
+tes,
+  am thinking of relocating since I am now rich. I am one of those that =
+took
+  part in the Compensation in Nigeria many years ago and they refused to=
+pay
+  me,I had paid over $20,000 while in the US, trying to get my payment a=
+ll
+ to no avail. So I decided to travel down to Nigeria with all my compens=
+ation
+  documents, And I was directed to meet Reverend.Anderson ,who is the me=
+mber
+  of COMPENSATION AWARD COMMITTEE, and I contacted him and he explained =
+everything
+  to me. He said whoever is contacting us through emails are fake. He to=
+ok
+ me to the paying bank for the claim of my Compensation payment.Right no=
+w I
+  am the most happiest woman on earth because I have received my compens=
+ation
+  funds of $800,000.00 Moreover, Reverend.Anderson, showed me the full i=
+nformation
+  of those that are yet to receive their payments and I saw your name as=
+one
+  of the beneficiaries, and your email address, that is why I decided to=
+email
+  you to stop dealing with those people, they are not with your fund, th=
+ey
+ are only making money out of you.I will advise you to contact Reverend.=
+Benson.
+  You have to contact him directly on this information below. JOAKIN COM=
+PENSATION
+  HOUSE Name : Reverend. Anderson Email: reverendanderson1@hotmail.com P=
+hone:
+  +234-7032320155 You really have to stop dealing with those people that=
+are
+  contacting you and telling you that your fund is with them, it is not =
+in
+ anyway with them, they are only taking advantage of you and they will d=
+ry
+ you up until you have nothing. The only money I paid after I meet Rever=
+end.
+  Anderson was just $85 Usd for the paper works, take note of that. Once=
+again
+  stop contacting those people, I will advise you to contact Reverend. A=
+nderson
+  so that he can help you to Transfer your Fund into your account, inste=
+ad
+ of dealing with those liars that will be turning you around asking for =
+different
+  kind of [...]=20
+
+Content analysis details:   (6.2 points, 5.0 required)
+
+ pts rule name              description
+---- ---------------------- ---------------------------------------------=
+-----
+-1.4 ALL_TRUSTED            Passed through trusted hosts only via SMTP
+0.0 HTML_MESSAGE           BODY: HTML included in message
+1.7 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+1.1 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+0.0 FORGED_OUTLOOK_TAGS    Outlook can't send HTML in this format
+0.7 MSOE_MID_WRONG_CASE    MSOE_MID_WRONG_CASE
+0.0 FORGED_OUTLOOK_HTML    Outlook can't send HTML message only
+4.2 FORGED_MUA_OUTLOOK     Forged mail pretending to be from MS Outlook
+
+The original message was not completely plain text, and may be unsafe to
+open with some email clients; in particular, it may contain a virus,
+or confirm that your address can receive spam.  If you wish to view
+it, it may be safer to save it to a file and open it with an editor.
+
+------------=_4F098BB4.29458802
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 7bit
+
+Received: from User (genie03-172-235.inter.net.il [213.8.172.235])
+	(Authenticated sender: user)
+	by etech.idv.tw (Postfix) with ESMTPA id F34651069F07;
+	Sun,  8 Jan 2012 20:27:07 +0800 (CST)
+Reply-To: 
+From: "Mrs Anna Joy"
+Subject: Letter From Mrs Anna Joy.................
+Date: Sun, 8 Jan 2012 14:24:52 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20120108122707.F34651069F07@etech.idv.tw>
+To: undisclosed-recipients:;
+
+Attn:Beneficiary,
+
+
+I am Mrs. Anna Joy, I am a US citizen, 48 years Old. I reside here in New Braunfels Texas. My residential address is as follows.108 Crockett Court.Apt 303, New Braunfels Texas, United States, am thinking of relocating since I am now rich. I am one of those that took part in the Compensation in Nigeria many years ago and they refused to pay me,I had paid over $20,000 while in the US, trying to get my payment all to no avail.
+
+
+So I decided to travel down to Nigeria with all my compensation documents, And I was directed to meet Reverend.Anderson ,who is the member of COMPENSATION AWARD COMMITTEE, and I contacted him and he explained everything to me. He said whoever is contacting us through emails are fake.
+
+
+He took me to the paying bank for the claim of my Compensation payment.Right now I am the most happiest woman on earth because I have received my compensation funds of $800,000.00 Moreover, Reverend.Anderson, showed me the full information of those that are yet to receive their payments and I saw your name as one of the beneficiaries, and your email address, that is why I decided to email you to stop dealing with those people, they are not with your fund, they are only making money out of you.I will advise you to contact Reverend. Benson. You have to contact him directly on this
+
+information below.
+
+
+JOAKIN COMPENSATION HOUSE
+
+Name : Reverend. Anderson
+
+Email:  reverendanderson1@hotmail.com
+
+Phone: +234-7032320155
+
+
+You really have to stop dealing with those people that are contacting you and telling you that your fund is with them, it is not in anyway with them, they are only taking advantage of you and they will dry you up until you have nothing.
+
+
+The only money I paid after I meet Reverend. Anderson was just $85 Usd for the paper works, take note of that. Once again stop contacting those people, I will advise you to contact Reverend. Anderson so that he can help you to Transfer your Fund into your account, instead of dealing with those liars that will be turning you around asking for different kind of money to complete your transaction.
+
+
+Thank You and Be Blessed.
+
+
+Mrs. Anna Joy.
+
+------------=_4F098BB4.29458802--

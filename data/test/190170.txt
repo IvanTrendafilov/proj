@@ -1,0 +1,74 @@
+
+
+Guidelines for posting in Surplus 419 Scam Letters forum
+
+Subject Layout
+
+To make it easy for everyone to find the type of scam they are looking for, please use this format for the Subject:Type of Scam - Sender's Location (if known from the IP Address)  
+If the scam mail is particularly interesting/amusing, then a description of its noteworthiness could be added:Type of Scam - Reason for Particular Interest - Sender's Location  
+If the 'type of scam' is not immediately obvious (lottery, loan, employment, pet scam, etc), these questions might help determine the best description:
+
+1.  Who currently has the promised money?
+
+A dying widow?  A soldier in Iraq?  A refugee?  A banker who has found some unclaimed funds?
+
+2.  Why is the money being offered to you?
+
+Compensation for being scammed?  Overdue contract payments?  Somebody needs help?
+
+3.  Is there anything you need to do in return?
+
+Stand in as next-of-kin?  Invest the money?  
+
+4.  Is the writer offering friendship/a relationship and the IP address shows the mail was sent from either C&fnof;te d'Ivoire or Senegal?
+
+If so, then this is probably a refugee.
+
+Headers
+
+Please include the full headers of the email.  Make certain that you have removed your own name and email address before posting, even if it is your baiting name/address.  If there is a 'to' email address which is not your own, please remove this too, unless you are certain it is the scammer's own email address.
+
+See below for how to access headers in Gmail, Yahoo, and Hotmail.
+
+Preventing Blowout
+
+1.  Look for 'DKIM-Signature'.  Delete all that follows this down to 'DomainKey-Signature'.  This is not needed.  You can show it has been deleted by adding  or  or .
+
+2.  Now delete from just after 'DomainKey-Signature' to just before 'Message ID'.  Again, you can note that you have deleted it.  
+
+3.  Delete again from 'X-YMail-OSG' to the 'Received'. DKIM-Signature: 
+DomainKey-Signature: 
+Message-ID: <373957.57980.qm@web59501.mail.ac4.yahoo.com>
+X-YMail-OSG: 
+Received: from [41.222.192.69] by web59501.mail.ac4.yahoo.com via HTTP; 
+Thu, 26 Aug 2010 05:57:23 PDT  
+Note: this is the most usual layout.  Some headers will have a different order of DKIM-Signature, DomainKey-Signature, and X-YMail-OSG; and some will have one or more of these appearing twice.
+
+4.  Alternatively: do not delete, but add a 'return' at the end of each line of the DKIM-Signature, DomainKey-Signature, and X-YMail-OSG in your 'post message' box.
+
+5.  Use 'Preview' to check that all is well, and there is no right-scrolling of your browser window.
+
+Finding the Headers
+
+Gmail:
+
+1.  Open the mail you wish to obtain the header for.
+2.  At the top of the mail, on the right, next to the little box marked 'Reply', you will see a downwards pointing arrow.  Click it.
+3.  Now choose 'Show Original'.
+
+Yahoo:
+
+1.  Go to Inbox.
+2.  Click the RIGHT-mouse button on the 'subject' of the email.
+3.  LEFT-click on the bottom option of the menu: 'View Full Headers'.
+
+Or, in the older version of Yahoo:
+
+1.  Go to Inbox and open one of the emails you would like the headers for, as if you are going to read it.
+2.  Go to the bottom of the mail.  On the bottom-right is a link, 'Full Headers' - left-click on that.
+
+Hotmail:
+
+1.  Open the email as if you are going to read it.
+2.  On the right, just under the date, is the word 'Actions'.  Click on it.
+3.  Click on the second-from-the-bottom menu option - 'View message source'.

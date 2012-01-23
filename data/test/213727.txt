@@ -1,0 +1,122 @@
+
+
+Viewing Full Header - View message
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on mc3.midcoast.com
+X-Spam-Flag: YES
+X-Spam-Level: **********************
+X-Spam-Status: Yes, score=22.4 required=5.0 tests=ADVANCE_FEE_2_NEW_MONEY,
+    ADVANCE_FEE_3_NEW,ADVANCE_FEE_3_NEW_MONEY,ADVANCE_FEE_4_NEW,
+    ADVANCE_FEE_4_NEW_MONEY,ADVANCE_FEE_5_NEW,ADVANCE_FEE_5_NEW_MONEY,
+    FORGED_MUA_OUTLOOK,FREEMAIL_REPLYTO,FROM_MISSPACED,FROM_MISSP_EH_MATCH,
+    FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,FROM_MISSP_TO_UNDISC,
+    FROM_MISSP_URI,FSL_CTYPE_WIN1251,FSL_NEW_HELO_USER,LOTS_OF_MONEY,MILLION_USD,
+    MONEY_FRAUD_3,MONEY_FRAUD_5,MONEY_FRAUD_8,MONEY_FROM_MISSP,
+    MSOE_MID_WRONG_CASE,NSL_RCVD_HELO_USER,RCVD_IN_BRBL_LASTEXT,RDNS_NONE,
+    T_MONEY_PERCENT,XMAILER_MIMEOLE_OL_1ECD5 shortcircuit=no autolearn=disabled
+    version=3.3.2
+X-Spam-Report:
+    * 2.5 MILLION_USD BODY: Talks about millions of dollars
+    * 0.0 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+    * 2.9 NSL_RCVD_HELO_USER Received from HELO User
+    * 1.6 RCVD_IN_BRBL_LASTEXT RBL: RCVD_IN_BRBL_LASTEXT
+    * [112.187.56.40 listed in bb.barracudacentral.org]
+    * 0.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+    * 1.3 RDNS_NONE Delivered to internal network by a host with no rDNS
+    * 0.0 FSL_NEW_HELO_USER FSL_NEW_HELO_USER
+    * 3.4 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+    * 0.0 LOTS_OF_MONEY Huge... sums of money
+    * 2.4 XMAILER_MIMEOLE_OL_1ECD5 XMAILER_MIMEOLE_OL_1ECD5
+    * 0.0 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+    * 0.0 FROM_MISSPACED From: missing whitespace
+    * 0.0 MONEY_FROM_MISSP Lots of money and misspaced From
+    * 2.8 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+    * freemails
+    * 0.0 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+    * 0.0 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+    * 0.0 FROM_MISSP_URI From misspaced, has URI
+    * 0.0 ADVANCE_FEE_5_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 0.0 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 0.0 T_MONEY_PERCENT X% of a lot of money for you
+    * 2.8 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+    * 0.4 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 0.0 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.0 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+    * 1.2 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.0 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.0 MONEY_FRAUD_3 Lots of money and several fraud phrases
+    * 0.0 MONEY_FRAUD_5 Lots of money and many fraud phrases
+    * 0.5 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+    * 0.5 MONEY_FRAUD_8 Lots of money and very many fraud phrases
+X-Original-To:
+Received: from localhost (localhost [127.0.0.1])
+    by mc3.midcoast.com (Postfix) with ESMTP id DCE5537C804
+    for ; Sun, 8 Jan 2012 20:23:31 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at midcoast.com
+Received: from mc3.midcoast.com ([127.0.0.1])
+    by localhost (mc3.midcoast.com [127.0.0.1]) (amavisd-new, port 10024)
+    with ESMTP id YJFhJhbMMPrO for ;
+    Sun, 8 Jan 2012 20:23:31 -0500 (EST)
+Received: from mx1.midcoast.com (mx1.midcoast.com [69.39.100.26])
+    by mc3.midcoast.com (Postfix) with ESMTP id 5131AF3D26
+    for ; Sun, 8 Jan 2012 20:23:27 -0500 (EST)
+Received: from webz.jnei.or.kr (unknown [112.187.56.40])
+    by mx1.midcoast.com (Postfix) with SMTP id 8FEBCE1174
+    fo>; Sun, 8 Jan 2012 20:23:26 -0500 (EST)
+Received: (qmail 16867 invoked by uid 503); 8 Jan 2012 23:21:39 +0000
+Received: from adsl-68-92-209-246.dsl.hstntx.swbell.net (HELO User) (68.92.209.246)
+    by sv40.jnei.go.kr with SMTP; 8 Jan 2012 23:21:39 +0000
+Reply-To: 
+From: "Col. S.D Smith"
+Subject: PJM-> Seasons Greetings From US Army in Iraq
+Date: Sun, 8 Jan 2012 17:42:25 -0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+    charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1081
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1081
+Message-Id: <20120109012326.8FEBCE1174@mx1.midcoast.com>
+To: undisclosed-recipients:;
+X-Spam-Prev-Subject: Seasons Greetings From US Army in Iraq 
+Hello My Dear Friend,
+
+  I am Colonel Scott Dennison Smith Jr., American Combat Soldier Left Behind in Iraq
+after the Handing over to Iraq Force. All US troops were officially to return back
+home by 30th of December, 2011 as ordered by President Barrack Obama, some has
+returned home while some has left Iraq for Kuwait but I am one of the 157 American
+Soldiers Left Behind in Iraq for advisory and assistance to Iraq Forces and also
+responsible for training at the US embassy, as well as a small contingent of
+marines protecting the diplomatic mission which will be for another one-two
+month.View the link to confirm my words.
+
+http://www.bbc.co.uk/news/world-middle-east-16234723
+
+In 2003, I and my unit found over $600 million in Saddam Hussein's hideout in
+Baghdad. We sent some of this stolen money back to the Iraq Government after
+counting it in a classified location, but we also kept some behind for ourselves.
+Some of the money we shared among ourselves is worth over $100million of which I
+kept my own share of the said fund in a military consignment trunk box for a while
+now in a secured place.
+
+I want to hand over this funds to a trust Worth Person that will help me keep it
+till I am back from Iraq by the 30th of January 2012 hopefully. Could you be
+trusted? kindly send me your name and mobile number for easy communication. My own
+share of the funds is $4.2million USD kept in the consignment box. Also View the
+below link to verify my statement.
+
+http://news.bbc.co.uk/2/hi/middle_east/2988455.stm
+
+If you can handle this deal let me know immediately, you will receive 35% of the
+money, all you need to do is to find a safe place where you can keep the box till I
+leave Iraq. Please kindly keep this transaction Confidential because I am still
+serving in the Military camp in Baghdad Iraq so get back to me immediately at my
+private email with the details required from you. ( scscott50@aol.com )
+
+Regards,
+
+Col. Scott D. Smith Jr
+US Military Baghdad, Iraq
+ 

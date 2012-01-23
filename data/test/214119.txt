@@ -1,0 +1,39 @@
+
+
+re;;
+Wednesday, January 18, 2012 1:34 AM
+From Kristina Scarfone Wed Jan 18 07:34:41 2012
+X-Apparently-To: 		 via 67.195.15.107; Tue, 17 Jan 2012 23:34:42 -0800
+Return-Path: 		
+Received-SPF: 		none (domain of yahoo.com does not designate permitted sender hosts) I05VTSQgYW4gaG91cgEwAQEBAQ--
+X-YMailISG: 		yxBgL.MWLDvy3tcO6q61i9Qj9RXTiQ6FwnoqEG73rkB_TNx1 cko5M0rHF9v33ItlajZ0FHIlHFeZq4UaFZyw6FB8zz3vsEablRNTg2NTDRWF mtZGE8KtYgoo.OtRma9Cq_zinhHbd_SGw8A3EMCcM85HH9fOR60R506UtAjw kHLkqiig3SvSsEmXokCWcy6tp69tNlEDNaUIBnqaWDGf5w3NUgKjT9BRCfcC eUL9OpE_XFOGsYaraGls1txoxBwqr09xyq4UbuKPX6F1HIr36mxmII1kpPtt S1LfqLdI46mJMb9L0Sb5vA1qzN3LOd_5839sklT2Mp4McAaH_VjhUtsiY6xW myjXRl32r0ZNM3THJeeckEJqRX4UjXsv7gwUzqKUxfuQAXYdfsViwcJUcgMN tpo-
+X-Originating-IP: 		[98.139.91.204]
+Authentication-Results: 		mta1035.sbc.mail.sp1.yahoo.com from=yahoo.com; domainkeys=pass (ok); from=yahoo.com; dkim=pass (ok)
+Received: 		from 207.115.11.45 (EHLO fgateway15.isp.att.net) (207.115.11.45) by mta1035.sbc.mail.sp1.yahoo.com with SMTP; Tue, 17 Jan 2012 23:34:42 -0800
+Received: 		from nm5-vm0.bullet.mail.sp2.yahoo.com ([98.139.91.204]) by att.net (frfwmxc15) with SMTP id <20120118073442f0100m6epge>; Wed, 18 Jan 2012 07:34:42 +0000
+X-Originating-IP: 		[98.139.91.204]
+Received: 		from [98.139.91.67] by nm5.bullet.mail.sp2.yahoo.com with NNFMP; 18 Jan 2012 07:34:42 -0000
+Received: 		from [98.139.91.49] by tm7.bullet.mail.sp2.yahoo.com with NNFMP; 18 Jan 2012 07:34:42 -0000
+Received: 		from [127.0.0.1] by omp1049.mail.sp2.yahoo.com with NNFMP; 18 Jan 2012 07:34:42 -0000
+X-Yahoo-Newman-Property: 		ymail-3
+X-Yahoo-Newman-Id: 		300057.95621.bm@omp1049.mail.sp2.yahoo.com
+Received: 		(qmail 89511 invoked by uid 60001); 18 Jan 2012 07:34:41 -0000
+DKIM-Signature: 		v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1326872081; bh=r9LeMJWdnIGyd9b5lKy2r2LjvcdWjIOIrtwsFZR8ulo=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Subject:To:Cc:MIME-Version:Content-Type; b=k1lwdAoVKu9oqcnoxXp0Fuccsb4L0VwRUx+HYojJgw50+Wl5ckTNlt7SsmjNyDiotyWhOaq14zLTvWUr7+N5oPccKZVRoDG8Q6kPGKl0gV9Zu0O7Ea+lbBpTFlEOl3PGN8qeuGSKvOKiyumpNVdHpJJ67YKxPyK+sFVftG75FTo=
+DomainKey-Signature: 		a=rsa-sha1; q=dns; c=nofws; s=s1024; d=yahoo.com; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Subject:To:Cc:MIME-Version:Content-Type; b=rikDMozVtz+U8kaiXZzJZAHXxJgWT3ur2g4W8pzr15ksDNNp91xUa6khRReiGkYVqbVKC6QSWQf7lEBtFGdentKEoxwll/qFe15J2gPp7mo91bbbBedWBlOHcrSGKiaqP+pMZUYn7WayG94kMhGZI4xcCTAWbWY2fOwKnddMz5A=;
+X-YMail-OSG: 		v8YvXcEVM1lcUCYom9_3YerD.fVJ7zjwwCtWXPQG0bDCssc pjio6bv2vRGErQ69tsRIlHKB36YRDDvdBXS0WOpktibpYhmrtxbWr8gUev3b WKgZUHTS8sEsMMNjzTo_U0AmMAiK.3FfR_AeCKe7vUV5tS0Tm4Yz6PS3eHob SFrwX69G5J6t1O1GbRuXHAkk54ldLG5nTJpgbrMZiaZiHdf6yc_R3mUv1o0v cn_IVHucDnQk2.uBA2MwkDRhjJ3McV58aFzyy7EUhwzDfs704uIl8bVt9icE 7AjX5EwpZdPWxh0N5yx_lxzqmMoLyRnzz_PIK2OBYc17Tuu12lyFbXHUku7n im9pKE9MfSaECL1RcxGA8iDWaIdaocXXQ38Ol6VrJKtFPhmFbXHPG9RxjGnJ U5LyajEKzkrX9AdjxrBWzc_9pmmcgPtTeewmvPsuMcwvSYyWOXQ3UCqLSMjm iR02EyhQcmUICuvevAQlcwa5McSJcFQ_WazRG_G7.HBnOvdjmfi0_Q6EJZSY rKA--
+Received: 		from [64.72.113.106] by web113610.mail.gq1.yahoo.com via HTTP; Tue, 17 Jan 2012 23:34:41 PST
+X-Mailer: 		YahooMailRC YahooMailWebService/0.8.115.331698
+Message-ID: 		<1326872081.87459.YahooMailRC@web113610.mail.gq1.yahoo.com>
+Date: 		Tue, 17 Jan 2012 23:34:41 -0800 (PST)
+From: 		This sender is DomainKeys verified
+Kristina Scarfone   
+Add sender to Contacts
+Subject: 		re;;
+To: 		
+Cc: 		
+MIME-Version: 		1.0
+Content-Type: 		text/plain; charset=us-ascii
+Content-Length: 		53
+Compact Headers
+
+http://jgdjkuwia.MLECSTI.TK got me at 5#NUM$ an hour

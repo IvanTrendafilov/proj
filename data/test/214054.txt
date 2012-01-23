@@ -1,0 +1,74 @@
+
+
+Received: by 10.142.166.8 with SMTP id o8cs239651wfe;
+       Fri, 13 Jan 2012 08:24:49 -0800 (PST)
+Received: by 10.68.115.195 with SMTP id jq3mr3013930pbb.34.1326471888172;
+       Fri, 13 Jan 2012 08:24:48 -0800 (PST)
+Return-Path: 
+Received: from outbound-ss-6.bluehost.com (outbound-ss-6.bluehost.com. [66.147.247.233])
+       by mx.google.com with SMTP id j7si12718694pbd.64.2012.01.13.08.24.47;
+       Fri, 13 Jan 2012 08:24:48 -0800 (PST)
+Received-SPF: pass (google.com: domain of booksfo3@box238.bluehost.com designates 66.147.247.233 as permitted sender) client-ip=66.147.247.233;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of booksfo3@box238.bluehost.com designates 66.147.247.233 as permitted sender) smtp.mail=booksfo3@box238.bluehost.com
+Message-Id: <4f105ad0.e710440a.53c2.3bb5SMTPIN_ADDED@mx.google.com>
+Received: (qmail 27010 invoked by uid 0); 13 Jan 2012 16:24:47 -0000
+Received: from unknown (HELO box238.bluehost.com) (69.89.27.238)
+ by soproxy1.bluehost.com with SMTP; 13 Jan 2012 16:24:47 -0000
+Received: from localhost ([127.0.0.1] helo=box238.bluehost.com)
+	by box238.bluehost.com with esmtp (Exim 4.76)
+	(envelope-from )
+	id 1Rljvr-00071b-It
+	Fri, 13 Jan 2012 09:24:47 -0700
+Date: Fri, 13 Jan 2012 09:24:47 -0700
+To:
+Subject: CONGRATULATION!!!
+X-PHP-Script: wiki.booksforce.com/bin/jboy.php for 41.139.96.179Mrs.thereasa mogwel westerntunion@hotmail.com via box238.bluehost.com 
+
+Jan 13 (3 days ago)
+
+to me
+Google Corporation
+Belgrave House
+76 Buckingham
+Palace Road
+London SW1W 9TQ
+United Kingdom
+
+ Dear Winner
+
+ WINNING NUMBER:GUK/877/798/0147
+
+ BATCH NUMBER:GUK/699/33/1977
+
+ It is obvious that this notification will come to you as a surprise but please find time to read it carefully.We wish to congratulate you once again on this note, for being the winner selected this year.Reason is to set-up and to encourage the active use of the Google search engine and the Google ancillary services.
+
+ Hence we do believe with your winning prize, you will continue to be active and patronage to the Google search engine. Google is now the biggest search engine worldwide
+and in an effort to make sure that it remains the most widely used search engine, we ran an online e-mail beta test which your email address won 450,000.00(Four Hundred And Fifty Thousand Great British Pounds Sterling) We wish to formally announce to you that you have successfully passed the requirements, statutory obligations,verifications, validations and satisfactory report Test conducted for all online winners.
+
+ A winning cheque will be issued in your name by Google Corporation,You have therefore won the entire sum of of 450,000.00Gbp (Four Hundred And Fifty Thousand Great British Pounds Sterling) and also a certificate of prize claims will be sent along side your winning cheque.You are advised to contact the Foreign Transfer Manager with the following details to avoid unnecessary delay and complications:
+
+Google Corporation
+Verification Manager.
+Mr.Philip Adams
+Email: (verification_dept@qi88.com)
+
+ VERIFICATION AND FUNDS RELEASE FORM.
+(1) Your contact address.
+
+(2) Your Tel/Fax numbers.
+
+ (3) Your Nationality/Country.
+
+ (4) Your Full Name/Sex.
+
+ (5) Occupation/Age.
+
+ (6)How do you feel as a winner?
+
+ The Google Corporation has discovered a huge number of double claims due to winners informing close friends relatives and third parties about their winning and also sharing their pin numbers. As a result of this, these friends try to claim the lottery on behalf of the real winners. The Google Corporations has reached a decision from headquarters that any double claim discovered by the Lottery Board will result to the canceling of that particular winning, making a loss for both the double claimer and the real winner, as it is taken that the real winner was the informer to the double claimer about the lottery.So you are hereby strongly advised once more to keep your winnings strictly confidential until you claim your prize.
+
+ Congratulations from the Staffs & Members of the Google Interactive Lotteries Board Commission.
+
+ Yours Sincerely,
+Sergey Brin.
+2011 Google Corporation.  

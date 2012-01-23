@@ -1,0 +1,29 @@
+No valid IP addresses could be found in the header you submitted.  Received: by 10.220.152.200 with SMTP id h8cs51998vcw;
+       Thu, 19 Jan 2012 10:21:09 -0800 (PST)
+Return-Path: 
+Received-SPF: pass (google.com: domain of nimabudai@gmail.com designates 10.213.17.77 as permitted sender) client-ip=10.213.17.77;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of nimabudai@gmail.com designates 10.213.17.77 as permitted sender) smtp.mail=nimabudai@gmail.com; dkim=pass header.i=nimabudai@gmail.com
+Received: from mr.google.com ([10.213.17.77])
+       by 10.213.17.77 with SMTP id r13mr7825880eba.134.1326997268012 (num_hops = 1);
+       Thu, 19 Jan 2012 10:21:08 -0800 (PST)
+Received: by 10.213.17.77 with SMTP id r13mr6261157eba.134.1326995655994; Thu,
+19 Jan 2012 09:54:15 -0800 (PST)
+Received: by 10.14.101.134 with HTTP; Thu, 19 Jan 2012 09:54:15 -0800 (PST)
+Date: Thu, 19 Jan 2012 18:54:15 +0100
+Message-ID: 
+Subject: 
+From: Niman Abuhdai 
+To: undisclosed-recipients:;  My dear,
+
+I am Mr G.Pataniz. a personal attorney to your late cousin,who lived
+and did business in my country Lome Togo.he died some years back
+living sum 5.2 million us dollars, with a security company without any
+next of kin or beneficiary to the fund.
+
+Hence, i am contacting you,for you to cooperate with me so that i will
+lead you to the security company as to lay claim to the fund.Indeed, i
+have every legal documents and proof of the fund as his personal
+attorney before his death.
+Hoping to hear from you as to give detail about the fund.
+
+Mr G.Pataniz Eqs.  

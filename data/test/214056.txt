@@ -1,0 +1,41 @@
+
+
+Received: by 10.142.166.8 with SMTP id o8cs241703wfe;
+       Fri, 13 Jan 2012 09:41:07 -0800 (PST)
+Received: by 10.205.122.76 with SMTP id gf12mr878301bkc.21.1326476464644;
+       Fri, 13 Jan 2012 09:41:04 -0800 (PST)
+Return-Path: 
+Received: from mail-bk0-f54.google.com (mail-bk0-f54.google.com [209.85.214.54])
+       by mx.google.com with ESMTPS id ug5si5110164bkb.53.2012.01.13.09.41.04
+       (version=TLSv1/SSLv3 cipher=OTHER);
+       Fri, 13 Jan 2012 09:41:04 -0800 (PST)
+Received-SPF: pass (google.com: domain of kameela.sak3@sify.com designates 209.85.214.54 as permitted sender) client-ip=209.85.214.54;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of kameela.sak3@sify.com designates 209.85.214.54 as permitted sender) smtp.mail=kameela.sak3@sify.com
+Received: by mail-bk0-f54.google.com with SMTP id zs2so3618562bkb.13
+       for; Fri, 13 Jan 2012 09:41:04 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.204.156.156 with SMTP id x28mr861630bkw.76.1326476453744; Fri,
+13 Jan 2012 09:40:53 -0800 (PST)
+Received: by 10.204.39.212 with HTTP; Fri, 13 Jan 2012 09:40:53 -0800 (PST)
+X-Originating-IP: [175.140.21.235]
+Date: Fri, 13 Jan 2012 09:40:53 -0800
+Message-ID: 
+Subject: Regards,
+From: "kameela.sak3" 
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=001517592c12d4159b04b66c5d0f
+
+--001517592c12d4159b04b66c5d0f
+Content-Type: text/plain; charset=ISO-8859-1  Quote:   Hello Dear,
+
+Life is gradually passing away from me as a result of my present medical condition and my personal doctor confided in me yesterday that i have only but few more days to live. In view of this setback, i want to donate my estate for humanitarian assistance since this has always been the plan of my late husband and besides i have no child.
+
+In an effort to compliment the good work of God almighty and the wish of my late Husband i donate the sum of $2,500,000.00 USD ( TWO Million, Five Hundred Thousand United States Dollars USD) to you. On your acknowledgment of this mail and informing me of your nationality and current place of resident, my lawyer will facilitate due processes for transfer of this legacy to you.
+
+May Allah bless you as you use this money judiciously for the work of charity.
+
+Regards,
+
+Mrs. Kameela Sakeena Yasir
+From:  Malaysia.
+Email: kameela.sakeena-yasir.4charity@live.com.my  

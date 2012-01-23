@@ -1,0 +1,67 @@
+
+
+Received: by 10.231.230.138 with SMTP id jm10cs81295ibb;
+       Tue, 10 Jan 2012 04:41:10 -0800 (PST)
+Received: by 10.229.75.209 with SMTP id z17mr7285469qcj.131.1326199266528;
+       Tue, 10 Jan 2012 04:41:06 -0800 (PST)
+Return-Path: 
+Received: from ims-m11.mx.aol.com (ims-m11.mx.aol.com. [64.12.207.144])
+       by mx.google.com with ESMTP id u4si27762210qcw.142.2012.01.10.04.41.06;
+       Tue, 10 Jan 2012 04:41:06 -0800 (PST)
+Received-SPF: pass (google.com: domain of kzreischman@aol.com designates 64.12.207.144 as permitted sender) client-ip=64.12.207.144;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of kzreischman@aol.com designates 64.12.207.144 as permitted sender) smtp.mail=kzreischman@aol.com; dkim=pass header.i=@mx.aol.com
+Received: from oms-db02.r1000.mx.aol.com (oms-db02.r1000.mx.aol.com [205.188.58.2])
+	by ims-m11.mx.aol.com (8.14.1/8.14.1) with ESMTP id q0ACZ6Fl026651
+	for ; Tue, 10 Jan 2012 07:35:23 -0500
+Message-Id: <201201101235.q0ACZ6Fl026651@ims-m11.mx.aol.com>
+Received: from mtaout-da06.r1000.mx.aol.com (mtaout-da06.r1000.mx.aol.com [172.29.51.134])
+	by oms-db02.r1000.mx.aol.com (AOL Outbound OMS Interface) with ESMTP id 90DCD1C000067;
+	Tue, 10 Jan 2012 07:35:21 -0500 (EST)
+Received: from User (ip67-88-186-42.z186-88-67.customer.algx.net [67.88.186.42])
+	by mtaout-da06.r1000.mx.aol.com (MUA/Third Party Client Interface) with ESMTPA id 1D037E00008B;
+	Tue, 10 Jan 2012 07:35:14 -0500 (EST)
+Reply-To: 
+From: "John.Williams."
+To: jwilliams@skymail.mn
+Subject: Thanks.My.Friends....
+Date: Tue, 10 Jan 2012 04:34:40 -0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_00E8_01C2A75B.35516AC4"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+x-aol-global-disposition: S
+X-SPAM-FLAG:YES
+X-AOL-VSS-INFO: 5400.1158/77624
+X-AOL-VSS-CODE: clean
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20110426; t=1326198921;
+	bh=dp5WeJi0Hs8+k4eUHohCw6b75QChDowIXsjgHvpis3k=;
+	h=From:To:Subject:Date:MIME-Version:Content-Type;
+	b=x4Z2I6kWKPP1hGECU19FrR+hF4UU9Ltf7bzuwZ3HYXLkLHlQRns6b7aqy0HoiKO4K
+	 tAind5mA7BVzVQZbGnTXRhoIEB7aGW83kXbGPr/u/HdVu3gV1fpdF0UwrgaPTGTePw
+	 HPEN6S9fwnklSjKQ5s5yDzgDp26Q9GgCjUdondUI=
+X-AOL-SCOLL-SCORE: 0:2:381496480:93952408  
+X-AOL-SCOLL-URL_COUNT: 0  
+X-AOL-REROUTE: YES 
+x-aol-sid: 3039ac1d33864f0c30822605
+X-AOL-IP: 67.88.186.42
+
+Dear friend,
+
+This is to thank you for your past effort in helping to get the fund transferred to you. I am happy to inform you that I got a new partner from Brazil after you could not pay the fees required for the transfer of the fund to your bank account. The fund was transferred successfully to my new partner in Brazil and I relocated to Brazil with my family to start up a new life and invest with my own share of the money.
+
+It was unfortunate that we could not complete the transaction together, but to show you that I am a man of my word, though you did not have full trust in me, I left you the sum of Two Hundred Thousand United States Dollars to compensation you for your last effort and commitment at that time.
+
+Contact my secretary in South Africa with your security code for confirmation which is (WSER47KO/200) your full name and phone number and give him the address where to send you the check of Seven Hundred Thousand Great British Pounds (GBP700,000.00)
+
+His email address is: richking4@skymail.mn
+His name is: Richard King.
+
+It is your obligation to pay a tax waiver fee of US$200.00 (Two Hundred dollars) because you are not a citizen of South Africa. This fee was issued after I issued the check, and it can not be deducted from the already issued check. So you have to pay the fee before the check will be sent to you. Ask Richard Kings how you are to send the fee to him, to enable him send your check to you.
+
+Sincerely,
+
+Dr. John Williams.

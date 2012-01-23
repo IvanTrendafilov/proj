@@ -1,6 +1,0 @@
-text = cleanHeaders(open('data/4.txt').read())
-headers = extractHeaders(text)
-text2 = removeHeaders(text)
-names = extractNames(text2)
-emails = extractEmails(text2)
-relateEntities(names, emails, text)

@@ -1,0 +1,139 @@
+
+
+Viewing Full Header - View message
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on mc3.midcoast.com
+X-Spam-Flag: YES
+X-Spam-Level: *********************
+X-Spam-Status: Yes, score=21.8 required=5.0 tests=FORGED_MUA_OUTLOOK,
+    FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,FREEMAIL_FROM,FREEMAIL_REPLYTO,
+    FROM_MISSPACED,FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,FROM_MISSP_TO_UNDISC,
+    FROM_MISSP_USER,FSL_CTYPE_WIN1251,FSL_MISSP_REPLYTO,FSL_NEW_HELO_USER,FSL_UA,
+    FSL_XM_419,HTML_MESSAGE,MIME_HTML_ONLY,MSOE_MID_WRONG_CASE,NSL_RCVD_FROM_USER,
+    T_FILL_THIS_FORM_SHORT shortcircuit=no autolearn=disabled version=3.3.2
+X-Spam-Report:
+    * 2.0 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+    * 0.0 FSL_XM_419 Old OE version in X-Mailer only seen in 419 spam
+    * 0.8 NSL_RCVD_FROM_USER Received from User
+    * 0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+    * (gqmtagent01a[at]linuxmail.org)
+    * 0.0 HTML_MESSAGE BODY: HTML included in message
+    * 1.1 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+    * 1.9 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+    * 0.1 FSL_NEW_HELO_USER FSL_NEW_HELO_USER
+    * 3.4 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+    * 0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+    * 1.7 FSL_MISSP_REPLYTO Mis-spaced from and Reply-to
+    * 1.2 FROM_MISSP_USER From misspaced, from "User"
+    * 0.3 FSL_UA FSL_UA
+    * 0.6 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+    * 0.9 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+    * 3.1 FROM_MISSPACED From: missing whitespace
+    * 1.0 FREEMAIL_REPLYTO Reply-To/From or Reply-To/body contain different
+    * freemails
+    * 2.8 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+    * 0.8 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+    * 0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal
+    * information
+X-Original-To: 
+Received: from localhost (localhost [127.0.0.1])
+    by mc3.midcoast.com (Postfix) with ESMTP id E86F7F44C6
+    for ; Mon, 16 Jan 2012 02:10:42 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at midcoast.com
+Received: from mc3.midcoast.com ([127.0.0.1])
+    by localhost (mc3.midcoast.com [127.0.0.1]) (amavisd-new, port 10024)
+    with ESMTP id 4GcmjppSo3An for <.mail.midcoast.com>;
+    Mon, 16 Jan 2012 02:10:42 -0500 (EST)
+Received: from mx1.midcoast.com (mx1.midcoast.com [69.39.100.26])
+    by mc3.midcoast.com (Postfix) with ESMTP id 30D23F4402
+    for ; Mon, 16 Jan 2012 02:10:41 -0500 (EST)
+Received: from node-sl347.smtp.com (node-sl347.smtp.com [67.228.232.103])
+    by mx1.midcoast.com (Postfix) with ESMTP id 01942ECD8F
+    foridcoast.com>; Mon, 16 Jan 2012 02:10:40 -0500 (EST)
+Received: from User (rrcs-69-193-17-153.nys.biz.rr.com [69.193.17.153])
+    by node-sl347.smtp.com (Postfix) with ESMTPA id DBDF61A50DFC
+    for idcoast.com>; Mon, 16 Jan 2012 02:10:39 -0500 (EST)
+X-SMTPCOM-Spam-Policy: SendBlaster SMTP is a paid relay service.
+    We do not tolerate UCE of any kind.
+    Please report it ASAP to abuse@smtp.com
+X-SMTPCOM-Sender-ID: 442331
+X-SMTPCOM-Tracking-Number: 411100972
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=smtp.com;
+    s=smtpcomcustomers; t=1326697840;
+    bh=BdITPNSdFEjUaEa5U2iEObItfrj/hgxApme/hSufh3c=;
+    h=Reply-To:From:Subject:Date:MIME-Version:Content-Type:
+    Content-Transfer-Encoding:X-Priority:X-MSMail-Priority:X-Mailer:
+    X-MimeOLE;
+Reply-To: 
+From: "GQMT JOB OFFER"
+Subject: PJM-> Join Our Survey Job
+Date: Mon, 16 Jan 2012 02:10:51 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+    charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20120116071040.01942ECD8F@mx1.midcoast.com>
+To: undisclosed-recipients:;
+X-Spam-Prev-Subject: Join Our Survey Job
+We are currently working on an instant money transfer called Global Quick Money
+Transfer (GQMT) just like Some worldwide instant money transfer you have out there
+and also a widely spread super market that will have everything both grocery,
+electronics and so on anonymously. We are trying to attract more customers
+attention with the best quality service we will be providing but first we need to
+build up a working team. You can be part of our working team weather you are skilled
+or unskilled.
+
+
+Your Job position will be based on your qualification and work experience, but never
+the less we also have a position that fits in for general laborers and retired
+folks.
+
+
+We already have over ten thousand interested people all over the states ready to
+start this Survey. Since we have too many interested applicants we do mail them
+checks of certain amount to their addresses in order for them to carry out their
+observations.
+
+
+During this survey you will have to take note of a whole lot of things about the
+particular location you are to evaluate such as cost, behavior of attendance, time
+taken, effectiveness and so much more. What we require from you will be listed to
+you when your survey is ready to be executed.
+
+
+We will only be taking about an hour or two of your time daily in order to gather up
+some vital information we will need before launching the company.
+
+
+To Sign up with us a get to know more this kindly fill the required information
+below and email it to gqmtagent01a@blumail.org
+
+
+Your Full Name:-
+
+Age:-
+
+Your Home Address (P.O Box Unaccepted) :-
+
+City &amp; Zip code:-
+
+Occupation &amp; Work Experience if any:-
+
+Phone number(s) &amp; Time to Reach You:-
+
+
+This is the primary requirements you need to get back with and we can go on from
+there. We instantly pay you a sum of two hundred dollars ($200) for each detailed
+survey mission carried out daily.
+
+
+More information will be sent to you when you respond with the primary requirements
+
+
+Sincerely,
+
+Justin Albert.  

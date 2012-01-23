@@ -1,0 +1,56 @@
+
+
+From UN DEVELOPMENT PROGRAMMED Thu Jan  5 08:07:08 2012
+X-Apparently-To:@yahoo.com via 66.94.239.162; Thu, 05 Jan 2012 08:08:11 -0800
+Return-Path: 
+X-YahooFilteredBulk: 211.29.132.9
+Received-SPF: pass (domain of optusnet.com.au designates 211.29.132.9 as permitted sender)
+X-Originating-IP: [211.29.132.9]
+Authentication-Results: mta1052.mail.sp2.yahoo.com  from=optusnet.com.au; domainkeys=neutral (no sig);  from=optusnet.com.au; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO fallbackmx07.syd.optusnet.com.au) (211.29.132.9)
+ by mta1052.mail.sp2.yahoo.com with SMTP; Thu, 05 Jan 2012 08:08:04 -0800
+Received: from mail01.syd.optusnet.com.au (mail01.syd.optusnet.com.au [211.29.132.182])
+	by fallbackmx07.syd.optusnet.com.au (8.13.1/8.13.1) with ESMTP id q05G82KW030524;
+	Fri, 6 Jan 2012 03:08:02 +1100
+Received: from localhost.localdomain (webmail08.syd.optusnet.com.au [211.29.133.113])
+	by mail01.syd.optusnet.com.au (8.13.1/8.13.1) with ESMTP id q05G78Mo010435;
+	Fri, 6 Jan 2012 03:07:08 +1100
+Message-Id: <201201051607.q05G78Mo010435@mail01.syd.optusnet.com.au>
+Content-Type: text/plain
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Mime-Version: 1.0
+X-Mailer: MIME-tools 5.420 (Entity 5.420)
+Received: from  ([41.203.64.130]) by webmail08.syd.optusnet.com.au with
+   http (user=msg.note@optusnet.com.au); Fri, 06 Jan 2012 03:07:08 +1100
+From: UN DEVELOPMENT PROGRAMMED 
+Date: Fri, 06 Jan 2012 03:07:08 +1100
+Content-Length: 697
+
+Attention: Email Owner,
+
+You have been selected by the UN for a Humanitarian Development
+Cash Grant program to enhance and develop the standard of living
+geared towards poverty eradication as targeted by the year 2020.
+You have been granted the sum of 950,000.00 Pounds. Your grant
+pin # is UNF/FBF-816-1119 G-900-94.
+
+You are to provide your information below for claims at payment
+department.
+
+Payment Officer : Ms. Sandra Myers
+Email : un_grant@hotmail.com
+
+1 Name in full:
+2 Address:
+3 Nationality:
+4 Age:
+5 sex:
+6 Occupation:
+7 Cell Phone #:
+8 Present Country:
+9 Alternate Email Address:
+Note: Reply should only be sent to un_grant@hotmail.com.
+
+Regards,
+UN DEVELOPMENT PROGRAMMED  

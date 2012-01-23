@@ -1,0 +1,48 @@
+Delivered-To: 
+Received: by 10.182.76.8 with SMTP id g8cs180105obw;
+       Fri, 13 Jan 2012 21:36:18 -0800 (PST)
+Received: by 10.68.116.237 with SMTP id jz13mr7646865pbb.100.1326519376550;
+       Fri, 13 Jan 2012 21:36:16 -0800 (PST)
+Return-Path: 
+Received: from rediffmail.com ([202.137.235.214])
+       by mx.google.com with SMTP id l9si15129665pbi.228.2012.01.13.21.36.15;
+       Fri, 13 Jan 2012 21:36:16 -0800 (PST)
+Received-SPF: pass (google.com: domain of riaclement20@rediffmail.com designates 202.137.235.214 as permitted sender) client-ip=202.137.235.214;
+DomainKey-Status: good (test mode)
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of riaclement20@rediffmail.com designates 202.137.235.214 as permitted sender) smtp.mail=riaclement20@rediffmail.com; domainkeys=pass (test mode) header.From=riaclement20@rediffmail.com
+Received: (qmail 2403 invoked by uid 510); 14 Jan 2012 05:35:42 -0000
+Comment: DomainKeys? See http://antispam.yahoo.com/domainkeys
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+ s=redf; d=rediffmail.com;
+ b=CT3AKXD8Mhd4mgI6JKLJZuETMaliXCPYlZfCnIPQ4D/eENUO64N6iVPog2xGlXxp1uMwJY5C1c2BWZbwJ1pPJk2zOzmQnG6GGmLW1X8YwMGNaxuRuzmooqqaP+UHQq2MRDI5W4tGfhe3CNP1QorfbXT89PiN06yzcmcrTq9++SE=  ;
+x-m-msg: asd54ad564ad7aa6sd5as6d5; a6da7d6asas6dasd77; 5dad65ad5sd;
+X-CTCH-Spam: Unknown
+X-CTCH-VOD:  Unknown
+X-CTCH-Flags: : 0
+X-CTCH-RefID: str=0001.0A150203.4F11142F.0041,ss=1,re=0.000,fgs=0
+Date: 14 Jan 2012 05:35:42 -0000
+Message-ID: <20120114053542.2311.qmail@f4mail-235-214.rediffmail.com>
+MIME-Version: 1.0
+To: 
+Received: from unknown 114.79.51.110 by rediffmail.com via HTTP; 14 Jan 2012 05:35:41 -0000
+Subject: =?utf-8?B?UExFQVNFIFFVT1RF?=
+From: "Ria clement" 
+Content-Type: multipart/alternative;
+	boundary="=_b394e85dec20ce27d0d3bdf40169a67e"
+
+--=_b394e85dec20ce27d0d3bdf40169a67e
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="UTF-8"
+
+Having gone through your listed products, we offer
+great interest to do a purchase agreement with your
+company. Please get back to us with the following
+information
+PLEASE QUATE
+1. Prices FOB
+2. Payment terms
+3. Delivery Period
+4. MOQ
+5. Specified delivery date assuming from the Date of Order.
+you can get back to us through our private email: Juvelexpetel@hotmail.com
+Please your quick reply will be highly appreciated.  

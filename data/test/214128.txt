@@ -1,0 +1,77 @@
+
+
+Viewing Full Header - View message
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on mc3.midcoast.com
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.3 required=5.0 tests=DATE_IN_FUTURE_12_24,
+    FAKE_REPLY_C,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,FORGED_OUTLOOK_TAGS,
+    FSL_NEW_HELO_USER,FSL_UA,FSL_XM_419,HTML_MESSAGE,MIME_HTML_ONLY,
+    NSL_RCVD_FROM_USER,RCVD_IN_DNSWL_NONE,UNPARSEABLE_RELAY shortcircuit=no
+    autolearn=disabled version=3.3.2
+X-Spam-Report:
+    * 0.0 FSL_XM_419 Old OE version in X-Mailer only seen in 419 spam
+    * 0.8 NSL_RCVD_FROM_USER Received from User
+    * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+    * trust
+    * [194.25.134.85 listed in list.dnswl.org]
+    * 2.5 DATE_IN_FUTURE_12_24 Date: is 12 to 24 hours after Received: date
+    * 0.0 UNPARSEABLE_RELAY Informational: message has unparseable relay lines
+    * 0.0 HTML_MESSAGE BODY: HTML included in message
+    * 1.1 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+    * 0.1 FSL_NEW_HELO_USER FSL_NEW_HELO_USER
+    * 0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+    * 0.3 FSL_UA FSL_UA
+    * 0.6 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+    * 0.0 FAKE_REPLY_C FAKE_REPLY_C
+    * 2.8 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+X-Original-To: 
+Received: from localhost (localhost [127.0.0.1])
+    by mc3.midcoast.com (Postfix) with ESMTP id D014BF4402
+    for <.mail.midcoast.com>; Tue, 17 Jan 2012 17:35:36 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at midcoast.com
+Received: from mc3.midcoast.com ([127.0.0.1])
+    by localhost (mc3.midcoast.com [127.0.0.1]) (amavisd-new, port 10024)
+    with ESMTP id 5NOKZ0hrCm6L for ;
+    Tue, 17 Jan 2012 17:35:36 -0500 (EST)
+Received: from mx1.midcoast.com (mx1.midcoast.com [69.39.100.26])
+    by mc3.midcoast.com (Postfix) with ESMTP id 99640F4442
+    for ; Tue, 17 Jan 2012 17:35:36 -0500 (EST)
+Received: from mailout11.t-online.de (mailout11.t-online.de [194.25.134.85])
+    by mx1.midcoast.com (Postfix) with ESMTP id 101A8ECD51
+fok@midcoast.com>; Tue, 17 Jan 2012 17:35:35 -0500 (EST)
+Received: from fwd07.aul.t-online.de (fwd07.aul.t-online.de )
+    by mailout11.t-online.de with smtp
+    id 1RnGpL-0000EL-8t; Tue, 17 Jan 2012 22:44:23 +0100
+Received: from User (b7GkgGZZrthrtWFe5ii7mirkmIFqqLP9IgUT4LOC1w0OdGwfFxR1X-CXMa1xqecJJq8mo5O4Gn@[46.166.128.126]) by fwd07.t-online.de
+    with esmtp id 1RnGp6-0BDyme0; Tue, 17 Jan 2012 22:44:08 +0100
+Reply-To: 
+From: "Ahmed Al Ansari" 
+Subject: PJM-> Re: My Business Proposal
+Date: Wed, 18 Jan 2012 05:44:07 -0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+    boundary="----=_NextPart_000_00CC_01C2A9A6.2E907490"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <1RnGp6-0BDyme0@fwd07.t-online.de>
+X-ID: b7GkgGZZrthrtWFe5ii7mirkmIFqqLP9IgUT4LOC1w0OdGwfFxR1X-CXMa1xqecJJq8mo5O4Gn
+X-TOI-MSGID: e44481c0-a3cb-4d8b-936c-6e5edcda20c1
+To: undisclosed-recipients:;
+X-Spam-Prev-Subject: Re: My Business Proposal                                                                                                                                                                                                                                                                                                      Friendly greetings to you.
+
+Let me start by introducing myself. I am Ahmed Al Ansari, the Branch Manager of National Bank of Abu Dhabi. I have urgent and very confidential business proposition for you. An American Iraqi Foreign Oil Consultant /Contractor with the Chevron Petroleum Corporation Company named Late Mr. Thomas Stone made a numbered time (Fixed) Deposit for twelve calendar months, valued at US$12,000,000.00 (Twelve Million) United State Dollars in my branch. Upon maturity, I sent a routine notification to his forwarding address but got no reply. After a month, we sent a reminder and finally we discovered from his contract an employer that is the Iraqi Foreign Oil consultant confirmed to us that he was actually dead.
+
+Before the time of his death, he had on a visit to my branch office confided in me that no one except me knew of his deposit in my bank. Therefore, Twelve million United State Dollars is still lying in my bank and no one will ever come forward to claim it. It is against this backdrop that my suggestion that I would like you as a foreigner to stand as the next of kin to Thomas Stone so that you will be able to receive his funds for our mutual benefit. We will share the fund at the ration of 60% for me while 40 % for you.
+
+There is no risk at all as all the paperwork for this transaction will be done by the attorney and my position as the Branch Manager guarantees the successful execution of this transaction. If you are interested, please kindly reply to this email immediately. Upon receiving your response, I shall then provide you with more details and relevant documents that will help you understand the transaction. Please send me your confidential telephone and fax numbers for easy communication. Also I wish for you to please observe utmost confidentiality over this proposition, and be rest assured that this transaction would be most profitable for both of us at the end, provided we both work hand in hand to achieve success.
+
+Your earliest response to this email would be greatly appreciated. Reply here with this E-mail: ahmed.al7661@gmail.com
+
+Regards,
+
+Ahmed Al Ansari.
+ 
