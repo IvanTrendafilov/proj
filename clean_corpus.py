@@ -16,15 +16,21 @@ def cleanCorpus():
 			rtext = open(filename, 'r').read()
 			result = extractInfo(rtext)
 			if result:
-				try:
-					os.makedirs(clean_path + d + '/')
-				except OSError:
-					pass
-				f_clean = open(clean_path + d + '/' + str(filename).split('/')[-1], 'w')
-				f_clean.write(result)
-				f_clean.fush()
-				os.fsync(f_clean)
-				f_clean.close()
+				i = 0
+				for elem in result:
+					i += 1
+					try:
+						os.makedirs(clean_path + d + '/')
+					except OSError:
+						pass
+					if len(result) > 1:
+						f_clean = open(clean_path + d + '/' + str(filename).split('/')[-1].split('.')[0] + str(i) + '.txt', 'w')
+					else:
+						f_clean = open(clean_path + d + '/' + str(filename).split('/')[-1], 'w')
+					f_clean.write(result)
+					f_clean.fush()
+					os.fsync(f_clean)
+					f_clean.close()
 
 
 
