@@ -27,7 +27,7 @@ def cleanCorpus():
 						f_clean = open(clean_path + d + '/' + str(filename).split('/')[-1].split('.')[0] + str(i) + '.txt', 'w')
 					else:
 						f_clean = open(clean_path + d + '/' + str(filename).split('/')[-1], 'w')
-					f_clean.write(result)
+					f_clean.write(elem)
 					f_clean.fush()
 					os.fsync(f_clean)
 					f_clean.close()
