@@ -26,6 +26,6 @@ def cleanCorpus():
 					pass
 				f_clean = open(clean_path + d + '/' + str(filename).split('/')[-1], 'w')
 				f_clean.write(rtext)
-				f_clean.fush()
+				f_clean.flush()
 				os.fsync(f_clean)
 				f_clean.close()
