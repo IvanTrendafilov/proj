@@ -231,9 +231,11 @@ def extractInfo(text):
 		if email_addr:
 			msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'] = {}, date, email_addr, headers['To'], headers['Subject'], text
 			if names:
-				msg['First_name'], msg['Last_name'] = names[-1].split()[:-1], names[-1].split()[-1]
+				msg['First_name'], msg['Last_name'] = " ".join(names[-1].split()[:-1]), names[-1].split()[-1]
+				print '2:', msg['First_name']
 			else:
 				msg['First_name'], msg['Last_name'] = None, None
+				print '3:', msg['First_name']
 			messages.append(msg)
 		return messages
 	unassoc_names = names
@@ -242,6 +244,7 @@ def extractInfo(text):
 		emails = filter(lambda x: x != email, emails)
 		unassoc_names = filter(lambda x: x != relations[email], unassoc_names)
 		msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = {}, date, email, headers['To'], headers['Subject'], text, " ".join(relations[email].split()[:-1]), relations[email].split()[-1]
+		print '1:', msg['First_name']
 		messages.append(msg)
 	email_addr = None
 	for email in emails:
@@ -253,9 +256,11 @@ def extractInfo(text):
 		if unassoc_names and names:
 			if unassoc_names[-1] == names[-1]:
 				msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = {}, date, email, headers['To'], headers['Subject'], text, " ".join(names[-1].split()[:-1]), names[-1].split()[-1]
+				print '4:', msg['First_name']
 				messages.append(msg)
 			else:
 				msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = date, email, headers['To'], headers['Subject'], text, None, None
+				print '5:', msg['First_name']
 				messages.append(msg)
 	return messages
 
@@ -271,7 +276,7 @@ def prettyPrint(text):
 		try:
 			print "Name:", " ".join([msg['First_name'], msg['Last_name']])
 		except:
-			pass
+			print "Name: no named entities found"
 		print "Body:"
 		print msg['Body']
 	return
