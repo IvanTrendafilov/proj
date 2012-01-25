@@ -78,10 +78,10 @@ def go():
 			if response:
 				dirname = "_".join(labels[label].lower().split())
 				try:
-					os.makedirs('/tmp/s0837795/' + dirname)
+					os.makedirs('/tmp/419corpus/' + dirname)
 				except OSError:
 					pass
-				fileh = open('/tmp/s0837795/' + dirname + '/' + str(link) + '.txt', 'w')
+				fileh = open('/tmp/419corpus/' + dirname + '/' + str(link) + '.txt', 'w')
 				fileh.write(response)
 				fileh.flush()
 				os.fsync(fileh)

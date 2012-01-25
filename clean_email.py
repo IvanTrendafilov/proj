@@ -94,7 +94,6 @@ def extractHeaders(text):
 						if regexp:
 							headers[header] = regexp[0].strip()
 	return headers
-#	return [(k, v) for k, v in headers.iteritems()]
 
 
 # STEP 3 - Remove all headers. (Takes the message as a string)
