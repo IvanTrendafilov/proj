@@ -1,0 +1,26 @@
+5966 examples in test set
+Cls atm_card: TP=120 FN=36 FP=132 TN=5678; Acc 0.972 P 0.476 R 0.769 F1 0.588
+Cls employment: TP=49 FN=8 FP=73 TN=5836; Acc 0.986 P 0.402 R 0.860 F1 0.547
+Cls next_of_kin: TP=838 FN=222 FP=47 TN=4859; Acc 0.955 P 0.947 R 0.791 F1 0.862
+Cls banking: TP=180 FN=158 FP=215 TN=5413; Acc 0.937 P 0.456 R 0.533 F1 0.491
+Cls fake_cheques: TP=206 FN=58 FP=13 TN=5689; Acc 0.988 P 0.941 R 0.780 F1 0.853
+Cls orphans: TP=117 FN=96 FP=53 TN=5700; Acc 0.975 P 0.688 R 0.549 F1 0.611
+Cls business: TP=196 FN=302 FP=182 TN=5286; Acc 0.919 P 0.519 R 0.394 F1 0.447
+Cls government: TP=411 FN=278 FP=104 TN=5173; Acc 0.936 P 0.798 R 0.597 F1 0.683
+Cls refugees: TP=59 FN=28 FP=76 TN=5803; Acc 0.983 P 0.437 R 0.678 F1 0.532
+Cls church_and_charity: TP=81 FN=24 FP=55 TN=5806; Acc 0.987 P 0.596 R 0.771 F1 0.672
+Cls loans: TP=247 FN=16 FP=8 TN=5695; Acc 0.996 P 0.969 R 0.939 F1 0.954
+Cls romance: TP=133 FN=15 FP=57 TN=5761; Acc 0.988 P 0.700 R 0.899 F1 0.787
+Cls commodities: TP=45 FN=8 FP=46 TN=5867; Acc 0.991 P 0.495 R 0.849 F1 0.625
+Cls lottery: TP=768 FN=63 FP=25 TN=5110; Acc 0.985 P 0.968 R 0.924 F1 0.946
+Cls western_union_and_moneygram: TP=99 FN=16 FP=104 TN=5747; Acc 0.980 P 0.488 R 0.861 F1 0.623
+Cls compensation: TP=254 FN=81 FP=58 TN=5573; Acc 0.977 P 0.814 R 0.758 F1 0.785
+Cls military: TP=79 FN=7 FP=13 TN=5867; Acc 0.997 P 0.859 R 0.919 F1 0.888
+Cls widow: TP=57 FN=59 FP=93 TN=5757; Acc 0.975 P 0.380 R 0.491 F1 0.429
+Cls delivery_company: TP=66 FN=10 FP=96 TN=5794; Acc 0.982 P 0.407 R 0.868 F1 0.555
+Cls misc: TP=84 FN=39 FP=76 TN=5767; Acc 0.981 P 0.525 R 0.683 F1 0.594
+Cls dying_people: TP=251 FN=43 FP=35 TN=5637; Acc 0.987 P 0.878 R 0.854 F1 0.866
+Cls mystery_shopper: TP=56 FN=3 FP=9 TN=5898; Acc 0.998 P 0.862 R 0.949 F1 0.903
+Micro-averaged accuracy/F1: 0.73684
+Macro-averaged F1: 0.69268
+

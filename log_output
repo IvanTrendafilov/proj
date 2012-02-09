@@ -1,0 +1,134 @@
+er 29 evals 33 <D> [M 1.000E0] 4.209E2 252.63s |1.281E3| {1.259E-1} 1.826E-1 
+Iter 30 evals 34 <D> [M 1.000E0] 3.686E2 260.04s |3.027E2| {2.973E-2} 1.916E-1 
+Iter 31 evals 35 <D> [M 1.000E0] 3.454E2 267.48s |2.009E2| {1.973E-2} 1.695E-1 
+Iter 32 evals 36 <D> [M 1.000E0] 3.153E2 274.89s |3.135E2| {3.080E-2} 1.595E-1 
+Iter 33 evals 37 <D> [M 1.000E0] 3.008E2 282.35s |2.437E2| {2.394E-2} 1.670E-1 
+Iter 34 evals 38 <D> [M 1.000E0] 2.950E2 289.76s |3.014E2| {2.961E-2} 1.136E-1 
+Iter 35 evals 39 <D> [M 1.000E0] 2.857E2 297.18s |1.081E2| {1.063E-2} 9.859E-2 
+Iter 36 evals 40 <D> [M 1.000E0] 2.801E2 304.69s |6.432E1| {6.319E-3} 8.362E-2 
+Iter 37 evals 41 <D> [M 1.000E0] 2.741E2 313.64s |9.035E1| {8.877E-3} 6.693E-2 
+Iter 38 evals 42 <D> [1M 4.640E-1] 2.687E2 327.29s |9.321E1| {9.158E-3} 5.148E-2 
+Iter 39 evals 44 <D> [M 1.000E0] 2.650E2 334.77s |4.574E1| {4.493E-3} 3.554E-2 
+Iter 40 evals 45 <D> [M 1.000E0] 2.627E2 342.87s |4.656E1| {4.574E-3} 2.862E-2 
+Iter 41 evals 46 <D> [M 1.000E0] 2.617E2 350.50s |1.093E2| {1.074E-2} 1.861E-2 
+Iter 42 evals 47 <D> [M 1.000E0] 2.593E2 358.95s |6.668E1| {6.551E-3} 1.455E-2 
+Iter 43 evals 48 <D> [M 1.000E0] 2.588E2 366.36s |7.919E1| {7.780E-3} 1.272E-2 
+Iter 44 evals 49 <D> [M 1.000E0] 2.572E2 373.79s |4.243E1| {4.169E-3} 1.005E-2 
+Iter 45 evals 50 <D> [M 1.000E0] 2.546E2 381.19s |5.000E1| {4.913E-3} 9.099E-3 
+Iter 46 evals 51 <D> [M 1.000E0] 2.493E2 388.62s |1.056E2| {1.038E-2} 9.066E-3 
+Iter 47 evals 52 <D> [1M 2.216E-1] 2.381E2 401.45s |1.147E2| {1.126E-2} 1.168E-2 
+Iter 48 evals 54 <D> [M 1.000E0] 2.276E2 409.13s |1.398E2| {1.374E-2} 1.496E-2 
+Iter 49 evals 55 <D> [M 1.000E0] 2.179E2 417.97s |8.449E1| {8.301E-3} 1.867E-2 
+Iter 50 evals 56 <D> [1M 3.338E-1] 2.152E2 430.84s |6.341E1| {6.230E-3} 1.968E-2 
+Iter 51 evals 58 <D> [M 1.000E0] 2.139E2 438.53s |4.566E1| {4.486E-3} 1.931E-2 
+Iter 52 evals 59 <D> [M 1.000E0] 2.074E2 446.55s |1.446E2| {1.421E-2} 2.251E-2 
+Iter 53 evals 60 <D> [1M 2.679E-1] 2.031E2 460.51s |1.051E2| {1.033E-2} 2.424E-2 
+Iter 54 evals 62 <D> [M 1.000E0] 1.993E2 467.89s |7.813E1| {7.676E-3} 2.526E-2 
+Iter 55 evals 63 <D> [M 1.000E0] 1.967E2 475.29s |4.858E1| {4.773E-3} 2.431E-2 
+Iter 56 evals 64 <D> [M 1.000E0] 1.943E2 482.67s |7.176E1| {7.050E-3} 2.047E-2 
+Iter 57 evals 65 <D> [M 1.000E0] 1.923E2 490.03s |3.830E1| {3.763E-3} 1.667E-2 
+Iter 58 evals 66 <D> [M 1.000E0] 1.900E2 497.40s |3.964E1| {3.895E-3} 1.337E-2 
+Iter 59 evals 67 <D> [1M 3.315E-1] 1.889E2 510.21s |6.232E1| {6.123E-3} 1.265E-2 
+Iter 60 evals 69 <D> [M 1.000E0] 1.870E2 517.57s |4.118E1| {4.046E-3} 1.306E-2 
+Iter 61 evals 70 <D> [M 1.000E0] 1.846E2 524.96s |3.735E1| {3.670E-3} 1.125E-2 
+Iter 62 evals 71 <D> [M 1.000E0] 1.829E2 532.40s |6.833E1| {6.713E-3} 1.002E-2 
+Iter 63 evals 72 <D> [M 1.000E0] 1.821E2 540.34s |7.516E1| {7.384E-3} 8.556E-3 
+Iter 64 evals 73 <D> [M 1.000E0] 1.804E2 547.76s |3.625E1| {3.561E-3} 8.212E-3 
+Iter 65 evals 74 <D> [M 1.000E0] 1.796E2 555.18s |2.779E1| {2.730E-3} 7.442E-3 
+Iter 66 evals 75 <D> [M 1.000E0] 1.789E2 562.61s |3.336E1| {3.278E-3} 6.844E-3 
+Iter 67 evals 76 <D> [M 1.000E0] 1.775E2 570.53s |5.160E1| {5.070E-3} 6.422E-3 
+Iter 68 evals 77 <D> [2M 5.127E-1] 1.767E2 583.97s |3.360E1| {3.301E-3} 6.248E-3 
+Iter 69 evals 79 <D> [M 1.000E0] 1.761E2 591.35s |2.116E1| {2.079E-3} 5.628E-3 
+Iter 70 evals 80 <D> [M 1.000E0] 1.754E2 598.97s |2.181E1| {2.142E-3} 4.746E-3 
+Iter 71 evals 81 <D> [1M 3.049E-1] 1.751E2 612.83s |3.272E1| {3.215E-3} 4.074E-3 
+Iter 72 evals 83 <D> [M 1.000E0] 1.745E2 620.38s |2.263E1| {2.223E-3} 3.946E-3 
+Iter 73 evals 84 <D> [M 1.000E0] 1.738E2 627.76s |2.131E1| {2.094E-3} 3.451E-3 
+Iter 74 evals 85 <D> [M 1.000E0] 1.725E2 635.25s |2.734E1| {2.686E-3} 3.770E-3 
+Iter 75 evals 86 <D> [1M 2.042E-1] 1.718E2 648.22s |3.012E1| {2.959E-3} 3.763E-3 
+Iter 76 evals 88 <D> [M 1.000E0] 1.707E2 655.62s |6.402E1| {6.290E-3} 3.605E-3 
+Iter 77 evals 89 <D> [M 1.000E0] 1.698E2 661.86s |4.760E1| {4.676E-3} 3.720E-3 
+Iter 78 evals 90 <D> [M 1.000E0] 1.691E2 664.96s |2.739E1| {2.691E-3} 3.759E-3 
+Iter 79 evals 91 <D> [M 1.000E0] 1.685E2 670.82s |1.822E1| {1.790E-3} 3.716E-3 
+Iter 80 evals 92 <D> [M 1.000E0] 1.681E2 678.71s |4.953E1| {4.867E-3} 3.788E-3 
+Iter 81 evals 93 <D> [M 1.000E0] 1.676E2 686.73s |3.205E1| {3.148E-3} 3.789E-3 
+Iter 82 evals 94 <D> [M 1.000E0] 1.675E2 694.66s |3.459E1| {3.399E-3} 3.433E-3 
+Iter 83 evals 95 <D> [M 1.000E0] 1.672E2 702.10s |1.091E1| {1.072E-3} 2.851E-3 
+Iter 84 evals 96 <D> [M 1.000E0] 1.671E2 709.58s |8.191E0| {8.048E-4} 2.516E-3 
+Iter 85 evals 97 <D> [M 1.000E0] 1.669E2 715.67s |2.237E1| {2.197E-3} 2.047E-3 
+Iter 86 evals 98 <D> [1M 2.014E-1] 1.668E2 724.30s |1.561E1| {1.534E-3} 1.648E-3 
+Iter 87 evals 100 <D> [M 1.000E0] 1.666E2 727.60s |1.187E1| {1.166E-3} 1.349E-3 
+Iter 88 evals 101 <D> [M 1.000E0] 1.664E2 731.23s |1.296E1| {1.274E-3} 1.155E-3 
+Iter 89 evals 102 <D> [M 1.000E0] 1.661E2 734.75s |4.543E1| {4.463E-3} 1.073E-3 
+Iter 90 evals 103 <D> [1M 3.674E-1] 1.657E2 743.46s |2.116E1| {2.078E-3} 1.029E-3 
+Iter 91 evals 105 <D> [M 1.000E0] 1.654E2 747.68s |1.697E1| {1.667E-3} 1.112E-3 
+Iter 92 evals 106 <D> [M 1.000E0] 1.646E2 750.77s |1.999E1| {1.964E-3} 1.464E-3 
+Iter 93 evals 107 <D> [1M 2.080E-1] 1.644E2 760.84s |2.106E1| {2.069E-3} 1.523E-3 
+Iter 94 evals 109 <D> [M 1.000E0] 1.641E2 763.91s |1.410E1| {1.385E-3} 1.560E-3 
+Iter 95 evals 110 <D> [M 1.000E0] 1.640E2 768.31s |1.314E1| {1.291E-3} 1.559E-3 
+Iter 96 evals 111 <D> [M 1.000E0] 1.636E2 776.08s |3.837E1| {3.770E-3} 1.667E-3 
+Iter 97 evals 112 <D> [1M 3.221E-1] 1.633E2 788.92s |1.636E1| {1.607E-3} 1.704E-3 
+Iter 98 evals 114 <D> [M 1.000E0] 1.632E2 792.36s |1.308E1| {1.285E-3} 1.611E-3 
+Iter 99 evals 115 <D> [M 1.000E0] 1.628E2 797.33s |1.911E1| {1.878E-3} 1.610E-3 
+Iter 100 evals 116 <D> [1M 2.284E-1] 1.626E2 810.42s |1.657E1| {1.628E-3} 1.564E-3 
+Iter 101 evals 118 <D> [M 1.000E0] 1.625E2 818.05s |1.159E1| {1.139E-3} 1.150E-3 
+Iter 102 evals 119 <D> [M 1.000E0] 1.624E2 825.53s |1.016E1| {9.986E-4} 1.107E-3 
+Iter 103 evals 120 <D> [M 1.000E0] 1.622E2 833.01s |1.851E1| {1.819E-3} 1.055E-3 
+Iter 104 evals 121 <D> [2M 5.118E-1] 1.621E2 846.93s |1.129E1| {1.109E-3} 1.029E-3 
+Iter 105 evals 123 <D> [M 1.000E0] 1.620E2 854.90s |1.020E1| {1.002E-3} 9.014E-4 
+Iter 106 evals 124 <D> [1M 4.594E-1] 1.619E2 868.37s |1.186E1| {1.165E-3} 8.234E-4 
+Iter 107 evals 126 <D> [M 1.000E0] 1.618E2 876.12s |6.917E0| {6.795E-4} 7.883E-4 
+Iter 108 evals 127 <D> [M 1.000E0] 1.617E2 883.64s |1.105E1| {1.085E-3} 5.967E-4 
+Iter 109 evals 128 <D> [M 1.000E0] 1.617E2 891.12s |1.239E1| {1.217E-3} 5.375E-4 
+Iter 110 evals 129 <D> [M 1.000E0] 1.616E2 899.48s |6.607E0| {6.491E-4} 5.004E-4 
+Iter 111 evals 130 <D> [1M 4.285E-1] 1.616E2 905.48s |8.964E0| {8.807E-4} 4.474E-4 
+Iter 112 evals 132 <D> [M 1.000E0] 1.616E2 910.02s |5.670E0| {5.571E-4} 3.840E-4 
+Iter 113 evals 133 <D> [M 1.000E0] 1.615E2 917.73s |6.055E0| {5.949E-4} 3.339E-4 
+Iter 114 evals 134 <D> [M 1.000E0] 1.615E2 925.17s |1.352E1| {1.329E-3} 3.057E-4 
+Iter 115 evals 135 <D> [M 1.000E0] 1.615E2 932.53s |1.154E1| {1.134E-3} 2.306E-4 
+Iter 116 evals 136 <D> [M 1.000E0] 1.614E2 939.87s |5.586E0| {5.488E-4} 2.149E-4 
+Iter 117 evals 137 <D> [M 1.000E0] 1.614E2 947.23s |3.255E0| {3.198E-4} 1.812E-4 
+Iter 118 evals 138 <D> [M 1.000E0] 1.614E2 954.70s |7.804E0| {7.668E-4} 1.571E-4 
+Iter 119 evals 139 <D> [M 1.000E0] 1.614E2 962.16s |2.352E0| {2.311E-4} 1.317E-4 
+Iter 120 evals 140 <D> [M 1.000E0] 1.614E2 969.55s |2.350E0| {2.308E-4} 1.168E-4 
+Iter 121 evals 141 <D> [M 1.000E0] 1.614E2 976.93s |5.097E0| {5.007E-4} 1.019E-4 
+Iter 122 evals 142 <D> [M 1.000E0] 1.614E2 984.57s
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+Total time spent in optimization: 984.71s
+Built this classifier: LinearClassifier with 318654 features, 22 classes, and 7010388 parameters.
+
+Output format: dataColumn1 goldAnswer classifierAnswer P(classifierAnswer)
+Federal Bureau Of Investigation Gainsville District, GA 30501-2581 United States Of America. Direct Line: (770) 272-5898 Email: fbi.alertdesk@w.cn  www.fbi.gov FEDERAL BUREAU OF INVESTIGATION SEATTLE DISTRICT Attn:Beneficiary, This Federal Bureau of Investigation Seattle District WA received your message and we want to bring to your kind notice that we have sent immediate update to the New Scotland Yard of the Interpol London England for the immediate apprehension of Mr. Frank Moss and we have also given the Hsbc instruction to halt the payment of your fund to anybody until they hear from you in person. It is in the above light we want you to from hence forth keep the remittance process of your fund very confidential as nobody can be trusted at this point in time because we suspect Federal Agent from this Federal Bureau Of Investigation to have been responsible for the information leakage of the deposit of your fund at the Hsbc Bank to Mr. Frank Moss because the remittance process of your fund is to be kept confidential even after you have received your fund as stated. Also note that you are to contact the Hsbc Bank via the assigned email addresses and phone numbers given to you below as all these details have been assigned for the safety and security of the release process of your fund to you accordingly. Be informed that the remittance process of your fund from the Hsbc Bank is 100% legitimate and hitch free and you should know your payment file is classified above top secret files here at this Federal Bureau because we have suspected Federal Agent aware of the deposit of your fund at the Hsbc Bank to have been responsible for the information leakage of the deposit of your fund to the imposter that had attempted to remit your fund with claims that you authorized the release Kindly forward your full contact details and Bank Coordinates to Mr. Alex Morgan at the Hsbc Bank via the contact details below to enable this Federal Bureau see to the immediate commencement of the release of your fund to you as stated. OFFICER: MR ALEX MORGAN. POSITION: DIRECTOR, INTL, AND REMITTANCE HSBC BANK PLC LONDON ENGLAND. HSBC HOLDING PLC 8 CANADA SQUARE LONDON E14 5HQ. MOBILE NUMBER: +4470-3594-1119 EMAIL: mr_alexmorgandesk@hotmail.com Do note that we would be monitoring all payment activities closely and we would do our best to protect your interest and make sure you get your funds delivered to you on time without any mistakes or delay. You are to disregard any mail or correspondence that does not come from this Federal Bureau or the assigned bank Hsbc Bank in your own good and you are to go ahead in dealing with the Assigned Bank accordingly , as we will be monitoring all their services with you as well as your correspondence at all level. Thank you very much for your co-operation in advance as I earnestly await your urgent response to this matter and I would want you to give me a call on my direct line upon recipt of the remittance update. Best regards, Special Agent in Charge Agent Henry Shawn Federal Bureau Of Investigation Gainsville District, GA 30501-2581 United States Of America. Direct Line: (770) 272-5898 Email: fbi.alertdesk@w.cn www.fbi.gov	TEST	government	0.3745529294531812
+Ansbacher Finance Group Ltd. Ref: Anb/Ift/0769 Rc: 2354523 Delivery of Consignment Cargo. Hello, My name is Micheal Dodson, i urgently need your personal assistant concerning a lost CONSIGNMENT for the past seven days on delivery of some CONSIGNMENTS CARGO with some FG DIPLOMATS. Actually one of the payment they were ask to deliver to one (Mrs. Vicky Stuart ) cannot be transacted due to the beneficiary cannot be reached; the consignment is worth of $3.2MILLION U.S DOLLAS. As a DELEGATE APPOINTEE on assignment, i have discussed with the DIPLOMATS that has the sole responsibility delivery of this particular lost consignment that i have someone we can pay off the funds to avoid taken risk going around countries with the lost consignment cargo voucher. I'm requesting your partnership and honest assistant to pay off this consignment to you as the beneficiary, if this will interest you kindly contact me as soon as possible to discuss regarding the delivery of the Consignment to you before the cargo departure at terminal. You are entitled 25% from the said funds upon mutual agreement immediately the transaction is been handled sucessfully. This is an opportunity for you so don't loose it. There will be a diplomatic immunity that will warrant the airport authority not to search their cargo based on diplomatic immunity, unless reverse is the case that the beneficiary shows up then the DIPLOMATIC IMMUNITY is automatically revoked and it will be opened. This is the reason why is always preferable and better that DIPLOMATS deliver consignment by themselves to the designated address or office. Please contact me with an immediate answer and i will get back to you with more details. My Private E-mail: stflc3001@gmail.com Yours Sincerely	TEST2misc	0.27293380341779244
+Hello Seasons greetings, Let me frist introduce my self I am miss Marieme Salem a young,bueatiful,and intellegent lady.I am interesting in making friendship or partner I am a Liberian but live in senegal. I saw your profile while going through my seach on the internet, I am interested in making friendship to know you more, Maybe we can be friends for now and see what will happen in the nearest future. I will send you my photo and profile if you are willing for us to share contacts. This is my personal email:( mariemesalem@yahoo.com ) Please do write directly to my email so that i can send you few of my photos and tell you more about myself also. I will be looking forward to hear from you soon best wishes with love and care. Marieme Salem	TEST3romance	0.9997930315533127
+Dearest With all sincerity and humility, it is with deep pains i write you this message of wishful assistance to my predicament.You might have heard or read about the ongoing civil war raged in my country, Libya. For over eight months bloody civil war, which I have never wittiness in my life time, except the ones I heard, ready or watched in the video cassette, the growing pains and deaths that ruling government troops and those of her current rivals and erstwhile allies have brought to the citizens of Libya, which recently laid to the sanction against Libya government by the United Nation (UN) it’s alies. The war has brought an untold hardship of large magnitude to many families in Libya including mine. In fact, right now I am the only surviving daughter of my father,who is one of the top officials during the regime of the dictator Colonel Muammar Gaddafi,s 42 years in power,but because of Gaddafi,s refusal to listen to the voice of masses which my father advices him, they got crash and my father decamped from his cabinet, then his so-called loyalist invaded our house and looted every thing, killed my father with three of my elder brothers in the scene, This, in fact, made my family a target of his loyalist’s persecution and attack, leading to the deaths of entire members of my family,i managed to escape from Mali to Burkina-Faso neighbouring country where my mother comes from, then am now living here as a refugee. However, we were very rich until the war broke out and changed my fortune for the worst. While going through my father’s business files, I stumbled on a letter showing the deposit of a vault with a security company by my late father before the uprising started in February 2011. I remember my father telling me one night to take care of it as the vault contains the sum of US$ 10 million of Dollar bills and precious gold of inestimable value that should be used to take care of the family and his business in case any thing bad happens to him during this war against their regime. Recently, I managed to contact the security company and they confirmed having such vault in their strong room. They however requested me to come forward to claim the vault as soon as possible upon payment of certain security fees which I do not have now because of my present predicament as a refugee. I have actually notified them that I will soon make arrangements to file a claim to that effect. You may be pleased to hear that I am currently processing necessary UN travel papers that can enable me to move out of Republic of Burkin-Faso to any choice country. Being financially and circumstantially constrained, I now seek your kind assistance in securing this vault on my behalf for safekeeping and high yield investments pending when I am able to secure my travel papers. Honestly, I am forced to seek external assistance because of my situation and have the confidence that you will not capitalize on my predicament to seize the money or cheat me out of the treasure after the conclusion of the business. My trust in you is based on my belief in God. Meanwhile i will not forget to explain myself to you,I am Miss Aicha Boudouh Ahmed 22yrs a student of University of Misrata,Libya. Please, respond to me urgently to confirm if you are in position to assist me or not so we can agree on terms and conditions of your assistance. If for any reason you are not interested, kindly please put me in your daily prayers for god’s continued protection and blessing in this regard. I sincerely thank you and look forward to reading from you urgently. Yours in need Miss Aicha Boudouh Ahmed	TEST4	refugees	0.9453408773583913
+Dear Friend, How Are You? I Know That This Mail May Come To You Almost A Surprise As We Never Met Before And Please Before You Proceed Reading This mail,This Is True and not An Joke, Well I Saw Your Contact Email From Burkina Faso Chambers Of Commerce, After Much Consideration I Decided To Write You Since I Cannot Be Able To See You Face To Face For Now, At First I Strongly Believed That Any Information Received From The Chambers Of Commerce Office Is Correct And Must Be Trusted. But Never Mind, I Am From (Burkina Faso West Africa) Mr.Rafiula Jombo By Name, An Auditing Debt Manager In Our Bank Here (Bank Of Africa). I Have An Opportunity To The Sum Of Ten Millions, Five Hundred Thousand United States Dollars (US$10.500, 000.00), To Transfer Into Your Nominated Bank Account (The Owner Of The Money) Is An. IRAQ. Who Died A Long With His Entire Family During The Iraq War, Upon Your Reply And Interest To Receive This Fund On My Behalf, I Will Kindly Send You More Details On The Execution Of This Transaction Will Commence, Now I Urge You To Take This Message Seriously And With An Open Mind.So Please Give It A Benefit Of Doubt,And With Good Faith And Trust Join Me And I am Assuring You Now That You Will Never Be Disappointed.Now My Questions Are:Can You Handle This Project With Me? Can I Give You This Trust? Respond Back To Me Or Delete It Off If You Are Not Interested. You May View The Website: http://www.cnn.com/2006/WORLD/meast/10/11/iraq.deaths/ If You Accept This Offer To Work With Me, And You Find This Proposal Suitable For You Do Furnish Me With The Following Information. Your Full Name................... Your Country................ Your Private Telephone............... Your Age and Sex.................... Your Occupation............... I Will Appreciate It Very Much, If This Proposal Is Acceptable By You, Do Not Make Undue Advantage Of The Trust I Have Bestowed On You, And I Assure You We Can Achieve It Successfully. Reply me through this email rafiulajombo@postafiok.hu This Is My Private Phone Number 00226 74 71 07 53.You Can Call Me For More Explanation. Respectfully Mr.Rafiula Jombo, An Auditing Debt Manager Of Bank Of Africa	TEST5	banking	0.4760110502484327
+Greetings, Non-Ticket / Online E-mail Address Winning On behalf of the Australia Lottery Commission, we wish to notify on your Winning; also to congratulate you, that you're Email address was selected as one of the six lucky winners in this 2011 edition of Australia Lottery. Your Email Address won the Prize-Money in category "B" which is the sum of Nine hundred thousand British pound sterling [900,000.00BPS]. For verification and release of your [900,000.00BPS], winning cash prize, Please contact the Lottery Online Agent: Mr. Robert Hughes , on this Email: (hughes.services@y7mail.com), With the following information: 1. Full Name, 2. Telephone number, 3. Home Address (P.O Box Not Acceptable), 4. Age, 5. Occupation and Country. Once again Congratulations ! Mrs Rita Tua Publicity Secretary; Australia Lottery.	TEST6	lottery	0.9600293334897693
+Quote: Ref Number: UK 200-26937 Attention: Email Owner, We are pleased to notify you once again that your email address won the EuroMillfsions International Lottery Promotion held for the Month of November 2011, You have therefore been approved to claim the sum of ?1,000,000.00.GBP (One Million Great British Pounds) We are yet to receive your file for Claims.For Due remittance of funds Contact Claims Agent for your claims with Ticket No:8603775966738 . Claims Officer contact information listed below: *************************************** Claims Agent Name: Mr.James Richard Contact Email: releaseresultsdept06@hotmail.co.uk ************************************** Claims Requirements: 1.Full Name: 2.Residential Address: 3.Age: 4.Sex: 5.Mobil Tel: 6.Occupation: 7.Country Of Residence: 8.Nationality: 9.Amount Won: 10.Alternative Email : Sorry if you received this letter in your spam,Due to recent connection error here in england.sorry for the inconvenience. Congratulations on behalf of British Government Financial Department.Note:Do not click on the reply botton,your response must be sent to: releaseresultsdept06@hotmail.co.uk Congratulations!! Mrs.Elizabeth James	TEST7	lottery	0.9993301951629016
+Dear Valued Partner, Please contact Reverend Ben Mark immediately or forward this email to him, asking him to send the ATM Visa Card valued at US$950,000.00 to you. Although my new partner is not happy that I have to allocate such amount to you bearing in mind your attitude toward the transaction at its crucial stage. Kindly be in contact with him via this address bellow; Rev. Ben MARK, E-mail: rev.markben@lavache.com Thanks and remain blessed. Yours Sincerely, Mrs. Suzanne T. Mubarak.	TEST8compensation	0.49449620807757
+Dear Friend, You may be surprise to receive this mail since you don't know me personally, but with due respect, trust and humility, I write to you this proposal. I am Mr. Yusuf Ahmad, the son of Musa Ahmad of Dafur Sudan. It is indeed my pleasure to contact you for assistance of a business venture which I intend to establish in your country. I got your contact while I was doing a private research on the Internet for a reliable and capable foreign partner that will assist me and my family to transfer fund to his personal or private account for investment purpose Though I have not met with you before, but considering the recent political instabilities in my country, I believe one has to risk confiding in success sometimes in life. There is this huge amount of money (Ten Million U.S dollars) ($10,000,000.00) which my late Father deposited in South African in a private security company and they content was not disclosed, awaiting claim before he was assassinated by unknown persons during this war in Dafur Sudan. Now I have decided to invest this money in your country or anywhere safe for security and political reasons. I want you to help me retrieve this money for onward transfer to any designated bank account of your choice for investment purposes. We have to negotiate on what will be offered to you for assisting me to handle this project, I and my family have agreed to offer you 25% of the total sum and 5% will be used to cover all the expenses made both here and in your country while 70% is for my family .Please, read more on the news. www.savedarfur.org All I require is your honest & kind co-operation. I will give you further details as soon as you show interest in helping me. You can contact me on ( yusufahmad002@gmail.com ). Phone +27 83 986 8262 I wait for your kind consideration to my proposal. Best Regards, Mr. Yusuf Ahmad	TEST9	widow	0.9539051662377549
+
+9 examples in test set
+Cls atm_card: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Cls employment: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Cls next_of_kin: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Cls banking: TP=0 FN=0 FP=1 TN=8; Acc 0.889 P 0.000 R 0.000 F1 0.000
+Cls fake_cheques: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Cls orphans: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Cls business: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Cls government: TP=0 FN=0 FP=1 TN=8; Acc 0.889 P 0.000 R 0.000 F1 0.000
+Cls refugees: TP=0 FN=0 FP=1 TN=8; Acc 0.889 P 0.000 R 0.000 F1 0.000
+Cls church_and_charity: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Cls loans: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Cls romance: TP=0 FN=0 FP=1 TN=8; Acc 0.889 P 0.000 R 0.000 F1 0.000
+Cls commodities: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Cls lottery: TP=0 FN=0 FP=2 TN=7; Acc 0.778 P 0.000 R 0.000 F1 0.000
+Cls western_union_and_moneygram: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Cls compensation: TP=0 FN=0 FP=1 TN=8; Acc 0.889 P 0.000 R 0.000 F1 0.000
+Cls military: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Cls widow: TP=0 FN=0 FP=1 TN=8; Acc 0.889 P 0.000 R 0.000 F1 0.000
+Cls delivery_company: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Cls misc: TP=0 FN=0 FP=1 TN=8; Acc 0.889 P 0.000 R 0.000 F1 0.000
+Cls dying_people: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Cls mystery_shopper: TP=0 FN=0 FP=0 TN=9; Acc 1.000 P 0.000 R 0.000 F1 0.000
+Micro-averaged accuracy/F1: 0.00000
+Macro-averaged F1: 0.00000

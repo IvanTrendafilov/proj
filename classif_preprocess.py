@@ -1,6 +1,8 @@
 ## Prepare data for the classifier
 import os
 import glob
+import nltk
+import operator
 from clean_email import removeHeaders
 
 def removeAllHeaders():
@@ -69,4 +71,22 @@ def buildPropertyFile():
 							break
 			f = open('test.prop', 'w')
 			f.write(total)
-			
+
+def makeTop():
+			dirs = ['atm_card', 'employment', 'next_of_kin', 'banking', 'fake_cheques', 'orphans', 'business', 'government', 'refugees', 'church_and_charity', 'loans', 'romance', 'commodities', 'lottery', 'western_union_and_moneygram', 'compensation', 'military', 'widow', 'delivery_company', 'misc', 'dying_people', 'mystery_shopper']	
+			stopwords = nltk.corpus.stopwords.words('english')
+			dicts = []
+			for d in dirs:
+				path = '/home/fusion/dev/419/' + d + '/'
+				allwords = {}
+				for filename in glob.glob(os.path.join(path, '*.txt')):
+					content = open(filename).read().split()
+					for word in content:
+						w = word.strip().lower()
+						if w in allwords:
+							allwords[w] += 1
+						else:
+							if w not in stopwords:
+								allwords[w] = 1
+				dicts.append(allwords)
+			return dicts
