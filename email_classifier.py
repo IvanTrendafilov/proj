@@ -1,0 +1,70 @@
+from pycla import Pycla
+import hashlib
+def overrides(text):  # rule-based overrides to the maxent classifier
+	text = text.lower()
+	if "next of kin" in text:
+		return "next_of_kin"
+	if "mystery" in text and "shop" in text:
+		return "mystery_shopper"
+	if "atm" in text and ("card" in text or "machine" in text):
+		return "atm_card"
+	if "western union" in text or "moneygram" in text:
+		return "western_union_and_moneygram"
+	if "lottery" in text or "winner" in text:
+		return "lottery"
+	if "foundation" in text:
+		return "church_and_charity"
+	if "loan" in text:
+		return "loans"
+	if "parcel" in text or "package" in text or "courier" in text or "consignment" in text:
+		return "delivery_company"
+	return None
+
+def fallback(text):
+	text = text.lower()
+	if "job" in text:
+		return "employment"
+	if ("father" in text or "mother" in text) and "died":
+		return "orphans"
+	if "government" in text:
+		return "government"
+	if "country" in text and "father" in text:
+		return "refugees"
+	if "gold" in text or "oil" in text or "crude" in text:
+		return "commodities"
+	if "late husband" in text or ("husband" in text and "death" in text):
+		return "widow"
+	if "health" in text or "cancer" in text:
+		return "dying_people"
+	return None
+
+def classify(text):
+		batch, hashes = {}, {}
+		if type(text) is str:
+			text = [text]
+		text_prob = text
+		# Compute hashes / keys
+		# Process the overrides first
+		for t in text:
+			p_hash = hashlib.sha224(t).hexdigest()
+			hashes[p_hash] = t
+			over = overrides(t)
+			if over:
+				batch[p_hash] = over
+				text_prob.remove(t)
+		# Call the Maxent classifier on the remaining items
+		if text_prob:
+			maxent = Pycla()
+			result = maxent.classify(text_prob)
+			failed = []
+			for elem in result:
+				if result[elem][1] > 0.4:
+					batch[elem] = result[elem][0]
+				else:
+					failed.append(hashes[elem])
+			# Attempt fallback on low probability classifications
+			# Return None for unsuccessful. Better safe than spammy?
+			for t in failed:
+				p_hash = hashlib.sha224(t).hexdigest()
+				batch[p_hash] = fallback(t)
+		return batch
