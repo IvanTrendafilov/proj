@@ -4,7 +4,7 @@ import hashlib
 
 class Pycla(object):
 	def __init__(self):
-		self.cmd = 'java -jar ../stanford-classifier/stanford-classifier.jar -loadClassifier 419classifier.ser.gz -testFile '
+		self.cmd = 'java -jar ../stanford-classifier/stanford-classifier.jar -loadClassifier 419classifier.ser.gz -testFile 	'
 
 	def classify(self, text_list, classifname='classif.tmp'):  #  takes in a str or list of email text, with no headers.
 		if type(text_list) is str:
@@ -31,4 +31,5 @@ class Pycla(object):
 			except:
 				pass
 		output.close()
+		os.remove(classifname)
 		return out
