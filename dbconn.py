@@ -48,6 +48,7 @@ class dbconn(object):
 			Column('rcpt_addr', String),  # Recepient Addr
 			Column('subject', String),  # Email subject (if any)
 			Column('msg_body', String),  # Message Body
+			Column('attachment', String),
 			Column('reply_first_name', String),
 			Column('reply_last_name', String),
 
