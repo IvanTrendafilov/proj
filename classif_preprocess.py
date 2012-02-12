@@ -55,7 +55,7 @@ def buildPropertyFile():
 						if l.isalpha():
 							total += d + '\t' + output + os.linesep
 							break
-			f = open('train.prop', 'w')
+			f = open('train.set', 'w')
 			f.write(total)
 			total = ""
 			for d in dirs:
@@ -69,8 +69,48 @@ def buildPropertyFile():
 						if l.isalpha():
 							total += d + '\t' + output + os.linesep
 							break
-			f = open('test.prop', 'w')
+			f = open('test.set', 'w')
 			f.write(total)
+
+
+def makeBinaryClassif():
+	path_info = '/home/fusion/dev/419_train/info/'
+	path_noinfo = '/home/fusion/dev/419_train/no_info/'
+	path = '/home/fusion/dev/419_train/'
+	count = 0
+	for filename in glob.glob(os.path.join(path, '*.txt')):
+		count += 1
+		print "Count", count
+		content = open(filename).read()
+		if "name" in content.lower():
+			asking = True
+			while asking:
+				print content
+				resp = raw_input('Does this contain questions?')
+				if resp.lower() == 'y':
+					asking = False
+					f = open(path_info + filename.split('/')[-1], 'w')
+					f.write(content)
+					f.flush()
+					f.close()
+				elif resp.lower() == 'n':
+					asking = False
+					f = open(path_noinfo + filename.split('/')[-1], 'w')
+					f.write(content)
+					f.flush()
+					f.close()
+				elif resp.lower() == 'q':
+					asking = False
+					print "Quitting & saving"
+		else:
+			f = open(path_noinfo + filename.split('/')[-1], 'w')
+			f.write(content)
+			f.flush()
+			f.close()
+		return
+
+
+
 
 def makeTop():
 			dirs = ['atm_card', 'employment', 'next_of_kin', 'banking', 'fake_cheques', 'orphans', 'business', 'government', 'refugees', 'church_and_charity', 'loans', 'romance', 'commodities', 'lottery', 'western_union_and_moneygram', 'compensation', 'military', 'widow', 'delivery_company', 'misc', 'dying_people', 'mystery_shopper']	
