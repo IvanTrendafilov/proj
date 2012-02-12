@@ -3,13 +3,14 @@ import os
 import hashlib
 
 class Pycla(object):
-	def __init__(self):
-		self.cmd = 'java -jar ../stanford-classifier/stanford-classifier.jar -loadClassifier 419classifier.ser.gz -testFile 	'
+	def __init__(self, dataset):
+		self.cmd = 'java -jar ../stanford-classifier/stanford-classifier.jar -loadClassifier ' + dataset +' -testFile '
 
-	def classify(self, text_list, classifname='classif.tmp'):  #  takes in a str or list of email text, with no headers.
+	def classify(self, text_list):  #  takes in a str or list of email text, with no headers.
 		if type(text_list) is str:
 			text_list = [text_list]
 		output, allHashes = "", []
+		classifname = hashlib.sha224("".join(text_list)).hexdigest()[:16] + '.tmp'
 		for text in text_list:
 			p_text = " ".join(text.splitlines())
 			p_hash = hashlib.sha224(text).hexdigest()

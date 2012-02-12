@@ -39,32 +39,50 @@ def fallback(text):
 	return None
 
 def classify(text):
-		batch, hashes = {}, {}
-		if type(text) is str:
-			text = [text]
-		text_prob = text
-		# Compute hashes / keys
-		# Process the overrides first
-		for t in text:
+	if not text:
+		return None
+	batch, hashes = {}, {}
+	if type(text) is str:
+		text = [text]
+	text_prob = text
+	# Compute hashes / keys
+	# Process the overrides first
+	for t in text:
+		p_hash = hashlib.sha224(t).hexdigest()
+		hashes[p_hash] = t
+		over = overrides(t)
+		if over:
+			batch[p_hash] = over
+			text_prob.remove(t)
+	# Call the Maxent classifier on the remaining items
+	if text_prob:
+		maxent = Pycla('419classifier.ser.gz')
+		result = maxent.classify(text_prob)
+		failed = []
+		for elem in result:
+			if result[elem][1] > 0.4:
+				batch[elem] = result[elem][0]
+			else:
+				failed.append(hashes[elem])
+		# Attempt fallback on low probability classifications
+		# Return None for unsuccessful. Better safe than spammy?
+		for t in failed:
 			p_hash = hashlib.sha224(t).hexdigest()
-			hashes[p_hash] = t
-			over = overrides(t)
-			if over:
-				batch[p_hash] = over
-				text_prob.remove(t)
-		# Call the Maxent classifier on the remaining items
-		if text_prob:
-			maxent = Pycla()
-			result = maxent.classify(text_prob)
-			failed = []
-			for elem in result:
-				if result[elem][1] > 0.4:
-					batch[elem] = result[elem][0]
-				else:
-					failed.append(hashes[elem])
-			# Attempt fallback on low probability classifications
-			# Return None for unsuccessful. Better safe than spammy?
-			for t in failed:
-				p_hash = hashlib.sha224(t).hexdigest()
-				batch[p_hash] = fallback(t)
-		return batch
+			batch[p_hash] = fallback(t)
+	return batch
+
+def hasPQ(text):
+	if not text:
+		return None
+	batch = {}
+	if type(text) is str:
+		text = [text]
+	maxent = Pycla('PQclassifier.ser.gz')
+	result = maxent.classify(text)
+	for elem in result:
+		if result[elem][0] == 'info':
+			batch[elem] = True
+		else:
+			batch[elem] = False
+	return batch
+	
