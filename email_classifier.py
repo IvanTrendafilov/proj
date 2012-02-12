@@ -16,7 +16,7 @@ def overrides(text):  # rule-based overrides to the maxent classifier
 		return "church_and_charity"
 	if "loan" in text:
 		return "loans"
-	if "parcel" in text or "package" in text or "courier" in text or "consignment" in text:
+	if "parcel" in text or "package" in text or "courier" in text:
 		return "delivery_company"
 	return None
 

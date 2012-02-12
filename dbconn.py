@@ -41,6 +41,11 @@ class dbconn(object):
 			Column('origin_id', Integer, primary_key=True),
 			Column('desc', String),
 		)
+		self.attachments = Table('attachments', self.metadata,
+			Column('msg_id', Integer),
+			Column('filename', String),
+			Column('extension', String),
+		)
 		self.messages = Table('messages', self.metadata,
 			Column('msg_id', Integer, primary_key=True),  # message ID
 			Column('date', String),  # when the MSG was received
@@ -48,7 +53,7 @@ class dbconn(object):
 			Column('rcpt_addr', String),  # Recepient Addr
 			Column('subject', String),  # Email subject (if any)
 			Column('msg_body', String),  # Message Body
-			Column('attachment', String),
+			Column('attachment', Integer), # This is really a Boolean
 			Column('reply_first_name', String),
 			Column('reply_last_name', String),
 
