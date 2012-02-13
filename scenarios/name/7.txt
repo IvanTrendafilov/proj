@@ -1,1 +1,1 @@
-I am $first_name $last_name, it is great to meet you. Please call me $first_name.
+I am $First_name $Last_name, it is great to meet you. Please call me $First_name.

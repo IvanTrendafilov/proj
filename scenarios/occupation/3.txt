@@ -1,1 +1,1 @@
-My job is as $occupation in $city.
+My job is as $Occupation in $City.

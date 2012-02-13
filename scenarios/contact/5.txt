@@ -1,1 +1,1 @@
-I'm contactable on $telephone and also $email.
+I'm contactable on $Telephone and also $Email.

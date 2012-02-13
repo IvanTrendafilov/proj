@@ -1,1 +1,1 @@
-I work as $occupation for a small firm in $city.
+I work as $Occupation for a small firm in $City.

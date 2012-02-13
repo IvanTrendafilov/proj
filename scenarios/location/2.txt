@@ -1,1 +1,1 @@
-My address is: $address, $city, $country.
+My address is: $Address, $City, $Country.

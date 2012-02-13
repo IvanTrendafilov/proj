@@ -1,1 +1,1 @@
-My full name is $first_name $last_name, but please just call me $first_name.
+My full name is $First_name $Last_name, but please just call me $First_name.

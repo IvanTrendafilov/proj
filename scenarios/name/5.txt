@@ -1,1 +1,1 @@
-My name is $first_name, Mr. $first_name $last_name.
+My name is $First_name, Mr. $First_name $Last_name.

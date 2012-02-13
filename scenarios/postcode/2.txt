@@ -1,1 +1,1 @@
-My post code is $postcode.
+My post code is $Postcode.

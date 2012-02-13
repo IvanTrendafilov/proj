@@ -1,6 +1,0 @@
-Full name: $first_name $last_name
-Occupation: $occupation
-Address: $address
-Country: $country
-Postcode: $postcode
-Phone number: $telephone
