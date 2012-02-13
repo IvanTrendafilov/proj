@@ -2,7 +2,6 @@
 import os
 import glob
 import nltk
-import operator
 from clean_email import removeHeaders
 
 def removeAllHeaders():
@@ -93,7 +92,7 @@ def makeBinaryClassif():
 					f.write(content)
 					f.flush()
 					f.close()
-				elif resp.lower() == 'n':
+				elif resp.lower() == 'n':	
 					asking = False
 					f = open(path_noinfo + filename.split('/')[-1], 'w')
 					f.write(content)
@@ -107,7 +106,6 @@ def makeBinaryClassif():
 			f.write(content)
 			f.flush()
 			f.close()
-		return
 
 
 
