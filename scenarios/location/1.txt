@@ -1,0 +1,1 @@
+I'm from $country, I live in $city on $address.

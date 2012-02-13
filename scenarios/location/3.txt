@@ -1,0 +1,1 @@
+I live in $country, which is an amazing country. My full address is $address, $city, $postcode.
