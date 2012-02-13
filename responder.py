@@ -31,3 +31,12 @@ def answerPQ(text, identity_dict, text_class='romance'):
 		paragraph = os.linesep + " ".join([intro, name, occupation, age, marriage, location, postcode, contact, ending])
 	paragraph = Template(paragraph).safe_substitute(identity_dict)
 	return paragraph
+
+def quoteText(email_dict):
+	if email_dict['Body']:
+	#	prefix = os.linesep + os.linesep + "On " + email_dict['Date'] + "you wrote:"
+		prefix = "On " + email_dict['Date'] + " <" + email_dict['Reply-To'] + "> wrote:" + os.linesep
+		text = email_dict['Body']
+		return prefix + "".join(["> " + x + os.linesep for x in text.splitlines()])
+	else:
+		return None
