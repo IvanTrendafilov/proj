@@ -16,7 +16,6 @@ def answerPQ(text, identity_dict, email_class):
 	postcode_words = ['post code', 'postcode', 'zip']
 	intro = getScenario('pq_intro')
 	ending = getScenario('pq_ending')
-	marriage = ""
 	if email_class == 'romance':
 		marriage = getScenario('marriage')
 	if "....." in text or "_____" in text:
