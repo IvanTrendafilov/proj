@@ -77,12 +77,12 @@ def composeBody(text, email_class, identity_dict, email_dict, state):
 	if state == 0:
 		opening = os.linesep + getScenario(email_class + '/' + 'init') + os.linesep
 		question_intro = os.linesep + getScenario(email_class + '/' + 'question_intro') + os.linesep
-		question_count = random.choice(xrange(1, countScenarios(email_class + '/' + 'question_body'))) # Ask the person a random number of questions
+		question_count = random.choice(xrange(2, countScenarios(email_class + '/' + 'question_body'))) # Ask the person a random number of questions
 		current_count, question_body = 0, ''
 		while True: # TODO: Refactor this into a separate method
 			random_scenario = getScenario(email_class)
 			if random_scenario not in question_body:
-				question_body += random_scenario + " "
+				question_body += random_scenario + os.linesep
 				current_count += 1
 			if current_count == question_count:
 				break
