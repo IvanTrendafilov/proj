@@ -11,6 +11,7 @@ def preload():
 def countScenarios(scenario_name):
 	return len(filter(lambda x: '.txt' in x and '~' not in x, os.listdir('scenarios/' + scenario_name + '/')))
 
+
 def getScenario(scenario_name):
 	options = filter(lambda x: '.txt' in x and '~' not in x, os.listdir('scenarios/' + scenario_name + '/'))  #  love for FP
 	return open('scenarios/' + scenario_name + '/' + random.choice(options)).read().strip()
@@ -78,10 +79,10 @@ def composeBody(text, email_class, identity_dict, email_dict, state):
 		question_intro = os.linesep + getScenario(email_class + '/' + 'question_intro') + os.linesep
 		question_count = random.choice(xrange(1, countScenarios(email_class + '/' + 'question_body'))) # Ask the person a random number of questions
 		current_count, question_body = 0, ''
-		while True:
+		while True: # TODO: Refactor this into a separate method
 			random_scenario = getScenario(email_class)
 			if random_scenario not in question_body:
-				question_body += random_scenario
+				question_body += random_scenario + " "
 				current_count += 1
 			if current_count == question_count:
 				break
