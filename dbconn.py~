@@ -70,8 +70,5 @@ class dbconn(object):
 			Column('status_id', None, ForeignKey('statuses.status_id')),  # State from state table
 			Column('origin_id', None, ForeignKey('origins.origin_id')),  # where did I get it from?
 		)
-		self.hashes = Table('hashes', self.metadata,
-			Column('hash', String), 
-		)
 		self.metadata.create_all(engine)
 		return

@@ -1,11 +1,15 @@
 import os
 import random
+import string
 from email_classifier import hasPQ
 from string import Template
 # identity_dict = {'Gender': 'male', 'Age': '47', 'Marriage': 'Single', 'First_name': 'Peter', 'Last_name': 'Donegan', 'Occupation':'an accountant', 'Address':'34 Cockburn Street', 'City':'Edinburgh', 'Country':'the UK', 'Postcode':'EH89LL', 'Telephone':'0742323123', 'Email':'peterdonegan64@yahoo.com'}
 
 def preload():
 	return {'Gender': 'male', 'Age': '47', 'Marriage': 'Single', 'First_name': 'Peter', 'Last_name': 'Donegan', 'Occupation':'an accountant', 'Address':'34 Cockburn Street', 'City':'Edinburgh', 'Country':'the UK', 'Postcode':'EH89LL', 'Telephone':'0742323123', 'Email':'peterdonegan64@yahoo.com'}
+
+def countScenarios(scenario_name):
+	return len(filter(lambda x: '.txt' in x and '~' not in x, os.listdir('scenarios/' + scenario_name + '/')))
 
 def getScenario(scenario_name):
 	options = filter(lambda x: '.txt' in x and '~' not in x, os.listdir('scenarios/' + scenario_name + '/'))  #  love for FP
@@ -69,17 +73,31 @@ def composeSignoff(identity_dict):
 	return signoff + ',' + os.linesep + random.choice([identity_dict['First_name'], " ".join([identity_dict['First_name'], identity_dict['Last_name']])])
 
 def composeBody(text, email_class, identity_dict, email_dict, state):
-#	body = getScenario(email_class + '/' + state + '/')
-	## Figure out what other magic is necessary here. not sure how though?
-	body = ""
+	if state == 0:
+		opening = os.linesep + getScenario(email_class + '/' + 'init') + os.linesep
+		question_intro = os.linesep + getScenario(email_class + '/' + 'question_intro') + os.linesep
+		question_count = random.choice(xrange(1, countScenarios(email_class + '/' + 'question_body'))) # Ask the person a random number of questions
+		current_count, question_body = 0, ''
+		while True:
+			random_scenario = getScenario(email_class)
+			if random_scenario not in question_body:
+				question_body += random_scenario
+				current_count += 1
+			if current_count == question_count:
+				break
+		question_body = os.linesep + getScenario(email_class + '/' + 'question_body') + os.linesep
+		body = "".join(opening, question_intro, question_body)
+	else:
+		body = "".join( [random.choice(string.letters[:26]) for i in xrange(300)] )  # this shall be removed
+		# include here clever rules to determine what is going on
+		# or consider building a learning agent
 	return body
 
 def composeMessage(text, email_class, identity_dict, email_dict, state):
 	message = ""
 	message += composeGreeting(email_dict)
-	if state==1:
-		message += composeBody(text, email_class, identity_dict, email_dict, state)
-	if hasPQ(text).values[0]:
+	message += composeBody(text, email_class, identity_dict, email_dict, state)
+	if hasPQ(text).values()[0]:
 		message += answerPQ(text, identity_dict, email_class)
 	message += composeSignoff(email_dict)
 	message += quoteText(email_dict)
