@@ -1,0 +1,62 @@
+X-Apparently-To: ethanstokes51@yahoo.co.uk via 87.248.103.30;
+ Wed, 22 Feb 2012 16:02:49 +0000
+Received-SPF: pass (domain of gmail.com designates 209.85.161.176 as permitted
+ sender)
+X-YMailISG: fdMQLaYWLDsAtccaA0ZcocbR1FmCOdhjjhqzY1B.L3ulA9Ze
+ SKM1qRhrcbWHyE19.viJIWuW0ctf7xlbe0VDXSVe0kv33WFgqcS1sbkKAGAC
+ fVS0INdALV9jn77xDbDzY.GdLQrD0mu0rzXc_PG5LlWwNjzXmu8pk6S0Q1PH
+ 5VzmTzZRJ68NpXZsEeqKcLTn86hMeg4e8EkcbD01_0QxuSftqnfyqmuT78Ba
+ rLC00zZk7nDfRFFP4Ds8FOr8esZ3ToWIXE5iVDQ4ac6Jp.pQyWUP6L73E9fu
+ SWwdTasE3ylWUB5bjHFlS4qwHAmO0wEe48KwSDP3.iS4OOTvqfQJUnSLYPaa
+ T.N33qsmk4fadkBjESSIEe9UJZNGJAoh6skqdiUN6W4GPwBdwhVSaJ00vAQ_
+ Ltqa85MIX4jbLsbzgexMn9IryXsoJtZJ4AxE4uyOkR9Xl01LrxxrBD.TNlYg
+ v_SiTv3xry6KYu_.Kd2RMbpJU.HSQK6JqtALgN1_60m.XA7p79huSez2OB8Y
+ hITU2pBJ0fWqFwn2gnjx6nWr3UW6tKkrL7HAhc_DTLomTlsa2z08sqJxuJqw
+ 4QpefLbvp0Lt9h7jufE.AjeNiPNYfEaxVYkWZIFRR1OKTDr06l7jN1SOcz0u
+ eb4bs2s..DqStDrmal_f7TVVApU0jfDL9t29iTRMrncGUE5ZlcwNMSp07dwu
+ PiNbMXAQTNV4Houu8kqOCs6isaZBkkCEb6XXwTSrohkPsB9oUQRydPBotXLq
+ 8_Bpa5iX1uXpnrof.3o2JGhI9LYLPZ95H.ZHThuEg4N0ac.MziErToYTrNWg
+ Ydh7Z2byFRPmN4s2vWqxB3Dvigougw0CtDMjPa_UgklhwpQa6MZsfnxAcLFK
+ PQIgHjK.Tn47.gtOFm6KbANsKRxX0vrrX4tLYK5v_.bY_FYqxTLLbdV_mHZg
+ y856tCL3XbkLbXF_5KidZFuTrmKu91tix_Q_lnu_hJhRvR1vdrHJfSO_xV7m
+ 8m30yGEoguBimkvH5cY58pb.XArNEhQezRmOtd09rzkoGvSV2bBbzDHE73V3
+ nLZ.USYkisY-
+X-Originating-IP: [209.85.161.176]
+Authentication-Results: mta1096.mail.ird.yahoo.com  from=gmail.com;
+ domainkeys=neutral (no sig); from=gmail.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO mail-gx0-f176.google.com) (209.85.161.176)
+ by mta1096.mail.ird.yahoo.com with SMTP; Wed, 22 Feb 2012 16:02:49 +0000
+Received: by ggnr5 with SMTP id r5so127252ggn.21
+ for <ethanstokes51@yahoo.co.uk>; Wed, 22 Feb 2012 08:02:49 -0800 (PST)
+Received-SPF: pass (google.com: domain of ivan.trendafilov@gmail.com
+ designates 10.50.11.129 as permitted sender) client-ip=10.50.11.129; 
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of
+ ivan.trendafilov@gmail.com designates 10.50.11.129 as permitted sender)
+ smtp.mail=ivan.trendafilov@gmail.com;
+ dkim=pass header.i=ivan.trendafilov@gmail.com
+Received: from mr.google.com ([10.50.11.129])
+ by 10.50.11.129 with SMTP id q1mr27560085igb.23.1329926569201 (num_hops = 1); 
+ Wed, 22 Feb 2012 08:02:49 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+ h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+ :content-type; bh=h4fG35M8G9Bm1adQmkfHKZ8TZ356pX8YZnZK3eA/+8A=;
+ b=RefXv2dwyfuzzMRCvsTBvbE7pgelwUbDmiJmq/xmRhRREnzLPh/zEoRR/I61nBOzbs
+ lMl3CuIspwWxokChMRzjR/MtB6zkNeT10X5or9cmqtMcdIRR5YXTeyhFzPPJUnRoWCri
+ b3C/n27oHEzrYF6COiPiAXrwWALT8U7Mzl3NA=
+MIME-Version: 1.0
+Received: by 10.50.11.129 with SMTP id q1mr22357867igb.23.1329926569092; Wed,
+ 22 Feb 2012 08:02:49 -0800 (PST)
+Received: by 10.231.66.148 with HTTP; Wed, 22 Feb 2012 08:02:49 -0800 (PST)
+In-Reply-To: <1329926550.78162.YahooMailNeo@web132303.mail.ird.yahoo.com>
+References: <1329926550.78162.YahooMailNeo@web132303.mail.ird.yahoo.com>
+Date: Wed, 22 Feb 2012 16:02:49 +0000
+Message-ID: <CANwCNukVD-DOUr9w=xLAcMMYg+bHvchbmf_3bRsNDJoiK9hVMg@mail.gmail.com>
+Subject: Re: hi
+From: Ivan Trendafilov <ivan.trendafilov@gmail.com>
+To: Ethan Stokes <ethanstokes51@yahoo.co.uk>
+Content-Type: text/plain; charset=ISO-8859-1
+
+Nm, you?
+
+On Wed, Feb 22, 2012 at 4:02 PM, Ethan Stokes <ethanstokes51@yahoo.co.uk> wrote:
+> whatzup

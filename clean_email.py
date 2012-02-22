@@ -5,19 +5,6 @@ from pyner import Pyner
 
 
 # STEP 1 - Clean up useless headers (Takes the message as a string)
-def cleanHeaders_legacy(text, full=False):  # this is a legacy method
-	f = open('clean.tmp', 'w')
-	f.write(text)
-	f.close()
-	if not full:
-		pmsg = os.popen('perl -ne \'if (/^\s*$/) {$b=1;} print if (/^(Subject|Reply-To|To|From):/||$b);\' clean.tmp')
-	else:
-		pmsg = os.popen('perl -ne \'if (/^\s*$/) {$b=1;} print if (/^(qwertyu12):/||$b);\' clean.tmp')
-	message = pmsg.read()
-	pmsg.close()
-	os.remove('clean.tmp')
-	return message
-
 
 def cleanHeaders(text, full=False):
 	headers_file, headers = open('data/headers.txt', 'r'), []
@@ -213,7 +200,7 @@ def relateEntities(names, emails, text):
 
 
 # STEP 7 Something to piece the puzzle all together....
-def extractInfo(text):
+def extractInfo(text, identities):
 	messages = []
 	date = time.ctime()
 	text_with_headers = cleanHeaders(text)

@@ -1,5 +1,5 @@
 from singleton import Singleton
-from sqlalchemy import create_engine, Table, Column, Integer, String, MetaData, ForeignKey
+from sqlalchemy import create_engine, Table, Column, Integer, String, MetaData, ForeignKey, Sequence
 import os
 
 
@@ -60,10 +60,9 @@ class dbconn(object):
 			Column('attachment', Integer), # This is really a Boolean
 			Column('reply_first_name', String),
 			Column('reply_last_name', String),
-
 		)
 		self.conversations = Table('conversations', self.metadata,
-			Column('conv_id', Integer, primary_key=True),
+			Column('conv_id', Integer, Sequence('user_id_seq'), primary_key=True),
 			Column('msg_id', None, ForeignKey('messages.msg_id')),
 			Column('class_id', None, ForeignKey('classes.class_id')),  # Spam Class ID
 			Column('identity_id', None, ForeignKey('identities.identity_id')),  # Which identity am I using? # think

@@ -1,8 +1,13 @@
 import os
 import random
 import string
+import time
 from email_classifier import hasPQ
 from string import Template
+from smtplib import SMTP_SSL
+from smtplib import SMTP
+from email.MIMEText import MIMEText
+
 # identity_dict = {'Gender': 'male', 'Age': '47', 'Marriage': 'Single', 'First_name': 'Peter', 'Last_name': 'Donegan', 'Occupation':'an accountant', 'Address':'34 Cockburn Street', 'City':'Edinburgh', 'Country':'the UK', 'Postcode':'EH89LL', 'Telephone':'0742323123', 'Email':'peterdonegan64@yahoo.com'}
 
 def preload():
@@ -10,7 +15,6 @@ def preload():
 
 def countScenarios(scenario_name):
 	return len(filter(lambda x: '.txt' in x and '~' not in x, os.listdir('scenarios/' + scenario_name + '/')))
-
 
 def getScenario(scenario_name):
 	options = filter(lambda x: '.txt' in x and '~' not in x, os.listdir('scenarios/' + scenario_name + '/'))  #  love for FP
@@ -69,6 +73,9 @@ def composeGreeting(email_dict):
 	else:
 		return "Hello," + os.linesep
 
+def composeSubject(email_dict):
+	return "Re: " + email_dict['Subject']
+
 def composeSignoff(identity_dict):
 	signoff = random.choice(['Kind Regards', 'Best Regards', 'Best Wishes', 'Warm Regards', 'Regards', 'Thanks', 'Thank you'])
 	return signoff + ',' + os.linesep + random.choice([identity_dict['First_name'], " ".join([identity_dict['First_name'], identity_dict['Last_name']])])
@@ -104,5 +111,32 @@ def composeMessage(text, email_class, identity_dict, email_dict, state):
 	message += quoteText(email_dict)
 	return message
 
-def getFullEmail():
+def sendEmail(text, email_class, identity_dict, email_dict, state):
+	try:
+		message = composeMessage(text, email_class, identity_dict, email_dict, state)
+		own_addr = identity_dict['Email']
+		destination_addr = email_dict['Reply-To']
+		text_subtype = 'plain'
+		mime_msg = MIMEText(message, text_subtype)
+		mime_msg['Subject'] = composeSubject(email_dict)
+		mime_msg['From'] = own_addr
+		mime_msg['To'] = destination_addr
+		if 'yahoo' in own_addr:
+			server_addr = 'smtp.mail.yahoo.com'
+			conn = SMTP_SSL(server_addr)
+			conn.set_debuglevel(False)
+			conn.login(identity_dict['username'], identity_dict['password'])
+			try:
+				conn.sendmail(own_addr, destination_addr, mime_msg.as_string())
+			finally:
+				conn.close()
+	except Exception:
+		return None
+	return {'Date': time.ctime(), 'Reply-To': own_addr, 'To': destination_addr, 'Subject': composeSubject(email_dict), 'Body': message, 'Attachment': 0, 'First_name': identity_dict['First_name'], 'Last_name': identity_dict['Last_name']}
+
+
+
+
+
+
 	return
