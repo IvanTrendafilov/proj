@@ -1,11 +1,25 @@
 import os
 import re
 import time
+from BeautifulSoup import BeautifulSoup
 from pyner import Pyner
 
+# STEP -1 - Remove HTML
+def removeHTML(text):
+	return ''.join(BeautifulSoup(text, convertEntities='html').findAll(text=True)).encode('ascii', 'ignore')
+
+# STEP 0 - Attempt to remove quotes. This fails, should the message not be prefixed properly: >
+def removeQuotes(text):
+	text_splitlines = text.splitlines()
+	count, cutoff = 0, len(text_splitlines)
+	for line in text_splitlines:
+		if '>' in line and line.index('>') < 2:
+			cutoff = count - 1
+			break
+		count += 1
+	return os.linesep.join(text_splitlines[:cutoff])
 
 # STEP 1 - Clean up useless headers (Takes the message as a string)
-
 def cleanHeaders(text, full=False):
 	headers_file, headers = open('data/headers.txt', 'r'), []
 	regexp = '(X)' + '(-)' + '((?:[a-z][a-z0-9_]*))' + '(-)' + '((?:[a-z][a-z0-9_]*))' + '(:)'
@@ -74,8 +88,7 @@ def extractHeaders(text):
 			if header in line and headers[header] == None:
 				if line.strip().index(header) < 2:
 					if header == 'Subject':
-						headers[header] = line.replace('Subject', '').strip()
-						headers[header] = headers[header].replace(': ', '').strip()
+						headers[header] = line.replace('Subject:', '').strip()
 					else:
 						regexp = mailsrch.findall(line)
 						if regexp:
@@ -200,9 +213,10 @@ def relateEntities(names, emails, text):
 
 
 # STEP 7 Something to piece the puzzle all together....
-def extractInfo(text, identities):
+def extractInfo(text):
 	messages = []
 	date = time.ctime()
+#	preprocess = removeQuotes(removeHTML(text))
 	text_with_headers = cleanHeaders(text)
 	headers = extractHeaders(text_with_headers)
 	text = removeHeaders(text_with_headers)

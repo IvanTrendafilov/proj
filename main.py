@@ -12,10 +12,10 @@ from dbconn import dbconn
 # CRAWLER
 
 # Problems
-# 1. No way to remove quoted text properly so far.
+# 1. No way to remove quoted text properly so far. - FIXED (somewhat...)
 # 2. No way to figure out if a new message belongs to a thread or not.
 # 3. No logic to tall all shit together.
-# 4. Strip html tags, if necessary.
+# 4. Strip html tags, if necessary. - FIXED.
 def getMetadata(file_name):
 	origin = file_name.split('.')[0].split('-')[0]
 	msg_id = file_name.split('.')[0].split('-')[1]
