@@ -8,8 +8,6 @@ from smtplib import SMTP_SSL
 from smtplib import SMTP
 from email.MIMEText import MIMEText
 
-# identity_dict = {'Gender': 'male', 'Age': '47', 'Marriage': 'Single', 'First_name': 'Peter', 'Last_name': 'Donegan', 'Occupation':'an accountant', 'Address':'34 Cockburn Street', 'City':'Edinburgh', 'Country':'the UK', 'Postcode':'EH89LL', 'Telephone':'0742323123', 'Email':'peterdonegan64@yahoo.com'}
-
 def preload():
 	return {'Gender': 'male', 'Age': '47', 'Marriage': 'Single', 'First_name': 'Peter', 'Last_name': 'Donegan', 'Occupation':'an accountant', 'Address':'34 Cockburn Street', 'City':'Edinburgh', 'Country':'the UK', 'Postcode':'EH89LL', 'Telephone':'0742323123', 'Email':'peterdonegan64@yahoo.com'}
 
@@ -23,14 +21,14 @@ def getScenario(scenario_name):
 def answerPQ(text, identity_dict, email_class):
 	paragraph = ""
 	postcode_words = ['post code', 'postcode', 'zip']
-	intro = getScenario('pq_intro')
-	ending = getScenario('pq_ending')
+	intro = getScenario('pq_intro') + os.linesep
+	ending = os.linesep + getScenario('pq_ending') + os.linesep
 	marriage = ""
 	if email_class == 'romance':
 		marriage = getScenario('marriage')
 	if "....." in text or "_____" in text:
 		body = getScenario('pq_generic')
-		paragraph = os.linesep + " ".join([intro + os.linesep, body, os.linesep + ending]) + os.linesep
+		paragraph = os.linesep + ''.join([intro + os.linesep, body, os.linesep + ending]) + os.linesep
 	else:
 		name = getScenario('name')
 		occupation = getScenario('occupation')
@@ -76,40 +74,44 @@ def composeGreeting(email_dict):
 def composeSubject(email_dict):
 	return "Re: " + email_dict['Subject']
 
+def composeMessage(text, email_class, identity_dict, email_dict, state):
+	message = (2 * os.linesep).join(['$Greeting', '$Body', '$Signoff', '$QuotedText'])
+	message = message.replace(os. linesep + '$QuotedText', '$QuotedText')
+	content = {'Greeting': composeGreeting(email_dict), 'Body': composeBody(text, email_class, identity_dict, email_dict, state), 'Signoff': composeSignoff(identity_dict), 'QuotedText': quoteText(email_dict)}
+	return Template(message).safe_substitute(content)
+
+
+def buildQuestionBody(email_class, maxscen = 4):
+	question_count = random.choice(range(2, min(maxscen, countScenarios(email_class + '/' + 'question_body'))))
+	current_count, question_body = 0, ''
+	while True:
+		random_scenario = getScenario(email_class + '/' + 'question_body')
+		if random_scenario not in question_body:
+			question_body += random_scenario + os.linesep
+			current_count += 1
+		if current_count == question_count:
+			break
+	return question_body
+
+def composeBody(text, email_class, identity_dict, email_dict, state):
+	content, body = {}, (2 * os.linesep).join(['$Opening', '$PQ_answer', '$Question_intro', '$Question_body'])
+	if state == 0 and hasPQ(text).values()[0]:
+		content['Opening'] = getScenario(email_class + '/' + 'init')
+		content['PQ_answer'] = answerPQ(text, identity_dict, email_class)
+		content['Question_intro'] = getScenario(email_class + '/' + 'question_intro')
+		content['Question_body'] = buildQuestionBody(email_class)
+	elif state == 0:
+		body.replace('$PQ_answer' + os.linesep * 2, '')
+		content['Opening'] = getScenario(email_class + '/' + 'init')
+		content['Question_intro'] = getScenario(email_class + '/' + 'question_intro')
+		content['Question_body'] = buildQuestionBody(email_class)
+	else:
+		body = "".join([random.choice(string.letters[:26]) for i in xrange(300)])  # nothing meaningful yet
+	return Template(body).safe_substitute(content)
+
 def composeSignoff(identity_dict):
 	signoff = random.choice(['Kind Regards', 'Best Regards', 'Best Wishes', 'Warm Regards', 'Regards', 'Thanks', 'Thank you'])
 	return signoff + ',' + os.linesep + random.choice([identity_dict['First_name'], " ".join([identity_dict['First_name'], identity_dict['Last_name']])])
-
-def composeBody(text, email_class, identity_dict, email_dict, state):
-	if state == 0:
-		opening = os.linesep + getScenario(email_class + '/' + 'init') + os.linesep
-		question_intro = os.linesep + getScenario(email_class + '/' + 'question_intro') + os.linesep
-		question_count = random.choice(xrange(2, countScenarios(email_class + '/' + 'question_body'))) # Ask the person a random number of questions
-		current_count, question_body = 0, ''
-		while True: # TODO: Refactor this into a separate method
-			random_scenario = getScenario(email_class)
-			if random_scenario not in question_body:
-				question_body += random_scenario + os.linesep
-				current_count += 1
-			if current_count == question_count:
-				break
-		question_body = os.linesep + getScenario(email_class + '/' + 'question_body') + os.linesep
-		body = "".join(opening, question_intro, question_body)
-	else:
-		body = "".join( [random.choice(string.letters[:26]) for i in xrange(300)] )  # this shall be removed
-		# include here clever rules to determine what is going on
-		# or consider building a learning agent
-	return body
-
-def composeMessage(text, email_class, identity_dict, email_dict, state):
-	message = ""
-	message += composeGreeting(email_dict)
-	message += composeBody(text, email_class, identity_dict, email_dict, state)
-	if hasPQ(text).values()[0]:
-		message += answerPQ(text, identity_dict, email_class)
-	message += composeSignoff(email_dict)
-	message += quoteText(email_dict)
-	return message
 
 def sendEmail(text, email_class, identity_dict, email_dict, state):
 	try:
@@ -122,21 +124,16 @@ def sendEmail(text, email_class, identity_dict, email_dict, state):
 		mime_msg['From'] = own_addr
 		mime_msg['To'] = destination_addr
 		if 'yahoo' in own_addr:
-			server_addr = 'smtp.mail.yahoo.com'
+			server_addr = identity_dict['SMTP']
+#			server_addr = 'smtp.mail.yahoo.com'
 			conn = SMTP_SSL(server_addr)
 			conn.set_debuglevel(False)
-			conn.login(identity_dict['username'], identity_dict['password'])
+			conn.login(identity_dict['Username'], identity_dict['Password'])
 			try:
 				conn.sendmail(own_addr, destination_addr, mime_msg.as_string())
 			finally:
+				print "Send email!"
 				conn.close()
 	except Exception:
 		return None
 	return {'Date': time.ctime(), 'Reply-To': own_addr, 'To': destination_addr, 'Subject': composeSubject(email_dict), 'Body': message, 'Attachment': 0, 'First_name': identity_dict['First_name'], 'Last_name': identity_dict['Last_name']}
-
-
-
-
-
-
-	return

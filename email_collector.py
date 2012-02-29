@@ -5,9 +5,9 @@ from email import parser
 import random
 def retrieveMessages(identity_dict):
 	output_dir = 'incoming'
-	pop_conn = poplib.POP3_SSL(identity_dict['pop3'])
-	pop_conn.user(identity_dict['username'])
-	pop_conn.pass_(identity_dict['password'])
+	pop_conn = poplib.POP3_SSL(identity_dict['Pop3'])
+	pop_conn.user(identity_dict['Username'])
+	pop_conn.pass_(identity_dict['Password'])
 	messages = [pop_conn.retr(i) for i in range(1, len(pop_conn.list()[1]) + 1)]
 	[pop_conn.dele(i) for i in range(1, len(pop_conn.list()[1]) + 1)]
 	pop_conn.quit()

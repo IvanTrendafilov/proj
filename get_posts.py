@@ -83,12 +83,18 @@ def crawlPost(link_id):
 
 
 def crawlAndWrite(links):
+	module_id = 'CRAWLER'
+	base = os.environ['HOME'] + '/dev/proj/incoming/' + module_id + '-'
 	for link_id in links:
 		response = crawlPost(link_id)
 		if response:
-			filename = os.environ['HOME'] + 'dev/proj/data/test/' + link_id + '.txt'
-			fileh = open(filename, 'w')
+			tmp_name = base + str(link_id) + '.tmp'
+			final_name = base + str(link_id) + '.ready'
+			fileh = open(tmp_name, 'w')
 			fileh.write(response)
+			fileh.flush()
+			fileh.close()
+			os.rename(tmp_name, final_name) # Atomic
 	return
 
 
