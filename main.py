@@ -14,10 +14,9 @@ from dbconn import dbconn
 # CRAWLER
 
 # Problems
-# 1. No way to remove quoted text properly so far. - FIXED (somewhat...)
-# 2. No way to figure out if a new message belongs to a thread or not.
-# 3. No logic to tall all shit together.
-# 4. Strip html tags, if necessary. - FIXED.
+# 1. Redesign DB and persistance.
+# 2. No way to figure out if a new message belongs to a thread or not. - buckets
+
 '''
 1. Pick up a message from incoming/
 2. Compute its hash and check it against all hashes from DB
@@ -31,6 +30,7 @@ from dbconn import dbconn
 5. Send Email
 6. Increment state ? Update conversation info.
 7.'''
+# Consider pickling stuff
 
 
 def getMetadata(file_name):

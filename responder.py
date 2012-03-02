@@ -1,6 +1,13 @@
+'''
+TODO:
+1. Create stories - idle chatter for stuff.
+2. Add logic to not respond with same things UNTIL exhausted.
+3. Find out and create assocMap for orphans
+4. Find out and create assocMap for mystery shopper
+'''
+
 import os
 import random
-import string
 import time
 from email_classifier import hasPQ
 from string import Template
@@ -93,21 +100,57 @@ def buildQuestionBody(email_class, maxscen = 4):
 			break
 	return question_body
 
+def getRuleAnswers(text, email_class):
+	text_l = text.lower()
+	assocMap = {}
+	if email_class == 'lottery':
+		assocMap['form_approved'] = ['bank', 'payment', 'paying', 'approved']
+		assocMap['payment_approved'] = ['affidavit', 'remit', 'wire transfer', 'attorney']
+		assocMap['final_stage'] = ['service charge', 'charge', 'fee', 'wire transfer', 'sum of']
+	if email_class == 'mystery_shopper':
+		pass # add thinking here
+	if email_class == 'orphans':
+		pass # add thinking here
+	for key in assocMap:
+		for word in assocMap[key]:
+			if word in text_l:
+				return getScenario(email_class + '/' + key)
+	return None
+
+def hasTriggerWords(text, email_class):
+	text_l = text.lower()
+	words = getScenario(email_class + '/' + 'trigger_words').splitlines()
+	for word in words:
+		if word in text_l:
+			return True
+	return False
+
 def composeBody(text, email_class, identity_dict, email_dict, state):
-	content, body = {}, (2 * os.linesep).join(['$Opening', '$PQ_answer', '$Question_intro', '$Question_body'])
-	if state == 0 and hasPQ(text).values()[0]:
+	content = {}
+	body = ['$Opening']
+	if state == 0:
 		content['Opening'] = getScenario(email_class + '/' + 'init')
-		content['PQ_answer'] = answerPQ(text, identity_dict, email_class)
-		content['Question_intro'] = getScenario(email_class + '/' + 'question_intro')
-		content['Question_body'] = buildQuestionBody(email_class)
-	elif state == 0:
-		body.replace('$PQ_answer' + os.linesep * 2, '')
-		content['Opening'] = getScenario(email_class + '/' + 'init')
+		if hasPQ(text).values()[0]:
+			body.append('$PQ_answer')
+			content['PQ_answer'] = answerPQ(text, identity_dict, email_class)
+		body.extend(['$Question_intro', '$Question_body'])
 		content['Question_intro'] = getScenario(email_class + '/' + 'question_intro')
 		content['Question_body'] = buildQuestionBody(email_class)
 	else:
-		body = "".join([random.choice(string.letters[:26]) for i in xrange(300)])  # nothing meaningful yet
+		content['Opening'] = getScenario('reopen')
+		if hasPQ(text).values()[0]:
+			body.append('$PQ_answer')
+			content['PQ_answer'] = answerPQ(text, identity_dict, email_class)
+		if hasTriggerWords(text, email_class):
+			body.append('$Rule_answers')
+			content['Rule_answers'] = getRuleAnswers()
+		body.extend(random.choice([['$Story', '$Closing'], ['$Story']]))		
+		content['Story'] = getScenario(email_class + '/' + 'story')
+		if '$Closing' in body:
+			content['Closing'] = getScenario('closing')
+	body = (os.linesep).join(body)
 	return Template(body).safe_substitute(content)
+
 
 def composeSignoff(identity_dict):
 	signoff = random.choice(['Kind Regards', 'Best Regards', 'Best Wishes', 'Warm Regards', 'Regards', 'Thanks', 'Thank you'])
