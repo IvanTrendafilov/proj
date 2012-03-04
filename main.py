@@ -1,9 +1,11 @@
 ## C&C: Anti-419
 import os
 import time
+import cPickle as pickle
+import hashlib
 from identity import getRandomIdentity
 from responder import sendEmail
-from clean_email import extractInfo
+from clean_email import extractInfo, removeHeaders
 from email_classifier import classify
 from dbconn import dbconn
 
@@ -32,6 +34,41 @@ from dbconn import dbconn
 7.'''
 # Consider pickling stuff
 
+def init():
+	try:
+		hashes_pkl = open('data/hashes.pkl', 'rb')
+		hashes = pickle.load(hashes_pkl)
+	except:
+		hashes_pkl, hashes = None, []
+	try: 
+		conv_store_pkl = open('data/conv_store.pkl', 'rb')
+		conv_store = pickle.load(conv_store_pkl)
+	except:
+		conv_store_pkl, conv_store = None, {}
+	conv_store_pkl.close()
+	hashes_pkl.close()
+	return (hashes, conv_store)
+
+def save(hashes, conv_store):
+	try:
+		hashes_pkl = open('data/hashes.pkl', 'wb')
+		pickle.dump(hashes, hashes_pkl)
+		hashes_pkl.flush()
+		hashes_pkl.close()
+	except:
+		print "ERROR: Unable to pickle hashes."
+	try:
+		conv_store_pkl = open('data/conv_store.pkl', 'wb')
+		pickle.dump(conv_store, conv_store_pkl)
+		conv_store_pkl.flush()
+		conv_store_pkl.close()
+	except:
+		print "ERROR: Unable to pickle conv_store."
+	return
+		
+
+def getHash(text):
+	return hashlib.sha224(filter(lambda x: x.isalpha(), text)).hexdigest()
 
 def getMetadata(file_name):
 	origin = file_name.split('.')[0].split('-')[0]
@@ -53,15 +90,21 @@ def getMessage():
 	return None
 
 def theLoop():
+	supported_msgs = ['lottery', 'orphans', 'mystery_shopper']
 	while True:
 		current_msg = getMessage()
 		if current_msg:
 			msg_id, origin, content = current_msg['Msg_id'], current_msg['Origin'], current_msg['Content']
 			identity = getRandomIdentity()
+			identity_dict = identity[0]
 			list_of_email_dicts = extractInfo(current_msg['Content'])
-			for elem in list_of_email_dicts:
-				email_class = classify(elem['Body']).values()[0]
-				sendEmail(elem['Body'], email_class, identity, elem, 0)
+			for email_dict in list_of_email_dicts:
+				email_class = classify(email_dict['Body']).values()[0]
+				if email_class in supported_msgs:
+					sendEmail(email_dict['Body'], email_class, identity_dict, email_dict, 0)
+				else:
+					pass
+					# Add some sort of logging info
 		else:
 			print "Nothing..."
 #		time.sleep(5)
