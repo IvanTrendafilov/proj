@@ -10,6 +10,12 @@ from pyner import Pyner
 
 # STEP -1 - Remove HTML
 def removeHTML(text):
+	msg_split = text.splitlines()
+	for i in range(0, len(msg_split)):
+		if extractEmails(msg_split[i]):
+			if '>' in msg_split[i] and '<' in msg_split[i]:
+				msg_split[i] = msg_split[i].replace('<','< ')
+	text = os.linesep.join(msg_split)
 	return ''.join(BeautifulSoup(text, convertEntities='html').findAll(text=True)).encode('ascii', 'ignore')
 
 # STEP 0 - Attempt to remove quotes. This fails, should the message not be prefixed properly: >
@@ -272,7 +278,6 @@ def extractInfo(text, safe=False, identity_dict=None):
 	if not safe:
 		messages = []
 		date = time.ctime()
-	#	preprocess = removeQuotes(removeHTML(text))
 		text_with_headers = cleanHeaders(text)
 		headers = extractHeaders(text_with_headers)
 		text = removeHeaders(text_with_headers)
@@ -289,11 +294,11 @@ def extractInfo(text, safe=False, identity_dict=None):
 				msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'] = {}, date, email_addr, headers['To'], headers['Subject'], text
 				if names:
 					msg['First_name'], msg['Last_name'] = " ".join(names[-1].split()[:-1]), names[-1].split()[-1]
-					print '2:', msg['First_name']
 				else:
 					msg['First_name'], msg['Last_name'] = None, None
-					print '3:', msg['First_name']
 				messages.append(msg)
+			else:
+				return []
 			return messages
 		unassoc_names = names
 		relations = relateEntities(names, emails, text)
@@ -313,19 +318,51 @@ def extractInfo(text, safe=False, identity_dict=None):
 			if unassoc_names and names:
 				if unassoc_names[-1] == names[-1]:
 					msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = {}, date, email, headers['To'], headers['Subject'], text, " ".join(names[-1].split()[:-1]), names[-1].split()[-1]
-					print '4:', msg['First_name']
 					messages.append(msg)
 				else:
 					msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = date, email, headers['To'], headers['Subject'], text, None, None
-					print '5:', msg['First_name']
 					messages.append(msg)
 		return messages
 	else:
-		messages = []
+		messages, identity_email, first_name, last_name = [], identity_dict['Email'], identity_dict['First_name'], identity_dict['Last_name']
 		text = removeQuotes(removeHTML(text))
 		headers = extractHeaders_safe(text)
 		body = removeHeaders_safe(text)
-		names = extractNames_safe(text)
+		names = extractNames_safe(body, first_name, last_name)
+		emails = extractEmails_safe(body, identity_email)
+		relations = relateEntities(names, emails, body)
+		if headers['Date']:
+			date = headers['Date']
+		else:
+			date = time.ctime()
+		for rel in relations:
+			msg = {}
+			msg['Date'] = date
+			msg['Reply-To'] = rel
+			msg['To'] = identity_email
+			msg['Subject'] = headers['Subject']
+			msg['Body'] = body
+			msg['First_name'] = " ".join(relations[rel].split()[:-1])
+			msg['Last_name'] = relations[rel].split()[-1]
+			messages.append(msg)
+		hasOriginal = False
+		for msg in messages:
+			if headers['From'] == msg['Reply-To'] or headers['Reply-To'] == msg['Reply-To']:
+				hasOriginal = True
+		if not hasOriginal:
+			msg = {}
+			msg['Date'] = date
+			if headers['Reply-To']:
+				msg['Reply-To']
+			elif headers['From']:
+				msg['Reply-To'] = headers['From']
+			else:
+				return messages
+			msg['To'] = identity_email
+			msg['Subject'] = headers['Subject']
+			msg['Body'] = body
+			msg['First_name'], msg['Last_name'] = None, None
+			messages.append(msg)
 		return messages
 
 

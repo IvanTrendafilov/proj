@@ -137,11 +137,17 @@ def theLoop():
 				print "YES. Thread detected as", conv_id
 				conv_store[conv_id]['Bucket'] = updateBucket(current_bucket, conv_store[conv_id]['Bucket'], identity_emails)
 				identity_dict = getIdentityByID(conv_store[conv_id]['Identity_ID'])
-				list_of_email_dicts = extractInfo(current_msg['Content'])
+				print identity_dict
+				list_of_email_dicts = extractInfo(content, True, identity_dict)
+				print "HERE at last"
+				print list_of_email_dicts
 				for email_dict in list_of_email_dicts:
+					print "HERE!"
 					if (conv_store[conv_id]['Class'] in supported_msgs):
+						print "HERE 2!"
 						conv_store[conv_id]['Messages'][getNextKey(conv_store[conv_id]['Messages'])] = {'Date': email_dict['Date'], 'Body': email_dict['Body'], 'Sender': email_dict['Reply-To'], 'Receiver': email_dict['To'], 'Subject': email_dict['Subject'], 'First_name': email_dict['First_name'], 'Last_name': email_dict['Last_name'], 'Origin': origin, 'PQ': None}
 						sent_email_dict = sendEmail(email_dict['Body'], conv_store[conv_id]['Class'], identity_dict, email_dict, conv_store[conv_id]['State'] + 1)
+						print "Dic", sent_email_dict
 						if sent_email_dict:
 							conv_store[conv_id]['Messages'][getNextKey(conv_store[conv_id]['Messages'])] = sent_email_dict
 						conv_store[conv_id]['State'] += 1
