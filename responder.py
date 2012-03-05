@@ -156,6 +156,8 @@ def composeSignoff(identity_dict):
 	signoff = random.choice(['Kind Regards', 'Best Regards', 'Best Wishes', 'Warm Regards', 'Regards', 'Thanks', 'Thank you'])
 	return signoff + ',' + os.linesep + random.choice([identity_dict['First_name'], " ".join([identity_dict['First_name'], identity_dict['Last_name']])])
 
+
+
 def sendEmail(text, email_class, identity_dict, email_dict, state):
 	try:
 		message = composeMessage(text, email_class, identity_dict, email_dict, state)
@@ -179,4 +181,4 @@ def sendEmail(text, email_class, identity_dict, email_dict, state):
 				conn.close()
 	except Exception:
 		return None
-	return {'Date': time.ctime(), 'Reply-To': own_addr, 'To': destination_addr, 'Subject': composeSubject(email_dict), 'Body': message, 'Attachment': 0, 'First_name': identity_dict['First_name'], 'Last_name': identity_dict['Last_name']}
+	return {'Date': time.ctime(), 'Sender': own_addr, 'Receiver': destination_addr, 'Subject': composeSubject(email_dict), 'Body': message, 'First_name': identity_dict['First_name'], 'Last_name': identity_dict['Last_name'], 'Origin': 'SYSTEM', 'PQ': hasPQ(text).values()[0]}

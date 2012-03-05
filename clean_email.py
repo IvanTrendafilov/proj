@@ -114,7 +114,7 @@ def extractNames(text):
 
 # STEP 5 - Get all email addresses from the body of the text
 def extractEmails(text):
-	mailsrch = re.compile(r'[\w\-][\w\-\.] + @[\w\-][\w\-\.] + [a-zA-Z]{1,4}')  # extract all email addresses
+	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}') # extract all email addrs
 	return list(set(mailsrch.findall(text)))
 
 
@@ -217,6 +217,7 @@ def extractInfo(text):
 	messages = []
 	date = time.ctime()
 #	preprocess = removeQuotes(removeHTML(text))
+	text = removeQuotes(removeHTML(text))
 	text_with_headers = cleanHeaders(text)
 	headers = extractHeaders(text_with_headers)
 	text = removeHeaders(text_with_headers)

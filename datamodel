@@ -5,7 +5,7 @@ msg = {'a':
 
 hashes = list()
 conv_store = dict() # Indexed at key: 0,1,2,3,4.... conv_store contains conversations
-conversation = dict() # Indexed at key: 0,1,2,3,4 ... conversation contains messages, identity_id, class, status, pq = number, email_bucket, 
+conversation = dict() # Indexed at key: 0,1,2,3,4 ... conversation contains messages, identity_id, class, status, pq = number, mail_bucket,
 msg = {'Date', 'Sender', 'Receiver', 'Subject', 'Body', 'Attachment', 'First_name', 'Last_name', 'Origin'}
 
 
