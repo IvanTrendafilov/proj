@@ -9,15 +9,13 @@ from clean_email import extractInfo, removeHTML, extractEmails
 from email_classifier import classify
 
 '''
-Problems:
-1. Bucketing does not seem to work properly. SOLVED - Testing required.
-2. Information extraction needs to be re-written for reliable emails
-3. Some probs getting scenarios are expected since stories dont exist yet.
-4. Finally we want to have some sanity checks to make sure we dont send ourselves emails for no apparent reason, perhaps identity info?
+TODO:
+1. Deal with bounce emails. BUT HOW?
+2. Have something to close threads.
+3. Finish the implementation of stories and trigger words
+4. Deal with repeating info.
+5. Consider a store for unhandled emails
 '''
-
-
-
 
 # Filename pattern: ORIGIN-ID.ready
 # Known origins:
@@ -39,6 +37,11 @@ Problems:
 6. Increment state ? Update conversation info.
 7.'''
 # Consider pickling stuff
+
+def reset():
+	os.remove('data/hashes.pkl')
+	os.remove('data/conv_store.pkl')
+	return
 
 def init():
 	try:

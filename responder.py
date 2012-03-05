@@ -9,6 +9,7 @@ TODO:
 import os
 import random
 import time
+from identities import getIdentityEmails
 from email_classifier import hasPQ
 from string import Template
 from smtplib import SMTP_SSL
@@ -147,7 +148,7 @@ def composeBody(text, email_class, identity_dict, email_dict, state):
 			content['PQ_answer'] = answerPQ(text, identity_dict, email_class)
 		if hasTriggerWords(text, email_class):
 			body.append('$Rule_answers')
-			content['Rule_answers'] = getRuleAnswers(text, email_class)
+#			content['Rule_answers'] = getRuleAnswers(text, email_class)
 			content['Rule_answers'] = "I cannot believe it is not butter!"
 		body.extend(random.choice([['$Story', '$Closing'], ['$Story']]))		
 #		content['Story'] = getScenario(email_class + '/' + 'story')
@@ -163,27 +164,31 @@ def composeSignoff(identity_dict):
 	return signoff + ',' + os.linesep + random.choice([identity_dict['First_name'], " ".join([identity_dict['First_name'], identity_dict['Last_name']])])
 
 def sendEmail(text, email_class, identity_dict, email_dict, state):
-	try:
-		message = composeMessage(text, email_class, identity_dict, email_dict, state)
-		own_addr = identity_dict['Email']
-		destination_addr = email_dict['Reply-To']
-		text_subtype = 'plain'
-		mime_msg = MIMEText(message, text_subtype)
-		mime_msg['Subject'] = composeSubject(email_dict)
-		mime_msg['From'] = own_addr
-		mime_msg['To'] = destination_addr
-		if 'yahoo' in own_addr:
-			server_addr = identity_dict['SMTP']
-#			server_addr = 'smtp.mail.yahoo.com'
-			conn = SMTP_SSL(server_addr)
-			conn.set_debuglevel(False)
-			conn.login(identity_dict['Username'], identity_dict['Password'])
-			try:
-				conn.sendmail(own_addr, destination_addr, mime_msg.as_string())
-			finally:
-				print "Send email!"
-				conn.close()
-	except Exception, e:
-		raise e
-		return None
-	return {'Date': time.ctime(), 'Sender': own_addr, 'Receiver': destination_addr, 'Subject': composeSubject(email_dict), 'Body': message, 'First_name': identity_dict['First_name'], 'Last_name': identity_dict['Last_name'], 'Origin': 'SYSTEM', 'PQ': hasPQ(text).values()[0]}
+	retries, count = 3, 0
+	while count < retries:
+		try:
+			message = composeMessage(text, email_class, identity_dict, email_dict, state)
+			own_addr = identity_dict['Email']
+			destination_addr = email_dict['Reply-To']
+			text_subtype = 'plain'
+			mime_msg = MIMEText(message, text_subtype)
+			mime_msg['Subject'] = composeSubject(email_dict)
+			mime_msg['From'] = own_addr
+			if destination_addr in getIdentityEmails():
+				break
+			mime_msg['To'] = destination_addr
+			if 'yahoo' in own_addr:
+				server_addr = identity_dict['SMTP']
+				conn = SMTP_SSL(server_addr)
+				conn.set_debuglevel(False)
+				conn.login(identity_dict['Username'], identity_dict['Password'])
+				try:
+					conn.sendmail(own_addr, destination_addr, mime_msg.as_string())
+				finally:
+					print "Send email!"
+					conn.close()
+		except Exception:
+			count += 1
+			continue
+		return {'Date': time.ctime(), 'Sender': own_addr, 'Receiver': destination_addr, 'Subject': composeSubject(email_dict), 'Body': message, 'First_name': identity_dict['First_name'], 'Last_name': identity_dict['Last_name'], 'Origin': 'SYSTEM', 'PQ': hasPQ(text).values()[0]}
+	return None
