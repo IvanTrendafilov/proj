@@ -1,3 +1,7 @@
+'''
+Information Extraction
+The _safe methods are in cases where we need not worry about dirty input.
+'''
 import os
 import re
 import time
@@ -12,6 +16,26 @@ def removeHTML(text):
 def removeQuotes(text):
 	text_splitlines = text.splitlines()
 	count, cutoff = 0, len(text_splitlines)
+	for line in text_splitlines:
+		if '>' in line and line.index('>') < 2:
+			cutoff = count - 1
+			break
+		count += 1
+	return os.linesep.join(text_splitlines[:cutoff])
+
+def removeQuotes_safe(text):
+	text_splitlines = text.splitlines()
+	count, cutoff, headerCount = 0, len(text_splitlines), {'Date:': 0, 'From:': 0, 'To:': 0, 'Subject:' : 0}
+	for line in text_splitlines:
+		for header in headerCount:
+			if header in line and line.index(header) < 5:
+				headerCount[header] += 1
+				if headerCount.values().count(2) == 2: # at least two matches
+					return os.linesep.join(text_splitlines[:cutoff])
+				else:
+					cutoff = count - 1
+		count += 1
+	count, count = len(text_splitlines), 0
 	for line in text_splitlines:
 		if '>' in line and line.index('>') < 2:
 			cutoff = count - 1
@@ -95,10 +119,35 @@ def extractHeaders(text):
 							headers[header] = regexp[0].strip()
 	return headers
 
+def extractHeaders_safe(text):
+	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}')
+	headers = {'Reply-To': None, 'From': None, 'To': None, 'Subject': None, 'Date': None}
+	msg_lines = text.strip().splitlines()
+	for line in msg_lines:
+		for header in headers:
+			header_colon = header + ':'
+			if header_colon in line:
+				if header == 'Subject' or header == 'Date':
+					headers[header] = line.replace(header_colon, '').strip()
+				else:
+					regexp = mailsrch.findall(line)
+					if regexp:
+						headers[header] = regexp[0].strip()
+	return headers
+
 
 # STEP 3 - Remove all headers. (Takes the message as a string)
 def removeHeaders(text):
 	return cleanHeaders(text, full=True)
+
+def removeHeaders_safe(text):
+	msg_lines, cutoff = text.strip().splitlines(), 0
+	for line in msg_lines:
+		if line:
+			cutoff += 1
+		else:
+			break
+	return os.linesep.join(msg_lines[cutoff:]).strip()
 
 
 # STEP 4 - Named Entity Recognition (Takes the message as a string)
@@ -111,12 +160,18 @@ def extractNames(text):
 	os.remove('ner.tmp')
 	return result
 
+def extractNames_safe(text, first_name, last_name):
+	names = extractNames(text)
+	return filter(lambda x: first_name not in x and last_name not in x, names)
 
 # STEP 5 - Get all email addresses from the body of the text
 def extractEmails(text):
 	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}') # extract all email addrs
 	return list(set(mailsrch.findall(text)))
 
+def extractEmails_safe(text, identity_email):
+	result = extractEmails(text)
+	return filter(lambda x: x != identity_email, result)
 
 # STEP 6 - Relate email addresses from body to people
 def getBigrams(string):
@@ -213,58 +268,66 @@ def relateEntities(names, emails, text):
 
 
 # STEP 7 Something to piece the puzzle all together....
-def extractInfo(text):
-	messages = []
-	date = time.ctime()
-#	preprocess = removeQuotes(removeHTML(text))
-	text = removeQuotes(removeHTML(text))
-	text_with_headers = cleanHeaders(text)
-	headers = extractHeaders(text_with_headers)
-	text = removeHeaders(text_with_headers)
-	names = extractNames(text)
-	emails = extractEmails(text)
-	if not emails:
-		if headers['Reply-To']:
-			email_addr = headers['Reply-To']
-		elif headers['From']:
-			email_addr = headers['From']
-		else:
-			email_addr = None
-		if email_addr:
-			msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'] = {}, date, email_addr, headers['To'], headers['Subject'], text
-			if names:
-				msg['First_name'], msg['Last_name'] = " ".join(names[-1].split()[:-1]), names[-1].split()[-1]
-				print '2:', msg['First_name']
+def extractInfo(text, safe=False, identity_dict=None):
+	if not safe:
+		messages = []
+		date = time.ctime()
+	#	preprocess = removeQuotes(removeHTML(text))
+		text_with_headers = cleanHeaders(text)
+		headers = extractHeaders(text_with_headers)
+		text = removeHeaders(text_with_headers)
+		names = extractNames(text)
+		emails = extractEmails(text)
+		if not emails:
+			if headers['Reply-To']:
+				email_addr = headers['Reply-To']
+			elif headers['From']:
+				email_addr = headers['From']
 			else:
-				msg['First_name'], msg['Last_name'] = None, None
-				print '3:', msg['First_name']
+				email_addr = None
+			if email_addr:
+				msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'] = {}, date, email_addr, headers['To'], headers['Subject'], text
+				if names:
+					msg['First_name'], msg['Last_name'] = " ".join(names[-1].split()[:-1]), names[-1].split()[-1]
+					print '2:', msg['First_name']
+				else:
+					msg['First_name'], msg['Last_name'] = None, None
+					print '3:', msg['First_name']
+				messages.append(msg)
+			return messages
+		unassoc_names = names
+		relations = relateEntities(names, emails, text)
+		for email in relations:
+			emails = filter(lambda x: x != email, emails)
+			unassoc_names = filter(lambda x: x != relations[email], unassoc_names)
+			msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = {}, date, email, headers['To'], headers['Subject'], text, " ".join(relations[email].split()[:-1]), relations[email].split()[-1]
+			print '1:', msg['First_name']
 			messages.append(msg)
+		email_addr = None
+		for email in emails:
+			if email == headers['Reply-To']:
+				email_addr = email
+			if email == headers['From'] and not email_addr:
+				email_addr = email
+		if email_addr:
+			if unassoc_names and names:
+				if unassoc_names[-1] == names[-1]:
+					msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = {}, date, email, headers['To'], headers['Subject'], text, " ".join(names[-1].split()[:-1]), names[-1].split()[-1]
+					print '4:', msg['First_name']
+					messages.append(msg)
+				else:
+					msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = date, email, headers['To'], headers['Subject'], text, None, None
+					print '5:', msg['First_name']
+					messages.append(msg)
 		return messages
-	unassoc_names = names
-	relations = relateEntities(names, emails, text)
-	for email in relations:
-		emails = filter(lambda x: x != email, emails)
-		unassoc_names = filter(lambda x: x != relations[email], unassoc_names)
-		msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = {}, date, email, headers['To'], headers['Subject'], text, " ".join(relations[email].split()[:-1]), relations[email].split()[-1]
-		print '1:', msg['First_name']
-		messages.append(msg)
-	email_addr = None
-	for email in emails:
-		if email == headers['Reply-To']:
-			email_addr = email
-		if email == headers['From'] and not email_addr:
-			email_addr = email
-	if email_addr:
-		if unassoc_names and names:
-			if unassoc_names[-1] == names[-1]:
-				msg, msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = {}, date, email, headers['To'], headers['Subject'], text, " ".join(names[-1].split()[:-1]), names[-1].split()[-1]
-				print '4:', msg['First_name']
-				messages.append(msg)
-			else:
-				msg['Date'], msg['Reply-To'], msg['To'], msg['Subject'], msg['Body'], msg['First_name'], msg['Last_name'] = date, email, headers['To'], headers['Subject'], text, None, None
-				print '5:', msg['First_name']
-				messages.append(msg)
-	return messages
+	else:
+		messages = []
+		text = removeQuotes(removeHTML(text))
+		headers = extractHeaders_safe(text)
+		body = removeHeaders_safe(text)
+		names = extractNames_safe(text)
+		return messages
+
 
 
 def prettyPrint(text):

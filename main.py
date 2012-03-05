@@ -10,7 +10,7 @@ from email_classifier import classify
 
 '''
 Problems:
-1. Bucketing does not seem to work properly.
+1. Bucketing does not seem to work properly. SOLVED - Testing required.
 2. Information extraction needs to be re-written for reliable emails
 3. Some probs getting scenarios are expected since stories dont exist yet.
 4. Finally we want to have some sanity checks to make sure we dont send ourselves emails for no apparent reason, perhaps identity info?
@@ -99,15 +99,20 @@ def getEmails(text):
 	return extractEmails(removeHTML(text))
 
 def getConvIDByBucket(email_bucket, conv_store, identity_emails):
+	counts = {}
 	for conv_key in conv_store:
+		counts[conv_key] = 0
 		current_bucket = conv_store[conv_key]['Bucket']
 		for addr in email_bucket:
-			if addr in current_bucket and addr not in identity_emails:
-				return conv_key
+			if (addr in current_bucket) and (addr not in identity_emails):
+				counts[conv_key] += 1
+	if counts.values():
+		if max(counts.values()) > 0:
+			return max(counts, key=counts.get)
 	return None
 
 def updateBucket(current_bucket, email_bucket, identity_emails):
-	current_bucket = filter(lambda x: x not in identity_emails and len(x) < 25, current_bucket)
+	current_bucket = filter(lambda x: x not in identity_emails and x.count('.') < 5, current_bucket)
 	return list(set(current_bucket + email_bucket))
 
 def getNextKey(diction):
@@ -127,7 +132,9 @@ def theLoop():
 			current_bucket = getEmails(content)
 			identity_emails = getIdentityEmails()
 			conv_id = getConvIDByBucket(current_bucket, conv_store, identity_emails)
-			if conv_id:
+			print "Curr bucket", current_bucket
+			if conv_id != None:
+				print "YES. Thread detected as", conv_id
 				conv_store[conv_id]['Bucket'] = updateBucket(current_bucket, conv_store[conv_id]['Bucket'], identity_emails)
 				identity_dict = getIdentityByID(conv_store[conv_id]['Identity_ID'])
 				list_of_email_dicts = extractInfo(current_msg['Content'])
@@ -139,6 +146,7 @@ def theLoop():
 							conv_store[conv_id]['Messages'][getNextKey(conv_store[conv_id]['Messages'])] = sent_email_dict
 						conv_store[conv_id]['State'] += 1
 			else:
+				print "Bucket not detected!"
 				conv, conv['Messages'], conv['Class'], conv['State'], conv['PQ'] = {}, {}, '', -1, False
 				conv['Bucket'] = updateBucket(current_bucket, [], identity_emails)
 				conv['Identity_ID'], identity_dict = getRandomIdentity()

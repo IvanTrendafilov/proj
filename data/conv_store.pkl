@@ -34,7 +34,7 @@ NsS'Receiver'
 p17
 NsS'Date'
 p18
-S'Mon Mar  5 01:08:02 2012'
+S'Mon Mar  5 16:05:33 2012'
 p19
 sS'Subject'
 p20
@@ -43,7 +43,7 @@ p21
 ssI1
 (dp22
 g7
-S"Hi Ivan,\n\n\nThank you so much! This is excellent news!!! I am thankful to God for this great fortunate. I cannot explain how I feel right now. And this comes in a time of great distress and insecurity for my family. May God bless you!\n\nI generally feel a bit uncomfortable sharing personal information with strangers, but I'd like you to trust me so here it is.\n\nFull name: Ethan Stokes\nOccupation: an accountant\nAddress: 21 Quay Street\nPostcode: M3 4AE\nCountry: UK\nPhone number: 07425902430\n\nAnd that sums me up. If you have any other questions about me, please feel free to ask.\n\n\nThis sounds so amazing, but I need to know the answers to a few questions.\nDo I have to pay any administration fees to release my prize. If so, can I pay for this from my winnings?\nIs there anything I can do to thank you for this fortune?\n\n\nWarm Regards,\nEthan\n\n\nOn Mon Mar  5 01:08:02 2012 <ivan.trendafilov@gmail.com> wrote:\n> \n> \n> BLACKBERRY 12TH ANNIVERSARY PROMOTION \n> \n> Blackberry Marketing Centre \n> 67 Shaftesbury Ave \n> Westminster, London \n> United Kingdom W1D 6 \n> \n> Dear Award winner, \n> \n> Winning Reference Number: BBWINXPWISA79822 \n> File number: BB255/647/390 \n> \n> This is to inform you that you have won an Amount of Eight hundred thousand British Pounds (?800,000.00 GBP) in the Blackberry 12th Anniversary Promotion as organized by the Marketing Centre of RIM Inc, held in London, United Kingdom, \n> \n> BlackBerry is a line of mobile e-mail and Smartphone device developed and designed by Research In Motion (RIM). The Marketing Centre of RIM Inc selected your email address as one of the 120 lucky winners to benefit in this year's promotion. Funds MUST be claimed by the email owner ONLY, within 90 days from the day of notification. \n> \n> Please you are advised to file for your claim immediately through Mr. Ivan Trendafilov by providing him with the bellow stated information. Send the details to Email: ivan.trendafilov@gmail.com \n> \n> 1. Full name. \n> 2. Country of Residence. \n> 3. Age \n> 4. Occupation.. \n> 5. Nationality  \n> 6. Mobile/Telephone/Fax Numbers.. \n> 7. Alternative Email. \n> \n> Fund Disbursement Manager: \n> Name: Mr. Ivan Trendafilov\n> Tel: +44 703-174-6799 \n> E-Mail: ivan.trendafilov@gmail.com \n> \n> Sincerely Yours, \n> \n> \n> \n> Dr. Ivan Trendafilov (Zonal Coordinator) \n> ------------------------------------------------------------------------------------------------------------------------ \n> After 12 years of establishment, Blackberry Inc is worth over US $43 Billion with over 1.5 Million workers worldwide making it the best of mobile e-mail and Smartphone devices developed and designed by Canadian company Research in Motion (RIM).\n> \n> ______________\n"
+S"Dear Ivan,\n\n\nWOOOOOWW!!!! I am literally jumping in my chair right now. This is truly amazing. THANK YOU SO MUCH. This is truly unbelievable. I cannot thank you enough.\n\nSo here's my brief introduction.\n\nFull name: Ethan Stokes\nOccupation: an accountant\nAddress: 21 Quay Street\nPostcode: M3 4AE\nCountry: UK\nPhone number: 07425902430\n\nSo, that's me in short. Thanks for asking.\n\n\nI need to ask you a few questions.\nCan I get my winnings in a different currency? I'd be interested to get them in Australian dollars.\nHow do I know I can trust you?\nWhere are my winnings located?\n\n\nKind Regards,\nEthan\n\n\nOn Mon Mar  5 16:05:33 2012 <ivan.trendafilov@gmail.com> wrote:\n> \n> \n> BLACKBERRY 12TH ANNIVERSARY PROMOTION \n> \n> Blackberry Marketing Centre \n> 67 Shaftesbury Ave \n> Westminster, London \n> United Kingdom W1D 6 \n> \n> Dear Award winner, \n> \n> Winning Reference Number: BBWINXPWISA79822 \n> File number: BB255/647/390 \n> \n> This is to inform you that you have won an Amount of Eight hundred thousand British Pounds (?800,000.00 GBP) in the Blackberry 12th Anniversary Promotion as organized by the Marketing Centre of RIM Inc, held in London, United Kingdom, \n> \n> BlackBerry is a line of mobile e-mail and Smartphone device developed and designed by Research In Motion (RIM). The Marketing Centre of RIM Inc selected your email address as one of the 120 lucky winners to benefit in this year's promotion. Funds MUST be claimed by the email owner ONLY, within 90 days from the day of notification. \n> \n> Please you are advised to file for your claim immediately through Mr. Ivan Trendafilov by providing him with the bellow stated information. Send the details to Email: ivan.trendafilov@gmail.com \n> \n> 1. Full name. \n> 2. Country of Residence. \n> 3. Age \n> 4. Occupation.. \n> 5. Nationality  \n> 6. Mobile/Telephone/Fax Numbers.. \n> 7. Alternative Email. \n> \n> Fund Disbursement Manager: \n> Name: Mr. Ivan Trendafilov\n> Tel: +44 703-174-6799 \n> E-Mail: ivan.trendafilov@gmail.com \n> \n> Sincerely Yours, \n> \n> \n> \n> Dr. Ivan Trendafilov (Zonal Coordinator) \n> ------------------------------------------------------------------------------------------------------------------------ \n> After 12 years of establishment, Blackberry Inc is worth over US $43 Billion with over 1.5 Million workers worldwide making it the best of mobile e-mail and Smartphone devices developed and designed by Canadian company Research in Motion (RIM).\n> \n> ______________\n"
 p23
 sg9
 S'SYSTEM'
@@ -62,7 +62,7 @@ I01
 sg17
 g16
 sg18
-S'Mon Mar  5 01:08:07 2012'
+S'Mon Mar  5 16:05:39 2012'
 p28
 sg20
 S'Re: You Won!'
@@ -72,60 +72,16 @@ p30
 (lp31
 S'webchks@att.net'
 p32
-aS'1323116719.48604.YahooMailRC@web180912.mail.ne1.yahoo.com'
-p33
 aS'ivan.trendafilov@gmail.com'
+p33
+asS'State'
 p34
-asS'State'
+I1
+sS'Identity_ID'
 p35
-I1
-sS'Identity_ID'
+I0
+sS'Class'
 p36
-I0
-sS'Class'
-p37
 S'lottery'
-p38
-ssI1
-(dp39
-S'PQ'
-p40
-I00
-sS'Messages'
-p41
-(dp42
-sS'Bucket'
-p43
-(lp44
-S'ivan.trendafilov@gmail.com'
-p45
-asS'State'
-p46
-I1
-sS'Identity_ID'
-p47
-I0
-sS'Class'
-p48
-NssI2
-(dp49
-S'PQ'
-p50
-I00
-sS'Messages'
-p51
-(dp52
-sS'Bucket'
-p53
-(lp54
-S'ivan.trendafilov@gmail.com'
-p55
-asS'State'
-p56
-I1
-sS'Identity_ID'
-p57
-I0
-sS'Class'
-p58
-Nss.
+p37
+ss.
