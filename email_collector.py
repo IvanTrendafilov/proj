@@ -41,9 +41,11 @@ def retrieveMessages(identity_dict):
 
 if __name__ == "__main__":
 	while True:
+		print "Back to work!"
 		# Get the identity dict from a database somehow.
 		identities = createIdentities()
 		for identity in identities:
 			retrieveMessages(identities[identity])
-		break
-		time.sleep(60 * 5) #  5 mins
+#		break
+		print "Idling .."
+		time.sleep(60 * 1) #  1 mins

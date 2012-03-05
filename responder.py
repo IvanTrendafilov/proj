@@ -136,27 +136,31 @@ def composeBody(text, email_class, identity_dict, email_dict, state):
 		body.extend(['$Question_intro', '$Question_body'])
 		content['Question_intro'] = getScenario(email_class + '/' + 'question_intro')
 		content['Question_body'] = buildQuestionBody(email_class)
+		body = (os.linesep).join(body)
 	else:
-		content['Opening'] = getScenario('reopen')
+		if not state % 2:
+			content['Opening'] = getScenario('reopen')
+		else:
+			body = []
 		if hasPQ(text).values()[0]:
 			body.append('$PQ_answer')
 			content['PQ_answer'] = answerPQ(text, identity_dict, email_class)
 		if hasTriggerWords(text, email_class):
 			body.append('$Rule_answers')
-			content['Rule_answers'] = getRuleAnswers()
+			content['Rule_answers'] = getRuleAnswers(text, email_class)
+			content['Rule_answers'] = "I cannot believe it is not butter!"
 		body.extend(random.choice([['$Story', '$Closing'], ['$Story']]))		
-		content['Story'] = getScenario(email_class + '/' + 'story')
+#		content['Story'] = getScenario(email_class + '/' + 'story')
+		content['Story'] = "I'm going to tell you a story. It is about a young girl in NYC."
 		if '$Closing' in body:
 			content['Closing'] = getScenario('closing')
-	body = (os.linesep).join(body)
+		body = (2 * os.linesep).join(body)
 	return Template(body).safe_substitute(content)
 
 
 def composeSignoff(identity_dict):
 	signoff = random.choice(['Kind Regards', 'Best Regards', 'Best Wishes', 'Warm Regards', 'Regards', 'Thanks', 'Thank you'])
 	return signoff + ',' + os.linesep + random.choice([identity_dict['First_name'], " ".join([identity_dict['First_name'], identity_dict['Last_name']])])
-
-
 
 def sendEmail(text, email_class, identity_dict, email_dict, state):
 	try:
@@ -179,6 +183,7 @@ def sendEmail(text, email_class, identity_dict, email_dict, state):
 			finally:
 				print "Send email!"
 				conn.close()
-	except Exception:
+	except Exception, e:
+		raise e
 		return None
 	return {'Date': time.ctime(), 'Sender': own_addr, 'Receiver': destination_addr, 'Subject': composeSubject(email_dict), 'Body': message, 'First_name': identity_dict['First_name'], 'Last_name': identity_dict['Last_name'], 'Origin': 'SYSTEM', 'PQ': hasPQ(text).values()[0]}

@@ -91,7 +91,7 @@ def getMessage():
 		incoming_dir = 'incoming/'
 		data = getMetadata(options[0])
 		data['Content'] = open(incoming_dir + options[0], 'r').read()
-#		os.rename(incoming_dir + options[0], incoming_dir + options[0].replace('ready','done'))
+		os.rename(incoming_dir + options[0], incoming_dir + options[0].replace('ready','done'))
 		return data
 	return None
 
@@ -132,19 +132,16 @@ def theLoop():
 			current_bucket = getEmails(content)
 			identity_emails = getIdentityEmails()
 			conv_id = getConvIDByBucket(current_bucket, conv_store, identity_emails)
-			print "Curr bucket", current_bucket
+			print "Current bucket", current_bucket
 			if conv_id != None:
-				print "YES. Thread detected as", conv_id
+				print "Thread detected as", conv_id
 				conv_store[conv_id]['Bucket'] = updateBucket(current_bucket, conv_store[conv_id]['Bucket'], identity_emails)
 				identity_dict = getIdentityByID(conv_store[conv_id]['Identity_ID'])
 				print identity_dict
 				list_of_email_dicts = extractInfo(content, True, identity_dict)
-				print "HERE at last"
 				print list_of_email_dicts
 				for email_dict in list_of_email_dicts:
-					print "HERE!"
 					if (conv_store[conv_id]['Class'] in supported_msgs):
-						print "HERE 2!"
 						conv_store[conv_id]['Messages'][getNextKey(conv_store[conv_id]['Messages'])] = {'Date': email_dict['Date'], 'Body': email_dict['Body'], 'Sender': email_dict['Reply-To'], 'Receiver': email_dict['To'], 'Subject': email_dict['Subject'], 'First_name': email_dict['First_name'], 'Last_name': email_dict['Last_name'], 'Origin': origin, 'PQ': None}
 						sent_email_dict = sendEmail(email_dict['Body'], conv_store[conv_id]['Class'], identity_dict, email_dict, conv_store[conv_id]['State'] + 1)
 						print "Dic", sent_email_dict
@@ -152,7 +149,7 @@ def theLoop():
 							conv_store[conv_id]['Messages'][getNextKey(conv_store[conv_id]['Messages'])] = sent_email_dict
 						conv_store[conv_id]['State'] += 1
 			else:
-				print "Bucket not detected!"
+				print "No bucket detected!"
 				conv, conv['Messages'], conv['Class'], conv['State'], conv['PQ'] = {}, {}, '', -1, False
 				conv['Bucket'] = updateBucket(current_bucket, [], identity_emails)
 				conv['Identity_ID'], identity_dict = getRandomIdentity()
@@ -180,9 +177,9 @@ def theLoop():
 				conv_store[getNextKey(conv_store)] = conv 
 		else:
 			print "Nothing..."
-#		time.sleep(5)
+		time.sleep(5)
 		save(hashes, conv_store)
-		break
+#		break
 	return
 
     # Read a message
