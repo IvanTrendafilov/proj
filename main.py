@@ -1,4 +1,4 @@
-## C&C: Anti-419
+## Command & Conquer: Anti-419
 import os
 import time
 import cPickle as pickle
@@ -36,10 +36,6 @@ TODO:
 7.'''
 # Consider pickling stuff
 
-def reset():
-	os.remove('data/hashes.pkl')
-	os.remove('data/conv_store.pkl')
-	return
 
 def init():
 	try:
@@ -73,24 +69,41 @@ def save(hashes, conv_store):
 	except:
 		print "ERROR: Unable to pickle conv_store."
 	return
+
+def reset():
+	os.remove('data/hashes.pkl')
+	os.remove('data/conv_store.pkl')
+	return
+
+def saveUnsupported(diction):
+	try:
+		unsupp_pkl = open('data/unsupp_store.pkl', 'rb')
+		unsupp_store = pickle.load(unsupp_pkl)
+		unsupp_pkl.close()
+	except:
+		unsupp_pkl, unsupp_store = None, {}
+	unsupp_store[getNextKey(unsupp_store)] = diction
+	try:
+		unsupp_pkl = open('data/unsupp_store.pkl', 'wb')
+		pickle.dump(unsupp_store, unsupp_pkl)
+		unsupp_pkl.flush()
+		unsupp_pkl.close()
+	except:
+		print "ERROR: Unable to pickle unsupp_store."
+	return
 		
 def getHash(text):
 	return hashlib.sha224(filter(lambda x: x.isalpha(), text)).hexdigest()
 
-def getMetadata(file_name):
+def getFileOrigin(file_name):
 	origin = file_name.split('.')[0].split('-')[0]
-	msg_id = file_name.split('.')[0].split('-')[1]
-	email_id = None
-#	if origin.lower() == 'identity':
-#		email_id = file_name.split('.')[0].split('-')[2]
-	unique_id = origin[0].upper() + str(msg_id)
-	return {'Origin': origin, 'Msg_id': unique_id, 'Email_id': email_id}
+	return {'Origin': origin }
 
 def getMessage():
 	options = filter(lambda x: '.ready' in x and '~' not in x, os.listdir('incoming/'))
 	if options:
 		incoming_dir = 'incoming/'
-		data = getMetadata(options[0])
+		data = getFileOrigin(options[0])
 		data['Content'] = open(incoming_dir + options[0], 'r').read()
 		os.rename(incoming_dir + options[0], incoming_dir + options[0].replace('ready','done'))
 		return data
@@ -151,7 +164,7 @@ def theLoop():
 		msg_dict = {}
 		current_msg = getMessage()
 		if current_msg:
-			fake_id, origin, content = current_msg['Msg_id'], current_msg['Origin'], current_msg['Content']
+			origin, content = current_msg['Origin'], current_msg['Content']
 			bounce = detectBounce(content, origin)
 			if bounce:
 				conv_store = closeThreads(conv_store, bounce)
@@ -193,7 +206,8 @@ def theLoop():
 						if msg_dict[getNextKey(msg_dict) - 1]:
 							hashes.append(hash_value)
 					else:
-						pass # Maybe record it somewhere?
+						if hash_value not in hashes:
+							saveUnsupported(email_dict)
 				conv['Class'] = email_class
 				conv['State'] = 1
 				conv['Messages'] = msg_dict
