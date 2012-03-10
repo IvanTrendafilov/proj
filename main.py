@@ -10,9 +10,9 @@ from email_classifier import classify
 
 '''
 TODO:
+0. Take a look at the crawler.
 1. Finish the implementation of stories and trigger words
 2. Deal with repeating info.
-3. Consider a store for unhandled emails
 '''
 
 # Filename pattern: ORIGIN-ID.ready
@@ -34,8 +34,6 @@ TODO:
 5. Send Email
 6. Increment state ? Update conversation info.
 7.'''
-# Consider pickling stuff
-
 
 def init():
 	try:
@@ -48,7 +46,6 @@ def init():
 		conv_store_pkl = open('data/conv_store.pkl', 'rb')
 		conv_store = pickle.load(conv_store_pkl)
 		conv_store_pkl.close()
-
 	except:
 		conv_store_pkl, conv_store = None, {}
 	return (hashes, conv_store)
@@ -157,6 +154,15 @@ def closeThreads(conv_store, bounced_email):
 			conv_store[conv_id]['State'] = 'CLOSED'
 	return conv_store
 
+def removeEmptyThreads(conv_store):
+	keys_to_del = []
+	for conv_id in conv_store:
+		if not conv_store[conv_id]['Messages']:
+			keys_to_del.append(conv_id)
+	for key in keys_to_del:
+		del conv_store[key]
+	return conv_store
+
 def theLoop():
 	supported_msgs = ['lottery', 'orphans', 'mystery_shopper']
 	while True:
@@ -218,6 +224,7 @@ def theLoop():
 		else:
 			print "Nothing..."
 #		time.sleep(5)
+		conv_store = removeEmptyThreads(conv_store)
 		save(hashes, conv_store)
 		break
 	return
