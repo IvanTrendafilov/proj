@@ -41,11 +41,13 @@ def retrieveMessages(identity_dict):
 
 if __name__ == "__main__":
 	while True:
-		print "Back to work!"
-		# Get the identity dict from a database somehow.
-		identities = createIdentities()
-		for identity in identities:
-			retrieveMessages(identities[identity])
-#		break
-		print "Idling .."
-		time.sleep(60 * 1) #  1 mins
+		try:
+			print "Back to work!"
+			identities = createIdentities()
+			for identity in identities:
+				retrieveMessages(identities[identity])
+			idle = random.choice([x for x in range(10,21) if not x%5]) * 60
+			print "Waiting %d min." % (idle/60)
+			time.sleep(idle)
+		except Exception, e:
+			print "Caught exception:", e

@@ -10,14 +10,13 @@ from email_classifier import classify
 
 '''
 TODO:
-0. Take a look at the crawler.
 1. Finish the implementation of stories and trigger words
-2. Deal with repeating info.
+2. Add more identities
 '''
 
 # Filename pattern: ORIGIN-ID.ready
 # Known origins:
-# COLLECTOR
+# MBOX
 # IDENTITY
 # CRAWLER
 
@@ -163,9 +162,16 @@ def removeEmptyThreads(conv_store):
 		del conv_store[key]
 	return conv_store
 
+def solvedPQ(messages_dict):
+	for key in messages_dict:
+		if messages_dict[key]['PQ']:
+			return True
+	return False
+
 def theLoop():
 	supported_msgs = ['lottery', 'orphans', 'mystery_shopper']
 	while True:
+		wait_flag = False
 		hashes, conv_store = init()
 		msg_dict = {}
 		current_msg = getMessage()
@@ -182,16 +188,14 @@ def theLoop():
 				print "Thread detected as", conv_id
 				conv_store[conv_id]['Bucket'] = updateBucket(current_bucket, conv_store[conv_id]['Bucket'], identity_emails)
 				identity_dict = getIdentityByID(conv_store[conv_id]['Identity_ID'])
-				print identity_dict
 				list_of_email_dicts = extractInfo(content, True, identity_dict)
-				print list_of_email_dicts
 				for email_dict in list_of_email_dicts:
 					if (conv_store[conv_id]['Class'] in supported_msgs):
 						conv_store[conv_id]['Messages'][getNextKey(conv_store[conv_id]['Messages'])] = {'Date': email_dict['Date'], 'Body': email_dict['Body'], 'Sender': email_dict['Reply-To'], 'Receiver': email_dict['To'], 'Subject': email_dict['Subject'], 'First_name': email_dict['First_name'], 'Last_name': email_dict['Last_name'], 'Origin': origin, 'PQ': None}
-						sent_email_dict = sendEmail(email_dict['Body'], conv_store[conv_id]['Class'], identity_dict, email_dict, conv_store[conv_id]['State'] + 1)
-						print "Dic", sent_email_dict
+						sent_email_dict = sendEmail(email_dict['Body'], conv_store[conv_id]['Class'], identity_dict, email_dict, conv_store[conv_id]['State'] + 1, solvedPQ(conv_store[conv_id]['Messages']))
 						if sent_email_dict:
 							conv_store[conv_id]['Messages'][getNextKey(conv_store[conv_id]['Messages'])] = sent_email_dict
+							wait_flag = True
 						conv_store[conv_id]['State'] += 1
 			if conv_id == None and bounce == None:
 				print "No bucket detected!"
@@ -209,6 +213,7 @@ def theLoop():
 						sent_email_dict = sendEmail(email_dict['Body'], email_class, identity_dict, email_dict, conv['State'])
 						if sent_email_dict:
 							msg_dict[getNextKey(msg_dict)] = sent_email_dict
+							wait_flag = True
 						if msg_dict[getNextKey(msg_dict) - 1]:
 							hashes.append(hash_value)
 					else:
@@ -222,24 +227,12 @@ def theLoop():
 						conv['PQ'] = True
 				conv_store[getNextKey(conv_store)] = conv 
 		else:
-			print "Nothing..."
-#		time.sleep(5)
+			print "Idle. Nothing to do."
 		conv_store = removeEmptyThreads(conv_store)
 		save(hashes, conv_store)
 		break
+		if wait_flag:
+			idle = 60 + random.choice([x for x in range(10, 101) if not x%10])
+			time.sleep(idle)
+			print "Waiting %d secs." % (idle)
 	return
-
-    # Read a message
-    # See if it is a new entry or a an existing message by checking identity
-    # See if it is quoted?
-    # Assign identity
-    # Send email
-    # How do I update?
-	## Read the directory with messages
-	## Check if they exist
-	## If they don't exist, assign them an identity
-	## Do information extraction
-	## Do email classification
-	## compose response
-	## repy
-	## update the dbconn

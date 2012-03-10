@@ -1,7 +1,27 @@
 from BeautifulSoup import BeautifulSoup
 import urllib2
 import os
+import random
+import cPickle as pickle
 
+def init():
+	try:
+		forum_pkl = open('data/forum_store.pkl', 'rb')
+		forum_ids = pickle.load(forum_pkl)
+		forum_pkl.close()
+	except:
+		forum_pkl, forum_ids = None, []
+	return forum_ids
+
+def save(forum_ids):
+	try:
+		forum_pkl = open('data/forum_store.pkl', 'wb')
+		pickle.dump(forum_ids, forum_pkl)
+		forum_pkl.flush()
+		forum_pkl.close()
+	except:
+		print "ERROR: Unable to pickle forum_store."
+	return
 
 def findLimit():
 	core_url = "http://forum.419eater.com/forum/"
@@ -83,11 +103,12 @@ def crawlPost(link_id):
 
 
 def crawlAndWrite(links):
+	forum_ids = init()
 	module_id = 'CRAWLER'
 	base = os.environ['HOME'] + '/dev/proj/incoming/' + module_id + '-'
 	for link_id in links:
 		response = crawlPost(link_id)
-		if response:
+		if response and str(link_id) not in forum_ids:
 			tmp_name = base + str(link_id) + '.tmp'
 			final_name = base + str(link_id) + '.ready'
 			fileh = open(tmp_name, 'w')
@@ -95,9 +116,21 @@ def crawlAndWrite(links):
 			fileh.flush()
 			fileh.close()
 			os.rename(tmp_name, final_name) # Atomic
+			forum_ids.append(str(link_id))
+	save(forum_ids)
 	return
-
 
 def go():
 	crawlAndWrite(crawlIndex(findLimit()))
 	return
+
+if __name__ == "__main__":
+	while True:
+		try:
+			print "Crawling..."
+			go()
+			idle = random.choice(range(10, 35)) * 100
+			print "Waiting %d secs." % (idle)
+			time.sleep(idle)
+		except Exception, e:
+			print "Caught exception:", e

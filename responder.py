@@ -16,9 +16,6 @@ from smtplib import SMTP_SSL
 from smtplib import SMTP
 from email.MIMEText import MIMEText
 
-def preload():
-	return {'Gender': 'male', 'Age': '47', 'Marriage': 'Single', 'First_name': 'Peter', 'Last_name': 'Donegan', 'Occupation':'an accountant', 'Address':'34 Cockburn Street', 'City':'Edinburgh', 'Country':'the UK', 'Postcode':'EH89LL', 'Telephone':'0742323123', 'Email':'peterdonegan64@yahoo.com'}
-
 def countScenarios(scenario_name):
 	return len(filter(lambda x: '.txt' in x and '~' not in x, os.listdir('scenarios/' + scenario_name + '/')))
 
@@ -65,7 +62,6 @@ def answerPQ(text, identity_dict, email_class):
 
 def quoteText(email_dict):
 	if email_dict['Body']:
-	#	prefix = os.linesep + os.linesep + "On " + email_dict['Date'] + "you wrote:"
 		prefix = os.linesep + os.linesep + "On " + email_dict['Date'] + " <" + email_dict['Reply-To'] + "> wrote:" + os.linesep
 		text = email_dict['Body']
 		return prefix + "".join(["> " + x + os.linesep for x in text.splitlines()])
@@ -82,10 +78,10 @@ def composeGreeting(email_dict):
 def composeSubject(email_dict):
 	return "Re: " + email_dict['Subject']
 
-def composeMessage(text, email_class, identity_dict, email_dict, state):
+def composeMessage(text, email_class, identity_dict, email_dict, state, solved_pq = False):
 	message = (2 * os.linesep).join(['$Greeting', '$Body', '$Signoff', '$QuotedText'])
 	message = message.replace(os. linesep + '$QuotedText', '$QuotedText')
-	content = {'Greeting': composeGreeting(email_dict), 'Body': composeBody(text, email_class, identity_dict, email_dict, state), 'Signoff': composeSignoff(identity_dict), 'QuotedText': quoteText(email_dict)}
+	content = {'Greeting': composeGreeting(email_dict), 'Body': composeBody(text, email_class, identity_dict, email_dict, state, solved_pq), 'Signoff': composeSignoff(identity_dict), 'QuotedText': quoteText(email_dict)}
 	return Template(message).safe_substitute(content)
 
 
@@ -126,12 +122,12 @@ def hasTriggerWords(text, email_class):
 			return True
 	return False
 
-def composeBody(text, email_class, identity_dict, email_dict, state):
+def composeBody(text, email_class, identity_dict, email_dict, state, solved_pq = False):
 	content = {}
 	body = ['$Opening']
 	if state == 0:
 		content['Opening'] = getScenario(email_class + '/' + 'init')
-		if hasPQ(text).values()[0]:
+		if not solved_pq and hasPQ(text).values()[0]:
 			body.append('$PQ_answer')
 			content['PQ_answer'] = answerPQ(text, identity_dict, email_class)
 		body.extend(['$Question_intro', '$Question_body'])
@@ -143,7 +139,7 @@ def composeBody(text, email_class, identity_dict, email_dict, state):
 			content['Opening'] = getScenario('reopen')
 		else:
 			body = []
-		if hasPQ(text).values()[0]:
+		if not solved_pq and hasPQ(text).values()[0]:
 			body.append('$PQ_answer')
 			content['PQ_answer'] = answerPQ(text, identity_dict, email_class)
 		if hasTriggerWords(text, email_class):
@@ -163,11 +159,11 @@ def composeSignoff(identity_dict):
 	signoff = random.choice(['Kind Regards', 'Best Regards', 'Best Wishes', 'Warm Regards', 'Regards', 'Thanks', 'Thank you'])
 	return signoff + ',' + os.linesep + random.choice([identity_dict['First_name'], " ".join([identity_dict['First_name'], identity_dict['Last_name']])])
 
-def sendEmail(text, email_class, identity_dict, email_dict, state):
+def sendEmail(text, email_class, identity_dict, email_dict, state, solved_pq = False):
 	retries, count = 3, 0
 	while count < retries:
 		try:
-			message = composeMessage(text, email_class, identity_dict, email_dict, state)
+			message = composeMessage(text, email_class, identity_dict, email_dict, state, solved_pq)
 			own_addr = identity_dict['Email']
 			destination_addr = email_dict['Reply-To']
 			text_subtype = 'plain'
