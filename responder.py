@@ -9,7 +9,7 @@ TODO:
 import os
 import random
 import time
-from identities import getIdentityEmails
+from identity import getIdentityEmails
 from email_classifier import hasPQ
 from string import Template
 from smtplib import SMTP_SSL

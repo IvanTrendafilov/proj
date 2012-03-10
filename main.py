@@ -5,16 +5,14 @@ import cPickle as pickle
 import hashlib
 from identity import getRandomIdentity, getIdentityEmails, getIdentityByID
 from responder import sendEmail
-from clean_email import extractInfo, removeHTML, extractEmails
+from clean_email import extractInfo, removeHTML, extractEmails, getEmails, extractHeaders_safe, removeHeaders_safe, removeHeaders
 from email_classifier import classify
 
 '''
 TODO:
-1. Deal with bounce emails. BUT HOW?
-2. Have something to close threads.
-3. Finish the implementation of stories and trigger words
-4. Deal with repeating info.
-5. Consider a store for unhandled emails
+1. Finish the implementation of stories and trigger words
+2. Deal with repeating info.
+3. Consider a store for unhandled emails
 '''
 
 # Filename pattern: ORIGIN-ID.ready
@@ -98,9 +96,6 @@ def getMessage():
 		return data
 	return None
 
-def getEmails(text):
-	return extractEmails(removeHTML(text))
-
 def getConvIDByBucket(email_bucket, conv_store, identity_emails):
 	counts = {}
 	for conv_key in conv_store:
@@ -115,14 +110,39 @@ def getConvIDByBucket(email_bucket, conv_store, identity_emails):
 	return None
 
 def updateBucket(current_bucket, email_bucket, identity_emails):
+	current_bucket = [email_addr.lower() for email_addr in current_bucket]
 	current_bucket = filter(lambda x: x not in identity_emails and x.count('.') < 5, current_bucket)
 	return list(set(current_bucket + email_bucket))
 
 def getNextKey(diction):
-	if diction:
-		return max([value for value in diction.keys() if isinstance(value, int)]) + 1
+		return max([value for value in diction.keys() if isinstance(value, int)]) + 1 if diction else 0
+
+def findBouncedEmail(text, origin):
+	if origin == "IDENTITY":
+		new_text = removeHeaders_safe(text)
 	else:
-		return 0
+		new_text = removeHeaders(text)
+	new_text = new_text.splitlines()
+	for line in new_text:
+		if extractEmails(line):
+			return extractEmails(line)[0].lower()
+	return None
+
+def detectBounce(text, origin):
+	if origin == "IDENTITY":
+		headers = extractHeaders_safe(text)
+		if 'mailer-daemon' in headers['From'].lower() and headers['Subject'].strip() == "Failure Notice":
+			return findBouncedEmail(text, origin)
+	else:
+		if "Failure Notice" in text and "mailer-daemon" in text.lower() and "unable to deliver your message" in text:
+			return findBouncedEmail(text, origin)
+	return None
+
+def closeThreads(conv_store, bounced_email):
+	for conv_id in conv_store:
+		if bounced_email in conv_store[conv_id]['Bucket']:
+			conv_store[conv_id]['State'] = 'CLOSED'
+	return conv_store
 
 def theLoop():
 	supported_msgs = ['lottery', 'orphans', 'mystery_shopper']
@@ -132,11 +152,14 @@ def theLoop():
 		current_msg = getMessage()
 		if current_msg:
 			fake_id, origin, content = current_msg['Msg_id'], current_msg['Origin'], current_msg['Content']
+			bounce = detectBounce(content, origin)
+			if bounce:
+				conv_store = closeThreads(conv_store, bounce)
 			current_bucket = getEmails(content)
 			identity_emails = getIdentityEmails()
 			conv_id = getConvIDByBucket(current_bucket, conv_store, identity_emails)
 			print "Current bucket", current_bucket
-			if conv_id != None:
+			if conv_id != None and bounce == None and conv_store[conv_id]['State'] != 'CLOSED':
 				print "Thread detected as", conv_id
 				conv_store[conv_id]['Bucket'] = updateBucket(current_bucket, conv_store[conv_id]['Bucket'], identity_emails)
 				identity_dict = getIdentityByID(conv_store[conv_id]['Identity_ID'])
@@ -151,7 +174,7 @@ def theLoop():
 						if sent_email_dict:
 							conv_store[conv_id]['Messages'][getNextKey(conv_store[conv_id]['Messages'])] = sent_email_dict
 						conv_store[conv_id]['State'] += 1
-			else:
+			if conv_id == None and bounce == None:
 				print "No bucket detected!"
 				conv, conv['Messages'], conv['Class'], conv['State'], conv['PQ'] = {}, {}, '', -1, False
 				conv['Bucket'] = updateBucket(current_bucket, [], identity_emails)
@@ -180,9 +203,9 @@ def theLoop():
 				conv_store[getNextKey(conv_store)] = conv 
 		else:
 			print "Nothing..."
-		time.sleep(5)
+#		time.sleep(5)
 		save(hashes, conv_store)
-#		break
+		break
 	return
 
     # Read a message

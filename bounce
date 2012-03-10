@@ -1,0 +1,57 @@
+From: MAILER-DAEMON@yahoo.com
+To: ethanstokes51@yahoo.co.uk
+Date: Sat, 10 Mar 2012 16:59:57 -0000
+Subject: Failure Notice
+
+Sorry, we were unable to deliver your message to the following address.
+
+<djasdashkjdhaskjdkja1213@yahoo.co.uk>:
+Remote host said: 554 delivery error: dd This user doesn't have a yahoo.co.uk account (djasdashkjdhaskjdkja1213@yahoo.co.uk) [0] - mta1061.mail.ukl.yahoo.com [BODY]
+
+--- Below this line is a copy of the message.
+
+Received: from [77.238.189.57] by nm20.bullet.mail.ird.yahoo.com with NNFMP; 10 Mar 2012 16:59:57 -0000
+Received: from [212.82.108.248] by tm10.bullet.mail.ird.yahoo.com with NNFMP; 10 Mar 2012 16:59:57 -0000
+Received: from [127.0.0.1] by omp1013.mail.ird.yahoo.com with NNFMP; 10 Mar 2012 16:59:57 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 380329.49718.bm@omp1013.mail.ird.yahoo.com
+Received: (qmail 68929 invoked by uid 60001); 10 Mar 2012 16:59:57 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.co.uk; s=s1024; t=1331398797; bh=HpjHLMjYCW4I/jwcsALA/eo3v3E9KIa59xl2FA+jNAo=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=LVnbLzSLodta8LgRoV65rCnnZBOOGOf2/3sRnSizkKhZOPgUujTkAwossRXqkJ9qKGgHzvFz5heOihOhnvHqydE5SXIyBIPG2prVxi3wIMEzIKMUYfohglf300MfTbWp6CirYg4vzALO+rHvc+4y216kLYq6CiYmnAVWAfmDVlI=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.co.uk;
+  h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=LLt++kvlYPoVaGxwMTZDdc/LSzvLZzy/lQvXMseDUIouoeX2TvylELz4QUfAOqCTi6JwOhnPkT2cbmR6GwpzG3k2z7bLx0wnrYBsVuHvFylmqY/00E5pIzyUh+Bjs63r4mjOgnAuHMelBDOXNsmtO79wAUxGl3mxyhIgjCh+mkU=;
+X-YMail-OSG: ACsVz68VM1ncFAaeT8VtZHVDbABNXcpUve5VHcL9aV6Kwf7
+ A6AS_aDKqTNUJ9Aj7cdFo7V1oBiqYB_uSCRkkdS_9pCnlj1EK_Er81UWqqR1
+ O6aruI3IN9IaoRP71VtUHkg3lGZZ7j8zrZGJbc8plAyQ9aVAnKSnKHzxTC2S
+ JDtzzCMgjUnavv9sc2wk1rdHrnGJ6yNvWxfDEeJ95YCh0QosbfuoqS3PaZwX
+ wbHPd4j8r4KIZzmXUMUEtwbzJBInWt1CmjEBA9QHBMUNTd1NMy_CNf0.jUAp
+ bbgyLshwWAPL8xjNZc_eW9H2OTamlnzcQAeRg7Ymg6L1gpe.EqtJeqn8o_NA
+ w6zb93PC.Dylf2cA.BAbucBAezOyFdCMNwt8HYRDlsh0lcdW8cDVPAsM4ohd
+ TrUkarrXHWDM-
+Received: from [129.215.5.255] by web132301.mail.ird.yahoo.com via HTTP; Sat, 10 Mar 2012 16:59:57 GMT
+X-Mailer: YahooMailWebService/0.8.116.338427
+Message-ID: <1331398797.66747.YahooMailNeo@web132301.mail.ird.yahoo.com>
+Date: Sat, 10 Mar 2012 16:59:57 +0000 (GMT)
+From: Ethan Stokes <ethanstokes51@yahoo.co.uk>
+Reply-To: Ethan Stokes <ethanstokes51@yahoo.co.uk>
+Subject: Blalaaakjd
+To: "djasdashkjdhaskjdkja1213@yahoo.co.uk" <djasdashkjdhaskjdkja1213@yahoo.co.uk>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-419154599-391553091-1331398797=:66747"
+
+---419154599-391553091-1331398797=:66747
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+HI wazaap=0A=0AI wanna punch you in the face ahha@ha!=0A=0A> asd@haha.com=
+=0A
+---419154599-391553091-1331398797=:66747
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div>HI wazaap</div><=
+div><br></div><div>I wanna punch you in the face ahha@ha!</div><div><br></d=
+iv><div>&gt; asd@haha.com</div><div><br></div></div></body></html>
+---419154599-391553091-1331398797=:66747--

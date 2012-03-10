@@ -8,6 +8,7 @@ import time
 from BeautifulSoup import BeautifulSoup
 from pyner import Pyner
 
+
 # STEP -1 - Remove HTML
 def removeHTML(text):
 	msg_split = text.splitlines()
@@ -133,12 +134,18 @@ def extractHeaders_safe(text):
 		for header in headers:
 			header_colon = header + ':'
 			if header_colon in line:
-				if header == 'Subject' or header == 'Date':
-					headers[header] = line.replace(header_colon, '').strip()
+				if (header == 'Subject' or header == 'Date'):
+					if not headers[header]:
+						headers[header] = line.replace(header_colon, '').strip()
+					else:
+						break
 				else:
 					regexp = mailsrch.findall(line)
 					if regexp:
-						headers[header] = regexp[0].strip()
+						if not headers[header]:
+							headers[header] = regexp[0].strip()
+						else:
+							break
 	return headers
 
 
@@ -366,6 +373,25 @@ def extractInfo(text, safe=False, identity_dict=None):
 		return messages
 
 
+def getEmails(text):
+	emails = []
+	text = removeHTML(text)
+	clean_text = cleanHeaders(text)
+	headers = extractHeaders(clean_text)
+	if headers['From']:
+		emails.append(headers['From'])
+	if headers['Reply-To']:
+		emails.append(headers['Reply-To'])
+	clean_text = removeHeaders(clean_text)
+	emails.extend(extractEmails(clean_text))
+	headers = extractHeaders_safe(text)
+	if headers['From']:
+		emails.append(headers['From'])
+	if headers['Reply-To']:
+		emails.append(headers['Reply-To'])
+	clean_text = removeHeaders_safe(text)
+	emails.extend(extractEmails(clean_text))
+	return list(set([x.lower() for x in emails]))
 
 def prettyPrint(text):
 	messages = extractInfo(text)
