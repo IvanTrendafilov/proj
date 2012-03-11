@@ -5,7 +5,7 @@ import cPickle as pickle
 import hashlib
 from identity import getRandomIdentity, getIdentityEmails, getIdentityByID
 from responder import sendEmail
-from clean_email import extractInfo, removeHTML, extractEmails, getEmails, extractHeaders_safe, removeHeaders_safe, removeHeaders
+from clean_email import extractInfo, extractEmails, getEmails, extractHeaders_safe, removeHeaders_safe, removeHeaders
 from email_classifier import classify
 
 '''
