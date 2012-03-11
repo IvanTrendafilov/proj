@@ -10,8 +10,8 @@ from email_classifier import classify
 
 '''
 TODO:
+0. Mbox collector
 1. Finish the implementation of stories and trigger words
-2. Add more identities
 '''
 
 # Filename pattern: ORIGIN-ID.ready
