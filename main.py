@@ -2,6 +2,7 @@
 import os
 import time
 import cPickle as pickle
+import random
 import hashlib
 from identity import getRandomIdentity, getIdentityEmails, getIdentityByID
 from responder import sendEmail
