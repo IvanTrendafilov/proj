@@ -1,7 +1,6 @@
 '''
 TODO:
 1. Create stories - idle chatter for stuff.
-2. Add logic to not respond with same things UNTIL exhausted.
 3. Find out and create assocMap for orphans
 4. Find out and create assocMap for mystery shopper
 '''
@@ -13,7 +12,6 @@ from identity import getIdentityEmails
 from email_classifier import hasPQ
 from string import Template
 from smtplib import SMTP_SSL
-from smtplib import SMTP
 from email.MIMEText import MIMEText
 
 def countScenarios(scenario_name):
@@ -104,10 +102,12 @@ def getRuleAnswers(text, email_class):
 		assocMap['form_approved'] = ['bank', 'payment', 'paying', 'approved']
 		assocMap['payment_approved'] = ['affidavit', 'remit', 'wire transfer', 'attorney']
 		assocMap['final_stage'] = ['service charge', 'charge', 'fee', 'wire transfer', 'sum of']
-	if email_class == 'mystery_shopper':
+	elif email_class == 'mystery_shopper':
 		pass # add thinking here
-	if email_class == 'orphans':
+	elif email_class == 'orphans':
 		pass # add thinking here
+	else:
+		return None
 	for key in assocMap:
 		for word in assocMap[key]:
 			if word in text_l:
