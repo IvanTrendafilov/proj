@@ -10,16 +10,15 @@ from email_classifier import classify
 
 '''
 TODO:
-0. Mbox collector
 1. Finish the implementation of stories and trigger words
 '''
-
-# Filename pattern: ORIGIN-ID.ready
+'''
+Filename pattern: ORIGIN-ID.ready
 # Known origins:
 # MBOX
 # IDENTITY
 # CRAWLER
-
+'''
 '''
 1. Pick up a message from incoming/
 2. Compute its hash and check it against all hashes from DB
@@ -126,8 +125,8 @@ def updateBucket(current_bucket, email_bucket, identity_emails):
 def getNextKey(diction):
 		return max([value for value in diction.keys() if isinstance(value, int)]) + 1 if diction else 0
 
-def findBouncedEmail(text, origin):
-	if origin == "IDENTITY":
+def findBouncedEmail(text, origin, safe_origins):
+	if origin in safe_origins:
 		new_text = removeHeaders_safe(text)
 	else:
 		new_text = removeHeaders(text)
@@ -137,14 +136,14 @@ def findBouncedEmail(text, origin):
 			return extractEmails(line)[0].lower()
 	return None
 
-def detectBounce(text, origin):
-	if origin == "IDENTITY":
+def detectBounce(text, origin, safe_origins):
+	if origin in safe_origins:
 		headers = extractHeaders_safe(text)
 		if 'mailer-daemon' in headers['From'].lower() and headers['Subject'].strip() == "Failure Notice":
-			return findBouncedEmail(text, origin)
+			return findBouncedEmail(text, origin, safe_origins)
 	else:
 		if "Failure Notice" in text and "mailer-daemon" in text.lower() and "unable to deliver your message" in text:
-			return findBouncedEmail(text, origin)
+			return findBouncedEmail(text, origin, safe_origins)
 	return None
 
 def closeThreads(conv_store, bounced_email):
@@ -170,6 +169,7 @@ def solvedPQ(messages_dict):
 
 def theLoop():
 	supported_msgs = ['lottery', 'orphans', 'mystery_shopper']
+	safe_origins = ['IDENTITY', 'MBOX']
 	while True:
 		wait_flag = False
 		hashes, conv_store = init()
@@ -177,7 +177,7 @@ def theLoop():
 		current_msg = getMessage()
 		if current_msg:
 			origin, content = current_msg['Origin'], current_msg['Content']
-			bounce = detectBounce(content, origin)
+			bounce = detectBounce(content, origin, safe_origins)
 			if bounce:
 				conv_store = closeThreads(conv_store, bounce)
 			current_bucket = getEmails(content)
