@@ -12,6 +12,7 @@ from email_classifier import classify
 TODO:
 1. Finish the implementation of stories and trigger words
 2. Add more identities
+3. Add BCC in sendEmail() as interface
 '''
 
 # Filename pattern: ORIGIN-ID.ready
