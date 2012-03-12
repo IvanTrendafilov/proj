@@ -147,7 +147,7 @@ def composeBody(text, email_class, identity_dict, email_dict, state, solved_pq =
 #			content['Rule_answers'] = getRuleAnswers(text, email_class)
 			content['Rule_answers'] = "I cannot believe it is not butter!"
 		body.extend(random.choice([['$Story', '$Closing'], ['$Story']]))		
-#		content['Story'] = getScenario(email_class + '/' + 'story')
+#		content['Story'] = getScenario('story')
 		content['Story'] = "I'm going to tell you a story. It is about a young girl in NYC."
 		if '$Closing' in body:
 			content['Closing'] = getScenario('closing')
