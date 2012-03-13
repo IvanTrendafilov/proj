@@ -1,4 +1,4 @@
-## Command & Conquer: Anti-419
+'''Command & Conquer: Anti-419'''
 import os
 import time
 import cPickle as pickle
@@ -10,10 +10,6 @@ from clean_email import extractInfo, extractEmails, getEmails, extractHeaders_sa
 from email_classifier import classify
 
 '''
-TODO:
-1. Finish the implementation of stories and trigger words
-'''
-'''
 Filename pattern: ORIGIN-ID.ready
 # Known origins:
 # MBOX
@@ -24,15 +20,10 @@ Filename pattern: ORIGIN-ID.ready
 1. Pick up a message from incoming/
 2. Compute its hash and check it against all hashes from DB
 3. Figure out origin & ID & extract the info.
-4. Attach to correct thread
-	0. Email buckets
-	1. Same thread if the email address is correct.
-	2. If either the first name or the last name & the correct identity address
-	3. Try to find largest overlap (minus stopwords), but how?
-	4. Maybe introduce a thread code?
+4. Attach to correct thread via Bucketing
 5. Send Email
-6. Increment state ? Update conversation info.
-7.'''
+7. Save & Update
+'''
 
 def init():
 	try:
@@ -184,7 +175,7 @@ def theLoop():
 			current_bucket = getEmails(content)
 			identity_emails = getIdentityEmails()
 			conv_id = getConvIDByBucket(current_bucket, conv_store, identity_emails)
-			print "Current bucket", current_bucket
+			print "Candidate bucket", current_bucket
 			if conv_id != None and bounce == None and conv_store[conv_id]['State'] != 'CLOSED':
 				print "Thread detected as", conv_id
 				conv_store[conv_id]['Bucket'] = updateBucket(current_bucket, conv_store[conv_id]['Bucket'], identity_emails)
@@ -237,3 +228,9 @@ def theLoop():
 			time.sleep(idle)
 			print "Waiting %d secs." % (idle)
 	return
+
+if __name__ == "__main__":
+	try:
+		theLoop()
+	except Exception as e:
+		print "Caugh exception:", e

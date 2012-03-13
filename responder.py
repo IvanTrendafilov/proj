@@ -180,15 +180,15 @@ def sendEmail(text, email_class, identity_dict, email_dict, state, solved_pq = F
 		try:
 			message = composeMessage(text, email_class, identity_dict, email_dict, state, solved_pq)
 			own_addr = identity_dict['Email']
+			own_name = ' '.join([identity_dict['First_name'], identity_dict['Last_name']])
 			destination_addr = email_dict['Reply-To']
 			text_subtype = 'plain'
 			mime_msg = MIMEText(message, text_subtype)
 			mime_msg['Subject'] = composeSubject(email_dict)
-			mime_msg['From'] = own_addr
+			mime_msg['From'] = own_name + '<' + own_addr + '>'
 			if destination_addr in getIdentityEmails():
 				break
 			mime_msg['To'] = destination_addr
-#			if 'yahoo' in own_addr:
 			server_addr = identity_dict['SMTP']
 			conn = SMTP_SSL(server_addr)
 			conn.set_debuglevel(False)
