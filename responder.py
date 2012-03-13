@@ -103,9 +103,9 @@ def getRuleAnswers(text, email_class):
 		assocMap['payment_approved'] = ['affidavit', 'remit', 'wire transfer', 'attorney']
 		assocMap['final_stage'] = ['service charge', 'charge', 'fee', 'wire transfer', 'sum of']
 	elif email_class == 'mystery_shopper':
-		pass # add thinking here
+		assocMap['generic'] = ['a', 'b'] 
 	elif email_class == 'orphans':
-		pass # add thinking here
+		assocMap['generic'] = ['a', 'b'] 
 	else:
 		return None
 	for key in assocMap:
@@ -144,11 +144,12 @@ def composeBody(text, email_class, identity_dict, email_dict, state, solved_pq =
 			content['PQ_answer'] = answerPQ(text, identity_dict, email_class)
 		if hasTriggerWords(text, email_class):
 			body.append('$Rule_answers')
-#			content['Rule_answers'] = getRuleAnswers(text, email_class)
-			content['Rule_answers'] = "I cannot believe it is not butter!"
-		body.extend(random.choice([['$Story', '$Closing'], ['$Story']]))		
-#		content['Story'] = getScenario('story')
-		content['Story'] = "I'm going to tell you a story. It is about a young girl in NYC."
+			content['Rule_answers'] = getRuleAnswers(text, email_class)
+		if email_class != 'orphans':
+			body.extend(random.choice([['$Story', '$Closing'], ['$Story']]))		
+			content['Story'] = getScenario('story')
+		else:
+			body.append('$Closing')
 		if '$Closing' in body:
 			content['Closing'] = getScenario('closing')
 		body = (2 * os.linesep).join(body)
