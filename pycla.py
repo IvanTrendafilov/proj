@@ -4,7 +4,7 @@ import hashlib
 
 class Pycla(object):
 	def __init__(self, dataset):
-		self.cmd = 'java -jar ../stanford-classifier/stanford-classifier.jar -loadClassifier ' + dataset +' -testFile '
+		self.cmd = 'java -jar classifiers/maxent.jar -loadClassifier ' + dataset +' -testFile '
 
 	def classify(self, text_list):  #  takes in a str or list of email text, with no headers.
 		if type(text_list) is str:
