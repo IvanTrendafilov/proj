@@ -1,5 +1,6 @@
 from BeautifulSoup import BeautifulSoup
 import urllib2
+import time
 import os
 import random
 import cPickle as pickle

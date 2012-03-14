@@ -15,8 +15,8 @@ Filename pattern: ORIGIN-ID.ready
 # MBOX
 # IDENTITY
 # CRAWLER
-'''
-'''
+
+
 1. Pick up a message from incoming/
 2. Compute its hash and check it against all hashes from DB
 3. Figure out origin & ID & extract the info.
