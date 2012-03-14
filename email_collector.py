@@ -49,7 +49,7 @@ if __name__ == "__main__":
 			except Exception, e:
 				print "Caught exception:", e
 			finally:
-				time.sleep(5)
+				time.sleep(2.5)
 		idle = random.choice([x for x in range(10,21) if not x%5]) * 60
 		print "Waiting %d min." % (idle/60)
 		time.sleep(idle)

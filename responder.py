@@ -1,10 +1,3 @@
-'''
-TODO:
-1. Create stories - idle chatter for stuff.
-3. Find out and create assocMap for orphans
-4. Find out and create assocMap for mystery shopper
-'''
-
 import os
 import random
 import time
