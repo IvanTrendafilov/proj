@@ -33,7 +33,7 @@ def findLimit():
 		try:
 			current_page = urllib2.urlopen(core_url + page_name + forum_args + str(page_increment))
 		except:
-			pass  # fail silently
+			return 300
 		soup = BeautifulSoup(current_page)
 		count = 0
 		for link in soup.findAll('a', href=True):
