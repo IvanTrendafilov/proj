@@ -230,7 +230,7 @@ def theLoop():
 			print "Idle. Nothing to do."
 		conv_store = removeEmptyThreads(conv_store)
 		save(hashes, conv_store)
-#		break
+		break
 		if wait_flag:
 			idle = 60 + random.choice([x for x in range(10, 101) if not x%10])
 			time.sleep(idle)

@@ -10,10 +10,10 @@ def retrieveMessages(identity_dict):
 	pop_conn.user(identity_dict['Username'])
 	pop_conn.pass_(identity_dict['Password'])
 	messages = [pop_conn.retr(i) for i in range(1, len(pop_conn.list()[1]) + 1)]
+	print messages
 	[pop_conn.dele(i) for i in range(1, len(pop_conn.list()[1]) + 1)]
 	pop_conn.quit()
 	messages = ["\n".join(mssg[1]) for mssg in messages]
-	print messages
 	messages = [parser.Parser().parsestr(mssg) for mssg in messages]
 	for msg in messages:
 		replyto_addr = None
@@ -28,7 +28,24 @@ def retrieveMessages(identity_dict):
 		output += "Date: " +  msg['Date'] + os.linesep
 		output += "Subject: " + msg['Subject'] + os.linesep
 		output += os.linesep
-		output += msg.get_payload()
+		try:
+			output += msg.get_payload()
+		except:
+			payload = msg.get_payload()
+			found = False
+			if payload:
+				for part in payload:
+					print "before if"
+					if 'Content-type' in part and "text/plain" in part['Content-type']:
+						print "After if"
+						output += part.get_payload()
+						found = True
+						break
+				if not found:
+					for part in payload:
+						if 'Content-type' in part and "text/html" in part['Content-type']:
+							output += part.get_payload()
+							break
 		print output
 		tmpName, realName = output_dir + '/' + 'IDENTITY' + '-' + unique_id + '.tmp', output_dir + '/' + 'IDENTITY' + '-' + unique_id + '.ready'
 		f = open(tmpName, 'w')
@@ -46,6 +63,7 @@ if __name__ == "__main__":
 			try:
 				print "Checking", identities[identity]['Username']
 				retrieveMessages(identities[identity])
+				break
 			except Exception, e:
 				print "Caught exception:", e
 			finally:
