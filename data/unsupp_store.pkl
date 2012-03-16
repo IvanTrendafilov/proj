@@ -1800,4 +1800,338 @@ sS'Subject'
 p896
 S'Re: Intercepted Money Transfer'
 p897
+ssI66
+(dp898
+S'Body'
+p899
+S'\nKindly view the attached for more details.\n\nAttention to you,\n\nIt is with trust and sincerity that I approach you for assistance to transfer some funds into your bank account. Please do accept my apology if my mail infringes on your personal ethics. My names are Rotimi\nWright , a Private Lawyer based here in Johannesburg South Africa.\n\nHonestly it will be my humble pleasure if we can work together. I would like you to act as the next of kin to my deceased client who made a deposit of $5.5 million only with a Bank here in Johannesburg few years back. He died in an Auto crash with his immediate family without any registered next of kin and as such the funds now have an open beneficiary mandate with a Bank, This means that any person from your country can act as the next of kin of the deceased person for claiming the inheritance funds without any risk involved.\n\nMore so, I have received official letter from the bank suggesting a likely proceeding for confiscation of the Fund in line with existing laws by the bank in which my client deposited the sum of $5.5 Million\nDollars. According to the Government Law as provided in section 129 sub 63(N), South African Banking Edit of 1981 at the expiration of 11 years the fund will revert to the ownership of the South African Government, if nobody applies to claim the fund.\nMy proposition to you is to present you to the bank as the Next of kin and beneficiary of my deceased client so that the bank will pay this $5.5 million to you so that we can share the amount on a mutually agreed percentage of 50% for me 50% for you. All legal documents to back up your claim as the deceased Next of Kin will be provided by me. All I require is your honest cooperation to enable us see this transaction through. I guarantee you that this will be executed under a legitimate arrangement that will protect you from any breach of the law.\n\nIf you are interested in this transaction, kindly provide me with\nYOUR FULL NAME\nCONTACT ADDRESS\nTELEPHONE AND FAX\nPlease do let me know immediately so that we can proceed.\n\nRegards,\nBarrister Rotimi Wright\nDirect Telephone: +27 782 182 255\n'
+p900
+sS'First_name'
+p901
+S'Barrister Rotimi'
+p902
+sS'Last_name'
+p903
+S'Wright'
+p904
+sS'To'
+p905
+NsS'Date'
+p906
+S'Fri Mar 16 04:56:46 2012'
+p907
+sS'Reply-To'
+p908
+S'contactwrightphi@aol.com'
+p909
+sS'Subject'
+p910
+S'GREAT DEAL'
+p911
+ssI67
+(dp912
+S'Body'
+p913
+S'\nAttention: Sir/Madam,\n\nThis is to inform you that I came to Nigeria yesterday from London, after\nseries of complains from the FBI and other Security agencies from Asia,\nEurope, Oceania, Antarctica, South Erica and the United StatesofAmerica\nrespectively, against the Federal Government of Nigeria and the British\nGovernment for he rate of scam activities going on in these two nations.\n\nI have met with President Good luck Ebele Jonathan of Nigeria who claimed\nthat he has been trying his best to make sure you receive your fund in\nyour account.\n\nRight now, as directed by our secretary general Mr. Ban Ki-Moon, We are\nworking in collaborations with the Nigerian Economic and Financial Crime\nCommission (EFCC) and have decided to waive away all your clearance\nfees/Charges and authorize the Government of Nigeria to effect the payment\nof your compensation of an amount of $10M approved by both the British\ngovernment and the UN into your account without any delay. The only fee\nyou will pay to confirm your fund in your account is your Notarization fee\nwhich will cost you only but $350, 00 united state dollars, to the UN.\n\nSincerely, you are a lucky person because I have just discovered that some\ntop Nigerian and British Government Officials are interested in your fund\nand they are working in collaboration with One Mr. Richard Graves from USA\nto frustrate you and thereafter divert your fund into their personal\naccount.\n\nI have a very limited time to stay in Nigeria here so I would like you to\nurgently respond to this message so that I can advise you on how best to\nconfirm your fund in your account within the next 72 hours. For oral\ndiscussion, call me on this number which I just acquired in Nigeria today\n+2347035513847.\n\nSincerely yours,\nMrs.Inga-Britt Ahlenius.\nContact ( mrs.inga189@yahoo.es )\n\n\nAlso contact our secretary general Mr. Ban Ki-Moon, for more investigation.\n\nName: Mr. Ban Ki-Moon\nE-mail: mrban.kimoon@one.co.il\ncall me 5166921131\n'
+p914
+sS'First_name'
+p915
+S'Ban'
+p916
+sS'Last_name'
+p917
+S'Ki-Moon'
+p918
+sS'To'
+p919
+NsS'Date'
+p920
+S'Fri Mar 16 04:56:53 2012'
+p921
+sS'Reply-To'
+p922
+S'mrban.kimoon@one.co.il'
+p923
+sS'Subject'
+p924
+S'Re: Urgent From: Mrs.Inga,'
+p925
+ssI68
+(dp926
+S'Body'
+p927
+S'\nAttention: Sir/Madam,\n\nThis is to inform you that I came to Nigeria yesterday from London, after\nseries of complains from the FBI and other Security agencies from Asia,\nEurope, Oceania, Antarctica, South Erica and the United StatesofAmerica\nrespectively, against the Federal Government of Nigeria and the British\nGovernment for he rate of scam activities going on in these two nations.\n\nI have met with President Good luck Ebele Jonathan of Nigeria who claimed\nthat he has been trying his best to make sure you receive your fund in\nyour account.\n\nRight now, as directed by our secretary general Mr. Ban Ki-Moon, We are\nworking in collaborations with the Nigerian Economic and Financial Crime\nCommission (EFCC) and have decided to waive away all your clearance\nfees/Charges and authorize the Government of Nigeria to effect the payment\nof your compensation of an amount of $10M approved by both the British\ngovernment and the UN into your account without any delay. The only fee\nyou will pay to confirm your fund in your account is your Notarization fee\nwhich will cost you only but $350, 00 united state dollars, to the UN.\n\nSincerely, you are a lucky person because I have just discovered that some\ntop Nigerian and British Government Officials are interested in your fund\nand they are working in collaboration with One Mr. Richard Graves from USA\nto frustrate you and thereafter divert your fund into their personal\naccount.\n\nI have a very limited time to stay in Nigeria here so I would like you to\nurgently respond to this message so that I can advise you on how best to\nconfirm your fund in your account within the next 72 hours. For oral\ndiscussion, call me on this number which I just acquired in Nigeria today\n+2347035513847.\n\nSincerely yours,\nMrs.Inga-Britt Ahlenius.\nContact ( mrs.inga189@yahoo.es )\n\n\nAlso contact our secretary general Mr. Ban Ki-Moon, for more investigation.\n\nName: Mr. Ban Ki-Moon\nE-mail: mrban.kimoon@one.co.il\ncall me 5166921131\n'
+p928
+sS'First_name'
+p929
+S'Ban'
+p930
+sS'Last_name'
+p931
+S'Ki-Moon'
+p932
+sS'To'
+p933
+NsS'Date'
+p934
+S'Fri Mar 16 04:56:53 2012'
+p935
+sS'Reply-To'
+p936
+S'mrs.inga189@yahoo.es'
+p937
+sS'Subject'
+p938
+S'Re: Urgent From: Mrs.Inga,'
+p939
+ssI69
+(dp940
+S'Body'
+p941
+S"\nDear Friend,\n\nHow Are You Today\n\nI am contacting you based on my desire to establish a mutually benefiting business relationship with you and consequently accomplish a certain business opportunity in Africa. I am Mr. Basil Samid, staff of Libyan national banking corporation, I am presently in London-UK due to the unrest in my country. I write you in respect of a customer of my bank Mallam Mohamed Kadir; who was killed by NATO air-strike attack in Libya, I was his account officer.\n\nBefore his death he completed a fund-transfer process of (USD 18.1m) to a west-African bank 'Intercontinental Bank' in Cotonou, Benin-Republic from our bank in Libya. As it stands, nobody will ever come for this money because he died with his family as his resident home was leveled by the air-strike. I write with intention to solicit your assistance to be presented as NEXT OF KIN to my Late Client to enable you lay claims on this inheritance and get this fund transferred into your nominated account. Though I know that a transaction of this magnitude will make any one apprehensive and worried, but I am assuring you all will be well at the end of the day.\n\nI want you to collaborate with me under a clear and legitimate agreement with you to safekeeping this money for further sharing between us. Services of a legal-attorney will be required to help legitimize your claims as the next of kin. However confidentiality and honest cooperation to enable us succeed is needed from you, we must ensure legitimate and timely transaction. I hope you read this proposal with good understanding of intent behind and please View this BBC web publication: http://www.bbc.co.uk/news/world-africa-13843798\n\nPLEASE YOU MAY CONTACT ME THROUGH MY PRIVATE EMAIL.\n(mrbasilsamid2@hotmail.com)\nYours Faithfully,\nMr. Basil Samid\nNational Banking Corporation\n-------------\nPlease discard this mail if you have no interest, and delete from your mail box.\n-------------\n\n------------=_4F453E38.910B371A\n"
+p942
+sS'First_name'
+p943
+S'Basil'
+p944
+sS'Last_name'
+p945
+S'Samid'
+p946
+sS'To'
+p947
+NsS'Date'
+p948
+S'Fri Mar 16 04:57:19 2012'
+p949
+sS'Reply-To'
+p950
+S'mrbasilsamid2@hotmail.com'
+p951
+sS'Subject'
+p952
+S'*****SPAM***** Recover this money'
+p953
+ssI70
+(dp954
+S'Body'
+p955
+S'Compact Headers\nGood day,\n       I know that this mail will come to you as a surprise as we have never met before, but need not to worry as I am using the only secured and confidential medium available to seek for your foreign assistance in a business. I am contacting you independently of my investigation and no one is informed of this communication.\n       I need your assistance in transferring the sum of $15.6 million US Dollars, immediately to your private account. The money has been here in our bank lying dormant for more than 6 years now without anybody coming for the claim of it.\n       I want to release the money to you as the nearest person to our deceased customer (the account owner), who died along with his supposed next of kin since November 2006. The banking ethics here does not allow such money to stay more than 6 years because the money will be recalled to the bank treasury as an unclaimed fund.\n       Upon receipt of your reply, indicating your interest in this transaction, I will send you full details on how the business will be executed. Please keep this proposal as a Top Secret and do remember to please reply me through my private email address below.\nBest regards,\nEmmanuel Kabore. : Reply to - ( emmanuelkabore@voila.fr )\n'
+p956
+sS'First_name'
+p957
+S'Emmanuel'
+p958
+sS'Last_name'
+p959
+S'Kabore'
+p960
+sS'To'
+p961
+NsS'Date'
+p962
+S'Fri Mar 16 04:57:22 2012'
+p963
+sS'Reply-To'
+p964
+S'emmanuelkabore@voila.fr'
+p965
+sS'Subject'
+p966
+S'Good day,'
+p967
+ssI71
+(dp968
+S'Body'
+p969
+S"\nI MR AHMED DIALLO, the director in charge of auditing and accounting section=\nin Bank of Africa Ouagadougou Burkina Faso in west Africa with due respect=\nand regards I have decided to contact you on this business transaction that=\nwill be very beneficial to both of us at the end of the transaction.\n\nDuring my investigation and auditing in the bank, my department came across=\na very huge sum of money belonging to a deceased customer, a foreigner who=\ndied on plain crash and, the fund has been dormant in his account with the=\nbank without any claim of the fund in our custody either from his family or=\nrelation before my discovery to this development. Actually, the late=\ncustomer was a big merchant who trades on Gold, Diamond, Elephant tusks and=\ncrude oil from Africa to Asia and Europe and this money he deposits in our=\nbank to pay for his purchases.\n\nAlthough personally, I kept this information secret within myself to enable=\nthe whole plans and idea be profitable and during the time of execution=\n(Two is secret). The amount involved is $14 Million usd (Fourteen Million=\nUnited States dollars).Meanwhile all the whole arrangement and directives=\nneeded to put claim over this fund as the bonfire next of kin to the=\ndeceased, will be forward to you upon your acceptance.\n\nInformation will be relayed to you as soon as you indicate your interest and=\nwillingness to assist me and also benefit your self to this great business=\nopportunity.\n\nIn fact I could have done this deal alone but because of my position in this=\ncountry as a civil servant, we are not allowed to operate a foreign account=\nand would eventually raise eye brow on my side during the time of transfer=\nbecause I work in this bank. This is the actual reason why it will require=\na second party or fellow from a foreign nation who will forward claims as=\nthe next of kin with affidavit of trust of Oath to the bank and also=\npresent a foreign account where he will need the money to be retransferred=\ninto on his request as it may be, after due verification and clarification=\nto designated bank account. I will not fail to inform you that this=\ntransaction is 100% risk free.\n\nOn smooth conclusion of this transaction, you will be entitled to 30% of the=\ntotal sum as gratification, while 10% will be set aside to take care of=\nexpenses that may arise during the time of transfer such as telephone bills=\netc, while 60% will be for me. Please, you have been advised to keep top=\nsecret as I am still in service and intend to retire from service after I=\nhave concluded this deal with you.\n\nI will be monitoring the whole situation here in the bank until you confirm=\nthe money in your account and ask me to come down to your country for=\nsubsequent sharing of the fund according to percentages previously=\nindicated and further investment, either in your country or any other=\ncountry you may advise me to invest in. All other necessary information=\nwill be sent to you when I hear from you. I suggest you get back to me as=\nsoon as possible stating your wish in this deal and asking any questions=\nthat are not cleared by you for a good follow-up.\nPlease reply with the assurance, come up with the information's showed=\nbelow:-\n\n1)YOUR FULL NAME\n2)YOUR AGE\n3)MARITAL STATUS\n4)YOUR CELL PHONE NUMBER\n5)YOUR FAX NUMBER\n6)YOUR COUNTRY\n7)YOUR OCCUPATION\n8)SEX\n9)YOUR RELIGION\n10)YOUR PRIVATE E-MAIL ADRESS\n\nNOTE: THIS TRANSACTION IS STRICLY AND CONFIDENTIAL.\n\nBest Regards,\nMR AHMED DIALLO\n"
+p970
+sS'First_name'
+p971
+S'AHMED'
+p972
+sS'Last_name'
+p973
+S'DIALLO'
+p974
+sS'To'
+p975
+NsS'Date'
+p976
+S'Fri Mar 16 04:57:28 2012'
+p977
+sS'Reply-To'
+p978
+S'ahmed4diallos@voila.fr'
+p979
+sS'Subject'
+p980
+S'THIS TRANSACTION IS STRICLY AND CONFIDENTIAL'
+p981
+ssI72
+(dp982
+S'Body'
+p983
+S'Compact Headers\n(CBN)\nOFFICE OF THE DIRECTOR\nTELEX / COMPUTER DEPARTMENT\nTINUBU SQUARE\nABUJA - NIGERIA\n\nI AM SENDING THIS PRIVATE EMAIL BASED ON THE CONFIDENTIALITY OF THE TRANSACTION.\nPLEASE, I WILL LIKE TO ADVISE IF AFTER GOING THROUGH MY PROPOSAL AND YOU DO NOT ACCEPT IT, KINDLY KEEP IT TO YOURSELF.  AS OF THIS MOMENT,\nI AM STILL IN  SERVICE WITH  (CBN).\nAND I WILL NOT BY ANY MEANS LIKE TO LOSE MY JOB, IF YOU ARE NOT INTERESTED.\n\nI HAVE PUT IN OVER 23 YEARS IN THIS  BUT I DO NOT HAVE ANYTHING TO SHOW FOR IT. THIS IS JUST MY OPPORTUNITY TO MAKE SURE THAT I GIVE MY CHILDREN A DECENT TRAINING SINCE MY GOVERNMENT WHICH IS CORRUPT HAS REFUSED TO TAKE CARE OF ITS RESPONSIBILITY. INFACT I AM SICK AND TIRED OF EVERYTHING HERE I NEED TO GET OUT. I FOUND OUT THAT YOU ALMOST MET ALL THE STATUTORY REQUIREMENTS IN RESPECT OF YOUR PAYMENTS. PLEASE BE EQUALLY ADVISED THAT NO SECURITY COMPANY IN AFRICA CAN HANDLE YOUR CONTRACT PAYMENTS/INHERITANCE FUND WITH ANY  WITHOUT THE INSTRUCTIONS OF THE CBN\n\nI WISH TO ASSURE YOU THAT WITH MY POSITION HERE AT CBN, I CAN ACCOMPLISH THIS UNDER FIVE WORKING DAYS. BUT WE HAVE TO REACH AN AGREEMENT. FIRST OF ALL, YOU HAVE TO LET ME KNOW HOW MUCH YOU WILL GIVE ME AT THE CONSUMMATION OF THIS DEAL.\n\n\nDOUGLAS\n'
+p984
+sS'First_name'
+p985
+S''
+sS'Last_name'
+p986
+S'TINUBU'
+p987
+sS'To'
+p988
+NsS'Date'
+p989
+S'Fri Mar 16 04:57:33 2012'
+p990
+sS'Reply-To'
+p991
+S'doughlaspaul@yahoo.com.ph'
+p992
+sS'Subject'
+p993
+S'GOOD DAY'
+p994
+ssI73
+(dp995
+S'Body'
+p996
+S'Compact Headers\nDear Friend,\n\nI am Mr.jarasu,working with one of the prime bank here in Burkina Faso, I seek your consent to present you as the next of kin to our bank deceased customer in order to repatriate the sum of (14.5 million dollars) to your oversea account based on percentage.\n\n(1) Can you handle this project?\n(2) Can I give you this trust?\n(3) What will be your commission?\n\nI expect your urgent response only if you can handle this project.\n\nThanks\nMr.jarasu .M,\n'
+p997
+sS'First_name'
+p998
+S''
+sS'Last_name'
+p999
+S'jarasu'
+p1000
+sS'To'
+p1001
+NsS'Date'
+p1002
+S'Fri Mar 16 04:57:47 2012'
+p1003
+sS'Reply-To'
+p1004
+S'jarasumartis@gmail.com'
+p1005
+sS'Subject'
+p1006
+S'CaN I Trust You ?'
+p1007
+ssI74
+(dp1008
+S'Body'
+p1009
+S'\nWelcome to CO-OPERATIVES FINANCIAL INVESTMENTS as part of its welfare\npackage is offering a floating loan at 3% interest rate without any\ncollateral security.This is to help individuals and companies reach their\nfinancial objectives.\n\nAll replies should be forwarded to jerrywilliamsloan83@gmail.com\n\n* Personal Loan (Unsecured) yes\n* Business Loan (Unsecured)\n* Debt Consolidation Loan\n* Improve your home\n\nAPPLICATION FORM\n\nFull Name.......\nHome Address....\nPhone:..........\nMobile..........\nCountry...........\nOccupation:........\nMarital Status........\nState..................\nSex:...............\nAge:..............\nAmount Needed......\nLoan Duration:...........\nNeed For Loan Application....\nMonthly income.......\nContact via\nemail: jerrywilliamsloan83@gmail.com\n\nREGARD\n\nMr Jerry Williams\n\n\n---------------------------------------------\n'
+p1010
+sS'First_name'
+p1011
+S'Jerry'
+p1012
+sS'Last_name'
+p1013
+S'Williams'
+p1014
+sS'To'
+p1015
+NsS'Date'
+p1016
+S'Fri Mar 16 04:57:52 2012'
+p1017
+sS'Reply-To'
+p1018
+S'jerrywilliamsloan83@gmail.com'
+p1019
+sS'Subject'
+p1020
+S'LOAN OFFER..............APPLY NOW'
+p1021
+ssI75
+(dp1022
+S'Body'
+p1023
+S"\nDear Friend,\n\nI am Mr. Idris Arayan Azezul. I work as the Foreign Operations Manager with a reputable bank here in Malaysia. Although the world is very small place and hard place to meet people because you don't know who to trust or believe, but as I have developed the trust in you after my fasting and praying, I made up my mind to confide this confidential business suggestion to you.\n\nThere is an over due unclaimed sum of Nine Million, Five Hundred Thousand United States Dollars. ($ 9,500,000.00) in my bank, belonging to one of our dead foreign customers. There were no beneficiaries stated concerning these funds. Therefore, your request as a foreigner is necessary to apply for the claim and release of the fund smoothly into your reliable bank account as the Foreign Business Partner to the deceased.\n\nPlease if you are really sure of your trustworthy, integrity, accountability and confidentiality on this deal, contact me with your profiles including private telephone (Mobile) number for easy communication. I am looking forward to read from you soonest\n\nYours faithfully,\n\nMr. Idris A. Azezul.\nForeign Operations Dept.\n"
+p1024
+sS'First_name'
+p1025
+S'Idris A.'
+p1026
+sS'Last_name'
+p1027
+S'Azezul'
+p1028
+sS'To'
+p1029
+NsS'Date'
+p1030
+S'Fri Mar 16 05:00:31 2012'
+p1031
+sS'Reply-To'
+p1032
+S'idrisazezul77@yahoo.com'
+p1033
+sS'Subject'
+p1034
+S'Dear Friend,'
+p1035
+ssI76
+(dp1036
+S'Body'
+p1037
+S"Email Address: daviesministry011@aol.com\nPHILIPPIANS - 4 v13 I Can Do All Things.\n\nDearest One Please Be Honest,\n\nMy name is Mrs. Sandra Davies, I am a dying woman who had decided to\ndonate what I have to the Charities. I am 69 years old and was diagnosed\nfor cancer about four years ago, immediately after the death of my\nhusband, I have been touched to donate from what I have inherited from my\nlate husband for the good work rather than allow his relatives to use my\nhusband's hard earned fund.\n\nWhen I was in better health, I never really cared for any body with no\nchildren of my own and a late husband I was a selfish and greedy\nperson. I have decided to donate the sum of $10.8M to you, so you can\ndisburse to charities, widows, orphans and less privileged.\n\nI was doing this myself but now my health has deteriorated, I wanted\nmy relatives to do this for me but they only saw it as an opportunity\nto enrich themselves.\n\nAs I lay on my sick bed, I want you to help me in carrying out my last\nwish on earth which will be very profitable to you. \n\nI will be going in for an operation soon, I want this last act of mine\nto be an offering unto God, perhaps he will have mercy on me. Please\ncontact my lawyer with the below:\n\nHenry Townsend Esq\ntwwesq@lawyer.com\n\nQuote my ref # : will/Wlaw/Pn/lr/16/CUI when responding.\n\nI am sending him a copy of this message as well so he is aware of my\nintentions, Please use the funds well and always extend the good works\nto others.   Contact my lawyer via is above email and be free to reach\nme on my private email address @ (daviesministry011@aol.com)\n\nStay blessed,\nMrs. Sandra Davies\n"
+p1038
+sS'First_name'
+p1039
+S'Sandra'
+p1040
+sS'Last_name'
+p1041
+S'Davies'
+p1042
+sS'To'
+p1043
+NsS'Date'
+p1044
+S'Fri Mar 16 05:00:44 2012'
+p1045
+sS'Reply-To'
+p1046
+S'daviesministry011@aol.com'
+p1047
+sS'Subject'
+p1048
+S'Dearest One Please Be Honest,'
+p1049
+ssI77
+(dp1050
+S'Body'
+p1051
+S"Email Address: daviesministry011@aol.com\nPHILIPPIANS - 4 v13 I Can Do All Things.\n\nDearest One Please Be Honest,\n\nMy name is Mrs. Sandra Davies, I am a dying woman who had decided to\ndonate what I have to the Charities. I am 69 years old and was diagnosed\nfor cancer about four years ago, immediately after the death of my\nhusband, I have been touched to donate from what I have inherited from my\nlate husband for the good work rather than allow his relatives to use my\nhusband's hard earned fund.\n\nWhen I was in better health, I never really cared for any body with no\nchildren of my own and a late husband I was a selfish and greedy\nperson. I have decided to donate the sum of $10.8M to you, so you can\ndisburse to charities, widows, orphans and less privileged.\n\nI was doing this myself but now my health has deteriorated, I wanted\nmy relatives to do this for me but they only saw it as an opportunity\nto enrich themselves.\n\nAs I lay on my sick bed, I want you to help me in carrying out my last\nwish on earth which will be very profitable to you. \n\nI will be going in for an operation soon, I want this last act of mine\nto be an offering unto God, perhaps he will have mercy on me. Please\ncontact my lawyer with the below:\n\nHenry Townsend Esq\ntwwesq@lawyer.com\n\nQuote my ref # : will/Wlaw/Pn/lr/16/CUI when responding.\n\nI am sending him a copy of this message as well so he is aware of my\nintentions, Please use the funds well and always extend the good works\nto others.   Contact my lawyer via is above email and be free to reach\nme on my private email address @ (daviesministry011@aol.com)\n\nStay blessed,\nMrs. Sandra Davies\n"
+p1052
+sS'First_name'
+p1053
+S'Henry'
+p1054
+sS'Last_name'
+p1055
+S'Townsend'
+p1056
+sS'To'
+p1057
+NsS'Date'
+p1058
+S'Fri Mar 16 05:00:44 2012'
+p1059
+sS'Reply-To'
+p1060
+S'twwesq@lawyer.com'
+p1061
+sS'Subject'
+p1062
+S'Dearest One Please Be Honest,'
+p1063
 ss.

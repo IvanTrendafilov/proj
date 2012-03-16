@@ -201,7 +201,11 @@ def theLoop():
 				list_of_email_dicts = extractInfo(current_msg['Content'])
 				msg_dict, email_class = {}, None
 				for email_dict in list_of_email_dicts:
-					email_class = classify(email_dict['Body']).values()[0]
+					class_candidate = classify(email_dict['Body'])
+					if class_candidate:
+						email_class = class_candidate.values()[0]
+					else:
+						continue
 					hash_value = getHash(email_dict['Body'])
 					if (email_class in supported_msgs) and (hash_value not in hashes):
 						msg_dict[getNextKey(msg_dict)] = {'Date': email_dict['Date'], 'Body': email_dict['Body'], 'Sender': email_dict['Reply-To'], 'Receiver': email_dict['To'], 'Subject': email_dict['Subject'], 'First_name': email_dict['First_name'], 'Last_name': email_dict['Last_name'], 'Origin': origin, 'PQ': None}

@@ -120,9 +120,12 @@ def composeBody(text, email_class, identity_dict, email_dict, state, solved_pq =
 	body = ['$Opening']
 	if state == 0:
 		content['Opening'] = getScenario(email_class + '/' + 'init')
-		if not solved_pq and hasPQ(text).values()[0]:
-			body.append('$PQ_answer')
-			content['PQ_answer'] = answerPQ(text, identity_dict, email_class)
+		if not solved_pq:
+			pq_status = hasPQ(text)
+			if pq_status:
+				if pq_status.values()[0]:
+					body.append('$PQ_answer')
+					content['PQ_answer'] = answerPQ(text, identity_dict, email_class)
 		body.extend(['$Question_intro', '$Question_body'])
 		content['Question_intro'] = getScenario(email_class + '/' + 'question_intro')
 		content['Question_body'] = buildQuestionBody(email_class)
@@ -132,9 +135,12 @@ def composeBody(text, email_class, identity_dict, email_dict, state, solved_pq =
 			content['Opening'] = getScenario('reopen')
 		else:
 			body = []
-		if not solved_pq and hasPQ(text).values()[0]:
-			body.append('$PQ_answer')
-			content['PQ_answer'] = answerPQ(text, identity_dict, email_class)
+		if not solved_pq:
+			pq_status = hasPQ(text)
+			if pq_status:
+				if pq_status.values()[0]:
+					body.append('$PQ_answer')
+					content['PQ_answer'] = answerPQ(text, identity_dict, email_class)
 		if hasTriggerWords(text, email_class):
 			body.append('$Rule_answers')
 			content['Rule_answers'] = getRuleAnswers(text, email_class)
@@ -195,5 +201,8 @@ def sendEmail(text, email_class, identity_dict, email_dict, state, solved_pq = F
 		except Exception:
 			count += 1
 			continue
-		return {'Date': time.ctime(), 'Sender': own_addr, 'Receiver': destination_addr, 'Subject': composeSubject(email_dict), 'Body': message, 'First_name': identity_dict['First_name'], 'Last_name': identity_dict['Last_name'], 'Origin': 'SYSTEM', 'PQ': hasPQ(text).values()[0]}
+		pq_status, pq_result = hasPQ(text), None
+		if pq_status:
+			pq_result = hasPQ(text).values()[0]
+		return {'Date': time.ctime(), 'Sender': own_addr, 'Receiver': destination_addr, 'Subject': composeSubject(email_dict), 'Body': message, 'First_name': identity_dict['First_name'], 'Last_name': identity_dict['Last_name'], 'Origin': 'SYSTEM', 'PQ': pq_result}
 	return None
