@@ -1,0 +1,1803 @@
+(dp1
+I0
+(dp2
+S'Body'
+p3
+S'\n  \n\nHllo\nNice to meet you. My name is ESter Demba\nI saw your contact email as i was browsing for friends.\nSo i became interested in making contact with you.\nPlease, I hope you will not be offended with my message.\nI like meeting new friends and I will like to know you as a friend please.\nI will be very happy to read from you when you get my message.\nSo that i will also send you my picture for you to see who i am.\nI hope we can be good friends by sharing interests and experiences.\nI hope to see your reply. Thanks and have a nice day\nYour friend\nEster\n'
+p4
+sS'First_name'
+p5
+S'ESter'
+p6
+sS'Last_name'
+p7
+S'Demba'
+p8
+sS'To'
+p9
+NsS'Date'
+p10
+S'Fri Mar 16 04:01:02 2012'
+p11
+sS'Reply-To'
+p12
+S'esterdemba@ymail.com'
+p13
+sS'Subject'
+p14
+S'Hello'
+p15
+ssI1
+(dp16
+S'Body'
+p17
+S'Hello Sir,\n\nI am Mr. Bang Chen; I work as a Business Relationship Manager with the Bank of China\n(Hong Kong) Limited. I have decided to contact you directly regarding the estate of\na deceased client and his investment placed under our banks management years ago. I\nhope I have not embarrassed you as I have no choice as it is now. I would\nrespectfully request that you keep the contents of this mail confidential and\nrespect the integrity of the information you come across as a result of this email.\nI contact you independently and no one is aware of this communication.\nIn 2002 the deceased; Mr. Paul Louis Halley came to our bank to engage in business\ndiscussions with our private banking division. He informed us that he had a\nfinancial portfolio of $25 million (Twenty five Million United States dollars) which\nhe wished to have us invest on his behalf.\nBased on my advice, we spun the money around various opportunities and made\nattractive margins in our operations, the accrued profit and interest stood at over\n$ 2.250 million United States Dollars in 2007. In the same year, he instructed that\nthe principal sum ($25M) be liquidated because he needed to make an urgent\ninvestment requiring cash payments in Hong Kong. We got in touch with a specialist\nbank in Hong Kong, HSBC Private Bank who agreed to receive this money for a fee and\nmake cash available to Mr. Halley. However HSBC Private Bank got in touch with us\nlast year that this money has not been claimed. On further enquiries we found out\nthat Mr. Halley was involved in a plane crash in Kilington,\nhttp://www.dailymail.co.uk/news/article-203574/Millionaire-killed-plane-crash.html\nNow for my investigations, I have realized that Mr Halley did not appoint anyone as\nnext of kin, thus he died intestate. He did not fill any one in the next of kin\nform. Besides, Mr. Halley particularly informed me of the United Kingdom tax which\nis very high and that not ever his wife who unfortunately dead with him was not\naware of this deposit with us. Thus the reason I am writing you.\nWhat I propose is that since I have exclusive access to his file, you will be made\nthe beneficiary of these funds. My bank will contact you informing you that money\nhas been willed to you. On verification, which will be the details I make available\nto my bank, my bank will instruct HSBC Private Bank to make payments to you. You do\nnot have to know him. I know this might be a bit heavy for you but please trust me\non this and if you follow my instruction religiously, we shall together bring this\ntransaction to a logical conclusion. For all your troubles I propose that we split\nthe money in half. In the banking circle this happens every time. The other option\nis that the money will revert back to the state government account, which the\npoliticians will share amongst themselves as there are not records of follow ups on\nsuch monies. Nobody is getting hurt; this is a lifetime opportunity for us. I would\nwant us to keep communication for now strictly by the above Email.\nPlease, again, note I am a family man; I have a wife and children. I send you this\nmail not without a measure of fear as to the consequences, but I know within me that\nnothing ventured is nothing gained and that success and riches never come easy or on\na platter of gold. This is the one truth I have learned from my private banking\nclients. Do not betray my confidence. If we can be of one accord, we should act\nswiftly on this. And let me know if you intend to assist or not. If you also do not\nwant to be involved kindly let me know so I would sever further communication with\nyou.\nI await your response.\n\nRegards \nDr.Bang Chen\n\n  \n'
+p18
+sS'First_name'
+p19
+S'Bang'
+p20
+sS'Last_name'
+p21
+S'Chen'
+p22
+sS'To'
+p23
+NsS'Date'
+p24
+S'Fri Mar 16 04:01:13 2012'
+p25
+sS'Reply-To'
+p26
+S'bangchen54@yahoo.com.hk'
+p27
+sS'Subject'
+p28
+S'PJM-&gt; GOOD AFTERNOON'
+p29
+ssI2
+(dp30
+S'Body'
+p31
+S"Bait away my friends. This lad didn't seem to have a script from the get-go. Dorothy confirmed that a scammer they be.....\n\nMaybe if we baiters can make the pickin's slim she'll crawl back and let me help her get her gold out of Ghana. I'm making plans to inject a Gomer though but why make life easy for them?\n\nmariama90k@hotmail dot com\n\nSee also info from SWarners.......:\n\nhttp://www.scamwarners.com/forum/viewtopic.php?f=13&amp;t=33624\n\nPM me if you have any other questions.\n\nBig Al....\n"
+p32
+sS'First_name'
+p33
+S''
+sS'Last_name'
+p34
+S'Gomer'
+p35
+sS'To'
+p36
+NsS'Date'
+p37
+S'Fri Mar 16 04:01:18 2012'
+p38
+sS'Reply-To'
+p39
+S'mariama90k@hotmail'
+p40
+sS'Subject'
+p41
+NssI3
+(dp42
+S'Body'
+p43
+S"\n\n\n\n Please Your Urgent Attention Is Needed.We\nwish to inform you that the diplomatic agent conveying the consignment \nbox valued the sum of $4.7 Million United States Dollars misplaced your \naddress and he is currently stranded at your international airport right\nnow. We required you reconfirm the following informations below so that\nhe can deliver your consignment box to you today,NAME: ============================== =ADDRESS: ============================MOBILE NO.:==========================NAME OF YOUR NEAREST AIRPORT:========A COPY OF YOUR IDENTIFICATION :======YOUR POST OFFICE ADDRESS;P.O BOX;====Please do contact the diplomatic agent with the email below with the informations requiredContact Person : CHINENYE JOHN CASSIDYEMAIL: johncassidy0@yahoo.co.uk He is waiting to hear from you today with the informations.For security reason read bellow:I\ndid not let the delivery Agent know's that your consignment box contain\nthe above mentioned amount of United States Dollars and on No \ncircumstances should you let him know the content is $4.7MILLION \nUSD(CASH). The consignments was moved from here as family treasures, so \nnever allow him to open the box untill it get to your base.This is for \nsecurity reason.Just suply the above requirment infos and also use this CODE as a subject matter to him:-CONSIGNMENT CODE:CAF/XX/05.Thanks.RegardsBar.Michael DeanSCARLET COURIER COMPANY 00229 99610210\n"
+p44
+sS'First_name'
+p45
+S'JOHN'
+p46
+sS'Last_name'
+p47
+S'CASSIDYEMAIL'
+p48
+sS'To'
+p49
+NsS'Date'
+p50
+S'Fri Mar 16 04:01:30 2012'
+p51
+sS'Reply-To'
+p52
+S'johncassidy0@yahoo.co.uk'
+p53
+sS'Subject'
+p54
+S'DIPLOMAT AGENT HE IS STRANDED CALL HIM 727 242 7889'
+p55
+ssI4
+(dp56
+S'Body'
+p57
+S"\nAsalamalekum,\n\n\nGentleman you sound experienced and am impressed. Listen I am petroleum\n\nEngineer/contractor and I have little or no experience in investment. AmRequesting that you do a research and come up with your suggestion on which Field of investment we should invest a reasonable amount from late Libyan President's Reserve (M.Gadaffi) which am overseeing for the Family into for At least 10yrs and you will be handling it/overseeing it as the family's Partner secretly and the proceeds will be share on a ratio. Before we Proceed, I will insist that you verify the data of the firm I deposited the Funds in their custody prior to when I secure a partner from the embassy. I\n\nAlso insist that you verify if the company is truly Registered/genuine/operational before I will introduce you to them as the new Beneficiary. Less I forget an MOU will be endorsed by both parties before we commence await your fast response. You can contact me via my private \nBest regards.\n\nAbdel Rahim\n"
+p58
+sS'First_name'
+p59
+NsS'Last_name'
+p60
+NsS'To'
+p61
+NsS'Date'
+p62
+S'Fri Mar 16 04:01:35 2012'
+p63
+sS'Reply-To'
+p64
+S'abdelrahim_2012@yahoo.com'
+p65
+sS'Subject'
+p66
+S'Investment'
+p67
+ssI5
+(dp68
+S'Body'
+p69
+S"\nHello Dear,\n\nI am Miss.Joyce Dangote, 28 years old, a Sociology student,from Guinea Bissau.My father of blessed memory by name late Mr. Paul Dangote who was the former deputy minister of national security under the leadership of president Kumba Yalla who is now facing judgement at the international court of justice for war crime and abusing human rights.I am constrained to contact you because of the maltreatment am receiving from my step mother.She planned to take away all my fathers treasury and assets from me since the unexpected death of my Father.Meanwhile,I wanted to travel to Europe but she hid my international passport and other valuable traveling documents,luckily she couldn't discover where I kept my fathers file.\n\nI am now writing you from Accra Ghana where I escaped to through road, and now seeking hiding in a private charity organization under St Johns Catholic Church here in Accra Ghana.\nSo I am now in search of an honest and reliable person who will help to relocate me in any of the western or any other place in the world, for a better life and to continue my studies, I have chosen to contact you after getting your email through a database, and I believe you are a reliable person who will not let me down or betray my trust, I know you may wonder why I am telling you about all this, even without seeing or knowing you fully well, really something in me tells me that you are a good person and I guess I am not wrong.\n\nBriefly, I will like to disclose little more about myself to you and see if you can help me to relocate to your country so as to continue with my studies and have a new life, and please this is a little secret and I plead with you to keep it to yourself alone until everything is properly arranged and executed, then I will come over to join you in your country. I have the sum of $92.7 Million pounds as an inheritance from my late father which I will like to invest in your country with your help, the reason why I need your help is based on the instruction my late father gave to the bank to release the fund to me at the age of 35 and through a foreigner who can help me to invest the fund wisely, \n\n I can not be able to make this claim because of my refugee status. This fund is deposited in my late father's bank account with one of the banks here in Accra Ghana. and I am going to give you all the details / contact because I want the money to be transferred to your account before I come over to join you in your country, I need your urgent answer of your ability to handle this for me so that I will tell you the next step because I want to leave this refugee camp as soon as possible, life here is to me a hell, no love, no affection and no amenities, more importantly, I love my studies and here nothing is happening and people here are not friendly,I am really suffering in this place, it is too painful, but I hope with your help to transferring the fund in your account,I will have a better life to live so kindly let me know your readiness to help me and I promise to always be nice and faithful to you .PLS GET BACK TO ME AT MY EMAIL ADDRESS(joycedangota@yahoo.com.ph)..\n\nYours Sincerely,\n    Joyce .\n"
+p70
+sS'First_name'
+p71
+S'Joyce'
+p72
+sS'Last_name'
+p73
+S'Dangote'
+p74
+sS'To'
+p75
+NsS'Date'
+p76
+S'Fri Mar 16 04:03:35 2012'
+p77
+sS'Reply-To'
+p78
+S'joycedangota@yahoo.com.ph'
+p79
+sS'Subject'
+p80
+S'=?utf-8?B?cGxzIGdldCBiYWNrIHRvIG1lIGkgbmVlZCB5b3VyIGhlbHAgISE=?='
+p81
+ssI6
+(dp82
+S'Body'
+p83
+S"\nGreetings from Hong Kong.\nGreetings, my name is Daniel Tsai, I work with a finance company in Hong Kong. I am writing you because I want you to be with my partner in a business Project of 44.5M USD, 50% will be your share. If you are interested please contact me back through my private e-mail Address danieltsai25@yahoo.com.hk or daniel_tsai@aol.com I'll let you know what to do next once I get your answer. Thank you. Daniel Tsai.\n"
+p84
+sS'First_name'
+p85
+S'Daniel'
+p86
+sS'Last_name'
+p87
+S'Tsai'
+p88
+sS'To'
+p89
+NsS'Date'
+p90
+S'Fri Mar 16 04:03:46 2012'
+p91
+sS'Reply-To'
+p92
+S'danieltsai25@yahoo.com.hk'
+p93
+sS'Subject'
+p94
+S'Greetings from Hong Kong.'
+p95
+ssI7
+(dp96
+S'Body'
+p97
+S"\nGreetings from Hong Kong.\nGreetings, my name is Daniel Tsai, I work with a finance company in Hong Kong. I am writing you because I want you to be with my partner in a business Project of 44.5M USD, 50% will be your share. If you are interested please contact me back through my private e-mail Address danieltsai25@yahoo.com.hk or daniel_tsai@aol.com I'll let you know what to do next once I get your answer. Thank you. Daniel Tsai.\n"
+p98
+sS'First_name'
+p99
+S'Daniel'
+p100
+sS'Last_name'
+p101
+S'Tsai'
+p102
+sS'To'
+p103
+NsS'Date'
+p104
+S'Fri Mar 16 04:03:46 2012'
+p105
+sS'Reply-To'
+p106
+S'daniel_tsai@aol.com'
+p107
+sS'Subject'
+p108
+S'Greetings from Hong Kong.'
+p109
+ssI8
+(dp110
+S'Body'
+p111
+S'\nFrom Mr. Edward Limar(CEO)\nGold coast Contractors Ltd.\nPlot 105 Industrial Area, Accra Ghana.\nTel: +233 207 959902\n\n Attn: The President/CEO.\nDear Sir/Madam,\n\n                                                                                                              REQUEST FOR QUOTATION\n\n I am Mr. Edward Limar, the Managing Director/CEO of Gold Coast Contractors Ltd. Plot 105 Industrial area, Accra Ghana.\nI want to use this opportunity to inform you that I am the accredited contract agent to the Government of Ghana in West Africa for goods importation into the country.\nI also represents group of companies and importers from all the West African countries namely Benin, Burkina Faso, Cape Verde, Cte dIvoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone and Togo.\n\n I want to seek your interest and approval to represent your company as a local commission agent for the ongoing Tender Procurement exercise for the supply of your company product to the government of Ghana, and other group of West African importers in the above mentioned ECOWAS countries.\n\n The Government of Ghana has received a Loan facility from the International Development Association (IDA) toward the cost of the Economic improvement, Agricultural Mechanization, Poverty alleviation, and rural / urban development, hence intends to apply part of the proceeds of this loan to payments under the below contract.\n\n (The supply will involve but not limited to the below list; tell us more about your products and service) \n\n 1. Building Materials\n2. Home Appliances\n3. Marine Equipments\n4. Electric Vehicles,\n5. Computers (Laptops and Desktops)\n6. Fertilizers/Urea\n7. Surgical Instruments\n8. Transformers &amp; Generators\n9. Solar Panels\n10. Pesticides\n11. Animal Feeds\n12. Dump Trucks\n13 Fire fighting trucks\n14. Armored Trucks\n15. Health Ambulances\n16. Money Transit Vehicles\n17. Motorbikes/Helmets\n18. Storage Thanks\n19. Tractors\n20. Rice\n21. Sugar\n22. Cooking Oil\n23. T-shirts, readymade garments, shoes\n24. Tower Crane\n25. Bags,\n26. Footwear\n27. Sports products\n28. Children Toys\n29. School Supplies\n30. Medical instruments\n31. Office Equipments\n32. Fishing Boat\n33. Transport Boat\n34. Frozen Foods\n\n There are other items/products which are not listed; please specify any product that you can supply, and feel free to tell us about your product.\n\n The term of payment is 100% bank transfer or Standard Letter of Credit (LC) once contract is awarded. \nDestination for shipment: Tema Harbor, Accra Ghana.\nI anticipate your bid response,\n\n Yours faithfully\n\n Mr. Edward Limar\nContract Commission Agent\nPlot 105 Industrial Area, Accra Ghana\nTel: +233 207 959902\n'
+p112
+sS'First_name'
+p113
+S'Edward'
+p114
+sS'Last_name'
+p115
+S'Limar'
+p116
+sS'To'
+p117
+NsS'Date'
+p118
+S'Fri Mar 16 04:04:04 2012'
+p119
+sS'Reply-To'
+p120
+S'edwardlimar@gmail.com'
+p121
+sS'Subject'
+p122
+S'I INVITE YOU TO SUPPLY TO US'
+p123
+ssI9
+(dp124
+S'Body'
+p125
+S"\nCENTRAL BANK OF NIGERIA.\nTELEX AND WIRE  DEPARTMENT(IRD)\nCORPORATE HEAD QUARTERS\nTINUBU SQUARE, LAGOS.\nTel:234 8020999313\nchimabek@hotmail.com\n\nAttn:Beneficiary\n\nWe apologize to you over the delay to transfer your contract/inheritance fund $5m  today being 24th Fabuary ,2012 into your nominated receiving bank\n\naccount\n\nMeanwhile the transfer arrangements on your Contract/inheritance valued FUND was perfected after agreement with the Minister of Finance ,  presented the new bank\n\naccount normalization letter from Minister of Justice. I will immediately forward the telex report of the transfer to you on  wednessday this week then the fund will reflect on\n\nyour account immediately without any waste of time as you will also confirm this in your own account.\n\nThe transfer would be done on or before wednessday this week, so we are advising you to Send the Sum of $65 being the CREDITING FEES FOR THE TRANSFER of your\n\ncontract fund.  Send the $65 through the listed Name below through western union money transfer or via money gram:\n\nReceiver's Name; Peter Onyeisi.\nAddress: Lagos-Nigeria\nQuestion : What For?\nAnswer: GOOD.\nAmount $65\n\nI will call your bank as soon as I hear from you before making the transfer.PLEASE CONFIRM YOUR BANKS PHONE, FAX NUMBERS INCLUDING THE NAME OF YOUR\n\nACCOUNTANT/ MANAGER AND YOUR BANK ACCOUNT DETAILS. ALSO Get back to me with the below information\n\nYour Full Name:...................\n\nYour Complete Address:............\n\nCountry:..........................\n\nMobile Number:....................\n\nSex/Age/Marital Status:...........\n\nOccupation:......................\n\nBank account details.....................\n\nYou will not spend any other money except only this very $65.00usd only until you receive your fund into your nominated bank account.\n\nPlease i will advice you call me immediately you receive the very message on my private tel no: 234 8020999313 or email me here :  chimabek@hotmail.com\n\nYours faithfully,\nRev Dr Chima Beko\nDirector, Telex &amp; Wire Dept\n"
+p126
+sS'First_name'
+p127
+S'Chima Beko'
+p128
+sS'Last_name'
+p129
+S'Director'
+p130
+sS'To'
+p131
+NsS'Date'
+p132
+S'Fri Mar 16 04:04:09 2012'
+p133
+sS'Reply-To'
+p134
+S'chimabek@hotmail.com'
+p135
+sS'Subject'
+p136
+S'YOUR  LONG OVERDUE PAYMENT IS READY'
+p137
+ssI10
+(dp138
+S'Body'
+p139
+S"...................................................................................................................\n\nHello My Dearest, \nMy name is Biba Lorna Laboso, 24 years old originated from Nairobi-Kenya, East Africa, Female, tall, slim, fair and a very good looking girl that loves travelling and dancing, a student, that loves to be loved, I want you to also understand that your Age, distance, Religions does not matter to me, kindly permit me to be contacting you through this medium, I am compelled to contact you via this medium for obvious reasons which you will understand when we discuss details of my proposition. \n\nMy father Mr Lorna Laboso was the former Assistant Minister of Home Affairs and the Kenya road Minister Mr. Kipkalya Kones had been on board the Cessna 210, which was headed to Kericho and crashed in a remote area called Kajong'a, in western Kenya . The plane crashed on the Tuesday 10th, June, 2008. \n\nYou can read more about the crash through the below\nsite :http://edition.cnn.com/2008/WORLD/africa/06/10/kenya.crash/index.html \n\nAfter the burial of my father, my step-mother threatened to kill me because of my father's properties without having knowledge of the money my father deposited in one of the banks in Ouagadougou, Burkina Faso with my name as the next of kin before his dead which amount is ($4.2 USD) Million United State Dollars. I travelled down to Burkina Faso to withdraw the money so that I can start a better life and take care of myself. \n\nOn my arrival, the Branch manager of the Bank whom I met in person told me that my father left an instruction with the bank that the money will be release to me only when I am married or I should present a trustee who will help me and invest the money overseas. I have chosen to contact you after my prayers and I believe that you will not betray the trust I have on you. But rather take me as your own daughter or your Sister. Though you may wonder why I am so soon revealing myself to you without knowing you, well, I will say that my mind is convinced that you are the true person to help me stand as my trustee since I am not yet married. \n\nMore so, I will like to disclose much to you if you can help me to relocate in your country because my Step-Mother has threatened to assassinate me. Also be informed that I have confirmed from the bank in Burkina Faso that the money is still waiting to be claimed. You will also help me to a place were the money will be establish a more profitable business venture in your Country. Moreover, you will also help me by recommending a nice University in your country so that I will complete my studies. \n\nIt is my intention to compensate you with 30% of the total money for your services and the balance shall be my capital in your establishment. As soon as I receive your interest in helping me, I will put things into action immediately. In the light of the above, I shall appreciate an urgent message indicating your ability and willingness to handle this transaction sincerely. Please do keep this only to your self. I beg you not to disclose it to anybody until the money transferred into your bank account and then I will come over to your country. Please respond through this email   bibalorna@gmail.com\n\nI am waiting to hear from you soonest, \nYours Sincerely, \nMiss. Biba Lorna Laboso.\n"
+p140
+sS'First_name'
+p141
+S'Biba Lorna'
+p142
+sS'Last_name'
+p143
+S'Laboso'
+p144
+sS'To'
+p145
+S'bibalorna@gmail.com'
+p146
+sS'Date'
+p147
+S'Fri Mar 16 04:04:15 2012'
+p148
+sS'Reply-To'
+p149
+S'bibalorna@gmail.com'
+p150
+sS'Subject'
+p151
+NssI11
+(dp152
+S'Body'
+p153
+S'Hello,\n\nEmployment Opportunity:  We are presently hiring and seeking new team members for light Part-Time duties.  An Applicant should have basic computer skills and always be in touch via e-mail.\n\nAll you need is eagerness to work, 3 - 5 hours of spare time per day, and Internet access.\n\nShifts are flexible.\n\nInterested candidates should email an inquiry to: profcharlesbean@live.com\n\nWe will email you back within 24 hours.\n\nThanks,\n\nProf, Charles Bean.\nDeputy Governor The Bank of England.\n'
+p154
+sS'First_name'
+p155
+S'Charles'
+p156
+sS'Last_name'
+p157
+S'Bean'
+p158
+sS'To'
+p159
+NsS'Date'
+p160
+S'Fri Mar 16 04:04:21 2012'
+p161
+sS'Reply-To'
+p162
+S'profcharlesbean@live.com'
+p163
+sS'Subject'
+p164
+S'Hello,'
+p165
+ssI12
+(dp166
+S'Body'
+p167
+S'*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook\n\nHi,\nI am paulsanders, I am ill and would die as a result of cancer. I want to distribute my funds to charity \norganizations in your country through you,please respond for details.\n\npaul.\n'
+p168
+sS'First_name'
+p169
+NsS'Last_name'
+p170
+NsS'To'
+p171
+NsS'Date'
+p172
+S'Fri Mar 16 04:04:31 2012'
+p173
+sS'Reply-To'
+p174
+S'paul.sanders46@yahoo.com'
+p175
+sS'Subject'
+p176
+S'please respond for details.'
+p177
+ssI13
+(dp178
+S'Body'
+p179
+S'\nCompact Headers\n\nDEAR BENEFICIARY\n\nWE WISH TO INFORM YOU THAT OUR DIPLOMATIC AGENT LEFT WITH YOUR ATM CARD CONTAINING US$5.5 MILLION DOLLARS (FIVE MILLION FIVE HUNDRED THOUSAND UNITED STATES DOLLARS) SINCE YESTERDAY HOWEVER THE DIPLOMATIC AGENT CONVEYING THE PACKAGE MISPLACED YOUR ADDRESS AND HE IS CURRENTLY STRANDED AT (Buffalo Niagara International Airport New York) OVER THERE IN USA. WE REQUIRED YOU TO RECONFIRM THE FOLLOWING INFORMATION BELOW SO THAT HE CAN DELIVER YOUR ATM CARD TO YOU TODAY.\n\nNAME: ------------------------------------------------\nADDRESS: --------------------------------------------\nMOBILE NO: -------------------------------------------\nNAME OF YOUR NEAREST AIRPORT: ---------------\nA COPY OF YOUR IDENTIFICATION: ----------------\n\nPLEASE CONTACT THE DIPLOMATIC AGENT WITH HIS EMAIL ADDRESS AS RECONFIRMED BELOW: CONTACT PERSON: MR. JOHN L. WILLIAM, EMAIL:(mrjohnwilaim@gmail.com) THIS IS THE TELEPHONE NUMBER TO REACH HIM OVER THERE IN NEW YORK 315 308 7554.\n\nTHANKS\nMRS MARIA JONATHAN\nDIRECTOR TNT EXPRESS COURIER BENIN REPUBLIC\n'
+p180
+sS'First_name'
+p181
+S'JOHN L.'
+p182
+sS'Last_name'
+p183
+S'WILLIAM'
+p184
+sS'To'
+p185
+NsS'Date'
+p186
+S'Fri Mar 16 04:04:49 2012'
+p187
+sS'Reply-To'
+p188
+S'mrjohnwilaim@gmail.com'
+p189
+sS'Subject'
+p190
+S'DEAR BENEFICIARY'
+p191
+ssI14
+(dp192
+S'Body'
+p193
+S'\nCompliment of the day,\n\nI am Mrs. Xue Chong, a staff of CITIC BANK INTERNATIONAL LIMITED, here in\nHong Kong attached with Private Banking Services; I have a secured\nbusiness proposal for you.Should you be interested please reach me on my\nprivate email address (mrs.xue_chong02@w.cn) And after that I shall\nprovide you with more details of my proposal.Your earliest response to\nthis letter will be appreciated.\n\nYours Sincerely,\nMrs. Xue Chong\n'
+p194
+sS'First_name'
+p195
+S'Xue'
+p196
+sS'Last_name'
+p197
+S'Chong'
+p198
+sS'To'
+p199
+NsS'Date'
+p200
+S'Fri Mar 16 04:04:53 2012'
+p201
+sS'Reply-To'
+p202
+S'mrs.xue_chong02@w.cn'
+p203
+sS'Subject'
+p204
+S'IF INTERESTED'
+p205
+ssI15
+(dp206
+S'Body'
+p207
+S'\n\n\nDear Sir/Madam,\n\nRE:PARTNERSHIP BUSINESS/INVESTMENT PROJECT PROPOSAL.\n\nI represent a group of company based in the Gulf Region and we are seeking\nmeans of expanding and relocating our business interest abroad in the  \nfollowing\nsectors: oil/Gas, banking, real estate, stock speculation and\nmining,transportation, health sector and tobacco, Communication Services,\nAgriculture Forestry &amp; Fishing, thus any sector.\n\nIf you have a solid background and idea of making good profit in any of the\nmentioned business sectors or any other business in your country, Please write\nme for possible business co-operation. More so, we are ready to facilitate and\nfund any business that is capable of generating 10% annual return on  \ninvestment\n(AROI) Joint Venture partnership and Hard loan funding can also be considered.\n\nI am confident that you will give your consideration to this proposal and\nrespond positively within a short period of time. I am available to discuss\nthis proposal with you and to answer any questions you may have in regard to\nthis investment. As soon as you give your positive response to this  \nproposal, I\nwill not hesitate in sending you the details information of this great\ninvestment partnership opportunity.\n\nI look forward to discussing this opportunity further with you.\n\nSincerely,\nAbdul Musad-Hakam\nStadelhoferstrasse 22,\nZurich,Switzerland.\n'
+p208
+sS'First_name'
+p209
+S'Abdul Musad-Hakam'
+p210
+sS'Last_name'
+p211
+S'Stadelhoferstrasse'
+p212
+sS'To'
+p213
+NsS'Date'
+p214
+S'Fri Mar 16 04:05:04 2012'
+p215
+sS'Reply-To'
+p216
+S'musadabdulhakam@videobank.it'
+p217
+sS'Subject'
+p218
+S'PARTNERSHIP INVESTMENT PROJECT'
+p219
+ssI16
+(dp220
+S'Body'
+p221
+S'\nOur Ref:INTERSWITCH RPOPT/CDT/CET\nReg. Order No:FEC/IMFFI231282.\nFMF CODE 0989.\nTel: +234-7088-640013\nE-mail: infoconsultants12@yahoo.dk\nDear Sir,\n      RENAISSANCE PAYMENT OPTIONS.\n\nWe have received Instructions from the Financial Intellegence Unit of the\nFederal Executive Council of the Republic of Nigeria\n\nAccording to information at our disposal,your payment  was re validated\nafter the recent foreign debt reappraisal conducted by the  senate  in\nconjunction with the International Monetary Fund{IMF}in which a debt buy\nback agreement was reached by the government of Nigeria and our\nestablishment.\n\nThis resolution was made following series of allegations from foreign\nbeneficiaries that they had been swindled by some hoodlums of their hard\nearned money running into thousands of dollars.\n\nIn effort to curtail this trend, it was resolved by the Federal Executive\nCouncil to make your payment through a separate financial institution that\nis not Central Bank of Nigeria because of some inherent financial\ndifficulties made possible by the statutory provision regulating the\nfunctions of  Central Banks in matters of retail banking.\n\nOur payment procedure will be through interswitch Multi-linked configured\nAutomated Teller Machine (ATM)Card System.The procedure involves loaded\nATM card in your favor which would enable you to access and discount your\nfunds through any ATM machine point any where in the world.\n\nOur buy back arrangement with the Federal executive council and the IMF\nentitle you to part payment{compensation} of the sum five million five\nhundred thousand united states dollars{US$5,500,000.00} only via inter\nswitch ATM Card.\n\nConsequently,We require you to confirm and forward all your necessary\npersonal detail and evidence of this payment claim to us to certify that\nwe have reached the bonafide beneficiary.\nWarm regards,\nMr. Bright O Kep\n'
+p222
+sS'First_name'
+p223
+S'Bright O'
+p224
+sS'Last_name'
+p225
+S'Kep'
+p226
+sS'To'
+p227
+NsS'Date'
+p228
+S'Fri Mar 16 04:05:13 2012'
+p229
+sS'Reply-To'
+p230
+S'infoconsultants12@yahoo.dk'
+p231
+sS'Subject'
+p232
+S'RENAISSANCE PAYMENT OPTIONS.'
+p233
+ssI17
+(dp234
+S'Body'
+p235
+S'Department of Energy &amp; Mineral Resources,  \nJohannesburg, South Africa.\nTel: +27 73 9295995                                                          \nEmail: alan.mooki@gala.net\n\n                                                 STRICTLY PERSONAL AND CONFIDENTIAL\n\nAttn: Sir/Madam,   \n\nI write you this mail from my office in anticipation that you will understand and deem it strictly confidential for you personally. In this regard also, permit me to introduce my business proposal to you. My name is Mr. Alan Mooki; I am the Principal Accounting Officer, Department of Energy and Mineral Resources in my country, Republic of South Africa.\n\nI therefore write to solicit your sincere co-operation in order to Redeem an investment interest currently being held under TRUST with the DEPARTMENT of ENERGY and MINERAL RESOURCES in First National Bank (FNB).The said investment which is now valued at (USD38.5M) THIRTY EIGHT MILLION FIVE HUNDRED THOUSAND UNITED STATES DOLLARS was originally purchased by Dr. George Brumley Jr, and leased in 1990 to EXXARO RESOURCES AND MINING CORPORATION. At maturity of the contract in May 2005, several efforts to contact DR. GEORGE BRAMLEY JR proved abortive. After further investigation from a close source, I was informed that DR. GEORGE BRAMLEY JR HAD PASSED AWAY. He died in Plane crash with the entire family, leaving no beneficiary to this fund. You can read the sad news at: http://www.cnn.com/2003/WORLD/africa/07/20/kenya.crash/index.html\n\nAgainst this back drop, as the Head of accounts in the Department, I have, with my Director General (DG) carefully initiated the process of filing a claim for the money with the hope of having the Fund Transferred abroad for investment on our behalf since the original benefactor has died, we are hopeful you will agree with our intention to arrange payment of the claim in your NAME as the next of KIN to DR. GEORGE BRAMLEY JR. We require that you let us prepare and file the claim for the money from this Department indicating your name as the appointed beneficiary of the FUND. Upon approval of the payment of this claim, you will be paid THIRTY EIGHT MILLION FIVE HUNDRED THOUSAND UNITED STATES DOLLARS (USD38.5M).Moreover, since the money will be paid directly into a bank account to be nominated by you, you will have the responsibility to ensure that we receive our share of the money which I and my colleague have decided. All I require is your honest co-operation and I guarantee you that this transaction will be executed under a legitimate arrangement and no government involvement at all.\n\nLastly, bear in mind that this is a very safe and risk-free transaction as it is not prone to any enquiry since we are all active partners and will not want to lose our positions in Government and the Department. Meanwhile, I demand that you keep this transaction very Private and Confidential in view of our personal involvements. Should you accept to be part of this venture, kindly call or email me back with your full names, brief description of your business, your direct telephone and fax Numbers, and I will provide in detail about the processes for the claim\nFor your good cooperation, I propose offer you 30% of the total fund after the successful conclusion of this transaction.\nI wait your urgent reply   \n\nKind Regards,\nMr. Alan Mooki\n'
+p236
+sS'First_name'
+p237
+S'Alan'
+p238
+sS'Last_name'
+p239
+S'Mooki'
+p240
+sS'To'
+p241
+NsS'Date'
+p242
+S'Fri Mar 16 04:05:18 2012'
+p243
+sS'Reply-To'
+p244
+S'alan.mooki@gala.net'
+p245
+sS'Subject'
+p246
+S'URGENT PROPOSAL'
+p247
+ssI18
+(dp248
+S'Body'
+p249
+S"\nWESTERN UNION MONEY TRANSFER\nINSTALLMENT PAYMENT OFFICE\nWebsite: www.westernunion.com\nPayment officer: Mrs UDE EDWIN\nTel/Fax: +229 99661771\nWESTERN UNION INSTALLMENT PAYMENT ONLY.\n\nAttn: Beneficiary,\n\nYou will pickup the bellow installment at any western union office nearest to\nyou with bellow information's as soon as you send the $115.00 endorsement &amp; to\nactivate the transfer Security Access Code and your daily activation file fee.\nImmediately the Activation is made, You can pickup your first installment\npayment online at www.westernunion.com OR Call Western Union tracking number\n1-800-325-6000 for available fund verification purpose.\n\nPayment information\nSender's First Name: UDE\nSender's Last Name: EDWIN\nMTCN: 6190672000\nText Question: Flower?\nAnswer: Rose\nAmount Programmed: $2,500.00\n\nTrack the mtcn by dialing 1-800-325-6000 or\nhttps://wumt.westernunion.com/asp/orderStatus.asp?country=global\n\nNOTE: YOU CAN NOT PICKUP YOUR FIRST INSTALLMENT PAYMENT, UNTIL YOU MEET UPWITH\nTHE ACTIVATION CHARGES OF $115.00\n\nTo Avoid any atom of mistake, you are hereby required to reconfirm your\npayment receiver's name and address to avoid any mistake of payment activation\nduring activation process of your payment as soon as the daily endorsement\ncharges is paid.\n\nReconfirm the information as given to you below.\n\nReceiver's Name:\nReceiver's address:\nReceiver's Tel. Number :\nPlease note that the receiver's information is very vital to us as the\nactivation of your daily installment will be directing to your receiver's name\nand address.\n\nThe endorsement &amp; daily activation file fee of $115.00 will be sending to our\noffice here in care to ............ through any western union nearest to you:\n\nReceiver's Name: Mr Joseph Chinedu\nCity &amp; Country: Benin Republic,Cotonou\nAmount: $115.00\nText Question: God?\nAnswer: Gift\n\nAs soon as you send the fee, send us the transfer Mtcn to help us proceed with\nimmediate transfer release of your installment payment.\nOnce your payment is confirmed, we shall proceed with the activation of your\npayment for available pickup in your Name/country/Address.\nNotice: This payment was approved by the federal ministry of finances\nPorto-novo, Benin to beneficiary only.\n\nWe anticipate your kind co-operation.\n\nThanks For Using Western Union Office.\n\nSincerely Regards,\nMrs Ude Edwin\nPayment Department\nWestern Union Office Inconjuction with Federal Ministry of Finance\n"
+p250
+sS'First_name'
+p251
+S'Joseph'
+p252
+sS'Last_name'
+p253
+S'Chinedu'
+p254
+sS'To'
+p255
+NsS'Date'
+p256
+S'Fri Mar 16 04:05:23 2012'
+p257
+sS'Reply-To'
+p258
+S'udeedwin@xnmsn.com'
+p259
+sS'Subject'
+p260
+S'Payment Department f'
+p261
+ssI19
+(dp262
+S'Body'
+p263
+S"\nAttention: Sir,\n\n\nWith due respect I crave your indulgence as Im contacting you in such a surprising manner, but I respectfully insist that you read this letter carefully and let me know your opinion or willingness in this business that I will propose to you.  This however is not mandatory nor will I in any manner compel you to honor it against your will, but I strongly believe that this business will open doors for unimaginable financial rewards for both of us, to be more precise, we both stand the chance of walking away with legacy worth of eighty four million Euros (Euros 84,000,000.00), so I hereby entreat you to lend me your sense of propriety, by reading this mail attentively.\n\n\nIn a brief introduction , my name are Dr. Akim Dantey, am the manager of Achieve Security Company Accra-Ghana, and I got your details from the Africa Union Daily data-base assessment/transaction here in Accra, and I deemed it very fit to contact you for the conclusion of  this honorable  transaction.\n\n\nHowever, am mailing you simply because of two trunk boxes that has been deposited with my company by one of our numerous customers, who is demised (dead), for over six (6) years now, he deposited this boxes without introducing a next of kin, rather, the boxes are deposited in his own name, and in cases like this when the depositor does not introduce a next of kin, the Certificate of Deposit, and the Ownership Certificate, will be left with the management of my company.  My brother, I have used my offices to network this boxes in the name of my former partner, and his name is (Mr. Paul Smith), a British American citizen we where both paying the outstanding storage fee gradually hoping that we can finalize the payment before on the March 30th 2012, to my greatest surprise I called yesterday afternoon, and his wife told me he is demised (dead), though he is a 83old man. So what I need from you is your support and commitment so that we can both get these boxes out before the stipulated audition date. Please read the below mails attentively so you would understand me properly, and also be well abreast of the details of what we stand to benefit.\n\n\nI apologize if I may sound too pompous, but I have been managing this security company for more than 15-yrs now, there is little I have not seen or experienced. Im doing this business with you because I do enjoy the international flare of it, income is merely a side benefit to having fun dealing with one another, this security company business is set on such a true course and natural flow, that if you know what you are doing, know the respective laws, follow the procedure protocol, and regulation laid down for your benefit, your success is all but guaranteed. My brother, please just let your enthusiasm be ignited so that we can get this boxes out before the stipulated audition date.\n\nHowever, I want to seize this opportunity to reveal the major ethics of Security Company Management in order for you to be rest assured that you are dealing with a competent hand.\n\n\n a) We have what we call ordinary deposit\n\n  b)   and insurance added value deposit.\n\n\nWhen you are making an ordinary deposit the security company management, have no right to review the content of what you are depositing. But when an insurance value is to be added to your valuable you are depositing, the security company management, and the insurance company adding the value will have to review the box or boxes, and it's the worth of the content that will be calculated before the value will be added. And as the manager of this company I was privileged to represent my company when the insurance value was to be added to these two boxes.\n\n\nBelow you will find the breakdown of the content of the aforementioned boxes, just want you to know what we both stand to benefit.\n\n\nApproximate kilo of gold is five hundred and fifty (550), kilos and per kilo price was calculated at    seventeen thousand five hundred dollars, (17, 500, 00), per kilo price, and the total five hundred fifty (550), kilos of gold amount to (USD$ 9, 625, 000, 00).The diamond carats is 7,044, in different carat weight and sizes, collectively we have weight sizes of 5.2  carat sizes, 7,21 and 8.15 this is in various size and in total the carats are 7,044 carat respectively, and the total breakdown is calculated at USD$2,857,00,00 per carat. And the total diamond, wish amount to (USD$ 20, 124, 708, 00). And the precious stone GREEN/EMERALD TOURMALINE with Vvs Clarity the sizes of the stones range from (2), two grams sizes to 5.5 sizes. The BLUE/GREEN TOURMALINE, with Vvs Clarity and sizes ranges from (2) two grams sizes to 4.5 grams, is worth (USD$ 3, 250, 202, 00)\n\n\nThe content in the other boxes contains (US$51, 000,000, 00), fifty one million Dollars, the insurance value was added in Euros, because of the unstable price of gold and diamond in the international market. The problem am having now is the balance of the outstanding storage fee because me and my former partner has paid 46thousand dollars, and the balance of the storage fee is Twelve thousand five hundred dollars (US$12,500), am in contact with you to see if you will be able to assist with the payment, because my company network will be audited on the March 30th 2012, and its imperative we get the boxes out before stipulated date? You will take 20% and I will take 40%, and we will give the balance 30% to the family of my former partner, and the balance 10% will be given to charity organization.\n\n\nI guarantee that this will be executed under legitimate arrangement that will protect us from the breach of the law. But the most important part is that you honor the confidentiality. Upon receipt of your positive response I shall then furnish you with every necessary document with regards to this transaction.\n\n\nYour earliest response to this mail will be highly appreciated.  For further detail please call (00233)-265-616-293.\n\n\nl must not forget to wish you and your family a blissful weekend.\n\n\nYours sincerely,\n\n\nDr. Akim Dantey.\n"
+p264
+sS'First_name'
+p265
+S'Akim'
+p266
+sS'Last_name'
+p267
+S'Dantey'
+p268
+sS'To'
+p269
+S'DR-AKIM_DANTEY@YAHOO.CO.UK'
+p270
+sS'Date'
+p271
+S'Fri Mar 16 04:05:28 2012'
+p272
+sS'Reply-To'
+p273
+S'dr.akim_dantey@yahoo.com'
+p274
+sS'Subject'
+p275
+S'REGARDS FROM DR. AKIM DANTEY. URGENT RESPONSE NEEDED.'
+p276
+ssI20
+(dp277
+S'Body'
+p278
+S'\nAttn: Sir\n\nI am Dr. Kingsley Moghalu. The Deputy Governor of the Central Bank of Nigeria in charge of the Financial Sector Surveillance (FSS) Directorate. My nomination as the Deputy Governor of the Central Bank of Nigeria was confirmed by the Senate on October 27, 2009. By virtue of my position as the Deputy Governor of the CBN, I have been mandated by the President of the Federal Republic of Nigeria (Dr. Goodluck Ebele Jonathan) to effect the immediate release of your funds via swift telegraphic wire transfer directly into your bank account. Please visit the website below to read my profile/biodata as the Deputy Governor of the Central Bank of Nigeria in charge of the Financial Sector Surveillance (FSS) Directorate:\n\nhttp://www.cenbank.org/AboutCBN/TheBoard.asp?Name=Dr%2E+Kingsley+Moghalu&amp;Biodata=moghalu\n\nFollowing the CBN re-engineering and re-structuring payment processes in 2011, we can now complete your fund transfer without further delay. Please kindly respond with your full details to enable us complete your transfer.\n\nYours faithfully.\n\nDr. Kingsley Moghalu\nDeputy Governor, Financial Sector Stability\n'
+p279
+sS'First_name'
+p280
+S'Kingsley'
+p281
+sS'Last_name'
+p282
+S'Moghalu'
+p283
+sS'To'
+p284
+NsS'Date'
+p285
+S'Fri Mar 16 04:05:34 2012'
+p286
+sS'Reply-To'
+p287
+S'cbniig00@rediffmail.com'
+p288
+sS'Subject'
+p289
+S'we can now complete your transfer without further delay'
+p290
+ssI21
+(dp291
+S'Body'
+p292
+S"\nHello This Message Is Respectfully Yours!\n\nI am writing this mail to you with tears and sorrow from my heart. With due=\nrespect , trust and humanity, i appeal  to you to exercise a little patient=\nand read through my letter, I wish to contact you personally for a long=\nterm  business relationship and investment assistance in your Country so i=\nfeel quite safe dealing with you in this  important business having gone=\nthrough your remarkable profile, honestly' i got your profile in Google=\ndata base  when i was searching for a reliable person who could stand as my=\nTrustee, i will really like to have a good  relationship with you and i=\nhave a special reason why i decided to contact you, i decided to contact=\nyou due to the  urgency of my situation, Nadia Kones is my name, a girl of=\n23yrs of age, single and I held from Kenya in  East Africa. My father was=\nthe former Kenyan road Minister. He and Assistant Minister of Home Affairs=\nLorna  Laboso had been on board the Cessna 210, which was headed to Kericho=\nand crashed in a remote area called  Kajong'a, in western Kenya. The plane=\ncrashed on the Tuesday 10th, June, 2008.\n\nYou can read more about the crash through the below site:\nhttp://edition.cnn.com/2008/WORLD/africa/06/10/kenya.crash/index.html\n\nAfter the burial of my father, my stepmother and uncle conspired and sold my=\nfather's property to an Italian Expert  rate which the shared the money=\namong themselves and live nothing for me. I am constrained to contact you =\nbecause of the abuse I am receiving from my wicked stepmother and uncle.=\nThey planned to take away all my late  father's treasury and properties=\nfrom me since the unexpected death of my beloved Father. Meanwhile i wanted=\nto  escape to the USA but they hide away my international passport and=\nother valuable traveling documents.Luckly hey  did not discover where i=\nkept my fathers File which contains important documents. So I decided to=\nrun to the  refugee camp where i am presently seeking asylum under the=\nUnited Nations High Commission for the Refugee  here in Ouagadougou,=\nRepublic of Burkina Faso.\n\nOne faithful morning, I opened my father's briefcase and found out the=\ndocuments which he has deposited huge  amount of money in bank in Burkina=\nFaso with my name as the next of kin. I traveled to Burkina Faso to=\nwithdraw  the money for a better life so that I can take care of myself and=\nstart a new life, on my arrival, the Bank Director  whom I met in person=\ntold me that my father's instruction/will to the bank is that the money=\nwould only be release  to me when I am married or present a trustee who=\nwill help me and invest the money overseas. I am in search of an  honest=\nand reliable person who will help me and stand as my trustee so that I will=\npresent him to the Bank for  transfer of the money to his bank account=\noverseas. I have chosen to contact you after my prayers and I believe  that=\nyou will not betray my trust. But rather take me as your own sister.\n\nAlthough, you may wonder why I am so soon revealing myself to you without=\nknowing you, well I will say that my  mind convinced me that you may be the=\ntrue person to help me. Moreso, My father of blessed memory deposited  the=\nsum of (US$5.800,000) Dollars in Bank with my name as the next of kin.=\nHowever, I shall forward you with the  necessary documents on confirmation=\nof your acceptance to assist me for the transfer and statement of the fund=\nin  your country. As you will help me in an investment, and i will like to=\ncomplete my studies, as i was in my 1year in  the university when my=\nbeloved father died. It is my intention to compensate you with 30% of the=\ntotal money for  your services and the balance shall be my capital in your=\nestablishment. As soon as I receive your positive response  showing your=\ninterest I will put things into action immediately. In the light of the=\nabove. I shall appreciate an  urgent message indicating your ability and=\nwillingness to handle this transaction sincerely.\n\nAwaiting your urgent and positive respond. Please do keep this only to your=\nself for now until the bank will transfer  the fund. I beg you not to=\ndisclose it till i come over because I am afraid of my wicked stepmother=\nwho has  threatened to kill me and have the money alone ,I thank God Today=\nthat am out from my country (KENYA) but now  In (Burkina Faso) where my=\nfather deposited these money with my name as the next of Kin. I have the=\ndocuments  for the claims.\n\nYours Sincerely\nMiss Nadia  Kipkalya\n"
+p293
+sS'First_name'
+p294
+S'Nadia'
+p295
+sS'Last_name'
+p296
+S'Kipkalya'
+p297
+sS'To'
+p298
+NsS'Date'
+p299
+S'Fri Mar 16 04:05:47 2012'
+p300
+sS'Reply-To'
+p301
+S'nadia.kipklya002@sify.com'
+p302
+sS'Subject'
+p303
+S'Hello This Message Is Respectfully Yours!'
+p304
+ssI22
+(dp305
+S'Body'
+p306
+S"\n\nI'm Wendy,I saw your profile and desire to know your better.I will appreciate \nyou reply back and tell me more about yourself .You can write to my email \naddress(wendykelvin53@yahoo.com)to enable me tell you more about myself.\n\n Regards, \n\nWendy.\n"
+p307
+sS'First_name'
+p308
+S''
+sS'Last_name'
+p309
+S'Wendy'
+p310
+sS'To'
+p311
+NsS'Date'
+p312
+S'Fri Mar 16 04:05:52 2012'
+p313
+sS'Reply-To'
+p314
+S'wendykelvin53@yahoo.com'
+p315
+sS'Subject'
+p316
+S'hello i am Wendy'
+p317
+ssI23
+(dp318
+S'Body'
+p319
+S'\nGood day!\n\nI am Mr Davi director auditing and accounting department" bank of Africa (boa) Ouagadougou, Burkina Faso .I discovered the sum of seven million, two hundred thousand dollars (usd7.2) belonging to a deceased customer of this bank the fund has been lying in a suspense account without anybody coming to put claim over the money since the account owner late, Mr Salla khat from Lebanese who was involved in the December 28th 2006 Benin car crash.\n\nit is therefore, upon this discovery that i decided to take this ultimatum and make this business proposal to you as the fund will be release to you as the next of kin or relation to the deceased for safety and subsequent disbursement since nobody is coming for it and i don\'t want this money to go into the bank treasury as unclaimed bill the banking rules here stipulates that if such money remained unclaimed after five years, the money will be transferred into the bank treasury as unclaimed fund. The request of foreigner as next of kin in this business is occasioned by the fact that the deceased customer was a foreigner and a Burkina be cannot stand as next of kin to a foreigner.\n\nTherefore, I am soliciting for your assistance to come forward as the next of kin. I have agreed that 40% of this money will be for you as the beneficiary respect of the provision of your account and service rendered, 60% will be for me. Then immediately the money transferred to your account from this bank, I will proceed to your country for the sharing of the fund. Call me through my telephone number: +226 75376152.\n\nYours faithful,\n\nMr Davi.\n'
+p320
+sS'First_name'
+p321
+S''
+sS'Last_name'
+p322
+S'Davi'
+p323
+sS'To'
+p324
+NsS'Date'
+p325
+S'Fri Mar 16 04:06:03 2012'
+p326
+sS'Reply-To'
+p327
+S'mr.davi0001@gmail.com'
+p328
+sS'Subject'
+p329
+S'Confidential Respond.'
+p330
+ssI24
+(dp331
+S'Body'
+p332
+S"Bill &amp; Exchange Manager\nBank of Africa (BOA)\nBurkina-Faso,West Africa.\n\nDear Friend,\n\nI am contacting you in regards to a business transfer of a huge sum of money from a deceased customer's account. I decided to contact you due to the urgency of this transaction. I discovered an abandoned sum of $11.8m dollars (Eleven million, eight hundred thousand USD) in an account that belongs to one of our foreign customers who died along with his entire family. Since his death, none of his relations has come forward to lay claims to this money as the heir. The bank cannot release the fund from his account unless someone applies for claim as the next of kin to the deceased as indicated in our banking guidelines. Upon this discovery, I now seek your permission to have you stand as a next of kin to the deceased as all documentations will be carefully worked out by me for the fund ($11.8m) to be released in your favor as the beneficiary's next of kin. Please acknowledge receipt of this message in acceptance of our mutual business endeavor by furnishing me with the following;\n\nYour name: ......................\nYour country: ...................\nYour Tel/fax: ...................\nYour age: .......................\nYour occupation: ................\n\nThese requirements will enable us file a letter of application form for the claim.I shall be compensating you with 40% on final conclusion of this project,while 50% will be for me and 10% will be for any expenses that may come up. Your share stays with you while my own share shall be for investment purposes in your country.If this proposal is acceptable by you,do not take undue advantage of the trust I have bestowed in you. Thanks for your understanding, while I expect your urgent reply.\nRegards\n\nMr. Kabiru Zongo.\n"
+p333
+sS'First_name'
+p334
+S'Kabiru'
+p335
+sS'Last_name'
+p336
+S'Zongo'
+p337
+sS'To'
+p338
+NsS'Date'
+p339
+S'Fri Mar 16 04:06:07 2012'
+p340
+sS'Reply-To'
+p341
+S'kabirzon@o2.pl'
+p342
+sS'Subject'
+p343
+S'HAVE A NICE WEKEND!'
+p344
+ssI25
+(dp345
+S'Body'
+p346
+S'OFFICIAL LETTER FROM FEDERAL BUREAU OF INVESTIGATION FBI\nFROM: ROBERT MUELLER III EXECUTIVE DIRECTOR FBI FEDERAL BUREAU OF\nINVESTIGATION WASHINGTON DC. FBI SEEKING TO WIRETAP INTERNET.\n\nATTENTION:\n\nWe sincerely apologize for sending you this sensitive information via e-mail instead of a certified mail, phone call or a face-to-face conversation. This means of communication is used due to the urgency and importance of the security information involve. In the quest to cushion the effect of the global financial crisis, American government through the Federal Bureau of Investigation (FBI) Washington, DC and the Internet Crime Complaint Center (ic3) has signed an agreement with Nigeria Government for an immediate release of all overdue funds,compensation presently logged in their treasury and ensure it is disbursed to the rightful beneficiaries in any part of the world.\n\nYour name was among those scammed as listed by the Nigeria Financial Intelligent Unit (NFIU)compensation has been issued out in ATM DEBIT CARD to all the affected victims and has been already in distribution to all the bearers. Your ATM CARD was among those that was reported undelivered as at last Friday and we wish to advise you to see to the instructions of the FedEx Courier Service Company in Nigeria to make sure you receives your ATM CARD immediately for your usage According to the number of applicants at hand, 114 Beneficiaries has been paid, over a half of the victims are from the United States,Australia,United Kingdom.Below is the information of your agent incharge of your package:\n\nAgent incharge: MR. kelvin williams\nEmail: mr_kelvin65@yahoo.com\ncall me on : +234-7030076481\n\nWe just got an information from the Central Bank of Nigeria and they have loaded your US$2.5 million usd dollars in ATM CARD and now ready to be delivered  to you vai  FedEx courier service company for immediate delivery to your doorstep.for quick delivery of your parcel containing your ATM CARD and other two original back up documents.You have the legitimate right to complete your transaction to claim your fund US$2.5 million usd dollars Recently the fund has been legally approved to be paid via Central Bank of Nigeria.\nOur office hereby sends to you the information submitted by MR.ROBERT WHITE of Indo- China group Ltd, with an application to receive the contract payment on your behalf. Please as a matter of urgency, you are required to verify the following information and inform us if you are aware or know anything about this.\n\n1. Did you instruct one MR.ROBERT WHITE of Indo-China group Ltd Hong-Kong, whose information\'s is below, to claim and receive the payment on your behalf?\n\n2. Did you sign any "Deed of Agreement" in his favor thereby making him the current beneficiary with the following account details?\n\nAccount Name: Indo- China Group Ltd,\nA/C #USD114-1025867-8,\nBank Name: Standard Chattered Bank,\nHong Kong , Swift Code: SCBL 11K111.\nFinally, you are hereby advised to indicate to this honorable office with immediate effect, if you are the person that instructed MR.ROBERT WHITE to come for the claim of these funds, to enable me endorse for the final approver.\n......................................................................................\n\nPLEASE CONFIRM YOUR DELIVERY ADDRESS BELOW:\nFull Name:.........\nSex:...................\nMailing Address:..........\nCountry:\nPersonal Phone Number...........\nOccupation:.................\nAlternative E-mail.................\n\nBest Regards,\n\nRobert S. Mueller III\nFederal Bureau of Investigation\nJ. Edgar Hoover Building\n935 Pennsylvania Avenue,\nNW Washington, D.C.\n20535-0001, USA.  \n'
+p347
+sS'First_name'
+p348
+S'kelvin'
+p349
+sS'Last_name'
+p350
+S'williams'
+p351
+sS'To'
+p352
+NsS'Date'
+p353
+S'Fri Mar 16 04:06:13 2012'
+p354
+sS'Reply-To'
+p355
+S'mr_kelvin65@yahoo.com'
+p356
+sS'Subject'
+p357
+S'OFFICIAL LETTER FROM FEDERAL BUREAU OF INVESTIGATION FBI'
+p358
+ssI26
+(dp359
+S'Body'
+p360
+S'\n"2012 invitation to supply products from your national"\n\nfrom the desk of mr ali Abdul kwesi\nOperation Manager lusco consult limited\nno ;16 edewor street kumasi,\nghana west africa,\ntel;+233-265-435-987\n\nghana presidency &amp; ecowas are looking for suppliers/exporters from your national to supply bath towel and other items listed below very urgent for the ongoing 2012 rehabilitation exercise to Ghana prisons, hospitals and orphanage homes hence my director ask me to write you an invitation today if you can handle supply of any of those project effectively as our company trustee from your national with below specifications for the ongoing 2012 tender.\n\nprocedure of the supplies, our company is a commission agent registered with ecowas/ghana presidency and our company commission is 1% of the total invoicing on any of those items supplied to ghana presidency &amp; ecowas and our commission is paid to us upon satisfactory confirmation of contract payment from buyer ghana presidency &amp; ecowas to your account and it will be our company pleasure to work co-cooperatively with your esteemed organization to secure this tender for the mutual benefits for us all.\n\nbelow is the specification of bath towels\n=========================================\n\n1.yarn : 100% cotton\n2.color : white\n3.size: 70 x 140 cm.\n4.gsm - 320\n5.weight 312g/pc\n6.quantity: one million pcs.\n7.packing : 1pc in white poly bag and 12pcs/dozen in big poly bag and put inside carton\n8.targeted price $5usd per one piece\n\nterms of payment:100% bank tt in advance because of the urgency of the supply: quotation fob delivery time : 180 days after receipt of payment to your account. Note,partial shipment is allowed; awaiting your call/reply to prove that you are capable of handling supply of any of those listed items effectively as our company trustee from your national.\n\nfinally upon your reply i shall feed you with full details/procedure for the supply of any of those items required for urgent supply from your national and for us to be sure that you receive this mail awaiting your urgent call/reply.\n\nbest regards.\nmr ali Abdul kwesi\n\nn.b\n\nAlso,Please keep me update if you can supply any of those items listed below in large quantity to enable my director give you full details specifications &amp; quantity needed for supply on each of those items listed\n\n1) t-shirt\n2) hospital bed sheets\n3) cement\n4) gloves\n5) fire Extinguishers\n6) milks\n7) sugar\nrice\n9) computers\n\nthanks\n'
+p361
+sS'First_name'
+p362
+S'ali'
+p363
+sS'Last_name'
+p364
+S'Abdul'
+p365
+sS'To'
+p366
+NsS'Date'
+p367
+S'Fri Mar 16 04:06:18 2012'
+p368
+sS'Reply-To'
+p369
+S'noreply@justgiving.com'
+p370
+sS'Subject'
+p371
+S'"2012 invitation to supply products from your national"'
+p372
+ssI27
+(dp373
+S'Body'
+p374
+S'\n Hello Dearest\n\nMy Name is Mrs Mary Cheril Cole,Am from united states of america.i was \nmarried to late mr Samuel cole an american late soldier that died in \nafghanistan horrible accident.\nfollowing the deployment of some american soldiers that was deploy to \nkabul,afghanistan 2009 my husband was one list in the soldiers send this \ntime to kabul as some groups to support the citizen and bring peace to \nthe residence of the country under Word (United Nations Nato).\nAfter one year in kabul camp where America soldiers have there resident \nin the time of holiday  i travel to meet him in afghan me and my only \ndaughter.\nMy husband and some taliban soldiers found Gold of 700,000 tons kilogram \nunderground the house of Ahmad Shah desecendant from Indian and persians \ntribe from afghan.\nthe kilos of Gold 700,000 kilo worth in all slate of gold 80million \ndollars,which a name HAMAD bin Saeed Al Maktoum Gulf Persian The son of \nprime minister of united Arab Emirate came to buy them all.\nThe money was share by my husband and group of taliban soldiers in his \nown share worth $million..one of the taliban in police uniform \npretendendly make imself as an official direct a straight gun to my \nhusband and struck him down.After Cole died this money cannot be moved \nto USA because the government will probe on many reasons for this money \nand my Husband was a soldier under assignment\nI plane my move back home to US but cannot move this money out,but i \nseek the help of friend soldier american help me move this money to \nunited nation out of Kabul afghan.\nThe money is in united nation now,cant carry it to USA because of \nlaundry probe and as an American single woman.some documents was arrange \nby one Afghanistan Lawyer and invoice of purchase from Hamad Bin Saeed \nthe gulf.\nam in need of honest serios man can help me recieve this money and \ninvest in his country and this deal be between us.\ni will offer 15% to him after recieve the package and me and him can \nleave together with my only daughter.\ni live in ohio USA now and my lovely daughter and will send you my \ncontact details and addresses.\nMadam Mary Cheril Cole.\n'
+p375
+sS'First_name'
+p376
+S'Mary Cheril'
+p377
+sS'Last_name'
+p378
+S'Cole'
+p379
+sS'To'
+p380
+NsS'Date'
+p381
+S'Fri Mar 16 04:06:29 2012'
+p382
+sS'Reply-To'
+p383
+S'marycheril123@gmail.com'
+p384
+sS'Subject'
+p385
+S'Hello Dearest'
+p386
+ssI28
+(dp387
+S'Body'
+p388
+S"\nGood Day,\n\nWe need to inform you that Chase Bank, New York have instructed credited your account with the approved amount of US$10,500,000.00 Million United States Dollars only as instructed by Central Bank of Nigeria.\n\nFurther more the bank has demanded for Fund  Transaction Report (FTR) asbeen requested by Holland security, IRS and FBI proving that fund has nothing to do with money laundry, drug, terrorist or other related offenses. On this point I have communicated with the insuring Authorities and they made me to understand that the requested documents will cost you the Sum of $120.00 hence it will pave way for the transmission of your fund to your account.\n\nBe informed that  Chase Bank can not contact you based on the fact that you have not provided them with the transfer Currency Transaction Report as been requested by Holland security, and IRS proving that fund has nothing to do with money anti drugs/anti terrorist, certificate of ownership.\n\nBase on the urgency we urge you to send the fee as you were been directed to get the requested information done in your favor.\n\nDirect the fees via western union through the under mentioned named person:\n\nReceiver's Name: Godwin Opara.\nAddress: Lagos, Nigeria.\nAmount: $120.00\n\nForward the payment receipt with the receiving bank account information of yours to us for immediate transfer of your fund.\n\nThe fund will confirm in your account within two days.\n\nRegards,\nMrs. Mary Jones\nForeign Reserve Escrow Account Officer\nChase Bank, New York.\n"
+p389
+sS'First_name'
+p390
+S'Mary'
+p391
+sS'Last_name'
+p392
+S'Jones'
+p393
+sS'To'
+p394
+NsS'Date'
+p395
+S'Fri Mar 16 04:06:33 2012'
+p396
+sS'Reply-To'
+p397
+S'chasebank.newyork@ymail.com'
+p398
+sS'Subject'
+p399
+S'FUND TRANSFER US$10,500,000.00 FROM CHASE BANK NEW YORK'
+p400
+ssI29
+(dp401
+S'Body'
+p402
+S'\nI am sorry *to *encroach *into *your *privacy *in this *manner, *offering you *friendship *in *business, *I want to *solicit *your *attention to *receive *money on *my behalf. The *purpose of* *my contacting *you is because *my status *would *not permit *me to do this *alone. *If interested, *please reply, *In *replying *kindly *state *the following: *Your full *names, *Age, and *Location : *Regards,Okau\n'
+p403
+sS'First_name'
+p404
+NsS'Last_name'
+p405
+NsS'To'
+p406
+S'subc@vent.com'
+p407
+sS'Date'
+p408
+S'Fri Mar 16 04:09:19 2012'
+p409
+sS'Reply-To'
+p410
+S'Tskiko_Setsuko@aol.com'
+p411
+sS'Subject'
+p412
+S'Re: Proposal Offer'
+p413
+ssI30
+(dp414
+S'Body'
+p415
+S"\nDear Friend,\n\nI am Mr Park Zihao, an Account Officer With the International bank of Taipei,I have a very sensitive and confidential brief for you from international bank of Taipei, Taiwan. I am requesting for your partnership in re- profiling funds I will give you details, but in summary,the funds are coming via Bank Of Taipei Taiwan.\n\nThis is a legitimate transaction, You will be paid 30% for Management Fees. If you are interested, please write back and provide me with your confidential telephone and fax  numbers, and I will provide further details and  instruction. please keep this confidential, as we can't afford more political problem. Finally, please note that this must be concluded within two weeks. Please write back promptly via this confidential email address\n{parkzihao7@w.cn} for further information\nI look forward to it.\n\nRegards,\nMr Park Zihao\n\nEmail: parkzihao7@w.cn\n"
+p416
+sS'First_name'
+p417
+S'Park'
+p418
+sS'Last_name'
+p419
+S'Zihao'
+p420
+sS'To'
+p421
+S'infor@yahoo.com'
+p422
+sS'Date'
+p423
+S'Fri Mar 16 04:09:33 2012'
+p424
+sS'Reply-To'
+p425
+S'parkzihao7@w.cn'
+p426
+sS'Subject'
+p427
+S'Requesting For Your Partnership'
+p428
+ssI31
+(dp429
+S'Body'
+p430
+S'\nI am writing you to claim some funds with your last name.Write back for details\n'
+p431
+sS'First_name'
+p432
+NsS'Last_name'
+p433
+NsS'To'
+p434
+S'info@info.net'
+p435
+sS'Date'
+p436
+S'Fri Mar 16 04:11:55 2012'
+p437
+sS'Reply-To'
+p438
+S'llkhinua@sify.com'
+p439
+sS'Subject'
+p440
+S'important info'
+p441
+ssI32
+(dp442
+S'Body'
+p443
+S"This e-mail came from gulfpallett@sahara.com.sa\n\nNote that they want you to respond to a different e-mail address.\n\nAlso, they don't want you to call, probably because the phone number will ring up the ITP Japanese lawyer:\nI am Ohnuki Kensuke Esq Attorney at Satsuki Law Firm here in Japan I urgently have a collection matter for you in your jurisdiction reply me to discuses this further because of the time difference between Asia and America we prefer communication via email.\nwaiting to here from you Regards\n\nOhnuki Kensuke Esq Attorney-At-Law\nSatsuki Law Firm\n(LAWYERS/SOLICITORS)\nDaini-Tobundo Bldg. 3rd Floor\nAgebacho 2-16, Shinjuku-ku\nTokyo 162-0824 Japan\nTel:03-5161-5291\nFax:03-5761-8203\nEmail: ohnuki_kensuke_esq@lawyer.com\n\n  \n\nBruin\n"
+p444
+sS'First_name'
+p445
+S'Ohnuki Kensuke'
+p446
+sS'Last_name'
+p447
+S'Esq'
+p448
+sS'To'
+p449
+NsS'Date'
+p450
+S'Fri Mar 16 04:12:05 2012'
+p451
+sS'Reply-To'
+p452
+S'ohnuki_kensuke_esq@lawyer.com'
+p453
+sS'Subject'
+p454
+NssI33
+(dp455
+S'Body'
+p456
+S'\nHow are you today?\n\nI write to inform you that we have already sent you USD $5000.00. dollars through Western union as we have been given the mandate to transfer your full compensation payment total sum of USD $8.200.000.00 via western union by this governement.\n\nI was calling your telephone number to give you the information through phone but you did not pick up my calls throughout that yesterday even this morning.Now, I decided to email you the MTCN and sender name so that you will pick up this USD $5000.00. to enable us send another USD $5000.00. today as you know we will be sending you only US$5000.00. per day. Please pick up this information and run to western union to pick up the USD $5000.00. and call me back to send you another payment today,\n\nDirector western Union Benin Republic\nManager:::: Mr FRANK BEN\nMy direct phone line is +229-989-178-09,\nEMAIL:::::: (( w.union.office1@globomail.com ))\n\ncall or email me once you picked up this USD $5000.00. today. Here is the western union information to pick up theUSD $5000.00.;\n\nSENDER NAME:===IGNATIUS NWOKEDI \nMTCN NUMBER:=== 6412112340\nText Question: HONEST\nAnswer: TRUST\nAmount: USD $5000.00\n\n I am waiting for your call once you pick up this USD $5000.00 Please email me your direct telephone number because I need to be calling you once we send any payment for the informations.\n\nThanks\nBARR PETER WILLIAM\n'
+p457
+sS'First_name'
+p458
+S'FRANK'
+p459
+sS'Last_name'
+p460
+S'BEN'
+p461
+sS'To'
+p462
+NsS'Date'
+p463
+S'Fri Mar 16 04:12:21 2012'
+p464
+sS'Reply-To'
+p465
+S'w.union.office1@globomail.com'
+p466
+sS'Subject'
+p467
+NssI34
+(dp468
+S'Body'
+p469
+S'\nI am the Principal Group Managing Director and Administrative Officer of Nigerian National Petroleum Corporation (NNPC), to President G E Jonathan has instructed me to allocate an Oil Block Allocation to the tune oF 85M USD to a private account which was deposited in a blank beneficiary account name omitted, Any foreign name can be presented to the paying banks for the payment which will be accepted by the paying bank in Ghana, provided the person must not be a Nigerian citizen.\nThanks.  \n'
+p470
+sS'First_name'
+p471
+S''
+sS'Last_name'
+p472
+S'Jonathan'
+p473
+sS'To'
+p474
+NsS'Date'
+p475
+S'Fri Mar 16 04:12:25 2012'
+p476
+sS'Reply-To'
+p477
+S'augustineooniwon111@gmail.com'
+p478
+sS'Subject'
+p479
+S'PROPOSAL...'
+p480
+ssI35
+(dp481
+S'Body'
+p482
+S"\nTREAT AS URGENT PLEASE!!!!!!!\nFROM THE DESK OF M.AHMED GARUBA\nAUDITING AND ACCOUNTING DEPARTMENT.\nBANK OF AFRICA (BOA)\nOUAGADOUGOU - BURKINA FASO.\n\n\nDEAR FRIEND,\n\nI HOPED THAT YOU WILL NOT EXPOSE OR BETRAY THIS TRUST AND CONFIDENT THAT I AM ABOUT TO IMPOSE ON YOU FOR THE MATUAL BENEFIT OF OUR FAMILIES.\n\nI NEED YOUR URGENT ASSISTANCE IN TRANSFERRING THE SUM OF ($10.5) MILLION TO YOUR ACCOUNT WITHIN 10 TO 17 BANKING DAYS THIS MONEY HAS BEEN DORMANT FOR YEARS IN OUR BANK WITHOUT ANY BODY CLAIMING THE FUND.\n\nI WANT THE BANK TO RELEASE THE MONEY TO YOU AS THE NEXT OF KIN TO OUR DECEASED CUSTOMER (THE OWNER OF THE ACCOUNT) BELONGS TO ONE OF OUR FOREIGN CUSTOMER (MR. ANDREAS SCHRANNER) WHO DIED ALONG WITH HIS ENTIRE FAMILY ON MONDAY 31th JULY 2000 PLANE CRASH.\n\n IN SUBSEQUENT DISBURSEMENT OF THE MONEY, 45% OF THIS MONEY WILL BE FOR YOU IN RESPECT OF THE PROVISION YOU MADE BY STANDING AS THE NEXT OF KIN TO CLAIM THIS FUND WHY 55% WILL BE FOR ME. YOU AND I WILL TAKE CARE OF THE EXPENSES THAT WILL COME UP DURRING THE TIME OF TRANSFER.\n\nI DON'T WANT THE MONEY TO GO INTO OUR BANK ACCOUNT AS AN ABANDONED FUND. SO THIS IS THE REASON WHY I CONTACTED YOU SO THAT THE BANK CAN RELEASE THE MONEY TO YOU AS THE NEXT OF KIN TO THE DECEASED CUSTOMER.\n\nPLEASE I WILL LIKE YOU TO KEEP THIS PROPOSAL AS A TOP SECRET AND DELETE IT IF YOU ARE NOT INTERESTED I WILL GIVE YOU MORE DETAILS ABOUT THIS PROJECT WHEN I HEAR FROM YOU  HAVE A GREAT DAY.\n\nYou can view this site to know more.\nhttp://news.bbc.co.uk/1/hi/world/europe/859479.stm\n\nSEND TO ME YOUR INFORMATIONS AS FOLLOWS;\n\n1. NAME IN FULL:.......................\n2. ADDRESS:..............................\n3. NATIONALITY:......................\n4. AGE:.....................................\n5. SEX........................................\n6. OCCUPATION:......................\n7. MARITAL STATUS:............\n8. PHONE..................................\n9. FAX:........................................\n10 SCAN AND SEND A COPY OF YOUR IDENTITY CARD TO\nME.\n\n\nN.B  PLEASE I BEG YOU WITH THE NAME OF GOOD ALLAH IF YOU CAN NOT FINISH THIS BUSINESS DO NOT CARE TO REPLY I DON'T WANT THIS MONEY TO HANG ON THE WAY.\n\nI AM WAITING FOR YOUR URGENT RESPOND TO ENABLE US PROCEED FURTHER FOR THE TRANSFER.\n\nYOURS FAITHFULLY\n\nM. AHMED GARUBA\n"
+p483
+sS'First_name'
+p484
+S'M. AHMED'
+p485
+sS'Last_name'
+p486
+S'GARUBA'
+p487
+sS'To'
+p488
+NsS'Date'
+p489
+S'Fri Mar 16 04:14:22 2012'
+p490
+sS'Reply-To'
+p491
+S'm.ahmed111@sify.com'
+p492
+sS'Subject'
+p493
+S'TREAT AS URGENT PLEASE!!!!!!!'
+p494
+ssI36
+(dp495
+S'Body'
+p496
+S'Somebody might be able to have a little fun with this one. Got it from puppyfinder.com while I was looking for a dog.\n\nYou\'re lucky to have mailed at this time because the puppy has just been placed on adoption by one of my customers, who went on a Missionary transfer with the West African Missionaries, West Africa . he is giving the pup up for adoption for $350 because he cant take good care of the pup due to his busy and tight schedule at church and at his missionary work. All he wants is someone that\'s homely and a caring person to adopt this young and lovely human best friend." he will give the Puppy to you if you promise to take good care of the puppy. he needs a neat and caring home for his puppy because he really wants the puppy to go to a good home. If you are willing to take the puppy contact the Reverend at (revharrisonbatt@gmail.com)\n\nAnd this is the reply that I got back from the honorable Reverend. He does want money sent via Western Union too.\n\nHello\n\n\n\nMy name is Rev Harrison Batt, Yes the puppy is still up for adoption.May the peace of the Lord be with you.I am in the climax of my missionary training which I am very happy a bout.I was posted to Nigeria(West Africa) for a missionary assignment which will round up my missionary school.My love for God has changed so many life\'s and brought hope to the lost.My puppy is A kc reg and ready for a good home.She is potty trained,loves kids and other domestic pets and up to date with all her shots,also vet checked and medically certified.Due to its my first time of coming to Nigeria,i needed someone to keep me company.I came along with Angel to keep me company.Presently my busy schedules and travels all over Nigeria is not given me the chance to take care of Angel.I am really not happy about adopting Angel out and Angel is not happy but really have no choice.I have prayed to God about this and i still waiting for the right person to take perfect care of Angel for me.My puppy\'s name is Angel and she is 12wks.I am in search for a good and caring person for Angel.I am presently in west Africa Nigeria with the puppy.I am giving the puppy for $350 including shipping and handling charges.If interested in giving Angel a good home get back to me with your full shipping information\n\nwhich includes your\n\n\n\n\nFull Name............?\n\nAddress.......................?\n\nCity...................................?\n\nState..................................?\n\nZip code............................?\n\nTelephone number.............?\n\nClosest International Airport.............?\n\n\n\nAlso give me a possibility and prove that Angel will be care for Contact phone number You can reach me. Call Now  .Cell   +2348167336899\n\nThanks And God bless\n\nRev Harrison Batt\n\nHave Fun\n'
+p497
+sS'First_name'
+p498
+S'Rev Harrison'
+p499
+sS'Last_name'
+p500
+S'Batt'
+p501
+sS'To'
+p502
+NsS'Date'
+p503
+S'Fri Mar 16 04:16:25 2012'
+p504
+sS'Reply-To'
+p505
+S'revharrisonbatt@gmail.com'
+p506
+sS'Subject'
+p507
+NssI37
+(dp508
+S'Body'
+p509
+S"\nDr.Anderson Jeffered\nDirector T.N.T Courier Company Ltd \nDirector Direct Line +229996282749\n\nAttn; Beneficiary,\n\nI'm.Dr Anderson Jeffered, Management Director,T.N.T Courier Company Benin, I am writing to inform you that the diplomatic agent conveying your consignment box valued the sum of $3.7M, Three Million Seven Hundred Thousand United States Dollars misplace your address and he is currently standing at your International airport now. Meanwhile, I want you contact Him now and reconfirm the following informations below to Him so that he can deliver your Consignment Box to you today, reconfirm below to him.\n\nYOUR FULL NAME: ==========\nYOUR HOME ADDRESS: ======================================\nYOUR CURRENT CITY LOCATION=========================\nYOUR DIRECT CELL PHONE LINE: ===============\nNAME OF YOUR NEAREST AIRPORT: ==========\nA COPY OF YOUR IDENTIFICATION: =======\nWORKING POSITION==================\n\nPlease do contact the diplomatic agent on his email below with the informations required from you. His name is Mr. Kenedy Hunters his E-mail address is this (diplomatkenedyhunter@qatar.io)He is waiting to hear from you today with the  informations requested above.\n\nNOTE: The Diplomatic agent does not know that the content of the consignment box is $3.7 Millions United States Dollars and on no circumstances should you let him know the content.The consignment was moved from here as a family treasures and we did it so for security reasons, so never allow him to open the box or disclose the content to Him.\n\nYours Sincerely\nDr.Anderson Jeffered\nDirector T.N.T Courier Company Ltd \nDirector Direct Line +229996282749\n"
+p510
+sS'First_name'
+p511
+S'Kenedy'
+p512
+sS'Last_name'
+p513
+S'Hunters'
+p514
+sS'To'
+p515
+NsS'Date'
+p516
+S'Fri Mar 16 04:16:30 2012'
+p517
+sS'Reply-To'
+p518
+S'diplomatkenedyhunter@qatar.io'
+p519
+sS'Subject'
+p520
+S'Contact Diplomat Kennedy Hunter'
+p521
+ssI38
+(dp522
+S'Body'
+p523
+S'DIAMOND BANK.\nATM International credit Settlement.\nDirectorate of International Payment.\n\nDear, Beneficiary,\n\nThis is to officially notify you about your Fund that was suppose to be rendered to\nyou via numerous ways i.e, Courier Companies, Western Union Money Transfers and\nBanks. Due to this lost of Funds of hours which was suppose to be given to you but\nfailed to. So in this case, a beneficial meeting was held on the 10th of January\n2011 at the World Bank in Switzerland, which top officials and Central Bank\nGovernors from different countries in the world were present at the meeting. Which\nthey discussed on how youre Fund can be given to you without any loss at this time,\nwhich you have to stop any further communication with any other person(s) or\noffice(s) to avoid any hitches in receiving your ATM payment.\n\nIn conclusion at the meeting, The President of World Bank Mr.Robert B.Zoellick has\nstrictly authorized 6 Banks in the World to deliver all Funds through courier\ncompanies. Your Fund which is truly $2.5 Million USD (Two Million, Five Hundred\nThousand United States of America Dollars) to all beneficiaries in various countries\nin the world as an ATM MASTER CARD. Below are the authorized Banks;\n\nDaiwa Bank/Osaka/Japan.\n....................................\nCaja De Madrid/Madrid/Spain.\n....................................\nLloyds Bank/London/England.\n.......................................\nDiamond Bank Plc/Lagos/Nigeria.\n......................................\nBanco di Santo Spirito/Rome/Italy.\n........................................\nBank of New York Mellon Corp/New York/USA.\n\nEach of this Banks are to distribute 350 ATM MASTER CARDS to every beneficiaries in\nthe World that are to receive their compensation ATM CARD, so this Bank (DIAMOND\nBankPlc.) will send you your ATM CARD which you will use to withdraw your money in\nany ATM machine in any part of the world, but the maximum withdrawal is $50,000 USB\nper day while minimum withdrawal is $20,000 USB per day. Note that this ATM CARD of\nyours has been activated and a security pin code number will be issued to you from\nthis Bank as soon as you receive your Card for a safer withdrawal. Please contact\nthe ATM CARD payment department Manager MR. Eric PAULSON Smith by sending your\ninformation to him for an immediate response. Contacts of Mr Eric Smith are as\nbelow;\n\nMr. Eric Smith. Director of ATM payment department DIAMOND BANK Plc.\nEmail: eric.smith1@w.cn\nTel: +234 708 780 6373\n\nNOTE:FOR NON APPEARANCES,DO NOT CONTACT MR. ERIC SMITH, IF YOU CAN NOT PAY FOR THE\nSHIPPING OF YOUR ATM CARD.\n\nYour Full Name:...............\nCountry/Your Address:.................\nOccupation:....................\nContact Home/Cell Phone:...................\nAge/Sex:.................................\nA Scan Copy of your Identity:.......................\n\nPlease make a Choice of delivery for the Shipping of your ATM CARD as they are as\ncharged Below\n\nDHL COURIER COMPANY&gt;&gt;&gt;&gt;&gt;&gt;Shipping fee: $450.00 (1 day delivery)\nFedEx COURIER COMPANY&gt;&gt;&gt;&gt;Shipping fee: $335.00 (2 day delivery)\nUPS COURIER COMPANY&gt;&gt;&gt;&gt;&gt;&gt;Shipping fee: $215.00 (3 day delivery)\n\nFor oral discussion, you can reach Mr. Eric Smith on email or call his office\ntelephone line given to you above as soon as you receive this important message for\nfurther directions and also update him on any development from the above mentioned\noffice. Note that is because of impostors, we hereby issued you our code of conduct,\nwhich is (ATM) so you have to indicate this code when contacting the card centre by\nusing it as your subject.\n\nSincerely Yours,\n\nMr. Eric Smith.\nChief Remittance Officer,\nDIAMOND BANK Plc,\nAnd In Respect of The World Bank\n \n'
+p524
+sS'First_name'
+p525
+S'Eric'
+p526
+sS'Last_name'
+p527
+S'Smith'
+p528
+sS'To'
+p529
+NsS'Date'
+p530
+S'Fri Mar 16 04:16:35 2012'
+p531
+sS'Reply-To'
+p532
+S'eric.smith1@w.cn'
+p533
+sS'Subject'
+p534
+S'PJM-&gt; 02/29/2012 - COMPENSATION FROM WORLD BANK&gt;&gt;CONTACT MR. ERIC SMITH IMMEDIATELY FOR YOUR ATM CARD.'
+p535
+ssI39
+(dp536
+S'Body'
+p537
+S'\nAtt: Winner,\n\nWe Congratulate you, as you have been awarded the sum of  GBP 1,220.000.00 (One Million Two Hundred and Twenty thousand Great British pounds) from Olympic 2012 lottery draw 2012.\n\nPlease, Kindly View the attachment and get back to us.\nOn behalf of the Board kindly, accept our warmest congratulations.\nBest Regards,\nDr. (Mrs.) Rawlins Sandra\n([Publicity Secretary])\n--\nThis email message, including any attachments, is intended only for the use of the intended recipient and may contain information that is privileged, confidential and prohibited from unauthorized disclosure under applicable law. If you are not the intended recipient of this message, any dissemination, distribution or copying of this message is strictly prohibited. If you received this message in error, please notify the sender by reply email and destroy all copies of the original message.  Copyright) 200 UK Lotteries. All rights reserved\n\nFrom The Desk of Mrs. Rawlins Sandra             ATT: WINNER, OLMP 21-2012/84\nPO Box 1010, Liverpool L70 1NL- UK               REF: GE/06/UKNTLOLMP\nTel: +44 (0) 703 1745 584                        BATCH NO: UK/2012-067 /OLMP\nFax: +44 (0) 844 7749 749\n\nEmail; processingoffice@london.com\n\nSat, February 18, 2012\nWINNING NUNBERS\n5 8 10 18 30 47 Bonus 35\n\nAttn: Winner, Ref GE/06/UKNTLOLMP\n\nWe happily announce to you the draw of Olympics National Lottery conjunction with EURO 2012\nonline Sweepstakes International program held this year 2012.\n\nYou have won 1,220.000.00 (One Million Two Hundred and Twenty thousand Great British\npounds) from Olympic 2012 lottery draw 2012.Your Email Address was one of the selected emails all\nover the world in the lottery draw and it was selected as one of the lucky winning emails that falls within\nthe above numbers. It is a promotion that we embarked on this 2012 that normally takes place every\nWednesday, Thursday and Saturdays.\n\nNOTE: To confirm that you have the winning number for the February 18th 2012 draw, visit:\nhttp://www.lottolore.com/ontario49.html Check under Ontario 49.\n\nFor us to process your winning for transfer you are advice to contact or call our agent with the\ndetails below in United Kingdom for your payment.\nName: Dr. Simon Raph\nEmail: processingoffice@london.com\nTel: +44 (0) 703 1745 584\nFax: +44 (0) 844 7749 749\nPlease call after forwarding the following details below\n1. Name (in Full):\n2. Country:\n3. Address:\n4. Direct Telephone No:\n5. Age:\n6. Occupation/position:\n7. Next Of Kin:\nCongratulations!! Once again.\nYours in service, SP\n'
+p538
+sS'First_name'
+p539
+S'Simon'
+p540
+sS'Last_name'
+p541
+S'Raph'
+p542
+sS'To'
+p543
+NsS'Date'
+p544
+S'Fri Mar 16 04:16:40 2012'
+p545
+sS'Reply-To'
+p546
+S'processingoffice@london.com'
+p547
+sS'Subject'
+p548
+S'FINAL OFFICIAL NOTICE'
+p549
+ssI40
+(dp550
+S'Body'
+p551
+S'Fake headers - No IP\n Quote:   reply-to:\t jamesgalagherloanfirm@gmail.com\nto:\t\ndate:\t Mon, Feb 27, 2012 at 4:29 PM\nsubject:\t RE:  jamesgallagher  james@apollogs.com\n\nto undisclosed recipients\n\nGOODDAY,\n\n         I AM MR. JAMES GALLAGHER A REGISTERED MONEY LENDER. I OFFER\nLOANS TO BOTH COMPANIES AND INDIVIDUALS AT LOW INTEREST RATE EVEN\nWITH BAD CREDIT BE IT SHORT OR LONG TERM LOAN. IF INTERESTED IN THIS\nOFFER, CONTACT ME ON jamesgalagherloanfirm@gmail.com WITH THE FOLLOWING\nDETAILS BELOW.\n\n                  FULL NAMES:\n                 ADDRESS:\n                 STATE:\n                 COUNTRY:\n                 CONTACT PHONE#:\n                 AMOUNT NEEDED:\n                 PURPOSE OF LOAN:\n\n          I AWAIT YOUR SWIFT RESPONSE.\n\nREGARDS,\nJAMES GALLAGHER\n \n'
+p552
+sS'First_name'
+p553
+S'JAMES'
+p554
+sS'Last_name'
+p555
+S'GALLAGHER'
+p556
+sS'To'
+p557
+NsS'Date'
+p558
+S'Fri Mar 16 04:17:10 2012'
+p559
+sS'Reply-To'
+p560
+S'jamesgalagherloanfirm@gmail.com'
+p561
+sS'Subject'
+p562
+NssI41
+(dp563
+S'Body'
+p564
+S'Fake headers - No IP\n Quote:   reply-to:\t jamesgalagherloanfirm@gmail.com\nto:\t\ndate:\t Mon, Feb 27, 2012 at 4:29 PM\nsubject:\t RE:  jamesgallagher  james@apollogs.com\n\nto undisclosed recipients\n\nGOODDAY,\n\n         I AM MR. JAMES GALLAGHER A REGISTERED MONEY LENDER. I OFFER\nLOANS TO BOTH COMPANIES AND INDIVIDUALS AT LOW INTEREST RATE EVEN\nWITH BAD CREDIT BE IT SHORT OR LONG TERM LOAN. IF INTERESTED IN THIS\nOFFER, CONTACT ME ON jamesgalagherloanfirm@gmail.com WITH THE FOLLOWING\nDETAILS BELOW.\n\n                  FULL NAMES:\n                 ADDRESS:\n                 STATE:\n                 COUNTRY:\n                 CONTACT PHONE#:\n                 AMOUNT NEEDED:\n                 PURPOSE OF LOAN:\n\n          I AWAIT YOUR SWIFT RESPONSE.\n\nREGARDS,\nJAMES GALLAGHER\n \n'
+p565
+sS'First_name'
+p566
+S'JAMES'
+p567
+sS'Last_name'
+p568
+S'GALLAGHER'
+p569
+sS'To'
+p570
+NsS'Date'
+p571
+S'Fri Mar 16 04:17:10 2012'
+p572
+sS'Reply-To'
+p573
+S'james@apollogs.com'
+p574
+sS'Subject'
+p575
+NssI42
+(dp576
+S'Body'
+p577
+S'\nI am Dr.Morris Wilson,The Director incharge of Auditing section of Bank of Africa (BOA) in Ouagadougou,Burkina Faso. I need your urgent business assistance in transferring an abandoned sum of ($19.3 Million) dollars left by a deceased customer of my bank immediately to your account.\nIf you are interested and ready to partake in this great business opportunity,kindly send your profiles to me including your Name,your private telephone number for easy communication.\nI will send you full details on how the business will be executed and also note that you will receive 40% of the above mentioned amount if you agree to help me execute this business.\nMay the almighty God be with you at all times so Please contact me back FOR THE FULL DETAILS OF THIS PROPOSAL,WITH THE\nFOLLOWING INFORMETIONS.\nYOUR FULL NAME..........................\nYOUR PHONE NUMBER........................ ....\nRespectfully.\n'
+p578
+sS'First_name'
+p579
+S'Burkina'
+p580
+sS'Last_name'
+p581
+S'Faso'
+p582
+sS'To'
+p583
+NsS'Date'
+p584
+S'Fri Mar 16 04:17:15 2012'
+p585
+sS'Reply-To'
+p586
+S'dr.morriswilson@gmail.com'
+p587
+sS'Subject'
+p588
+S'PLEASE READ CAREFULLY &amp; REPLY BACK,'
+p589
+ssI43
+(dp590
+S'Body'
+p591
+S'.....................................................................................................................\n\nI want you to use my money for charity purposes and orphanges as my doctor said I will ot last more months.\nread the attached message for more details.\n..........................................................................................................\n\nNo WAY am I opening that attachment!  \n'
+p592
+sS'First_name'
+p593
+NsS'Last_name'
+p594
+NsS'To'
+p595
+S'judyhelliwell1@one.co.il'
+p596
+sS'Date'
+p597
+S'Fri Mar 16 04:17:25 2012'
+p598
+sS'Reply-To'
+p599
+S'judyhelliwell1@one.co.il'
+p600
+sS'Subject'
+p601
+S'Beloved'
+p602
+ssI44
+(dp603
+S'Body'
+p604
+S'\nI request cooperation with you in the sphere of financing viable projects with prospective returns on investment (R.O.I) in your region. Your Projects can be funded from 0% to 100% because I represent Ultra-High Net-worth investor Group who are finding viable projects to fund under the supervision of their consultancy mediator firm with an 5% interest rate and a total period of 10years. If you dont have any viable project, then i implore you to source from your colleagues or friends that have genuine project yet to be financed due to inadequate funding, my commission is 1% after you collect your loan funds. For more information do get back to me at your earliest convenience.\n\nRegards,\nCEO.DR.FERNANDO.\n'
+p605
+sS'First_name'
+p606
+S''
+sS'Last_name'
+p607
+S'FERNANDO'
+p608
+sS'To'
+p609
+NsS'Date'
+p610
+S'Fri Mar 16 04:17:36 2012'
+p611
+sS'Reply-To'
+p612
+S'puchalski@neostrada.pl'
+p613
+sS'Subject'
+p614
+S'SPECIAL PROJECT FUNDING PACKAGE:'
+p615
+ssI45
+(dp616
+S'Body'
+p617
+S'\nHello,I am Ma Guang Lu,I have a $17.3M deal from my bank for you to\nhandle. Reply for more info.Mutual benefit.\n'
+p618
+sS'First_name'
+p619
+S'Ma Guang'
+p620
+sS'Last_name'
+p621
+S'Lu'
+p622
+sS'To'
+p623
+NsS'Date'
+p624
+S'Fri Mar 16 04:17:40 2012'
+p625
+sS'Reply-To'
+p626
+S'guangmalu@w.cn'
+p627
+sS'Subject'
+p628
+S'Mutual benefit.'
+p629
+ssI46
+(dp630
+S'Body'
+p631
+S'\n\nDetails in the Attached File\n\nFROM: MRS GRACE/MICHAEL PAKER \nNO55 High land north, Johannesburg South Africa\nTel: + 27 78 588 1015 / Fax line:     +27 78 588 1015\n                                                     Confidential Business Relationship. \nAttn: MD/C.E.O,\n\nWith respect, and humility am writing you this proposal letter which I hope may be of interest to you. There is nothing better for the spirit or the body than comfort of another and it elevates .We seeks the help of another, someone to share and share the life we live. I am the only Son of late Mr. Johnson Nkosi Paker who was murdered by the Zimbabwean veterans and irate black people along with other members of the family. \n\nI am probably of the view that you are aware of the present situation in my country Zimbabwe sequel to the Land/Farm reform Act crisis in Zimbabwe. Before the death of my Father on the 2nd of February 2006, he was a Prosperous Tobacco farmer and the Former President of the Commercial Farmers Union and one of the Major Sponsor of the Opposition Party Movement For Democratic Change (MDC) in Zimbabwe I am writing to you together with my family presently in South Africa where we have taken refugee.\n\nI got your contact from South African Information Exchange online directory service and decided to this write letter for your assistance. I write to solicit for your special assistance to invest our Family fund in your country through your assistance in view of the existing peace in your country. Before the death of my Father and the consistent threats to his life because of his outstanding and vocal position against the government of President Robert Mugabe, He moved out the sum of US$21.5Million, (Twenty One Million Five Hundred Thousand United States Dollars), to South Africa since it is the nearest neighboring country and deposited it with a security and Trust Firm company. \n\nSince the death of my husband, there have been threat to our life, but I and my Mother Grace Paker succeeded to work for our escape to South Africa as a political asylum seeker since that was the only option left for my family. In view of this development, our position in South Africa do not permit us to normalize this fund for any meaningful business transaction in South Africa since we live in South Africa on a refugee status, and the financial policies of this country do not permit us, we are soliciting for your help as a foreign partner. That is why I want this fund to be transferred into your Nominated account so that you will assist me to invest it in your country in any meaningful business venture. \n\n Hence, if you agree to assist us, we have two options for you, we can go into partnership with you and your family the moment this fund is moved or transferred out of South Africa or in the alternative, we offer you 25% of the money for your assistance, 5% will be for the possible expenses incurred in the process of this transaction, while 70% will be for our family investment in your country, through your assistance. \n\nI want you to understand that this fund is purely a family/Tobacco fund/money.  Money made after years of our family investment in farming but we will appreciate it if you will maintain a high level of confidentiality because I and my family do not want to be traced by the agents of the ruling party where we are staying presently.  If you are interested in assisting us, kindly contact us with the above Telephone Number or Email address us so that we can discuss further on the process to facilitate the movement of this fund. Please, endeavor to call my son as soon as you send email, we need urgent and confidential response. \n\nBest Regards, \n\nMRS. MICHEAL/GRACE SHAROON PAKER,\n(FOR THE FAMILY)\ngmpaker@gala.net\nKINDLY READ ABOUT PROBLEMS IN ZIMBABWE FROM THE LINKS BELOW. \nhttp://news.bbc.co.uk/1/hi/world/africa/918781.stm\nhttp://news.bbc.co.uk/1/hi/world/africa/715001.stm\nhttp://news.bbc.co.uk/1/hi/world/africa/1063785.stm\n'
+p632
+sS'First_name'
+p633
+S'Johnson Nkosi'
+p634
+sS'Last_name'
+p635
+S'Paker'
+p636
+sS'To'
+p637
+NsS'Date'
+p638
+S'Fri Mar 16 04:17:54 2012'
+p639
+sS'Reply-To'
+p640
+S'gmpaker@gala.net'
+p641
+sS'Subject'
+p642
+S'CONFIDENTIAL BUSINESS PROPOSAL FROM PAKER FAMILY'
+p643
+ssI47
+(dp644
+S'Body'
+p645
+S'\n\nGood Afternoon,\n\n\nMy name is Abdul Aleem  and am the Manager of Faudtrading LLC, we are interested in the purchase of some of the products we found on your website.\n\n\nKindly get back to me today so we can list the product we are interested in purchasing, our store is located in Dubai, UAE,our method of payment is usually by check or a bank to bank transfer .\n\n\nI hope to hear from you as soon as you receive this email.\n\n\nRegards\n\nAbdul Aleem\n\n\nMILLESFOOTAGE TRADINGS LLC\n\n12TH BLOCK SHEIKH ZAYED ROAD BUR DUBAI,\n\nDUBAI UNITED ARAB EMIRATES\n\n\n  \n'
+p646
+sS'First_name'
+p647
+S'SHEIKH'
+p648
+sS'Last_name'
+p649
+S'ZAYED'
+p650
+sS'To'
+p651
+NsS'Date'
+p652
+S'Fri Mar 16 04:18:07 2012'
+p653
+sS'Reply-To'
+p654
+S'aleem.abdul30@yahoo.com'
+p655
+sS'Subject'
+p656
+S'INTER-MAIL'
+p657
+ssI48
+(dp658
+S'Body'
+p659
+S'\nBeneficiary:\n\nThis email is to all the people that have been scammed or extorted money from because of\n\nyour contract/inheritance payment execution in any part of the world, People that lost their\n\nrelative in war in Middle East,in natural disaster victims also people that has spent time\n\nin contribution to growth of humanity and less privileged once the UNITED NATIONS with\n\nUNICEF have agreed to compensate them with the sum of US$7.5.MILLON this includes every\n\nforeign contractors that may have not received their contract Sum and people that have had\n\nan unfinished transaction or international business that failed due to Government problems\n\nor irregularities etc.\n\nPerson to Contact: Name:Rev.Patrick Elvis\nemail: layoupame@yahoo.com.ph\n\nBan Ki-Moon.\nUN SECRETARY GENERAL\n(UNITED NATIONS)\n'
+p660
+sS'First_name'
+p661
+S'Patrick'
+p662
+sS'Last_name'
+p663
+S'Elvis'
+p664
+sS'To'
+p665
+NsS'Date'
+p666
+S'Fri Mar 16 04:18:19 2012'
+p667
+sS'Reply-To'
+p668
+S'layoupame@yahoo.com.ph'
+p669
+sS'Subject'
+p670
+S'GOOD DAY'
+p671
+ssI49
+(dp672
+S'Body'
+p673
+S'\nFROM THE DESK OF MR. RAHMANE MARCEL WATTARA\nBILL AND EXCHANGE DEPT,\nECOBANK PLC FINACE INSTITUTION\nOUAGADOUGOU,BURKINA FASO.WEST AFRICA.\nWith Due Respect,\nI am  Mr. Rahmane Marcel Wattara of the bill and exchange at the foreign remittance department of ECOBANK PLC ).I crave your indulgence as i contact you in such a surprising manner. But I respectfully insist you read this letter carefully as I am optimistic it will open doors for unimaginable financial rewards for both of us. In my department we discovered an abandoned sum of Ten Million, Five Hundred Thousand US dollars (US$10.5m) only , in an account that belongs to one of our foreign customer who died along with his entire family on 31 July, 2000 in a plan crash and his name is Christian Eich, 57, an engineer who ran car maker BMW\'s museum, his wife and two children and his wife\'s parents were also among the victims.\nSince we got information about his death, we have been expecting his next of kin to come over and claim his money because we cannot release it unless somebody applies for it as next of kin or relation to the deceased as indicated in our banking guidelines but unfortunately we learnt that all his supposed next of kin or relation died along with him at the plane crash leaving nobody behind for the claim of the sum amount of money with our banking home.\nIt is therefore upon this discovery that I now decided to make this business proposal to you so that the money could be released to you as the next of kin or relation to the deceased for safety and subsequent disbursement since nobody is coming for it and i don\'t want this money to go into the bank treasury as unclaimed Bill.\nThe Banking law and guideline here stipulates that if such money remained unclaimed after five years, the money will be transferred into the Bank treasury as "unclaimed fund". The request for a foreigner as next of kin in this business is occasioned by the fact that the customer was a foreigner and a Burkinabe cannot stand as next of kin to a foreigner Because I am a citizen of this country Burkina Faso. We agree that 30% of this money will be for you as a foreign partner, in respect to the provision of a foreign account ,  10% will be set aside for expenses incurred during the business and 60% would be for me. There after I will visit your country for disbursement according to the percentages indicated. Therefore to enable the immediate transfer of this fund to you as arranged, you must apply first to the bank as relation or next of kin of the deceased indicating your bank name, your bank account number, your private telephone and fax number for easy and effective communication and location wherein the money will be remitted.\nUpon receipt of your reply through my private email Address: mr.rahmarwat01@yahoo.fr, I will send to you by fax or email the text of the application.   I will not fail to bring to your notice that this transaction is hitch free and that you should not entertain any atom of fear as all required arrangements have been made for the transfer. You should contact me immediately as soon as you receive this letter. \nTrusting to hear from you immediately.\nYours faithfully,\nMr. Rahmane Marcel Wattara\n'
+p674
+sS'First_name'
+p675
+S'RAHMANE MARCEL'
+p676
+sS'Last_name'
+p677
+S'WATTARA'
+p678
+sS'To'
+p679
+NsS'Date'
+p680
+S'Fri Mar 16 04:21:24 2012'
+p681
+sS'Reply-To'
+p682
+S'mr.rahmarwat01@yahoo.fr'
+p683
+sS'Subject'
+p684
+S'Trusting to hear from you immediately.'
+p685
+ssI50
+(dp686
+S'Body'
+p687
+S'Compact Headers\nAttn: Sir/Madam\n\nDo you need a loan to pay bills or start a business?,email us for info\n\n                          Copyright@ 2011 All rights Reserved\n'
+p688
+sS'First_name'
+p689
+NsS'Last_name'
+p690
+NsS'To'
+p691
+NsS'Date'
+p692
+S'Fri Mar 16 04:21:29 2012'
+p693
+sS'Reply-To'
+p694
+S'ephata@sify.com'
+p695
+sS'Subject'
+p696
+S'End of year Bonnanza Loans'
+p697
+ssI51
+(dp698
+S'Body'
+p699
+S'\n\n\n________________________________\nDe: Edreira Miragaya, Adelina\nEnviado el: lunes, 12 de marzo de 2012 3:25\nPara: Edreira Miragaya, Adelina\nAsunto: $17.5Million USD Business Proposal...Email: ericcheung@9.cn\n\nGoodday Sir/Madam\nI am Mr. cheung Eric, Foreign Operations Manager of the Hangseng Bank   HongKong. I have a business suggestion for you of $17.5 Million USD. Further details contact me via email: ericcheung@9.cn\n'
+p700
+sS'First_name'
+p701
+S'cheung'
+p702
+sS'Last_name'
+p703
+S'Eric'
+p704
+sS'To'
+p705
+S'a.edreira@coruna.es'
+p706
+sS'Date'
+p707
+S'Fri Mar 16 04:21:33 2012'
+p708
+sS'Reply-To'
+p709
+S'ericcheung@9.cn'
+p710
+sS'Subject'
+p711
+S'RE: $17.5Million USD Business Proposal...Email: ericcheung@9.cn'
+p712
+ssI52
+(dp713
+S'Body'
+p714
+S"\n\n\nCompliments of the day !\n\nMy name is Jack Herksfield, am 42, divorced but with a kid. I am the Director Of Operations in the management of Delta Delivery Services llc and i've worked with this Delta Company for a total of 15 years - from our Head office in Atlanta Georgia United States - down to our West-Africa office here in Accra Ghana. I really do not know you quite well but i just feel you and i can have this deal am about to propose and also get to know each other along but if on the contrary you don't buy the idea please do not reply and am not gonna write you again.\n\nThere's a trunk box which has been in our Company's storage room for more than ten (10) years now - nobody is asking after it and nobody has ever asked after it. This trunk box contains House documents (Documents for Duplex worth of $25,000,000.00-Twenty five million dollar) and cash money of $5.5 million dollar. My dear this is no joke. As it stands now, this box has only but (3) three months from now to get confiscated by our management if not claimed but the point is that the beneficiary is yet unknown while the depositor is no where to be found for more than ten years now.\n\nNow as a staff in this management i can't directly claim this box and that's why am seeking a distinguished, trust worthy gentleman / lady who can stand and receive this box as the beneficiary for us to share the contents 50%:50%. Upon the receipt of your response i'll disclose to you the depositor's full information as tagged on this box and other relevant information. Believe me this deal is 100% real and risk-free, you really have nothing to worry about as I'll be here in our office to handle all the necessary paperwork in this deal together with my attorney who will secure a sworn affidavit of ownership on your behalf as a business partner and next of kin to the deceased depositor. \n\nAll you need to do is to be brave-hearted to stand as the beneficiary and this once in a lifetime opportunity will be well used to achieve this great goal in this life. Think about it and get back to me ASAP and let's put this whole shebang in motion and i assure you that in (7) Seven working days we will get this deal done and smile together. Looking forward to receiving your kind response.\n\nJack Herksfield,\nDirector Of Operations,\nD.D.S LLC Accra Ghana.\n"
+p715
+sS'First_name'
+p716
+S''
+sS'Last_name'
+p717
+S'Herksfield'
+p718
+sS'To'
+p719
+NsS'Date'
+p720
+S'Fri Mar 16 04:21:47 2012'
+p721
+sS'Reply-To'
+p722
+S'mr.herksfield@aol.com'
+p723
+sS'Subject'
+p724
+S'Think about this (very important)'
+p725
+ssI53
+(dp726
+S'Body'
+p727
+S"\n From :Mr.Maxwell Moore\nAuditing / Accounting Director\nBanque Internationale du Burkina [B.I.B]\nWest Africa\n\nI am Mr Maxwell Moore, Head of Auditing/Accounting Director {B I B},BURKINA FASO. I have a urgent and very confidential business proposition for you. A German Citizen Mr Andreas Schranner made a numbered time (Fixed) Deposit for twelve calendar months, valued at US$4.2Million in my bank. Upon maturity, I sent a routine notification to his forwarding address but got no reply.\n\nAfter a month, we sent a reminder and finally we discovered from his contract employers that Mr Andreas Schranner died some time ago without our knowledge,  Since we got this information about his death and on further investigation,I found Out that he died without making a WILL and all attempts to trace his next of kin was fruitless.\n\nI therefore made further investigation and discovered that he did not declare any kin or relations in all his official documents, including his Bank Deposit paperwork in my Bank.This sum of US$4.2Million is still sitting in my Bank and the interest is being rolled over with the principal sum at the end of each year.\n\nNo one will ever come forward to claim it. According to the Laws of BURKINA FASO, at the expiration of 9 (nine) years, the money will revert to the ownership of the (B.F) Government if nobody applies to claim the fund.\n\nConsequently, my proposal is that I will like you as a foreigner to stand in as the next of kin to Mr Andreas Schranner so that the fruits of his labor will not get into the hands of the government.This is simple, I will like you to provide immediately your full Names and Residencial address||Country of Origin ||Age ||Phone Number ||Your Sex || so that I can make some changes in his file immediately to purport you as his next of kin. A bank account in any part of the world that you will provide will then facilitate the transfer of this money to you as the beneficiary/next of kin.\n\nI will offer you 40% of this amount as soon as you declare your interest, 10% will be for expenses and 50% will be for me, Because i don't want anyone here in our bank to know my involvement until you confirm this fund into your account and ask me to come over for the sharing as I indicated and i assure you of my utmost support as it involves 100% RISK FREE. More details and my laid down strategy to realize this deal will be sent to you Upon your response. Awaiting your urgent reply.\n\nThis is my private email box contact me here.[maxwellmoore@mynet.com]\n\nRegards.\n\nMr Maxwell Moore\n"
+p728
+sS'First_name'
+p729
+S'Maxwell'
+p730
+sS'Last_name'
+p731
+S'Moore'
+p732
+sS'To'
+p733
+NsS'Date'
+p734
+S'Fri Mar 16 04:21:52 2012'
+p735
+sS'Reply-To'
+p736
+S'maxwellmoore@mynet.com'
+p737
+sS'Subject'
+p738
+S'PLEASE REVIEW'
+p739
+ssI54
+(dp740
+S'Body'
+p741
+S'\nUnion Bank Of Nigeria\nForeign Operations Director\n+234 7080370026  PLS CALL ME NOW FOR CONFIRMATION.\n\nDear Beneficiary,\n\nThis is to remind you that your fund has been approved for payment. We are contacting you to re-confirm your account\n\ncoordinates, so that we will NOT make wrong transfer of your fund and we would not be held liable due to wrong disbursement\n\nof your fund. However we received an email from one Mr.Muhammad Othman: 50,Jalan Seraya 1/4 Presint Serai Eka Matahari\n\n71950 Labu Seremban N.Sembilan,Malaysia, who told us that his is your next of kin and that you died in a car accident last\n\nfour months back .\n\nHis has also submitted his account information to the office department for transfer of the fund payment credit to his as\n\nyour inheritor of the fund stated herein.\n\nWe are now verifying by contacting your email address as we have in our Bank records before we can make the transfer into\n\nhis account and for us to conclude confirmation if you are dead or still alive. Please , in your reply confirmation to my\n\noffice if still alive ,As soon as we confirm from you we shall forward to him the payment information stated below: This\n\naccount information below was presented to us by Mr.Muhammad Othman where he would want the fund of USD$4,500,000.00 to be\n\ntransferred into: Does this account belongs to you?\n\nCIMB Bank Berhad\nBangunan UMNO Jalan Besar 73000 Tampin,\nNegeri Sembilan,Malaysia\nAccount no : 05060001046208\nSwift Code : CIMBMYKL\n\nLet us know as soon as possible if you are the one that gave the approval and the authorization to transfer your fund into\n\nthe said account. Looking forward to hearing from you. Contact me urgently and to re-confirm your information to me through\n\nmy personnel EMAIL( mrsaviorwinna@live.com)\n\nThanks,\nYours Faithfully\nMR Savior Winna\n'
+p742
+sS'First_name'
+p743
+S'Muhammad'
+p744
+sS'Last_name'
+p745
+S'Othman'
+p746
+sS'To'
+p747
+NsS'Date'
+p748
+S'Fri Mar 16 04:21:57 2012'
+p749
+sS'Reply-To'
+p750
+S'mrsaviorwinna@live.com'
+p751
+sS'Subject'
+p752
+S'URGENT ATTENTION'
+p753
+ssI55
+(dp754
+S'Body'
+p755
+S'Compact Headers\n\nDear Good Friend,\n\nMy name is Mr.Bill Thomas, The Chief accountant in our bank, i have 6.5musd that our bank will release and transfer to your account under seven working days because you have the same last name with our late depositor.\n\nMore details will be given to you as soon as i hear from you. I suggest you contact me through my private email address mr.bill_thomas91@yahoo.in\n\nYours Sincerely,\n\nMr. Bill Thomas\n'
+p756
+sS'First_name'
+p757
+S'Bill'
+p758
+sS'Last_name'
+p759
+S'Thomas'
+p760
+sS'To'
+p761
+NsS'Date'
+p762
+S'Fri Mar 16 04:22:01 2012'
+p763
+sS'Reply-To'
+p764
+S'mr.bill_thomas91@yahoo.in'
+p765
+sS'Subject'
+p766
+S'God bless you'
+p767
+ssI56
+(dp768
+S'Body'
+p769
+S"\nDear Friend.\n\nGreetings to you and your family, I am the manager of bill and exchange in THE BANK, I have a business of 5.5 Million United State Dollars to be transfer to your account for investment in your country, if you are ready to assist me get back to me, I will give you full details on how the fund will be transfer to you.\n\nBe rest assured that everything will be handled confidentially because, this is a great opportunity we cannot afford to miss, as it will make our family profit a lot.\n\nIt has been 6 years go, that most of the greedy African Politicians used our bank to launder money overseas through the help of their Political advisers.\nMost of the funds which they transferred out of the shores of Africa were gold and oil money that was supposed to have been used to develop the continent.\n\nThe Political advisers always inflated the amounts before transfer to foreign accounts so I also used the opportunity to divert part of the fund worth five million five hundred united state dollars I told you about and I am aware that there is no official trace of how much was transferred as all the accounts used for such transfers of fund at that particle time were closed after transfer.\n\nI am the account officer to most of the politicians and when I discovered that they were using me to succeed in their greedy act, I also cleaned some of their banking records from the Bank files and no one cared to ask me for the money was too much for them to control, as I am sending this message to you, I was able to divert five point five Millions Dollars ($5.5M) which is in an escrow transit account belonging to no one in the bank, and now my bank is very anxious to know the real beneficiary of the funds is for they have made a lot of profits with the fund.\n\nIt has been more than five years ago and most of the politicians are no longer in power again and they don't use our bank to transfer funds overseas anymore since their tenure had expired.\n\nThe $5.5 Million United State Dollars has been lying in the bank as unclaimed fund and i will soon retire from the bank immediately the fund is transfer into your account over there.\n\nImmediately the fund has been successfully transfer into your account i will come to your country for the sharing of the fund, the fund will be shared 50% for me and 40% for you, and the other 10% for the orphanages home and poor with less-privilege people.\n\nPlease know that there is no one that is going to question you about the fund if you will comply with me and follow my instruction which will help us a lot to achieve this goal for everything is well secured.\n\nPlease indicate your interest in this transaction my replying back and if you are not interested do not waste your time to reply kindly delete my message from your box ok.\n\nWaiting to hear from you soon.\n\nYours Faithfully,\n\nMr Raziki Moudila.\n"
+p770
+sS'First_name'
+p771
+S'Raziki'
+p772
+sS'Last_name'
+p773
+S'Moudila'
+p774
+sS'To'
+p775
+NsS'Date'
+p776
+S'Fri Mar 16 04:22:15 2012'
+p777
+sS'Reply-To'
+p778
+S'raziki1moudila@voila.fr'
+p779
+sS'Subject'
+p780
+S'Your Attension Please'
+p781
+ssI57
+(dp782
+S'Body'
+p783
+S'\nNigeria Investigation Department,\nAnti-Fraud Unit.a\n4Th Floor Marry Land,\nLagos-Nigeria.\nMotto: Security Watch\nAttention Beneficiary,\nMy Name is MR. IBRAHIM LAMORDE the new Economic and Financial Crimes Commission chairperson in Nigeria. I have tried my best so far to make sure you receive your outstanding payment with the federal government of Nigeria , but I discovered you prefer dealing with crooks and sending your hard earned money to them who have been using my name and our communication code in deceiving you.\nI will be ready to help you get your fund if you abide to my instructions to enable me help in delivering your fund as the Economic and Financial Crimes Commission principal officer. I strongly know that they will never tell you the truth rather than collecting your hard earned money from you. I have decided with my veto power that you must receive one third of your principle fund to ascertain really who I am. But I will prefer you send a security communication code to me, which we can use in communicating to each other for safety reasons, if you really want to claim this fund without fraudulent problem.\nNote: Thousands of fraudsters have been using this method in scamming most foreign creditors, that we have in the payment list here in our office. We use this medium to inform you that any mail that does not come with the new communication code: NG/ .CCUF -HFCR-/RLPHJ/.. is false. In this case, youre advice not to respond to any mail that does not come with the above communication code for safety purpose.\nOur final conclusion was that, the fund should be paid to you via an automated teller machine card (ATM) as it seems, this will be easier and faster for you to receive.\nNote; that the amount youre expecting is US$ 10,500,000.00 and it has been approved by the IMF yesterday.\nYou are advice to email me back via my private email box at: efccnig1@o2.pl\nYour new communication code: NG/ .CCUF -HFCR-/RLPHJ/.\nRegards,\nMR. IBRAHIM LAMORDE\nChairperson EFCC.\nhttp://www.efccnigeria.org\n'
+p784
+sS'First_name'
+p785
+S''
+sS'Last_name'
+p786
+S'IBRAHIM'
+p787
+sS'To'
+p788
+NsS'Date'
+p789
+S'Fri Mar 16 04:22:28 2012'
+p790
+sS'Reply-To'
+p791
+S'efccnig1@o2.pl'
+p792
+sS'Subject'
+p793
+S'ATM card Notification, From The EFCC'
+p794
+ssI58
+(dp795
+S'Body'
+p796
+S"\nGood day friend,\n\nI am Mr.Sani Butta I got your contact from the foreign affairs of Burkina-Faso. I need your assistance to transfer the sum of (usd7.2) seven million, two hundred thousand United States dollars into a foreign account.\n\nThis fund belonging to a deceased customer of this bank as the fund has been lying in a suspense account without anybody coming to put claim over the money since the account owner late Mr. Elian Diego who was involved in the died on march 11th 2004 at Madrid train attack, with his family during their vacation journey.\n\nupon this discovery I decided to contact you so that the fund will be release to you as the next of kin or relation to the deceased for safety. the banking rules here on 5th January 2012 stipulates that if such money remained unclaimed after one year, the money will be transferred into the bank treasury as unclaimed fund, since nobody is coming for it and I don't want this money to go into the bank treasury as unclaimed bill.\n\nTherefore, I am soliciting for your assistance to come forward as the next of kin. I have agreed that 40% of this money will be for you as the beneficiary respect of the provision of your account and service rendered, 55% will be for me while 5% will be for expenses incurred during the whole process of this transaction.\n\nThen if the money transferred to your account from this bank, I will proceed immediately to your country for the sharing of the funds. I waited to hear from you as soon as possible.\n\nThanks,\nMr.Sani Butta.\nAuditing and accounting section,\nBank of Africa(Boa) Ouagadougou, Burkina-Faso.\n"
+p797
+sS'First_name'
+p798
+S'Sani'
+p799
+sS'Last_name'
+p800
+S'Butta'
+p801
+sS'To'
+p802
+NsS'Date'
+p803
+S'Fri Mar 16 04:22:33 2012'
+p804
+sS'Reply-To'
+p805
+S'rbsrtg@gmail.com'
+p806
+sS'Subject'
+p807
+S'Greetings to you &amp; your Family,'
+p808
+ssI59
+(dp809
+S'Body'
+p810
+S'\nPLEASE READ CAREFULLY &amp; REPLY BACK,\n\nI am Mr Ahmed Hazan.The Director in charge of Auditing section of Bank of Africa (BOA) in Ouagadougou,Burkina \n\nFaso. I need your urgent business assistance in transferring an abandoned sum of ($19.3 Million) dollars left by a \n\ndeceased customer of my bank immediately to your account.\n\nIf you are interested and ready to partake in this great business opportunity,kindly send your profiles to me \n\nincluding your Name,your private telephone number for easy communication.\n\nI will send you full details on how the business will be executed and also note that you will receive 40% of the above \n\nmentioned amount if you agree to help me execute this business.\n\nMay the almighty God be with you at all times so Please contact me  back FOR THE FULL DETAILS OF THIS \n\nPROPOSAL,WITH THE\nFOLLOWING INFORMATION.\n\nYOUR FULL NAME..........................\n\nYOUR PHONE NUMBER............................\n\nRespectfully.\n\nMr Hazan.\n \n'
+p811
+sS'First_name'
+p812
+S''
+sS'Last_name'
+p813
+S'Hazan'
+p814
+sS'To'
+p815
+NsS'Date'
+p816
+S'Fri Mar 16 04:24:24 2012'
+p817
+sS'Reply-To'
+p818
+S'mr.ahmedhazan@aol.com'
+p819
+sS'Subject'
+p820
+NssI60
+(dp821
+S'Body'
+p822
+S"\nCargo Unit\nChicago O'Hare International Airport\nAirport code: ORD\n10000 West O'Hare\nChicago, IL 60666\nUSA\n(773) 377-6807\nemail: chicagoairport12@aol.com\nATTENTION : Final Notice of Your Package\nIn view of your inability to receive your package reg #: KH8100AF\noriginally scheduled to be delivered to you by an agency, Foreign\npayment service New york. This package in a golden metal box valued $5,316,000USD\n\n(five million three hundred and sixteen thousand dollars)\narrived at Chicago international airport terminal 5 via British airways flight \nno.BA297 from Heathrow airport London sometime ago. The agency, Foreign\npayment service New york staff came and applied for the release\nof this package for delivery to your address but has since not\nshown up. I am writing to you to inform you that the days of grace\nhas expired and we shall begin to charge the storage fee of $10usd\ndaily. Please call Anthony lopez on( 773)377-6807 Extension 21 terminal 5 or email chicagoairport12@aol.com\nto release this package and deliver it to you directly.\nNote that this notice serves as our last recovery notice to you as\nour department will be compelled to list your package as an\nunclaimed, and maybe forfeited.\nBest regards,\nDennis osbourne\nSTORAGE OFFICER Terminal 5 Extension 11\nemail chicagoairport12@aol.com\nPhone: 773-377-6807\n"
+p823
+sS'First_name'
+p824
+S''
+sS'Last_name'
+p825
+S'Anthony'
+p826
+sS'To'
+p827
+NsS'Date'
+p828
+S'Fri Mar 16 04:24:37 2012'
+p829
+sS'Reply-To'
+p830
+S'chicagoairport12@aol.com'
+p831
+sS'Subject'
+p832
+S'Cargo Unit.'
+p833
+ssI61
+(dp834
+S'Body'
+p835
+S"Sorry I'm not very 'techy' this guy deserve all he gets enjoy!\n\nFrom :Addo E.Charles\nEmail: addoecharles1@gmail.com\n\nAttn:  My dear\n\nIs this your email address? .Please, get back to me I have an\nimportant information for you\n\nWaiting to hear from you urgently\n\nBest Regards,\nAddo E.Charles\n"
+p836
+sS'First_name'
+p837
+S'Addo E.'
+p838
+sS'Last_name'
+p839
+S'Charles'
+p840
+sS'To'
+p841
+NsS'Date'
+p842
+S'Fri Mar 16 04:24:41 2012'
+p843
+sS'Reply-To'
+p844
+S'addoecharles1@gmail.com'
+p845
+sS'Subject'
+p846
+NssI62
+(dp847
+S'Body'
+p848
+S"\n\nTo whom it may concern.\n\nI am Ahmad Hussein Bashar a native of Hama and a son of one of the leading\nopposing figure to the government of Bashar al-Assad.I am 19 years of age\nand an  undergraduate in the Damascus University in Damascus.Following the\npolitical resentment and uprising in Syria which has inadvertently\ndegenerate into a civil war,  the al-Assad regime announced what is tagged\nthe total massacre of his political opponents and who he had called\ndissidents to his rule in Syria. In this  event, the al-Assad government\ndeclare the total whip out of the prominent leaders in duraa wherein my\nfather has been one among these leading figure.\n\nOn a fateful day while in school, watching the unfolding events going in\nmy country on the television particularly on the Aljazeera i saw a caption\non the area around  my neighborhood close to my father's house where the\npro-Al-Assad forces had surrounded with their weapons of destruction and\nsomething struck my mind of my family and  immediately i received a\nmessage on my phone that the pro-Al-Assad had just struck my neighborhood\nand that our house was one of the major target by the al-Assad  forces and\nto make the whole world down on me, my father was brutally eliminated from\nthe surface of the earth this ugly events made my mother collapsed seeing\nher  husband swim in an ocean of blood and was rushed to a nearby hospital\nby a member of the Red Cross but unfortunately she could not live to\nexplain it all as death claimed her away.\n\nThe Red Cross team and other people on rescue mission took my two kid\nsisters away for proper care where i often go to pay them visitation and\nuntil i discover how  endanger my life could be, that i had to flee away\nfor dear live to a neighboring country specifically Turkey as a refugee. I\nhave been living as a refugee since the whole incidents happened that i\ncould not even go back to my country in search of my sisters who i\nbelieved remain as the only family i have on earth. During the lifetime of\nmy late father, he was an industrialist, a businessman and a\nphilanthropist who owned a large steel producing company and other assets\nmeasurable in monetary terms.\n\nPrior to his demise, he had a financial portfolio of $35.8 million United\nStates Dollars, which he deposited with a financial firm (UNCLAIMED\nASSET/ASSETS RE-UNITED,SWITZERLAND) in Geneva, Switzerland as part of his\ninvestment. However, i have always known of this investment abroad since i\nwas 14 years because, my father of a blessed  memory had always made it\nknown to me that on my graduation from the university and after my master\nin my course of study, i will be representing his business interest \nabroad. How painful is death to have short-lived his dream.\n\nI have made a relentless efforts so far to contact my father's attorney\nwho is in charge of his estate in the person of Sir Abramson Onasis` whose\noffice is in London  United Kingdom and Switzerland respectively to know\nmore about my late father's wealth and how i could go about claiming the\nestate but unfortunately, the attorney brought to my notice that he  could\nonly proceed on handling over the estate to me when i have attained the\nage of 24 or wherein a person of a  full contractual capacity is brought\nin to fulfill the  obligation as stated in the will left by my late\nfather. As  further explained by the attorney, the person of full\ncontractual capacity could be a relation or a trust.\n\nI have been a person of desperate soul to get rid of my father's estate\nbecause the attorney himself is an aged man in his late 70s and am afraid\ndeath could visit him at any point in time and this might jeopardize my\nchance of claiming my father's estate.\n\nAt this point i am consciously taking my time to source for a very\nbusiness minded person, who is also a God fearing and who will create time\nto rescue me from this  dilemma to claim my late father's estate and also\na person who will guide me on a flourishing business to invest my own\nshare of the claim. You can get in touch with my late father's lawyer on\nthese email address : ( abramson.onasis@yahoo.co.uk )  so that he can\nfurnish you with the information to finalize the whole arrangement .\n\nSincerely,\n\nAhmad Hussein Bashar.\n"
+p849
+sS'First_name'
+p850
+S'Abramson'
+p851
+sS'Last_name'
+p852
+S'Onasis'
+p853
+sS'To'
+p854
+NsS'Date'
+p855
+S'Fri Mar 16 04:24:55 2012'
+p856
+sS'Reply-To'
+p857
+S'abramson.onasis@yahoo.co.uk'
+p858
+sS'Subject'
+p859
+S'From Ahmad Bashar in Syria'
+p860
+ssI63
+(dp861
+S'Body'
+p862
+S' Quote:   \n\nAttention: Email Owner,\n\nYou have been selected by the UN for a Humanitarian\nDevelopment Cash Grant program to enhance and develop\nthe standard of living geared towards poverty\neradication as targeted by the year 2020. You have been\ngranted the sum of 950,000.00 Pounds. Your grant pin #\nis UNF/FBF-816-1119 G-900-94.\n\nYou are to provide your information below for claims at\npayment department.\n\n1 Name in full:\n2 Address:\n3 Nationality:\n4 Age:\n5 sex:\n6 Occupation:\n7 Cell Phone #:\n8 Present Country:\n9 Alternate Email Address:\n\nRegards,  \n'
+p863
+sS'First_name'
+p864
+NsS'Last_name'
+p865
+NsS'To'
+p866
+NsS'Date'
+p867
+S'Fri Mar 16 04:25:10 2012'
+p868
+sS'Reply-To'
+p869
+S'undp.grant@hotmail.com'
+p870
+sS'Subject'
+p871
+NssI64
+(dp872
+S'Body'
+p873
+S'\n&lt;p&gt;I have a bquest for you please contact me with your full names, occupati=\non and telephone number&lt;/p&gt;\n\n--=_5a0ef1f3366c22e5be8eee9c1298a63c--\n'
+p874
+sS'First_name'
+p875
+NsS'Last_name'
+p876
+NsS'To'
+p877
+NsS'Date'
+p878
+S'Fri Mar 16 04:25:21 2012'
+p879
+sS'Reply-To'
+p880
+S'normanc00@live.com'
+p881
+sS'Subject'
+p882
+S'urgent response'
+p883
+ssI65
+(dp884
+S'Body'
+p885
+S'\nAttn: snip\n\nIt has come to our notice in our African Headquarters Office (I.M.F) that your impending funds from Africa which was intercepted,has not been released to you ,We noticed that you made several attempt to transfer your funds but to no avail.\n\nOur investigation continued to the African Department (I.M.F),The monitoring team gave an unsatisfactory report to your transaction, hence the chairman is presently under investigation for conspiracy with your representative with intention to divert your funds.\n\nYou are advised to desist from contacting anyone including your agent or representative in these regard, International Monetary Fund has taken full responsibility to transfer your fund to you, kindly respond to these email by providing your full information below.\n\nYOUR FULL NAME:\nYOUR ADDRESS:\nYOUR TELE/FAX NUMBER:\nYOUR OCCUPATION:\nYOUR BANK INFORMATION:\nYOUR AMOUNT OF FUND.\nYOUR PERSONAL IDENTIFICATION;\n\nYours Faithfully,\n\nRev. Raginald Lumba.\nAfrican Department Director\n'
+p886
+sS'First_name'
+p887
+S'Raginald'
+p888
+sS'Last_name'
+p889
+S'Lumba'
+p890
+sS'To'
+p891
+NsS'Date'
+p892
+S'Fri Mar 16 04:25:33 2012'
+p893
+sS'Reply-To'
+p894
+S'contactgen8074533764@gmail.com'
+p895
+sS'Subject'
+p896
+S'Re: Intercepted Money Transfer'
+p897
+ss.
