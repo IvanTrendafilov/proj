@@ -110,6 +110,8 @@ def getConvIDByBucket(email_bucket, conv_store, identity_emails):
 	return None
 
 def updateBucket(current_bucket, email_bucket, identity_emails):
+	if not current_bucket:
+		return []
 	current_bucket = [email_addr.lower() for email_addr in current_bucket]
 	current_bucket = filter(lambda x: x not in identity_emails and x.count('.') < 5, current_bucket)
 	return list(set(current_bucket + email_bucket))
@@ -131,14 +133,14 @@ def findBouncedEmail(text, origin, safe_origins):
 def detectBounce(text, origin, safe_origins):
 	if origin in safe_origins:
 		headers = extractHeaders_safe(text)
-		if 'mailer-daemon' in headers['From'].lower() and headers['Subject'].strip() == "Failure Notice":
+		if (headers['Subject']) and ('mailer-daemon' in headers['From'].lower()) and (headers['Subject'].strip() == "Failure Notice"):
 			return findBouncedEmail(text, origin, safe_origins)
-		if headers['Subject'].strip() == "failure notice" and "qmail-send program" in text:
+		if (headers['Subject']) and (headers['Subject'].strip() == "failure notice") and ("qmail-send program" in text):
 			return findBouncedEmail(text, origin, safe_origins)
 	else:
-		if "Failure Notice" in text and "mailer-daemon" in text.lower() and "unable to deliver your message" in text:
+		if (text) and ("Failure Notice" in text) and ("mailer-daemon" in text.lower()) and ("unable to deliver your message" in text):
 			return findBouncedEmail(text, origin, safe_origins)
-		if "qmail-send program at mailout-eu.gmx.com" in text:
+		if (text) and ("qmail-send program at mailout-eu.gmx.com" in text):
 			return findBouncedEmail(text, origin, safe_origins)
 	return None
 

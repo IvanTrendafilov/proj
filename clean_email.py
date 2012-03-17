@@ -117,7 +117,7 @@ def extractHeaders(text):
 	for line in msg_lines:
 		for header in headers:
 			if header in line and headers[header] == None:
-				if line.strip().index(header) < 2:
+				if line and line.strip().index(header) < 2:
 					if header == 'Subject':
 						headers[header] = line.replace('Subject:', '').strip()
 					else:
@@ -129,7 +129,10 @@ def extractHeaders(text):
 def extractHeaders_safe(text):
 	mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}')
 	headers = {'Reply-To': None, 'From': None, 'To': None, 'Subject': None, 'Date': None}
-	msg_lines = text.strip().splitlines()
+	if text:
+		msg_lines = text.strip().splitlines()
+	else:
+		return headers
 	for line in msg_lines:
 		for header in headers:
 			header_colon = header + ':'
@@ -154,6 +157,8 @@ def removeHeaders(text):
 	return cleanHeaders(text, full=True)
 
 def removeHeaders_safe(text):
+	if not text:
+		return text
 	msg_lines, cutoff = text.strip().splitlines(), 0
 	for line in msg_lines:
 		if line:
@@ -253,7 +258,10 @@ def proximitySearch(name, text):
 def relateEntities(names, emails, text):
 	emails = [x.lower() for x in emails]
 	relations = {}
-	rankings = computeRanking(names, emails)
+	if names and emails:
+		rankings = computeRanking(names, emails)
+	else:
+		return relations
 	for entity in rankings:
 		if rankings[entity][1] > 0.4:
 			relations[entity] = rankings[entity][0]

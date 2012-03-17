@@ -5929,4 +5929,489 @@ sS'Subject'
 p2945
 S'SUPPLY ORDER'
 p2946
+ssI216
+(dp2947
+S'Body'
+p2948
+S"from Crystal Masaru mcrystail1984@dishmail.net\n\nDear Counsel,\n\nMy name is Crystal Masaru . I am contacting your firm in regards to enforcement/collection or possible litigation of divorce settlement with my ex husband Bloombeg Masaru who resides in your jurisdiction.  \nIf you are in the position to represent me at the moment kindly advice immediately.\n\nYour's truly,\nCrystal Masaru\n\n  \n\nGood luck!\n\nBruin\n"
+p2949
+sS'First_name'
+p2950
+S'Crystal'
+p2951
+sS'Last_name'
+p2952
+S'Masaru'
+p2953
+sS'To'
+p2954
+NsS'Date'
+p2955
+S'Sat Mar 17 19:51:46 2012'
+p2956
+sS'Reply-To'
+p2957
+S'mcrystail1984@dishmail.net'
+p2958
+sS'Subject'
+p2959
+NssI217
+(dp2960
+S'Body'
+p2961
+S'I Dr. Kelvin Young, lender loan and understand the difference in the heart of a man of honor.\nWe are a company with financial support. We loan money to people in need\nfinancial assistance, bad credit who need money to pay bills\ninvest in businesses. I will use this medium to inform you\nThey will sound like I was happy beneficiary\nyou credit. E-mail: KelvinYoungloancompany@yahoo.com ~ ~ V\n\nUnits of competence required for initial information:\n\nName: ..........\n\nCountry: .............\n\nSex: .............\n\nOccupation: .........\n\nThe required amount of ............\n\nPurpose of the loan ........\n\nLength of Loan: ............\n\nPhone .............\n\nYours.\n\nDr. Kelvin Young\n\nE-mail: KelvinYoungloancompany@yahoo.com  \n'
+p2962
+sS'First_name'
+p2963
+S'Kelvin'
+p2964
+sS'Last_name'
+p2965
+S'Young'
+p2966
+sS'To'
+p2967
+NsS'Date'
+p2968
+S'Sat Mar 17 19:51:59 2012'
+p2969
+sS'Reply-To'
+p2970
+S'kelvinyoungloancompany@yahoo.com'
+p2971
+sS'Subject'
+p2972
+S'loan offer'
+p2973
+ssI218
+(dp2974
+S'Body'
+p2975
+S'\nHello\nI have a Bequest for you to Handle with me here at my Bank Branch. Kindly respond by providing me with your Full Names, Contact Address and Telephone Number for Details.\nSincerely\nLiu\n\n------------=_4F63BDA4.4385BFBD--\n'
+p2976
+sS'First_name'
+p2977
+NsS'Last_name'
+p2978
+NsS'To'
+p2979
+NsS'Date'
+p2980
+S'Sat Mar 17 19:52:04 2012'
+p2981
+sS'Reply-To'
+p2982
+S'liutailing80@yahoo.com.hk'
+p2983
+sS'Subject'
+p2984
+S'-=***SPAM*(7.3)****=- ===Attn ==='
+p2985
+ssI219
+(dp2986
+S'Body'
+p2987
+S'\nFrom Kabesala Monthantleh;\n\nI am an executive of a bank. We have an account which has been left\ndormant for nearly ten years now by a customer (a foreigner) who died long\nago without a next of kin. This account has a huge balance. With my\nposition and connection, legal papers can be arranged for you in your name\nto claim the funds as next of kin.\nYou will be adequately rewarded for your role. Kindly let me have your\nfull contact details and telephone numbers so I can call you and explain\nmore details to you.\nRegards,\nKabesala Monthantleh\n'
+p2988
+sS'First_name'
+p2989
+S'Kabesala'
+p2990
+sS'Last_name'
+p2991
+S'Monthantleh'
+p2992
+sS'To'
+p2993
+NsS'Date'
+p2994
+S'Sat Mar 17 19:52:19 2012'
+p2995
+sS'Reply-To'
+p2996
+S'kabesalamonthantleh0147@postaime.com'
+p2997
+sS'Subject'
+p2998
+S'Re: Important Proposition'
+p2999
+ssI220
+(dp3000
+S'Body'
+p3001
+S"Hello,\n\nWith due respect to your person and much sincerity of purpose I make this contact with you as I believe that you can be of great assistance to me.I am Mr.Mahmadou Issa, from the Republic of BURKINA FASO,West Africa. Presently i work in the ministry of Works &amp; Housing,and i'm the secretary in charge of 'foreign contractors payment.I got your contact from the Burkina Faso 'online service' during my desperate search for a reliable and honest person.\n\nI am contacting you to seek for your TRUST,assistance and possibly, partnership for investment purposes in your country.I have some funds to claim in my ministry with great caution,that were deposited in the Bank here, after the payment of completed contract projects to the foreign contractors (refurbishing,and installation of 40,000 housing units at Ouaga 2000), which will be of great benefit to both of us.Should you sincerely make up your mind to assist and also cooperate with me fully to actualize this dream;I promise, you will never regret knowing me.\n\nTo enable us discuss further on how you can fully render assistance kindly get back to me immediately with this private i.d ,for next step.\n\nI am waiting,\n\nThank you for understanding,and anticipated cooperation.\n\nSincerely Yours,\n\nMr.Mahmadou Issa.\n"
+p3002
+sS'First_name'
+p3003
+S'Mahmadou'
+p3004
+sS'Last_name'
+p3005
+S'Issa'
+p3006
+sS'To'
+p3007
+NsS'Date'
+p3008
+S'Sat Mar 17 19:52:23 2012'
+p3009
+sS'Reply-To'
+p3010
+S'mahmadou.issa@rocketmail.com'
+p3011
+sS'Subject'
+p3012
+S'Good day..'
+p3013
+ssI221
+(dp3014
+S'Body'
+p3015
+S'\nHello,\n\nWe need reliable gold and diamond buyers and companies to do business\nwith.We are local miners and we currently have some gold and diamond in\nstuck.we need only serious and reliable buyers and investors.\n\nIf u are interested,kindly respond as soon as possible so we can both\nprovide proves F.C.O and manifesto to start business.\nBest Regards\n\nMr.Amissah\n'
+p3016
+sS'First_name'
+p3017
+NsS'Last_name'
+p3018
+NsS'To'
+p3019
+NsS'Date'
+p3020
+S'Sat Mar 17 19:55:12 2012'
+p3021
+sS'Reply-To'
+p3022
+S'davidamissah93@yahoo.com.ph'
+p3023
+sS'Subject'
+p3024
+S'=?UTF-8?Q?We_need_reliable_gold_and_diamond_buyers=E2=80=8F=E2=80=8F?='
+p3025
+ssI222
+(dp3026
+S'Body'
+p3027
+S"from: Mellisa Sharon mellisaloanfirm66@yahoo.com\nreply-to: mellisaloanfirm66@yahoo.com\nto:\nbcc: 000000000000@gmail.com\ndate: Fri, Mar 16, 2012 at 5:37 AM\nsubject: Loan Offer Apply Now...\n\nHello,\n\n     Are you looking for a business loan,personal loan,home loan,auto\nloan,student loan,debt consolidation loan,unsecured loan,venture\ncapital etc... Or Were you refused a loan by a bank or any financial\ninstitution for one or more reasons.You are in the right place for\nyour loan solutions! I am a private lender,I grant out loans to\ncompanies and individuals at a low and affordable interest rate of\n3%.Interest. Contact us via email: Mellisaloanfirm66@yahoo.com\n\nLOAN APPLICATION FORM.\n\nYour Full Name:\nAddress:\nCountry:\nState:\nLoan Amount:\nSex:\nLoan Duration:\nPhone Number:\nFax:\nMonthly Income:\nSpecific date you need the loan :\n\nNOTE:This are needed before we can proceed with\nthe transaction of the loan okay.\n\nRegards\n\nMrs Mellisa Sharon  \n\nGoogle.com\n Quote:   \nBaiterbase | Scamtacular's scam email address database \n... cwd692001@yahoo.ca; sandrataggedd@yahoo.com; osaspeteke@gmail.com; \nworthygod20@yahoo.com; picasawebalbums-; Mellisaloanfirm@yahoo.com; ... \nhttp://www.baiterbase.co.uk/listemails.php - Similar pages\n \n"
+p3028
+sS'First_name'
+p3029
+S'Mellisa'
+p3030
+sS'Last_name'
+p3031
+S'Sharon'
+p3032
+sS'To'
+p3033
+NsS'Date'
+p3034
+S'Sat Mar 17 19:55:22 2012'
+p3035
+sS'Reply-To'
+p3036
+S'mellisaloanfirm@yahoo.com'
+p3037
+sS'Subject'
+p3038
+S'Loan Offer Apply Now...'
+p3039
+ssI223
+(dp3040
+S'Body'
+p3041
+S"from: Mellisa Sharon mellisaloanfirm66@yahoo.com\nreply-to: mellisaloanfirm66@yahoo.com\nto:\nbcc: 000000000000@gmail.com\ndate: Fri, Mar 16, 2012 at 5:37 AM\nsubject: Loan Offer Apply Now...\n\nHello,\n\n     Are you looking for a business loan,personal loan,home loan,auto\nloan,student loan,debt consolidation loan,unsecured loan,venture\ncapital etc... Or Were you refused a loan by a bank or any financial\ninstitution for one or more reasons.You are in the right place for\nyour loan solutions! I am a private lender,I grant out loans to\ncompanies and individuals at a low and affordable interest rate of\n3%.Interest. Contact us via email: Mellisaloanfirm66@yahoo.com\n\nLOAN APPLICATION FORM.\n\nYour Full Name:\nAddress:\nCountry:\nState:\nLoan Amount:\nSex:\nLoan Duration:\nPhone Number:\nFax:\nMonthly Income:\nSpecific date you need the loan :\n\nNOTE:This are needed before we can proceed with\nthe transaction of the loan okay.\n\nRegards\n\nMrs Mellisa Sharon  \n\nGoogle.com\n Quote:   \nBaiterbase | Scamtacular's scam email address database \n... cwd692001@yahoo.ca; sandrataggedd@yahoo.com; osaspeteke@gmail.com; \nworthygod20@yahoo.com; picasawebalbums-; Mellisaloanfirm@yahoo.com; ... \nhttp://www.baiterbase.co.uk/listemails.php - Similar pages\n \n"
+p3042
+sS'First_name'
+p3043
+S'Mellisa'
+p3044
+sS'Last_name'
+p3045
+S'Sharon'
+p3046
+sS'To'
+p3047
+NsS'Date'
+p3048
+S'Sat Mar 17 19:55:22 2012'
+p3049
+sS'Reply-To'
+p3050
+S'mellisaloanfirm66@yahoo.com'
+p3051
+sS'Subject'
+p3052
+S'Loan Offer Apply Now...'
+p3053
+ssI224
+(dp3054
+S'Body'
+p3055
+S'\nI have been waiting for you to contact me for your Confirmable Bank-draft of\n$750.000.00 United States Dollars,but I did not hear from you. Then I went and\ndeposited the Draft with FedEx COURIER SERVICE,Here in West Africa, Please\ncontact FEDEX COURIER for effective delivery.\n\nContact Person:Fred Frank\nPhone number:+2347064951534\nEmail Address:fedexagent_000@yahoo.gr\n\nFinally, make sure that you reconfirm your full details to them.\n\n1) FULL NAMES:\n2) CONTACT ADDRESS)\n3) PHONE NUMBER/FAX\n4) COUNTRY\n\nRegards\nFred Frank\n'
+p3056
+sS'First_name'
+p3057
+S'Fred'
+p3058
+sS'Last_name'
+p3059
+S'Frank'
+p3060
+sS'To'
+p3061
+NsS'Date'
+p3062
+S'Sat Mar 17 19:55:33 2012'
+p3063
+sS'Reply-To'
+p3064
+S'fedexagent_000@yahoo.gr'
+p3065
+sS'Subject'
+p3066
+S''
+ssI225
+(dp3067
+S'Body'
+p3068
+S"Dear Friend,\nGreetings!\nI am Mr Rachid Abdoul, Manager Audit &amp; Account's department, in a Bank, in the city of Ouagadougou, Burkina Faso. I have a business proposal which involves about $25m USD, (Twenty five Million United State dollars only). After the successful transfer; we shall share in the ratio of 40% for you and 60% for me. If you will be interested, please contact me so that I will give you more information on how we would handle this project, to enable us commence on all arrangements.\nYours sincerely,\nMr Rachid Abdoul.  \n"
+p3069
+sS'First_name'
+p3070
+S'Rachid'
+p3071
+sS'Last_name'
+p3072
+S'Abdoul'
+p3073
+sS'To'
+p3074
+NsS'Date'
+p3075
+S'Sat Mar 17 19:55:37 2012'
+p3076
+sS'Reply-To'
+p3077
+S'abdoulrachid002@gmail.com'
+p3078
+sS'Subject'
+p3079
+S'From Mr. Rachid Abdoul'
+p3080
+ssI226
+(dp3081
+S'Body'
+p3082
+S"\n\nDear Beloved.\n\nI am Mrs. Mary Parker an aging widow suffering from long time illness. I have\nsome funds I inherited from my late husband, the sum of 7.5 Million  \nPounds and I\nneeded a very honest and God fearing Christian that will use the fund  \nfor God's\nwork, I found your email i decided to contact you. Please if you would be able\nto use the funds for the Lord's work, kindly reply: marryparker52@gmail.com\n\nYours in the Lord,\nMrs. Mary Parker.\n\n----------------------------------------------------------------\nThis message was sent using IMP, the Internet Messaging Program.\n"
+p3083
+sS'First_name'
+p3084
+S'Mary'
+p3085
+sS'Last_name'
+p3086
+S'Parker'
+p3087
+sS'To'
+p3088
+NsS'Date'
+p3089
+S'Sat Mar 17 19:57:19 2012'
+p3090
+sS'Reply-To'
+p3091
+S'marryparker52@gmail.com'
+p3092
+sS'Subject'
+p3093
+S''
+ssI227
+(dp3094
+S'Body'
+p3095
+S'\n=A0 From Dr Ahmed Ali&lt;br&gt;\n&lt;br&gt;\nRequest For assistance&lt;br&gt;\nDear Friend,&lt;br&gt;\n&lt;br&gt;\nI am compelled by my urgent need for a foreign partner that is why I=20\nhave personally contacted you for this transaction. I am an auditor by=20\nprofession working in Bank=A0=A0 of Africa, Burkina faso, West Africa. I=20\nhave the opportunity of transfering a left over funds (US$10.5M) of one=20\nof my bank clients who died along with his entire family in a plane=20\ncrash. Hence,I am inviting you for a business deal where this money can=20\nbe transferred out of the bank and shared between us in the ratio of 60%\nfor me and 40% for you.If you agree to my business proposal,further=20\ndetails of the transfer will be forwarded to you as soon as i receive=20\nyour return email.&lt;br&gt;\n&lt;br&gt;\nSincerely,&lt;br&gt;\nDr.Ahmed\n'
+p3096
+sS'First_name'
+p3097
+S''
+sS'Last_name'
+p3098
+S'Burkina'
+p3099
+sS'To'
+p3100
+NsS'Date'
+p3101
+S'Sat Mar 17 19:57:32 2012'
+p3102
+sS'Reply-To'
+p3103
+S'drahamed_ali@ymail.com'
+p3104
+sS'Subject'
+p3105
+S'Hello From Dr Ahmed Ali/reply urgent'
+p3106
+ssI228
+(dp3107
+S'Body'
+p3108
+S'\n\nThis is a multi-part message in MIME format.\n\nDear Sir/madam\n\nMy Name is Mr. Anthony Koman from Ivory Coast writing for investment purposes. I wish to invest in construction; hardware and other related industries in any part of the\nCountry that I may be asked to invest into in as much as the industry is lucrative. I\nAlso have an eye into fast -food franchising where there is an opportunity.\nIf there is any other area which you have interest for us to go into the\nIndustries as partners feel free to contact me for a discussion. Or you can\nGive me your number to contact you\n\nThank you.\n\nYours faithfully\n\nAnthony Koman.\n'
+p3109
+sS'First_name'
+p3110
+S'Anthony'
+p3111
+sS'Last_name'
+p3112
+S'Koman'
+p3113
+sS'To'
+p3114
+NsS'Date'
+p3115
+S'Sat Mar 17 19:59:00 2012'
+p3116
+sS'Reply-To'
+p3117
+S'anthonykoman02@gmail.com'
+p3118
+sS'Subject'
+p3119
+S'Dear Sir/madam'
+p3120
+ssI229
+(dp3121
+S'Body'
+p3122
+S'\n\nHello. I have a business proposal for you, There are no risks involved. Pls reply for briefs. From Chen Ho\n'
+p3123
+sS'First_name'
+p3124
+S'Chen'
+p3125
+sS'Last_name'
+p3126
+S'Ho'
+p3127
+sS'To'
+p3128
+NsS'Date'
+p3129
+S'Sat Mar 17 19:59:13 2012'
+p3130
+sS'Reply-To'
+p3131
+S'ch_chen@zing.vn'
+p3132
+sS'Subject'
+p3133
+S'Business'
+p3134
+ssI230
+(dp3135
+S'Body'
+p3136
+S'\nGood Day,\n\nI am Barrister Mark Paxton, Attorney at law. A deceased client of mine that\nshares the same last name as yours died in Accident on 22nd April 2004,I have\ncontacted you to assist me as I promise to give you 40% of the total funds\n$15,000.000.00 to be transferred to your vital bank account as\ncompensation for your assistance left behind by my late client lodged in\nthe bank(Guaranty Trust Bank Plc)\n\nBest Regards\nBarrister Mark Paxton\nmarkpaxton2012@gmail.com\n'
+p3137
+sS'First_name'
+p3138
+S'Mark'
+p3139
+sS'Last_name'
+p3140
+S'Paxton'
+p3141
+sS'To'
+p3142
+NsS'Date'
+p3143
+S'Sat Mar 17 20:00:54 2012'
+p3144
+sS'Reply-To'
+p3145
+S'markpaxton2012@gmail.com'
+p3146
+sS'Subject'
+p3147
+NssI231
+(dp3148
+S'Body'
+p3149
+S'X-Shit: Shit\n\nNORTON FINANCE COMPANY\n\nWe offer loans at 2% interest rate. Contact us if interested: We will\nfurnish you with further instructions.\n\nContact email:nortonfinances@live.co.uk\n\nRegards.\n\n\nNORTON DE FINANZAS DE LA EMPRESA\n\nOfrecemos prstamos a tipo de inters del 2%. Contacte con nosotros si\nest interesado: Se le proveer con instrucciones adicionales.\n\nEmail de contacto: nortonfinances@live.co.uk\n\nSaludos.  \n'
+p3150
+sS'First_name'
+p3151
+S'Shit'
+p3152
+sS'Last_name'
+p3153
+S'NORTON'
+p3154
+sS'To'
+p3155
+NsS'Date'
+p3156
+S'Sat Mar 17 20:01:06 2012'
+p3157
+sS'Reply-To'
+p3158
+S'nortonfinances@live.co.uk'
+p3159
+sS'Subject'
+p3160
+S'NORTON FINANCE COMPANY (loan offer)'
+p3161
+ssI232
+(dp3162
+S'Body'
+p3163
+S"\nAttn: document.write(decode64('THVjeSBCYXVsc2Fr')),\n\nI am Edem Salomon , A Legal Representative to late Mr. Bernard Alfred document.write(decode64('QmF1bHNhaw==')),a national of your country who lost his life alongside his direct family in a motor accident here in Togo. Meanwhile, his bank wishes to transfer the benefit of 12,5 Million Dollars to any of his extended family member as presentation may be submitted through my office.Please indicate your interest for this claim so that I can furnish you with terms of work and directives.\n\nReply to my private email address below : barristeredemsalomone@gmail.com\n\n\nSincerely,\n\nEdem Salomon\n"
+p3164
+sS'First_name'
+p3165
+S'Edem'
+p3166
+sS'Last_name'
+p3167
+S'Salomon'
+p3168
+sS'To'
+p3169
+NsS'Date'
+p3170
+S'Sat Mar 17 20:01:10 2012'
+p3171
+sS'Reply-To'
+p3172
+S'barristeredemsalomone@gmail.com'
+p3173
+sS'Subject'
+p3174
+S"Attn: document.write(decode64('THVjeSBCYXVsc2Fr')),"
+p3175
+ssI233
+(dp3176
+S'Body'
+p3177
+S'Miss koffi.Angela\n\nIt is my pleasure to contact you for a business which am intend to establish in your country. Though I have not met with you before but I believe one has to risk confiding in succeed sometimes in life.\n\nI can confide on you for the brighter future of my life since you are a human being like me. But what i need from you is Truth, Trust and Honest.\n\nThere is this huge amount of four Million Five Hundred Thousand united states dollars. ($4.500.000.00) which my late Father Deposited for me in the Bank here in Abidjan Cote D\'ivoire as his next of kin before he died out of sickness.\n\nNow" am decided to invest this money in your country or anywhere safe enough for security and political reasons.\n\nI want you to help me to transfer my inheritance money into your personal account in your country for investment purposes on these areas:\n\n1). Telecommunication\n2). The transport industry\n3). Five star hotel\n4). Real Estate\n5) Company enterprise\n\nIf you can be of an assistance to me, i will be pleased to offer to you 20% of the total fund.\n\nI will be humbly waiting your soonest response.\n\nRespectfully yours,\n\nMiss koffi.Angela\n'
+p3178
+sS'First_name'
+p3179
+NsS'Last_name'
+p3180
+NsS'To'
+p3181
+NsS'Date'
+p3182
+S'Sat Mar 17 20:15:37 2012'
+p3183
+sS'Reply-To'
+p3184
+S'ane_ko@yahoo.com.tw'
+p3185
+sS'Subject'
+p3186
+S'Miss koffi.Angela'
+p3187
 ss.

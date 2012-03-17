@@ -1,6 +1,8 @@
 from pycla import Pycla
 import hashlib
 def overrides(text):  # rule-based overrides to the maxent classifier
+	if not text:
+		return None
 	text = text.lower()
 	if "next of kin" in text:
 		return "next_of_kin"
@@ -21,6 +23,8 @@ def overrides(text):  # rule-based overrides to the maxent classifier
 	return None
 
 def fallback(text):
+	if not text:
+		return None
 	text = text.lower()
 	if "job" in text:
 		return "employment"

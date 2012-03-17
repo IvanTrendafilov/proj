@@ -12,7 +12,10 @@ def countScenarios(scenario_name):
 
 def getScenario(scenario_name):
 	options = filter(lambda x: '.txt' in x and '~' not in x, os.listdir('scenarios/' + scenario_name + '/'))  #  love for FP
-	return open('scenarios/' + scenario_name + '/' + random.choice(options)).read().strip()
+	if options:
+		return open('scenarios/' + scenario_name + '/' + random.choice(options)).read().strip()
+	else:
+		return ''
 
 def answerPQ(text, identity_dict, email_class):
 	paragraph = ""
@@ -32,7 +35,7 @@ def answerPQ(text, identity_dict, email_class):
 		location = getScenario('location')
 		postcode = ""
 		for word in postcode_words:
-			if word in text.lower():
+			if text and word in text.lower():
 				postcode = getScenario('postcode')
 				break
 		contact = getScenario('contact')
@@ -42,11 +45,11 @@ def answerPQ(text, identity_dict, email_class):
 	id_words = ['passport',' id ','id card','license', 'license']
 	photo_words = ['photo', 'picture of']
 	for word in id_words:
-		if word in text.lower():
+		if text and word in text.lower():
 			paragraph += os.linesep + getScenario('photo_request') + os.linesep
 			return paragraph
 	for word in photo_words:
-		if word in text.lower():
+		if text and word in text.lower():
 			paragraph += os.linesep + getScenario('photo_request') + os.linesep
 			return paragraph
 	return paragraph
@@ -89,7 +92,10 @@ def buildQuestionBody(email_class, maxscen = 4):
 	return question_body
 
 def getRuleAnswers(text, email_class):
-	text_l = text.lower()
+	if text:
+		text_l = text.lower()
+	else:
+		return None
 	assocMap = {}
 	if email_class == 'lottery':
 		assocMap['form_approved'] = ['bank', 'payment', 'paying', 'approved']
@@ -108,7 +114,10 @@ def getRuleAnswers(text, email_class):
 	return None
 
 def hasTriggerWords(text, email_class):
-	text_l = text.lower()
+	if text:
+		text_l = text.lower()
+	else:
+		return False
 	words = getScenario(email_class + '/' + 'trigger_words').splitlines()
 	for word in words:
 		if word in text_l:
