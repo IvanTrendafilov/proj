@@ -4,6 +4,7 @@ from email.MIMEText import MIMEText
 from responder import composeSignoff
 from identity import getIdentityEmails, getIdentityByID
 from main import init
+import time
 def sendRequest(conv_store):
 	for key in conv_store:
 		identity_dict = getIdentityByID(conv_store[key]['Identity_ID'])
@@ -15,6 +16,10 @@ def sendRequest(conv_store):
 		bucket = conv_store[key]['Bucket']
 		mime_msg = MIMEText(message, 'plain')
 		mime_msg['From'] = own_name + ' <' + own_addr + '>'
+		if not bucket:
+			continue
+		else:
+			destination_addr = bucket[0]
 		for email_addr in bucket:
 			if email_addr not in getIdentityEmails():
 				mime_msg['To'] = email_addr
@@ -34,4 +39,5 @@ def sendRequest(conv_store):
 
 if __name__ == "__main__":
 	a, b = init()
+	del b[0]
 	sendRequest(b)

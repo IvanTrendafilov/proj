@@ -1,0 +1,43 @@
+From: MAILER-DAEMON@yahoo.com
+To: ethanstokes51@yahoo.co.uk
+Date: Sat, 17 Mar 2012 00:17:18 -0000
+Subject: Failure Notice
+
+Sorry, we were unable to deliver your message to the following address.
+
+<mumdavies415@gmail.com>:
+Remote host said: 550 5.2.1 The email account that you tried to reach is disabled. b43si7687728wed.101 [RCPT_TO]
+
+--- Below this line is a copy of the message.
+
+Received: from [217.146.183.211] by nm3.bullet.mail.ukl.yahoo.com with NNFMP; 17 Mar 2012 00:17:15 -0000
+Received: from [217.146.183.127] by tm4.bullet.mail.ukl.yahoo.com with NNFMP; 17 Mar 2012 00:17:15 -0000
+Received: from [127.0.0.1] by smtp104.mail.ukl.yahoo.com with NNFMP; 17 Mar 2012 00:17:15 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.co.uk; s=s1024; t=1331943435; bh=xqgUr3qd4miFdCCoS4Ic35JQ7N+vW8cLkzRTNUa/A+k=; h=X-Yahoo-Newman-Id:Message-ID:Date:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:Received:Content-Type:MIME-Version:Content-Transfer-Encoding:From:To:To:To:To:Subject; b=bzENr+wN2PhMYS4FRVjIZUT/gvM59zNn0r66FnP3oD6uuDpwWoYpKm88GmP7/9d/tDR94K6eNjgjeNCGpyMi2jThoJtVP3w6upo64gJkCWolrJlE3XHOdfJZfOq5WNR9S+zMhqQ6hhNGTW2qeAdgAYGZ+P0RTKkQEckVoA5z/aA=
+X-Yahoo-Newman-Id: 517400.20414.bm@smtp104.mail.ukl.yahoo.com
+Message-ID: <517400.20414.bm@smtp104.mail.ukl.yahoo.com>
+Date: Fri, 16 Mar 2012 17:17:15 -0700 (PDT)
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: c9J4uwQVM1mpcxaRnnB5q17H_ykRXJjyAfZ0FzLg.vFrLUb
+ 0QPmzCUPF1jJaGMcIMPnpPdo_0e4YrjguUVTZrKfvhlNxhe4P3RYSdYNwgi5
+ EfSQ58CL3qZew1cUTtHkReHfJb2o7VPwfP1D_yql1fzTp2adRmHa.MiGLKOq
+ OIcmRB7r2DZwr8a2sZDwHMnQq_vqPisBQlAxJs6uqWXr8ZvqJinQADmULoYr
+ q2hQtq0rbupT_IudHUVg0.3BLbvLk.U3ADoxe7D2Gq1rGWU0.MBM9ygjGMrP
+ F7yqOg5NyC.NF3N3FRIcZmgJmATije4IQmmbYjHNV9sKWgNtXEwiYggxlOiW
+ MOCMJm_gbg7tG0hNQqBQIbKO5fwWu51jIvCoaQ2Zmm2mR9ozPXkY-
+X-Yahoo-SMTP: R2ffMk.swBA8hm7MBB2OHwF8l3n06jNUxRU-
+Received: from logain.clustered.net (ethanstokes51@89.145.84.36 with plain)
+        by smtp104.mail.ukl.yahoo.com with SMTP; 16 Mar 2012 17:17:15 -0700 PDT
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+From: Ethan Stokes <ethanstokes51@yahoo.co.uk>
+To: mumdavies415@gmail.com
+To: daviesddr@gmail.com
+To: daviesrossmanmr@gmail.com
+To: mrdaviesrossman@gmail.com
+Subject: Apologies!
+
+I am feeling stupid today. I deleted your message accidentally. Can you send it again to me, as it was?
+Warm Regards,
+Ethan

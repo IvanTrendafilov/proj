@@ -63,7 +63,6 @@ if __name__ == "__main__":
 			try:
 				print "Checking", identities[identity]['Username']
 				retrieveMessages(identities[identity])
-				break
 			except Exception, e:
 				print "Caught exception:", e
 			finally:
