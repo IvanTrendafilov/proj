@@ -6414,4 +6414,28 @@ sS'Subject'
 p3186
 S'Miss koffi.Angela'
 p3187
+ssI234
+(dp3188
+S'Body'
+p3189
+S'\nWe give out loans to business people and individuals for just 3% interest rate.We give out local and international loans to any body all over the world.We give out loans via account transfer to what ever country you are.We are not a bank and we do not require much documents.If you are interested in getting a loan from our company Coastal Loan Services.In acknowledgment to these details, I will send you a well calculated Terms and Condition which will include the Loan agreement.\n\nBest Regards\nRichard\n'
+p3190
+sS'First_name'
+p3191
+NsS'Last_name'
+p3192
+NsS'To'
+p3193
+NsS'Date'
+p3194
+S'Sat Mar 17 20:20:34 2012'
+p3195
+sS'Reply-To'
+p3196
+S'coastalloanhomes@gmail.com'
+p3197
+sS'Subject'
+p3198
+S'just 3% interest rate'
+p3199
 ss.
