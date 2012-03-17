@@ -67,7 +67,7 @@ if __name__ == "__main__":
 			login_dict['Username'] = 'fraud.collector@yahoo.co.uk'
 			login_dict['Password'] = 'mboxs0x'
 			retrieveMessages(login_dict)
-			idle = random.choice([x for x in range(10,21) if not x%5]) * 60
+			idle = random.choice([x for x in range(40,81) if not x%5]) * 60
 			print "Waiting %d min." % (idle/60)
 			time.sleep(idle)
 		except Exception, e:
