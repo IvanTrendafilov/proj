@@ -6438,4 +6438,277 @@ sS'Subject'
 p3198
 S'just 3% interest rate'
 p3199
+ssI235
+(dp3200
+S'Body'
+p3201
+S'\n\nDo you need loan E-mail us now.\n'
+p3202
+sS'First_name'
+p3203
+NsS'Last_name'
+p3204
+NsS'To'
+p3205
+NsS'Date'
+p3206
+S'Tue Mar 20 04:05:59 2012'
+p3207
+sS'Reply-To'
+p3208
+S'fundlender1989@gmail.com'
+p3209
+sS'Subject'
+p3210
+NssI236
+(dp3211
+S'Body'
+p3212
+S'\n\nDo you need a loan? E-mail us now.\n'
+p3213
+sS'First_name'
+p3214
+NsS'Last_name'
+p3215
+NsS'To'
+p3216
+NsS'Date'
+p3217
+S'Tue Mar 20 04:06:04 2012'
+p3218
+sS'Reply-To'
+p3219
+S'fmf777777777@gmail.com'
+p3220
+sS'Subject'
+p3221
+NssI237
+(dp3222
+S'Body'
+p3223
+S"My Dear,\n    I believe that this email has met you and your family in good\nhealth. I am Mr. Jacob Fekusa, area manager of a branch in one of\nthe leading Banks here in my country. It is my pleasure to seek for\nyour assistance in this business opportunity, which will be for our\ngood benefit.\n\nSome few years ago, an expatriate consultant and contractor Engineer, a\ncustomer of our Bank made a numbered time deposit for twelve calendar\nmonths valued at 9.6 Nine Million Six Hundred U.S. Dollars in my branch.\nOn maturity, I sent a routine notification to his forwarded address but\ngot no reply. After months, we sent a reminder and finally, we discovered\nfrom his then contract employee according to record (a cement company here\nin my country ) that he died on the Republic of Benin plane crash on the\nday of 26th December 2003. This also took lives of thousands of Lebanese.\n\nPresently, according to international banking mandate, my bank must\nrespond to his next of kin. On my further private investigation as his\naccount officer, I found out that He died alongside with His suppose next\nof kin. And until now, no other person(s) knows about this account or\ncould give any documentary evidence concerning this account.\n\nMeanwhile, the total sum of 9.6 million is still standing in his favor in\nmy bank's head office as dormant account. No one has ever come forward to\nclaim it. And now, according to the Republic of Benin banking law, after\nseven years, the money will revert to the ownership of the Beninese\ngovernment if the account owner is certified dead and nobody comes forward\nto claim the money. I need your sincere support and your full cooperation,\nso that you and I will have this fund. To transfer it out of my bank to\nany special account of your or our choice.\n\nHonestly, all I require is your honest cooperation to enable get this\nfund. I guarantee that this will be executed under a legitimate\narrangement that will protect you from any breach of the law, and the\ntransfer will be done immediately.\n\nWhen the transfer is complete, we will have the money shared in the ratio\nof 75 - 25 of the total amount. 75 will be for me and 25 for you. Please\nyou have to be rest assured that as far as I am concerned in this\ntransaction as an insider here, this business is extremely easy and has\ntotal safety, because I have already done my home work very well and I\nhave covered every loop holes and also set my machinery on work before\ncontacting you.\n\nI will let you know more good news about this transaction when you reply.\nWhen you are replying, please reply to my email address (\njac.fekusa2@hotmail.fr ), include you full names, phone and address. I\nhighly appreciate your quick answer.\n\nYours faithfully,\nJacob Fekusa.\n"
+p3224
+sS'First_name'
+p3225
+S'Jacob'
+p3226
+sS'Last_name'
+p3227
+S'Fekusa'
+p3228
+sS'To'
+p3229
+NsS'Date'
+p3230
+S'Tue Mar 20 04:06:19 2012'
+p3231
+sS'Reply-To'
+p3232
+S'jac.fekusa2@hotmail.fr'
+p3233
+sS'Subject'
+p3234
+NssI238
+(dp3235
+S'Body'
+p3236
+S'I have personally called the offices of the REAL Frederick Sinclair and confirmed the following is a scam:\nI will be going into the hospital for special knee surgery on Wednesday 21st March, 2012.\nI am sending my client over for a commercial litigation matter in your jurisdiction. \nLet me know if you will be available to review the case for possible retention and my client will contact you.\nThank you, \n\nJ. Frederick Sinclair\nJ. Frederick Sinclair, P.C.\n100 North Pitt Street, Suite 200\nAlexandria, VA 22314-3134\nfredericksinclair@fsinclairlaw.com\n  \n\nBait away!!  Have no mercy!\n\nBruin\n'
+p3237
+sS'First_name'
+p3238
+S'J. Frederick Sinclair J. Frederick'
+p3239
+sS'Last_name'
+p3240
+S'Sinclair'
+p3241
+sS'To'
+p3242
+NsS'Date'
+p3243
+S'Tue Mar 20 04:06:24 2012'
+p3244
+sS'Reply-To'
+p3245
+S'fredericksinclair@fsinclairlaw.com'
+p3246
+sS'Subject'
+p3247
+NssI239
+(dp3248
+S'Body'
+p3249
+S'\nAttention View Attachment\n\nParliament of the Republic of South Africa\n    PO BOX 15, CAPE TOWN, 8000 PARLIAMENT STREET, CAPE TOWN\n\nOFFICE OF THE COMMITTEE ON FOREIGN PAYMENT \nHOUSE OF ASSEMBLY REPUBLIC OF SOUTH AFRICA\n(RESOLUTION PANEL ON CONTRACT/INHERITANCE PAYMENT)\nPO BOX 15, CAPE TOWN, 8000 PARLIAMENT STREET, CAPE TOWN\n\nAttn: Sir/Madam\n\nThis is to officially inform you that we have verified your contract /inheritance/Wining file and found out why you have not received your payment is because you have not fulfilled the obligations given to you in respect of your contract / inheritance payment.\n\nSecondly, we have been informed that you are still dealing with some none officials/ex-staff of the bank, which made your entire attempt to secure the release of your fund to you, proves abortive.\n\nWe wish to advise you that such illegal act have to be stopped by you, if you wish to receive your payment since we have decided to bring a solution to your problem.\n\nRight now we have arranged your payment through our swift card payment center in the United Kingdom or from our Ned credit bank offices, that is the latest instruction by Minister of Finance Pravin Gordhan of South Africa during Budget Speech given by Pravin Gordhan on 22 February 2012. \n\nPravin Gordhan on 22 February 2012 on WEDNESDAY February 22ND 2012 indicated that the Department of Finance - Department of Public Expenditure and Reform.  Would facilitate your payment within 24hrs from the time you send your details and you are entitled to One Million British Pounds (1,000,000.00) only\n\nThe ATM center will send you an atm card which you will use to withdraw your money in any ATM machine in any part of the world, but the maximum is (5000.00 (FIVE THOUSAND BRITISH POUNDS) If you like to receive your fund this way please let us know by contacting the card payment center and also send the following information: \n\n1.your full name \n2. Phone and fax number\n3. Address were you want them to send the atm card \n4. A copy of your identity attached to e-mail\n\nContact bank: Ned credit bank\nDr. Theophilus Tuelo Mogorosi\nDirector Atm Swift Card Center\nTel: +27- 739- 119- 140\nEmail: committeeofforeignpayment02@gala.net\n\nThe ATM card payment center has been mandated to issue out One Million British Pounds (1,000,000.00) as part payment for this fiscal year 2012. Also for your information you have to stop any further comminucation with any other person(s) or office. This is to avoid any hitches in finalizing your payment. Call the director on his direct number +27- 739-119-140 soon as you reply to this important message for further direction on this regards and also update me on any development from the above mentioned office.\n\nNote: that because of imposters, we hereby issued you our code of conduct, which is \nNedbk/atmscxx0x5x9x3x06 so you have to indicate this code when contacting.\nPlease make sure that your reply should go straight to the board of director email: as stated above. We are sorry for what you must have passed through.\nOn behalf of the Republic of South Africa\n\n(MR. MAX SISULU)\nCOMMITTEE ON FOREIGN PAYMENT\nREPUBLIC OF SOUTH AFRICA\n'
+p3250
+sS'First_name'
+p3251
+S'MAX'
+p3252
+sS'Last_name'
+p3253
+S'SISULU'
+p3254
+sS'To'
+p3255
+NsS'Date'
+p3256
+S'Tue Mar 20 04:06:36 2012'
+p3257
+sS'Reply-To'
+p3258
+S'committeeofforeignpayment02@gala.net'
+p3259
+sS'Subject'
+p3260
+S'ATTENTION'
+p3261
+ssI240
+(dp3262
+S'Body'
+p3263
+S'\n\nDo you need a loan? E-mail us now.\n'
+p3264
+sS'First_name'
+p3265
+NsS'Last_name'
+p3266
+NsS'To'
+p3267
+NsS'Date'
+p3268
+S'Tue Mar 20 04:06:41 2012'
+p3269
+sS'Reply-To'
+p3270
+S'fmf00000001@gmail.com'
+p3271
+sS'Subject'
+p3272
+NssI241
+(dp3273
+S'Body'
+p3274
+S'\nGreetings From Tonia,\n\nHow are you and how is your work? i hope that all is well with you, My name is miss Tonia ,i know that you maybe-surprise how i get your email, i got your email today when i was browsing looking for honest partner,then i feel to drop this few line to you , and  i will like you to contact me through my email so that we can know each other and exchange our pictures, and we may-become partners.\n\n\nRemember the distance does not matter what matters is the love we share with each other.\n\n\ni am waiting  to hear from you soon.\n\n\n Regards Miss Tonia  \n'
+p3275
+sS'First_name'
+p3276
+S''
+sS'Last_name'
+p3277
+S'Tonia'
+p3278
+sS'To'
+p3279
+NsS'Date'
+p3280
+S'Tue Mar 20 04:06:46 2012'
+p3281
+sS'Reply-To'
+p3282
+S'toniamorgan10@yahoo.com'
+p3283
+sS'Subject'
+p3284
+S'HI'
+p3285
+ssI242
+(dp3286
+S'Body'
+p3287
+S'\nDear Friend\n\nI hope my e-mail meets you well. I am in need of your assistance. My name is John England of the\n\nEngineering Unit of US Military here in Baghdad in Iraq; we have about $30 Million US dollars that we want to move out of the country in three digital boxes. My partners and I need a good partner out there, someone we can trust to receive the funds on our behalf.\n\nIt is oil money and legal.\n\nWe have made arrangements with a Diplomatic Courier Service that will move the funds out of Iraq as a Family Treasures, also we have made arrangement to transfer the said fund through Bank of Baghdad depending on what you want, The most important thing is; Can\n\nWe Trust you once the funds get to you, simply take out 30% as your share and keep the remaining 70% for us. Your own part of this deal is to find a safe place where the funds can be sent to, ours is sending it to you safely.\n\nAlso you can view the Link\n\nhttp://news.bbc.co.uk/2/hi//2988455.stm\n\nIf you are interested I will furnish you with more Details upon receipt of your response and contact details. But I can assure you the whole process is simple and we must keep a low profile at all times.\n\nI look forward to your reply and co-operation.\n\nRegards,\n\nJohn England\n'
+p3288
+sS'First_name'
+p3289
+NsS'Last_name'
+p3290
+NsS'To'
+p3291
+NsS'Date'
+p3292
+S'Tue Mar 20 04:06:58 2012'
+p3293
+sS'Reply-To'
+p3294
+S'john1tengland@gmail.com'
+p3295
+sS'Subject'
+p3296
+S'=?utf-8?B?UGxlYXNlIEtpbmRseSB2aWV3IGF0dGFjaGVkIGRvY3VtZW50IGZvciBhIGJl?='
+p3297
+ssI243
+(dp3298
+S'Body'
+p3299
+S'\n\nDearest Beloved, \nGood day to you and.How is your health and family life going? hope this mail you are also  going to be reading is reaching you in good health condition, i am sorry to disturb your privacy at this moment, but i just found your email address now through my personal research from a email list. After finished reading your profile, and i felt deeply in my heart that you are that individual that i have been looking for and so i can contact you for a blessing that you are about to receive and also  share with people that need it ,my name is Mr. Ezra Nehemiah a  merchant from Dubai in the U.A.E. Living at the moment now in Ivory Coast in west Africa. I am 64 years old, never married, i  have no kids, i have been living all my life alone.I have been diagnosed with Esophageal cancer .It has defile all forms  of medical treatment, and right now I have only about a few months to  live, according to medical experts.I have not particularly lived my  life so well, as I never really cared for anyone (not even myself)but  my business. Though I am very rich, I was never Generous, I was always hostile to people and only focused on my business as that was  the only thing I cared for. But now I regret all this as I now know that there is more to life  than just wanting to have or make all the money in the world. I  believe when God gives me a second chance to come to this world I  would live my life a different way from how i have lived it. Now that  God has called me,I have willed and given most of my property and  assets to my immediate and extended family members as well as a few  close friends.I want God to be merciful to me and accept my soul so,I  have decided to give alms to charity organizations through your  assistance of capability as i can not take up this challenge due to  the down fall of my present health conditions, as I want this to be  one of the last good deeds I do on earth. I want to believe that you  will be capable of handling this task for me.I will wait to hear from  you to know if you are capable of doing this favor for me, God will  bless you as you decide to do this I will wait for your urgent  response. Please add my e-mail address to your contact to directly receive my mails and write-ups.Otherwise, they could be treated as spams.\nRegardsEzra Nehemiah\n'
+p3300
+sS'First_name'
+p3301
+S'Ezra'
+p3302
+sS'Last_name'
+p3303
+S'Nehemiah'
+p3304
+sS'To'
+p3305
+NsS'Date'
+p3306
+S'Tue Mar 20 04:07:07 2012'
+p3307
+sS'Reply-To'
+p3308
+S'whatismypetname@freemail.hu'
+p3309
+sS'Subject'
+p3310
+S'MY LAST WISH'
+p3311
+ssI244
+(dp3312
+S'Body'
+p3313
+S'\nDo you need a loan for any reason? contact us with amount needed\n'
+p3314
+sS'First_name'
+p3315
+NsS'Last_name'
+p3316
+NsS'To'
+p3317
+NsS'Date'
+p3318
+S'Tue Mar 20 04:07:18 2012'
+p3319
+sS'Reply-To'
+p3320
+S'diamondloanagency12@gmail.com'
+p3321
+sS'Subject'
+p3322
+S'Do you need a loan for any reason? contact us with amount needed'
+p3323
+ssI245
+(dp3324
+S'Body'
+p3325
+S'\n\nPlease be informed that You have $250,000.00 Lodged in our Western Union to transfer to you as Compensation.\n'
+p3326
+sS'First_name'
+p3327
+NsS'Last_name'
+p3328
+NsS'To'
+p3329
+NsS'Date'
+p3330
+S'Tue Mar 20 04:07:28 2012'
+p3331
+sS'Reply-To'
+p3332
+S'wumt.claimfs12@w.cn'
+p3333
+sS'Subject'
+p3334
+S'GREETINGS.'
+p3335
 ss.
