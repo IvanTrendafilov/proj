@@ -6741,4 +6741,467 @@ sS'Subject'
 p3349
 S'Further Details of Your Funds'
 p3350
+ssI247
+(dp3351
+S'Body'
+p3352
+S'\n\nDo you need loan E-mail us now.\n'
+p3353
+sS'First_name'
+p3354
+NsS'Last_name'
+p3355
+NsS'To'
+p3356
+NsS'Date'
+p3357
+S'Thu Mar 22 12:36:23 2012'
+p3358
+sS'Reply-To'
+p3359
+S'fundlender1989@gmail.com'
+p3360
+sS'Subject'
+p3361
+NssI248
+(dp3362
+S'Body'
+p3363
+S"\nDEPUTY MINISTER OF SOCIAL DEVELOPMENT\nREPUBLIC OF SOUTH AFRICA\nPHONE:    +27-79-4405094\nEMAIL:     mrsbongimaria@consultant.com\n\nMy Dearest in God,\nI have initially sent you this message but, until now I have not heard from you, I hope everything is fine with you and your family. My Name Is MARIA BONGI NTULI Currently The Deputy Minister Of Social Development Of South Africa. I Have Served In Many Capacities Towards Nation Building.\nYou can view my profile at www.gov.za click on government contact, click on deputy ministries and locate Social development and read about me.\n\nI am married to late Mr. Zuma Ntuli and the marriage lasted for 25years with only a child .My husband died of an illness that lasted for only 6weeks. I know my mail may come to you as a surprise, reason for we have not seen or meet before. I am soliciting for your help, as I am divinely directed.\nBefore my husband's death, we were pure born again Christians. When my husband was alive, we deposited the sum of $30.5million US Dollars in a financial institution here in my country, and the fund emanated as a result of an over invoiced contract he did with my former ministry. Though I assisted him in securing the contract, but I never knew he overinflated the contract. The government we are in under Comrade Jacob Zuma (The present president of my country, South Africa) came up with a policy to review contracts awarded years ago, and he is poised to confiscating funds with irregular tender, hence that is my reason of contacting my contacting you.\n\nRecently, my doctor told me that I will not last up to 6months, because of my diagnosis of cancer .my most pressing problem is the stroke, which I am managing before this new medical case. Having known my condition I decided to donate this fund to a church or better still, a Christian individual that will utilize this money the way I am going to instruct here in. I want a person or church that will use this fund to churches, orphanages, research centers and widows propagating the work/word of God and to ensure that the house of God is maintained. The Bible made us to understand that blessed is the hand that gives. I took this decision because I have a child that will inherit this money, but my son cannot carry out this work only because I and my late husband decide to use some of the money to work for God and live some for our son to have a better live. Our son is just 15years old now, and is growing up in Africa here, he has low maturity hence and otherwise this is also one of the reasons for taking this bold decision. I am not afraid of death hence I know that I am going to be in the bosom of the Lord. Exodus 14 VS 14 says that the lord will fight my case and I shall hold my peace.\n\nI will like you to understand that my contact to you is a divine direction from God; As soon as I receive your reply I shall give you the contact of the Finance/bank. I will also issue you a letter of authority that will empower you as the new beneficiary of this fund.\n\nMy happiness is that I live a life of a worthy BELIEVER IN GOD ALMIGHTY. Any delay in your reply will give me room in sourcing for a church or Christian individual for this same purpose.\nPlease assure me that you will act accordingly as I stated here and Please I will like you to contact me immediately you receive this mail so that I will instruct the Finance/bank to! Transfer this fund into your account for further utility.\n\nCorrespondence must be by email to any of my private e-mail addresses.\nDONT CALL MY OFFICE LINE.\nRemain blessed in the name of the Lord God Almighty.\nMrs. MARIA BONGI NTULI\n                                                             PHONE:    +27-79-4405094\n                                                      Email: mrsbongimaria@consultant.com\n"
+p3364
+sS'First_name'
+p3365
+S'MARIA BONGI'
+p3366
+sS'Last_name'
+p3367
+S'NTULI'
+p3368
+sS'To'
+p3369
+NsS'Date'
+p3370
+S'Thu Mar 22 12:36:27 2012'
+p3371
+sS'Reply-To'
+p3372
+S'mrsbongimaria@consultant.com'
+p3373
+sS'Subject'
+p3374
+S'Dear Friend, Please Kindly (View Attached Document) in this Message'
+p3375
+ssI249
+(dp3376
+S'Body'
+p3377
+S'\n\n\nDo you need a loan?.If yes reply us for more details.1.Full\n\nName:2.Sex:3.Age:4.Phone:5.Country:6.Loan Amount needed:.7.Duration\n\nPeriod:8.Monthly Income:9.Occupation:\n'
+p3378
+sS'First_name'
+p3379
+NsS'Last_name'
+p3380
+NsS'To'
+p3381
+NsS'Date'
+p3382
+S'Thu Mar 22 12:36:41 2012'
+p3383
+sS'Reply-To'
+p3384
+S'robertmilanloans1@gmail.com'
+p3385
+sS'Subject'
+p3386
+NssI250
+(dp3387
+S'Body'
+p3388
+S"\nDear Friend,\n\nI write to seek your co-operation as my foreign partner and your assistance to enable us to own properties and invest in the economy of your country. I apologize if this letter does not suit your personal or business ethics.My name is Mr. Walter Sisulu, I work as the Foreign Operations Manager with a reputable bank here in Nigeria. I am making this venture proposal to you in strict confidence, although the world is very small place and hard place to meet people because you don't know who to trust or believe,but as I have developed the trust in you after my fasting and praying, i made up my mind to confide this confidential business suggestion to you.\n\nThere is an over due unclaimed sum of Twenty Nine Million, Five Hundred Thousand United States Dollars ($29,500,000.00) in my bank, belonging to one of our dead foreign customers. There were no beneficiaries stated concerning these funds. Therefore, your request as a foreigner is necessary to apply for the claim and release of the fund smoothly into your reliable bank account as the Foreign Business Partner to the deceased.\n\nIf you will like to work with me as a partner then indicate your interest after which we shall both discuss the modalities and the sharing percentage. All other information to facilitate the remittance of the funds will be revealed to you in due course. If you are not interested,please also indicate so, so that it will enable me to contact other foreign partners who might be interested to work with me.  I will appreciate if you could contact me through my direct email address: waltersisulu@rediffmail.com A swift acknowledgment of the receipt of this letter and early establishment of position will be appreciated.\n\nThank you and God bless you.\n"
+p3389
+sS'First_name'
+p3390
+S'Walter'
+p3391
+sS'Last_name'
+p3392
+S'Sisulu'
+p3393
+sS'To'
+p3394
+NsS'Date'
+p3395
+S'Thu Mar 22 12:36:45 2012'
+p3396
+sS'Reply-To'
+p3397
+S'waltersisulu@rediffmail.com'
+p3398
+sS'Subject'
+p3399
+S'I seek your co-operation'
+p3400
+ssI251
+(dp3401
+S'Body'
+p3402
+S'\n\nDo you need a loan? E-mail us now.\n'
+p3403
+sS'First_name'
+p3404
+NsS'Last_name'
+p3405
+NsS'To'
+p3406
+NsS'Date'
+p3407
+S'Thu Mar 22 12:36:55 2012'
+p3408
+sS'Reply-To'
+p3409
+S'fmf777777777@gmail.com'
+p3410
+sS'Subject'
+p3411
+NssI252
+(dp3412
+S'Body'
+p3413
+S'You have 24 hours to reconfirm your full address and valued phone number to enable the diplomat Hope Frank to deliver your\n\ncash consignment box to you today, contact him now for full details through (hope2345@yahoo.cn)\n\nMr. Sanusi Lamido\nthe Executive Governor\nCentral bank of Nigeria\n \n'
+p3414
+sS'First_name'
+p3415
+S'Hope'
+p3416
+sS'Last_name'
+p3417
+S'Frank'
+p3418
+sS'To'
+p3419
+NsS'Date'
+p3420
+S'Thu Mar 22 12:37:00 2012'
+p3421
+sS'Reply-To'
+p3422
+S'hope2345@yahoo.cn'
+p3423
+sS'Subject'
+p3424
+S'YOUR DIPLOMAT IS AT TUCSON INTERNATIONAL AIRPORT ARIZONA USA,CONTACT HIM NOW (520)303-2184 or (hope2345@yahoo.cn)'
+p3425
+ssI253
+(dp3426
+S'Body'
+p3427
+S'\n$17.5million usd business proposal.\nI am Mr. cheung Eric, Foreign Operations Manager of the Hangseng Bank   HongKong .I have a business suggestion for you of $17.5MillionUSD. Further details contact me via email:  ericcheung77@hotmail.com\n\n-----------------------------------------\n**************************************************************************\nThe information contained in the EMail and any attachments is\nconfidential and intended solely and for the attention and use of\nthe named addressee(s). It may not be disclosed to any other person\nwithout the express authority of the HPA, or the intended\nrecipient, or both. If you are not the intended recipient, you must\nnot disclose, copy, distribute or retain this message or any part\nof it. This footnote also confirms that this EMail has been swept\nfor computer viruses, but please re-sweep any attachments before\nopening or saving. HTTP://www.HPA.org.uk\n**************************************************************************\n'
+p3428
+sS'First_name'
+p3429
+S'cheung'
+p3430
+sS'Last_name'
+p3431
+S'Eric'
+p3432
+sS'To'
+p3433
+NsS'Date'
+p3434
+S'Thu Mar 22 12:37:12 2012'
+p3435
+sS'Reply-To'
+p3436
+S'ericcheung77@hotmail.com'
+p3437
+sS'Subject'
+p3438
+S'$17.5million usd business proposal.'
+p3439
+ssI254
+(dp3440
+S'Body'
+p3441
+S"My Dear,\n    I believe that this email has met you and your family in good\nhealth. I am Mr. Jacob Fekusa, area manager of a branch in one of\nthe leading Banks here in my country. It is my pleasure to seek for\nyour assistance in this business opportunity, which will be for our\ngood benefit.\n\nSome few years ago, an expatriate consultant and contractor Engineer, a\ncustomer of our Bank made a numbered time deposit for twelve calendar\nmonths valued at 9.6 Nine Million Six Hundred U.S. Dollars in my branch.\nOn maturity, I sent a routine notification to his forwarded address but\ngot no reply. After months, we sent a reminder and finally, we discovered\nfrom his then contract employee according to record (a cement company here\nin my country ) that he died on the Republic of Benin plane crash on the\nday of 26th December 2003. This also took lives of thousands of Lebanese.\n\nPresently, according to international banking mandate, my bank must\nrespond to his next of kin. On my further private investigation as his\naccount officer, I found out that He died alongside with His suppose next\nof kin. And until now, no other person(s) knows about this account or\ncould give any documentary evidence concerning this account.\n\nMeanwhile, the total sum of 9.6 million is still standing in his favor in\nmy bank's head office as dormant account. No one has ever come forward to\nclaim it. And now, according to the Republic of Benin banking law, after\nseven years, the money will revert to the ownership of the Beninese\ngovernment if the account owner is certified dead and nobody comes forward\nto claim the money. I need your sincere support and your full cooperation,\nso that you and I will have this fund. To transfer it out of my bank to\nany special account of your or our choice.\n\nHonestly, all I require is your honest cooperation to enable get this\nfund. I guarantee that this will be executed under a legitimate\narrangement that will protect you from any breach of the law, and the\ntransfer will be done immediately.\n\nWhen the transfer is complete, we will have the money shared in the ratio\nof 75 - 25 of the total amount. 75 will be for me and 25 for you. Please\nyou have to be rest assured that as far as I am concerned in this\ntransaction as an insider here, this business is extremely easy and has\ntotal safety, because I have already done my home work very well and I\nhave covered every loop holes and also set my machinery on work before\ncontacting you.\n\nI will let you know more good news about this transaction when you reply.\nWhen you are replying, please reply to my email address (\njac.fekusa2@hotmail.fr ), include you full names, phone and address. I\nhighly appreciate your quick answer.\n\nYours faithfully,\nJacob Fekusa.\n"
+p3442
+sS'First_name'
+p3443
+S'Jacob'
+p3444
+sS'Last_name'
+p3445
+S'Fekusa'
+p3446
+sS'To'
+p3447
+NsS'Date'
+p3448
+S'Thu Mar 22 12:37:32 2012'
+p3449
+sS'Reply-To'
+p3450
+S'jac.fekusa2@hotmail.fr'
+p3451
+sS'Subject'
+p3452
+NssI255
+(dp3453
+S'Body'
+p3454
+S'I have personally called the offices of the REAL Frederick Sinclair and confirmed the following is a scam:\nI will be going into the hospital for special knee surgery on Wednesday 21st March, 2012.\nI am sending my client over for a commercial litigation matter in your jurisdiction. \nLet me know if you will be available to review the case for possible retention and my client will contact you.\nThank you, \n\nJ. Frederick Sinclair\nJ. Frederick Sinclair, P.C.\n100 North Pitt Street, Suite 200\nAlexandria, VA 22314-3134\nfredericksinclair@fsinclairlaw.com\n  \n\nBait away!!  Have no mercy!\n\nBruin\n'
+p3455
+sS'First_name'
+p3456
+S'J. Frederick Sinclair J. Frederick'
+p3457
+sS'Last_name'
+p3458
+S'Sinclair'
+p3459
+sS'To'
+p3460
+NsS'Date'
+p3461
+S'Thu Mar 22 12:37:37 2012'
+p3462
+sS'Reply-To'
+p3463
+S'fredericksinclair@fsinclairlaw.com'
+p3464
+sS'Subject'
+p3465
+NssI256
+(dp3466
+S'Body'
+p3467
+S'\nAttention View Attachment\n\nParliament of the Republic of South Africa\n    PO BOX 15, CAPE TOWN, 8000 PARLIAMENT STREET, CAPE TOWN\n\nOFFICE OF THE COMMITTEE ON FOREIGN PAYMENT \nHOUSE OF ASSEMBLY REPUBLIC OF SOUTH AFRICA\n(RESOLUTION PANEL ON CONTRACT/INHERITANCE PAYMENT)\nPO BOX 15, CAPE TOWN, 8000 PARLIAMENT STREET, CAPE TOWN\n\nAttn: Sir/Madam\n\nThis is to officially inform you that we have verified your contract /inheritance/Wining file and found out why you have not received your payment is because you have not fulfilled the obligations given to you in respect of your contract / inheritance payment.\n\nSecondly, we have been informed that you are still dealing with some none officials/ex-staff of the bank, which made your entire attempt to secure the release of your fund to you, proves abortive.\n\nWe wish to advise you that such illegal act have to be stopped by you, if you wish to receive your payment since we have decided to bring a solution to your problem.\n\nRight now we have arranged your payment through our swift card payment center in the United Kingdom or from our Ned credit bank offices, that is the latest instruction by Minister of Finance Pravin Gordhan of South Africa during Budget Speech given by Pravin Gordhan on 22 February 2012. \n\nPravin Gordhan on 22 February 2012 on WEDNESDAY February 22ND 2012 indicated that the Department of Finance - Department of Public Expenditure and Reform.  Would facilitate your payment within 24hrs from the time you send your details and you are entitled to One Million British Pounds (1,000,000.00) only\n\nThe ATM center will send you an atm card which you will use to withdraw your money in any ATM machine in any part of the world, but the maximum is (5000.00 (FIVE THOUSAND BRITISH POUNDS) If you like to receive your fund this way please let us know by contacting the card payment center and also send the following information: \n\n1.your full name \n2. Phone and fax number\n3. Address were you want them to send the atm card \n4. A copy of your identity attached to e-mail\n\nContact bank: Ned credit bank\nDr. Theophilus Tuelo Mogorosi\nDirector Atm Swift Card Center\nTel: +27- 739- 119- 140\nEmail: committeeofforeignpayment02@gala.net\n\nThe ATM card payment center has been mandated to issue out One Million British Pounds (1,000,000.00) as part payment for this fiscal year 2012. Also for your information you have to stop any further comminucation with any other person(s) or office. This is to avoid any hitches in finalizing your payment. Call the director on his direct number +27- 739-119-140 soon as you reply to this important message for further direction on this regards and also update me on any development from the above mentioned office.\n\nNote: that because of imposters, we hereby issued you our code of conduct, which is \nNedbk/atmscxx0x5x9x3x06 so you have to indicate this code when contacting.\nPlease make sure that your reply should go straight to the board of director email: as stated above. We are sorry for what you must have passed through.\nOn behalf of the Republic of South Africa\n\n(MR. MAX SISULU)\nCOMMITTEE ON FOREIGN PAYMENT\nREPUBLIC OF SOUTH AFRICA\n'
+p3468
+sS'First_name'
+p3469
+S'MAX'
+p3470
+sS'Last_name'
+p3471
+S'SISULU'
+p3472
+sS'To'
+p3473
+NsS'Date'
+p3474
+S'Thu Mar 22 12:39:16 2012'
+p3475
+sS'Reply-To'
+p3476
+S'committeeofforeignpayment02@gala.net'
+p3477
+sS'Subject'
+p3478
+S'ATTENTION'
+p3479
+ssI257
+(dp3480
+S'Body'
+p3481
+S'\n\nDo you need a loan? E-mail us now.\n'
+p3482
+sS'First_name'
+p3483
+NsS'Last_name'
+p3484
+NsS'To'
+p3485
+NsS'Date'
+p3486
+S'Thu Mar 22 12:39:21 2012'
+p3487
+sS'Reply-To'
+p3488
+S'fmf00000001@gmail.com'
+p3489
+sS'Subject'
+p3490
+NssI258
+(dp3491
+S'Body'
+p3492
+S'\nATTENTION:\n\n\n\nWe are writing you regarding the transfer of your compensations funds which ought to commence immediately haven received your details needed for the transfer. Haven done all the proper verification exercise from all our department, we found you worthy of the cash compensations in the ECOBANK/UNITED NATIONS 2012 COMPENSATIONS PAYMENTS  program organized by UNITED NATIONS/LONDON conference meeting compensation payment. However, after this compensations is paid, the country will decline any other report from you should you fall into the hands of this perpetrators again. Meanwhile, as for now everything seem to be working in your favour, all that we require from you now, is your maximum cooperation for smooth transfer of your money through our paying bank to you.\n\nWe are writing to inform you that we have finalised the release and transfer of your compensations of $2,000,000.00 (TWO MILLION UNITED STATE DOLLARS) In Ecobank Ghana LTD where the transfer will commence from, to your account but we wish to let you know of the final stage requirements as stated below:\n\nYour nationality................\noccupation..................\nAge..............................\nAddress................\nYour bank name..........\nBank account details......\nBank Address...............\nYour direct phone number.........\nCopy of your international passport or any other form of your identity.\n\nPreferrably, you can send the scanned copy of the receipt. Ensure you keep safe the receipt for documentation purpose and when demanded by the monitoring committee during cross-checking.\n\nNote that your funds is protected by a hardcover insurance policy closely monitored by the UN monitoring committee, which makes it impossible for us to deduct any amount from your compensations funds before it is remitted to you. This means that the above charges cannot be deducted from the compensations and hence must be provided by you before your transfer can be effected. Please respond to this email by making available the charge  above. \nAs soon as the above requirements are met and payments for COT (Cost Of Transfer) is paid, and the details of the payment received, your funds will reach you accordingly within 48hours.\n\nFind below the attached copies of the Documents already processed.With these documents you can be rest assured that the transaction is approved and legitimate.\n\nCONGRATULATIONS IN ADVANCE!!!\n\nHoping to hear from you soonest\n\nYours faithfully,\nMr. Eric Rich\nECOBANK/UNITED NATIONS 2012 COMPENSATIONS PAYMENTS DEPT.\n'
+p3493
+sS'First_name'
+p3494
+S'Eric'
+p3495
+sS'Last_name'
+p3496
+S'Rich'
+p3497
+sS'To'
+p3498
+NsS'Date'
+p3499
+S'Thu Mar 22 12:41:27 2012'
+p3500
+sS'Reply-To'
+p3501
+S'unitednationorganization21@yahoo.co.uk'
+p3502
+sS'Subject'
+p3503
+S'FROM THE UNTITED NATION COMPENSATION PAYMENT OFFICE LONDON, YOUR URGENT RESPONSE PLEASE !!!'
+p3504
+ssI259
+(dp3505
+S'Body'
+p3506
+S'\nGreetings From Tonia,\n\nHow are you and how is your work? i hope that all is well with you, My name is miss Tonia ,i know that you maybe-surprise how i get your email, i got your email today when i was browsing looking for honest partner,then i feel to drop this few line to you , and  i will like you to contact me through my email so that we can know each other and exchange our pictures, and we may-become partners.\n\n\nRemember the distance does not matter what matters is the love we share with each other.\n\n\ni am waiting  to hear from you soon.\n\n\n Regards Miss Tonia  \n'
+p3507
+sS'First_name'
+p3508
+S''
+sS'Last_name'
+p3509
+S'Tonia'
+p3510
+sS'To'
+p3511
+NsS'Date'
+p3512
+S'Thu Mar 22 12:41:40 2012'
+p3513
+sS'Reply-To'
+p3514
+S'toniamorgan10@yahoo.com'
+p3515
+sS'Subject'
+p3516
+S'HI'
+p3517
+ssI260
+(dp3518
+S'Body'
+p3519
+S'\nDear Friend\n\nI hope my e-mail meets you well. I am in need of your assistance. My name is John England of the\n\nEngineering Unit of US Military here in Baghdad in Iraq; we have about $30 Million US dollars that we want to move out of the country in three digital boxes. My partners and I need a good partner out there, someone we can trust to receive the funds on our behalf.\n\nIt is oil money and legal.\n\nWe have made arrangements with a Diplomatic Courier Service that will move the funds out of Iraq as a Family Treasures, also we have made arrangement to transfer the said fund through Bank of Baghdad depending on what you want, The most important thing is; Can\n\nWe Trust you once the funds get to you, simply take out 30% as your share and keep the remaining 70% for us. Your own part of this deal is to find a safe place where the funds can be sent to, ours is sending it to you safely.\n\nAlso you can view the Link\n\nhttp://news.bbc.co.uk/2/hi//2988455.stm\n\nIf you are interested I will furnish you with more Details upon receipt of your response and contact details. But I can assure you the whole process is simple and we must keep a low profile at all times.\n\nI look forward to your reply and co-operation.\n\nRegards,\n\nJohn England\n'
+p3520
+sS'First_name'
+p3521
+NsS'Last_name'
+p3522
+NsS'To'
+p3523
+NsS'Date'
+p3524
+S'Thu Mar 22 12:41:51 2012'
+p3525
+sS'Reply-To'
+p3526
+S'john1tengland@gmail.com'
+p3527
+sS'Subject'
+p3528
+S'=?utf-8?B?UGxlYXNlIEtpbmRseSB2aWV3IGF0dGFjaGVkIGRvY3VtZW50IGZvciBhIGJl?='
+p3529
+ssI261
+(dp3530
+S'Body'
+p3531
+S'\n\nDearest Beloved, \nGood day to you and.How is your health and family life going? hope this mail you are also  going to be reading is reaching you in good health condition, i am sorry to disturb your privacy at this moment, but i just found your email address now through my personal research from a email list. After finished reading your profile, and i felt deeply in my heart that you are that individual that i have been looking for and so i can contact you for a blessing that you are about to receive and also  share with people that need it ,my name is Mr. Ezra Nehemiah a  merchant from Dubai in the U.A.E. Living at the moment now in Ivory Coast in west Africa. I am 64 years old, never married, i  have no kids, i have been living all my life alone.I have been diagnosed with Esophageal cancer .It has defile all forms  of medical treatment, and right now I have only about a few months to  live, according to medical experts.I have not particularly lived my  life so well, as I never really cared for anyone (not even myself)but  my business. Though I am very rich, I was never Generous, I was always hostile to people and only focused on my business as that was  the only thing I cared for. But now I regret all this as I now know that there is more to life  than just wanting to have or make all the money in the world. I  believe when God gives me a second chance to come to this world I  would live my life a different way from how i have lived it. Now that  God has called me,I have willed and given most of my property and  assets to my immediate and extended family members as well as a few  close friends.I want God to be merciful to me and accept my soul so,I  have decided to give alms to charity organizations through your  assistance of capability as i can not take up this challenge due to  the down fall of my present health conditions, as I want this to be  one of the last good deeds I do on earth. I want to believe that you  will be capable of handling this task for me.I will wait to hear from  you to know if you are capable of doing this favor for me, God will  bless you as you decide to do this I will wait for your urgent  response. Please add my e-mail address to your contact to directly receive my mails and write-ups.Otherwise, they could be treated as spams.\nRegardsEzra Nehemiah\n'
+p3532
+sS'First_name'
+p3533
+S'Ezra'
+p3534
+sS'Last_name'
+p3535
+S'Nehemiah'
+p3536
+sS'To'
+p3537
+NsS'Date'
+p3538
+S'Thu Mar 22 12:42:00 2012'
+p3539
+sS'Reply-To'
+p3540
+S'whatismypetname@freemail.hu'
+p3541
+sS'Subject'
+p3542
+S'MY LAST WISH'
+p3543
+ssI262
+(dp3544
+S'Body'
+p3545
+S'\nDo you need a loan for any reason? contact us with amount needed\n'
+p3546
+sS'First_name'
+p3547
+NsS'Last_name'
+p3548
+NsS'To'
+p3549
+NsS'Date'
+p3550
+S'Thu Mar 22 12:42:15 2012'
+p3551
+sS'Reply-To'
+p3552
+S'diamondloanagency12@gmail.com'
+p3553
+sS'Subject'
+p3554
+S'Do you need a loan for any reason? contact us with amount needed'
+p3555
+ssI263
+(dp3556
+S'Body'
+p3557
+S'\n\nPlease be informed that You have $250,000.00 Lodged in our Western Union to transfer to you as Compensation.\n'
+p3558
+sS'First_name'
+p3559
+NsS'Last_name'
+p3560
+NsS'To'
+p3561
+NsS'Date'
+p3562
+S'Thu Mar 22 12:42:30 2012'
+p3563
+sS'Reply-To'
+p3564
+S'wumt.claimfs12@w.cn'
+p3565
+sS'Subject'
+p3566
+S'GREETINGS.'
+p3567
+ssI264
+(dp3568
+S'Body'
+p3569
+S'\nGood Day\n\nI am Mr. Vincent Cheng Hoi-Chuen. GBS, OBE, JP. Executive Director of\nHSBC Hong Kong Plc and also Chairman of the Hong Kong and Shanghai\nBanking Corporation Limited, i have a business proposal of  $10,000,000.00\n(Ten Million dollars)  only for you to transact with me from my bank to your country.\n\nAll confirmable documents to back up the claims will be made available\nto you prior to your acceptance and as soon as I receive your return mail\nVia my email address: v.cheng26@hotmail.com , i will let you know\nwhat is required of you.Your earliest response to this letter will be\nappreciated.\n\nBest Regards,\nMr.Vincent Cheng\n'
+p3570
+sS'First_name'
+p3571
+S'Vincent Cheng'
+p3572
+sS'Last_name'
+p3573
+S'Hoi-Chuen'
+p3574
+sS'To'
+p3575
+NsS'Date'
+p3576
+S'Thu Mar 22 12:42:35 2012'
+p3577
+sS'Reply-To'
+p3578
+S'v.cheng26@hotmail.com'
+p3579
+sS'Subject'
+p3580
+S'Urgency!!!'
+p3581
 ss.
