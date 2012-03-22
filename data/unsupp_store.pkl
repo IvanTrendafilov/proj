@@ -6711,4 +6711,34 @@ sS'Subject'
 p3334
 S'GREETINGS.'
 p3335
+ssI246
+(dp3336
+S'Body'
+p3337
+S"\n=20\nFROM HEADQUARTER OFFICE OF THE WESTERN UNION MONEY TRANSFER.\nHead Office: Address: 40 Basinghall St, Gipsy Hill SE19, London.\nUnited Kingdom.\n\n\n\n\n\n\nATTENTION CUSTOMER:\nI am in receipt of your mail.\n\nWe have been waiting for you to inform us when you want us to send you the =\nMoney Transfer Control Number (MTCN) of your Fifty Thousand British pound d=\neposited with us for transfer to you by Commonwealth Lottery Board. Your Em=\nail Address was the only information given to us by COMMONWEALTH for us to =\nhave the deposited funds transferred to you. I was informed that you are th=\ne beneficiary of the Lottery Proceeds.\n\nNote: You were selected as a winner of Commonwealth Lottery Jackpot and I p=\nersonally advise that you use the funds wisely. However, we need your infor=\nmation as stated below to commence the transaction due process:\n\n1. Receiver's Full Name:=20\n2. Receiver's Address:=20\n3. Receiver's Country:=20\n4. Receiver's Telephone Number:=20\n5. Receiver's Occupation:,=20\nwith the requested data we can commence the facilitation of your funds tran=\nsfer to you.\n\n\n\n\nBest regards.\n\nMr. Charlie Palmer=20\nFinance Director\nCELL NUMBER: +447035968163\nWESTERN UNION FORIGN OPERATION MANAGER.=20\n\n=20\nWestern Union Money Transfer =A9 2011 Western Union Money Transfer\n"
+p3338
+sS'First_name'
+p3339
+S'Charlie'
+p3340
+sS'Last_name'
+p3341
+S'Palmer'
+p3342
+sS'To'
+p3343
+S'daniel.palmer61@gmx.com'
+p3344
+sS'Date'
+p3345
+S'Wed Mar 21 15:53:08 2012'
+p3346
+sS'Reply-To'
+p3347
+S'charlie_palmer1@yahoo.com.hk'
+p3348
+sS'Subject'
+p3349
+S'Further Details of Your Funds'
+p3350
 ss.
