@@ -7204,4 +7204,30 @@ sS'Subject'
 p3580
 S'Urgency!!!'
 p3581
+ssI265
+(dp3582
+S'Body'
+p3583
+S'\nDear Ethan=2C\nYou are informed that your reference is valid for pay-out and you are requi=\nred to furnish your bank details to enable our payment financial institutio=\nn transfer your fund without delay.  I will submit your file for payment on=\nce the required information is complete for payment. Should you have any in=\nquiry [queries] or further clarifications=2C feel free to contact me for mo=\nre elaboration. Respectfully=2CMr. Allen LeslieClaim Consultant.+27 798-227=\n-053 =20\nNB: For security update!  Your payment notification/reference should be con=\nfidential until transfer is completed.\n\n\n-- --  =20\n\nLegal Disclaimer and Confidentiality=2C\nThis e-mail=2C its contents and any file attachment transmitted with it are=\n intended solely for the addressee(s) and may contain confidential propriet=\nary information.  Access by any other party without the express written per=\nmission of the sender is unauthorized. If you have received  this e-mail in=\n error you may not copy=2C distribute or use the contents=2C attachments or=\n information in any way. Please delete or contact sender. \t\t \t   \t\t   \t\t \t =\n  \t\t  =\n'
+p3584
+sS'First_name'
+p3585
+NsS'Last_name'
+p3586
+NsS'To'
+p3587
+S'ethanstokes51@yahoo.co.uk'
+p3588
+sS'Date'
+p3589
+S'Thu Mar 22 16:12:31 2012'
+p3590
+sS'Reply-To'
+p3591
+S'allenleslie@hotmail.co.za'
+p3592
+sS'Subject'
+p3593
+S'Congratulation!'
+p3594
 ss.
