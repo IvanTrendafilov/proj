@@ -7,7 +7,7 @@ from main import init
 import time
 def sendRequest(conv_store):
 	for key in conv_store:
-		if conv_store[key]['State'] == 'CLOSED':
+		if conv_store[key]['State'] == 'CLOSED' or key < 36:
 			continue;
 		identity_dict = getIdentityByID(conv_store[key]['Identity_ID'])
 		message = random.choice(['Hello', 'Hi'])
@@ -30,7 +30,10 @@ def sendRequest(conv_store):
 		for email_addr in bucket:
 			if email_addr not in getIdentityEmails():
 				mime_msg['To'] = email_addr
-		mime_msg['Subject'] = random.choice(['Hello',' ','Hi!',' ','Everything ok?'])
+		if conv_store[key]['Messages'][0]['Subject']:
+			mime_msg['Subject'] = "Re: " + conv_store[key]['Messages'][0]['Subject']
+		else:
+			mime_msg['Subject'] = "Re: "
 		server_addr = identity_dict['SMTP']
 		conn = SMTP_SSL(server_addr)
 		conn.set_debuglevel(True)
