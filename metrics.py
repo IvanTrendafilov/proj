@@ -1,6 +1,11 @@
 from __future__ import division
 from main import init
+from itertools import groupby as g
 import os
+def mode(L):
+	return max(g(sorted(L)), key=lambda(x, v):(len(list(v)),-L.index(x)))[0]
+
+
 a, b = init()
 count, sum, sum2, bounce = 0,0,0,0
 for i in b:
