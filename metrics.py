@@ -12,7 +12,7 @@ for i in b:
 	sum += len(b[i]['Messages'])
 
 print "Avg. thread length, inclusive of all", sum / len(b)
-print "Avg. thread length for exist. emails:", sum / (len(b) - bounce)
+print "Avg. thread length for exist. emails:", sum / (len(b) - bounce + 1)
 print "Avg. thread length for ans. msg:", sum2 / count
 print "Max thread length:", max([len(b[x]['Messages']) for x in b])
 print "Bounce rate:", (bounce - 1) / len(b) # -1 for the test message
