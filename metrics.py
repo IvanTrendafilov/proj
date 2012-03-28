@@ -2,9 +2,21 @@ from __future__ import division
 from main import init
 from itertools import groupby as g
 import os
+
 def mode(L):
 	return max(g(sorted(L)), key=lambda(x, v):(len(list(v)),-L.index(x)))[0]
 
+def show(thread=28):
+	a,b = init()
+	for m in b[thread]['Messages']:
+		print "Sender:", b[thread]['Messages'][m]['Sender']
+		print "Receiver:", b[thread]['Messages'][m]['Receiver']
+		print "Origin:", b[thread]['Messages'][m]['Origin']
+		print "Subject:", b[thread]['Messages'][m]['Subject']
+		print "\n"
+		print "Body:\n", b[thread]['Messages'][m]['Body']
+		a = raw_input()
+	return
 
 a, b = init()
 count, sum, sum2, bounce = 0,0,0,0
