@@ -52,7 +52,7 @@ def removeQuotes_safe(text):
 
 # STEP 1 - Clean up useless headers (Takes the message as a string)
 def cleanHeaders(text, full=False):
-	headers_file, headers = open('data/headers.txt', 'r'), []
+	headers_file, headers_write, headers = open('data/headers.txt', 'r'), open('data/headers.txt','w'), []
 	regexp = '(X)' + '(-)' + '((?:[a-z][a-z0-9_]*))' + '(-)' + '((?:[a-z][a-z0-9_]*))' + '(:)'
 	regexp = re.compile(regexp, re.IGNORECASE | re.DOTALL)
 	msg_lines = text.splitlines()
@@ -61,6 +61,7 @@ def cleanHeaders(text, full=False):
 		headers.append(h.strip())
 	for i in range(0, len(msg_lines)):
 		if regexp.findall(msg_lines[i]):
+#			headers_write(msg_lines[i])
 			maxh = i
 		for h in headers:
 			if h in msg_lines[i]:
