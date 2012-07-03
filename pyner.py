@@ -4,7 +4,7 @@ import re
 
 class Pyner(object):
 	def __init__(self):
-		self.cmd = 'java -mx700m -cp classifiers/crf.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier all.3class.distsim.crf.ser.gz -textFile '
+		self.cmd = 'java -mx700m -cp classifiers/crf.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier models/all.3class.distsim.crf.ser.gz -textFile '
 
 	def getNames(self, filename):
 		self.currentcmd = self.cmd + filename

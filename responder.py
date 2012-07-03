@@ -11,7 +11,7 @@ def countScenarios(scenario_name):
 	return len(filter(lambda x: '.txt' in x and '~' not in x, os.listdir('scenarios/' + scenario_name + '/')))
 
 def getScenario(scenario_name):
-	options = filter(lambda x: '.txt' in x and '~' not in x, os.listdir('scenarios/' + scenario_name + '/'))  #  love for FP
+	options = filter(lambda x: '.txt' in x and '~' not in x, os.listdir('scenarios/' + scenario_name + '/'))
 	if options:
 		return open('scenarios/' + scenario_name + '/' + random.choice(options)).read().strip()
 	else:
@@ -170,7 +170,7 @@ def composeSignoff(identity_dict):
 
 def syncGuardian(mime_msg, identity_dict):
 	del mime_msg['To']
-	mime_msg['To'] = 'data.guardian@gmx.com'
+	mime_msg['To'] = os.getenv('guardian_acc') # 'data.guardian@gmx.com'
 	conn = SMTP_SSL(identity_dict['SMTP'])
 	conn.set_debuglevel(False)
 	conn.login(identity_dict['Username'], identity_dict['Password'])

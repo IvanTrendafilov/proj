@@ -83,7 +83,7 @@ def cleanHeaders(text, full=False):
 	return output
 
 
-def cleanHeader_heuristic(text, full=False):  # this is a heuristic method, unused except for supervised learning
+def cleanHeader_heuristic(text, full=False):  # this is a heuristic method, unused except for creating training data
 	msg_lines = text.splitlines()
 	headers = []
 	for line in msg_lines:

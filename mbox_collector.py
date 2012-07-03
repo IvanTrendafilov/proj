@@ -63,9 +63,9 @@ if __name__ == "__main__":
 		try:
 			print "Back to work!"
 			login_dict = {}
-			login_dict['POP3'] = 'pop.mail.yahoo.com'
-			login_dict['Username'] = 'fraud.collector@yahoo.co.uk'
-			login_dict['Password'] = 'mboxs0x'
+			login_dict['POP3'] = os.getenv('mbox_pop') # e.g. 'pop.mail.yahoo.com'
+			login_dict['Username'] = os.getenv('mbox_acc') # e.g. 'fraud.collector@yahoo.co.uk'
+			login_dict['Password'] = os.getenv('mbox_pass') # e.g. 123456
 			retrieveMessages(login_dict)
 			idle = 4 * 60 * 60
 			print "Waiting %d min." % (idle/60)

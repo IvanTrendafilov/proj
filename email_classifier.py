@@ -1,28 +1,18 @@
 from pycla import Pycla
 import hashlib
-def overrides(text):  # rule-based overrides to the maxent classifier
+def overrides(text):  # Overrides. If email contains any of these phrases, we don't need to run the classifier.
 	if not text:
 		return None
 	text = text.lower()
 	if "next of kin" in text:
 		return "next_of_kin"
-	if "mystery" in text and "shop" in text:
-		return "mystery_shopper"
-	if "atm" in text and ("card" in text or "machine" in text):
-		return "atm_card"
 	if "western union" in text or "moneygram" in text:
 		return "western_union_and_moneygram"
-	if "lottery" in text or "winner" in text:
+	if "lottery" in text and "winner" in text:
 		return "lottery"
-	if "foundation" in text:
-		return "church_and_charity"
-	if "loan" in text:
-		return "loans"
-	if "parcel" in text or "package" in text or "courier" in text:
-		return "delivery_company"
 	return None
 
-def fallback(text):
+def fallback(text): # Fallbacks. If the classifier can't tell with confidence, let's just make a reasonable guess.
 	if not text:
 		return None
 	text = text.lower()
@@ -40,6 +30,14 @@ def fallback(text):
 		return "widow"
 	if "health" in text or "cancer" in text:
 		return "dying_people"
+	if "mystery" in text and "shop" in text:
+		return "mystery_shopper"
+	if "atm" in text and ("card" in text or "machine" in text):
+		return "atm_card"
+	if "foundation" in text:
+		return "church_and_charity"
+	if "loan" in text:
+		return "loans"
 	return None
 
 def classify(text):
@@ -69,7 +67,7 @@ def classify(text):
 			else:
 				failed.append(hashes[elem])
 		# Attempt fallback on low probability classifications
-		# Return None for unsuccessful. Better safe than spammy?
+		# Return None for unsuccessful.
 		for t in failed:
 			p_hash = hashlib.sha224(t).hexdigest()
 			batch[p_hash] = fallback(t)
