@@ -1,6 +1,6 @@
 ## Description
 
-A proof of concept autonomous conversational agent for my honours poject. 
+A proof of concept autonomous conversational agent for my honours project. 
 
 ## Requirements
 
@@ -28,6 +28,7 @@ To run this, your system has to satisfy the following requirements:
 * `/models` contain models for the MaxEnt and CRF classifiers
 * `/scenarios` the knowledge base of the agent
 * `/scripts` various quick-and-dirty scripts that I have had to write at some point. Not recommended for reuse. 
+* `.` contains the main components
 
 ## Main features
 
